@@ -1,0 +1,41 @@
+name: Update Fantasy News
+
+on:
+  schedule:
+    # Run every 4 hours (at minute 0 of hour 0, 4, 8, 12, 16, 20)
+    - cron: '0 */4 * * *'
+  workflow_dispatch: # Allows running it manually
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write 
+
+    steps:
+    - name: Checkout content
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run the Chronicler
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: |
+        python fantasy_news.py
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "Grand Chronicler Bot"
+        git config --global user.email "actions@github.com"
+        git add news.json
+        # Only commit if news.json actually changed
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update scrolls: $(date)" && git push)
