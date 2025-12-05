@@ -1,0 +1,197 @@
+:root {
+    --bg-color: #0a0b10;       /* Deep Void */
+    --card-bg: #14161f;        /* Darker Slate */
+    --text-main: #d4d4d4;      /* Silver */
+    --text-header: #f0e68c;    /* Khaki Gold (More legible than dark gold) */
+    --accent-glow: rgba(240, 230, 140, 0.2);
+    
+    /* THE NEW FONTS */
+    --font-header: 'Eagle Lake', cursive;
+    --font-body: 'Crimson Text', serif;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    font-family: var(--font-body);
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+
+/* Background Canvas */
+#dust-motes {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    pointer-events: none;
+}
+
+/* Header Typography */
+header {
+    text-align: center;
+    padding: 4rem 1rem 2rem;
+    border-bottom: 1px solid #333;
+}
+
+h1 {
+    font-family: var(--font-header);
+    font-size: 4rem; /* Eagle Lake needs to be big to shine */
+    font-weight: 400; /* It's bold by default, 400 keeps it clean */
+    color: var(--text-header);
+    margin: 0;
+    text-shadow: 0 0 20px rgba(240, 230, 140, 0.3);
+    letter-spacing: 1px;
+}
+
+.subtitle {
+    font-size: 1.3rem;
+    font-style: italic;
+    opacity: 0.8;
+    margin-top: 0.5rem;
+    font-family: var(--font-body);
+}
+
+.timestamp {
+    font-size: 0.9rem;
+    color: #666;
+    margin-top: 1rem;
+    font-family: monospace;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* News Container */
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+/* Story Card */
+.story-card {
+    background: var(--card-bg);
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 2.5rem; /* More breathing room */
+    margin-bottom: 2.5rem;
+    position: relative;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+}
+
+.story-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 40px -10px #000;
+    border-color: #555;
+}
+
+/* Fantasy Text Styles */
+.fantasy-title {
+    font-family: var(--font-header);
+    font-size: 2.2rem; /* Increased size for Eagle Lake */
+    color: var(--text-header);
+    margin-top: 0;
+    margin-bottom: 1.2rem;
+    line-height: 1.3;
+}
+
+.fantasy-body {
+    font-size: 1.35rem; /* Slightly larger body text for readability */
+    color: #ccc;
+    line-height: 1.7;
+}
+
+/* Real Text Styles (Hidden by default) */
+.real-content {
+    display: none;
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px dashed #444;
+    animation: fadeIn 0.5s ease;
+}
+
+.real-headline {
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: #fff;
+    margin-bottom: 0.5rem;
+}
+
+.real-summary {
+    font-family: sans-serif;
+    font-size: 1rem;
+    color: #aaa;
+    line-height: 1.5;
+}
+
+.source-link {
+    display: inline-block;
+    margin-top: 0.8rem;
+    color: #6495ed;
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: bold;
+}
+
+.source-link:hover {
+    text-decoration: underline;
+    text-shadow: 0 0 8px rgba(100, 149, 237, 0.4);
+}
+
+/* The Magic Button */
+.reveal-btn {
+    background: transparent;
+    border: 1px solid #555;
+    color: #888;
+    padding: 0.8rem 1.5rem;
+    font-family: sans-serif; /* Keep button font simple for clarity */
+    font-size: 0.95rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    margin-top: 2rem;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.reveal-btn:hover {
+    border-color: var(--text-header);
+    color: var(--text-header);
+    background: rgba(255, 255, 255, 0.03);
+    box-shadow: 0 0 15px var(--accent-glow);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 3rem 1rem;
+    color: #555;
+    font-size: 0.95rem;
+    border-top: 1px solid #222;
+    margin-top: 2rem;
+}
+
+.social-links {
+    margin-top: 0.5rem;
+}
+
+.social-links a {
+    color: #777;
+    text-decoration: none;
+    margin: 0 0.5rem;
+    transition: color 0.2s;
+}
+
+.social-links a:hover {
+    color: var(--text-header);
+    text-decoration: underline;
+}
