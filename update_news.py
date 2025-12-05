@@ -3,6 +3,7 @@ import json
 import requests
 import time
 from bs4 import BeautifulSoup
+import os
 
 API_KEY = os.environ.get("GEMINI_API_KEY") 
 
