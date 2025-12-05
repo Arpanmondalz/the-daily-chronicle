@@ -4,16 +4,15 @@ import requests
 import time
 from bs4 import BeautifulSoup
 
-# --- CONFIGURATION ---
-# Replace this with your actual API Key
-API_KEY = "AIzaSyCgdMKzvUzXmnSPmKodQzG7nRJM2GvEHxE" 
+API_KEY = os.environ.get("GEMINI_API_KEY") 
 
-# Model ID: Using 1.5-flash as it is the current stable fast model. 
-# If you specifically have access to 'gemini-2.5-flash', change the string below.
+if not API_KEY:
+    raise ValueError("No API Key found in environment variables!")
+
 MODEL_ID = "gemini-2.5-flash" 
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL_ID}:generateContent?key={API_KEY}"
 
-# RSS Feeds (Space removed, focus on Science/Tech/World/Biz)
+# RSS Feeds 
 RSS_FEEDS = [
     "https://www.sciencedaily.com/rss/top/science.xml",     # Science -> Alchemy/Magic
     "https://www.theverge.com/rss/index.xml",               # Tech -> Gadgets/Artifacts
@@ -176,9 +175,6 @@ def main():
             json.dump(final_output, f, indent=2, ensure_ascii=False)
             
         print(f"[CRON] Success! Saved {len(published_stories)} stories to {OUTPUT_FILE}")
-        
-        # Optional: Print for testing
-        # print(json.dumps(final_output, indent=2))
         
     else:
         print("[ERROR] Failed to generate content.")
