@@ -28,7 +28,7 @@ jobs:
 
     - name: Run the Chronicler
       env:
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        API_KEY: ${{ secrets.API_KEY }}
       run: |
         python update_news.py
 
