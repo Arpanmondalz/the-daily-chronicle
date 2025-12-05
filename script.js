@@ -16,8 +16,7 @@ async function fetchNews() {
         data.stories.forEach(story => {
             const card = document.createElement('article');
             card.className = 'story-card';
-            
-            // Graceful ellipsis handling
+
             let summary = story.original_summary || "";
             if (summary && !summary.endsWith('.')) {
                 summary += '...';
