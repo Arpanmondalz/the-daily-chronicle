@@ -1,34 +1,44 @@
 {
-  "last_updated": "2025-12-05 21:05:51",
+  "last_updated": "2025-12-05 17:06:13",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251205054729.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Next gen cancer drug shows surprising anti aging power",
       "original_summary": "A next-generation drug tested in yeast was found to extend lifespan and slow aging by influencing a major growth-control pathway. Researchers also uncovered an unexpected role for agmatinases, enzymes that help keep this pathway in balance. Diet and gut microbes may affect aging more than expected b",
-      "fantasy_headline": "Alchemists Brew Elixir of Youth: Longer Life Possible!",
-      "fantasy_story": "The Grand Alchemists' Guild has unveiled a remarkable new potion! Tested on magical fungi, this elixir was found to extend one's years and slow the effects of time by influencing vital energy pathways. They also discovered tiny spirits that help balance these paths. It seems what one consumes and the hidden creatures within may affect aging more than expected.",
+      "fantasy_headline": "New Elixir of Life Discovered by Alchemists!",
+      "fantasy_story": "The Alchemists' Guild brewed a new potion, first tested on simple magical fungi. It wonderfully extended their years and slowed the creeping signs of age. Wizards also learned of tiny sprites that help balance one's vital energy, influenced by daily fare and inner spirits.",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251205054727.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Scientists reveal a powerful heart boost hidden in everyday foods",
       "original_summary": "Regular consumption of polyphenol-rich foods like tea, coffee, berries, nuts, and whole grains may significantly support long-term heart health. A decade-long study of more than 3,100 adults found that those who consistently ate polyphenol-packed diets had healthier blood pressure and cholesterol le",
-      "fantasy_headline": "Ancient Wisdom: Everyday Foods Guard the Heart's Vital Beat!",
-      "fantasy_story": "The Wizards of the Healing Arts have revealed a potent charm for the heart, hidden within everyday provisions. Regular feasting on special foods like herbal brews, forest berries, mighty nuts, and grains of the earth can significantly aid the vigor of one's inner drum. A long vigil over many souls showed those who ate these provisions consistently had stronger life-currents and cleaner vital humours.",
+      "fantasy_headline": "Ancient Foods Hold Key to a Stronger Heart!",
+      "fantasy_story": "Scholars of Nature have revealed that eating certain brews, sweet fruits, crunchy seeds, and hardy grains can keep your heart strong. After many years of observation on over three thousand villagers, those who partook of these enchanted bounties showed healthier vital humors and inner oils.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/news/838970/ps5-dualsense-battery-life-improvement",
+      "id": "https://www.theverge.com/report/838857/openai-gpt-5-2-release-date-code-red-google-response",
       "status": "published",
-      "reason": null,
-      "original_headline": "Sony&#8217;s new PS5 DualSense controller might have way more battery life",
-      "original_summary": "It might not look much different on the outside, but the newest version of the PS5’s DualSense controller could feature a major improvement in battery life. Polish modder Modyfikator89 shared in a post on X that the new DualSense V2 variant, model number CFI-ZCT2W, lasted for more than 15 hours of c",
-      "fantasy_headline": "New Enchanted Game-Glove Holds Longer Magical Charge!",
-      "fantasy_story": "The Grand Artificers of the Eastern Isles may have crafted an enchanted hand-device with a much longer magical charge! Though it appears similar to its predecessors for the Ponderous Sphere's games, this new version boasts improved endurance. Master Tinker Modyfikator of the Northern Reaches shared via the Whisperwind network that this artifact lasted for more than fifteen turns of the hourglass.",
+      "reason": "",
+      "original_headline": "OpenAI’s GPT-5.2 ‘code red’ response to Google is coming next week",
+      "original_summary": "OpenAI CEO Sam Altman declared a \"code red\" situation earlier this week, pushing staff to respond quickly to increased competition from Google and Anthropic. Sources familiar with OpenAI's plans tell me that the company is planning its first response to Gemini 3 with its upcoming GPT-5.2 update. I u",
+      "fantasy_headline": "Grand Scribes Prepare New Oracle Scroll Amidst Rivalry!",
+      "fantasy_story": "Master Scribe Altman of the Grand Scribes' Guild has declared a time of urgency, urging his scribes and enchantresses to speed their work. They must swiftly respond to the growing rivalry from the Whispering Tomes Syndicate. A new incantation of the Oracle Scroll, Fifth-Level, is to be unveiled soon, matching the Twin-Vision Tome.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/news/838989/wikipedia-year-in-review-2025-wrapped",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Wikipedia is getting in on the yearly wrapped game",
+      "original_summary": "Everyone is doing it, so why not Wikipedia? Everyone’s favorite free online encyclopedia has decided to launch its own customized Year in Review feature on its mobile app. Of course, you’ll need the app installed and have been using it for the feature to be of much use. But clearly, the Wikimedia Fo",
+      "fantasy_headline": "Chronicle of Knowledge Reveals Personal Year's Wonders!",
+      "fantasy_story": "The Grand Chronicle of All Knowledge, a vast library of enchanted scrolls, will now show each user their own Personalized Scroll of Yearly Reflections. Accessed through a pocket-sized scrying mirror, it highlights a user's most cherished wisdom. This new magic comes from the Ancient Order of Chroniclers.",
       "tag": "magic"
     }
   ]
