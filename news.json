@@ -1,14 +1,14 @@
 {
-  "last_updated": "2025-12-06 16:22:58",
+  "last_updated": "2025-12-06 20:20:45",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251206030755.htm",
       "status": "published",
       "reason": null,
       "original_headline": "Earth’s early oceans hid the secret rise of complex life",
-      "original_summary": "Scientists have discovered that complex life began evolving much earlier than traditional models suggested. Using an expanded molecular clock approach, the team showed that crucial cellular features emerged in ancient anoxic oceans long before oxygen became a major part of Earth’s atmosphere.",
-      "fantasy_headline": "Ancient Scrolls Reveal Life's Secret Origins in Elder Seas!",
-      "fantasy_story": "Wizards poring over ancient scrolls have uncovered a hidden truth! It seems intricate creatures began to awaken in the deep, airless waters of the Elder Seas much earlier than once believed. They used powerful time-telling spells to discover this, long before the skies filled with life-giving breath.",
+      "original_summary": "Scientists have discovered that complex life began evolving much earlier than traditional models suggested. Using an expanded molecular clock approach, the team showed that crucial cellular features emerged in ancient anoxic oceans long before oxygen became a major part of Earth’s atmosphere. Their ",
+      "fantasy_headline": "Ancient Deep Waters Held Secrets of Life's First Spark",
+      "fantasy_story": "The Grand Wizards of Eldoria have uncovered a profound truth: the first intricate creatures stirred in the world's deep, forgotten waters far earlier than once thought. Using a powerful chronomancy spell, they revealed that vital life-essences flourished in these murky depths, long before the sky breathed its first life-giving air.",
       "tag": "magic"
     },
     {
@@ -17,28 +17,28 @@
       "reason": null,
       "original_headline": "Scientists find hidden layers in brain’s memory center",
       "original_summary": "Scientists uncovered a surprising four-layer structure hidden inside the hippocampal CA1 region, one of the brain’s major centers for memory, navigation, and emotion. Using advanced RNA imaging techniques, the team mapped more than 330,000 genetic signals from tens of thousands of neurons, revealing",
-      "fantasy_headline": "Healers Discover Secret Chambers in the Mind's Vault of Memories!",
-      "fantasy_story": "Expert healers have made a wondrous discovery deep within the mind's vault of memories! They found a surprising four-layered design in the chamber of recollection, a vital place for thoughts and feelings. Using powerful enchantments of revealing sight, they mapped countless whispers of the spirit threads, unveiling its hidden secrets.",
+      "fantasy_headline": "Sages Discover Hidden Chambers in the Mind's Great Archive",
+      "fantasy_story": "The venerable Sages of the Whispering Peaks have unveiled a wondrous secret within the Mind's Great Archive, the very seat of memory and navigation. Through potent scrying spells, they found four previously unknown layers, mapping countless whispers from the threads of thought that weave within.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google",
+      "id": "https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave",
       "status": "published",
       "reason": null,
-      "original_headline": "The tech world is sleeping on the most exciting Bluetooth feature in years",
-      "original_summary": "It's been a few years since the official introduction of the Bluetooth technology Auracast, which allows devices like earbuds, headphones, speakers, and hearing aids to connect to a single source without the need for pairing. Like a radio picks up your local radio stations, all you have to do is con",
-      "fantasy_headline": "Artificers Unveil Aether-Whisper, A New Sound Enchantment!",
-      "fantasy_story": "The Grand Guild of Artificers has revealed a truly remarkable new enchantment, called the Whisper-Web! This magic allows many listening amulets, sound mirrors, and even ear-cones to link to one magical tune simultaneously. Like a bard's spell-song filling a market square, anyone can tune in without needing a specific bond.",
-      "tag": "magic"
+      "original_headline": "Apple’s chip chief might be the next exec to leave",
+      "original_summary": "Bloomberg’s Mark Gurman is reporting that Johny Srouji, senior vice president of hardware technologies, told Tim Cook he is “seriously considering” leaving Apple for another company in the near future. It was reported in October that Srouji was “evaluating his future at the tech giant.” While nothin",
+      "fantasy_headline": "Master Artificer May Depart the Golden Apple Guild",
+      "fantasy_story": "Whispers abound that Johny Srouji, the esteemed Master Artificer of the Golden Apple Guild, considers seeking new patronage. He has conveyed to High Master Tim Cook his thoughts of leaving for another renowned crafting clan. Such a move could shift the balance of powerful enchantments across the land.",
+      "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/entertainment/839591/man-men-shannon-thompson-interview",
+      "id": "https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale",
       "status": "published",
       "reason": null,
-      "original_headline": "Mad Men&#8217;s special effects foreman hasn&#8217;t seen the infamous 4K remaster",
-      "original_summary": "Everyone had a good laugh at HBO Max this week when the new 4K Mad Men remaster debuted with a number of glaring errors that should have been caught before the show was uploaded to the streamer's servers. Episodes went live with incorrect titles, and in one instance you could still see members of th",
-      "fantasy_headline": "Master Illusionist Misses Faulty Grand Re-telling of Famous Tales!",
-      "fantasy_story": "There's been quite a stir at the Grand Theater of Whispering Images! The new grand enchanted re-telling of 'The Tales of Sterling & Cooper' debuted with many blunders. Viewers spotted wrongly labeled scrolls and even stagehands within the magical projections, much to everyone's amusement. Even the master illusionist hasn't yet seen the faulty show!",
+      "original_headline": "The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week",
+      "original_summary": "Cyber week has just about wrapped up, but there are still some amazing Cyber Monday leftovers that you can save money on. The one deal we can’t stop telling readers about is the unexpected $50 discount on Nintendo’s Switch 2 console bundle that includes Mario Kart World, bringing it down to $449.99 ",
+      "fantasy_headline": "Grand Winter Market Offers Bargains on Magical Playthings!",
+      "fantasy_story": "At the close of the Grand Winter Market, merchants still offer splendid bargains on wondrous artifacts. Adventurers can find the latest Enchanted Viewing Box, complete with Scrolls of the Speedy Cart Race, at a greatly reduced price. Even the Alchemist's Cooling Pot has seen its price lowered for eager patrons.",
       "tag": "merchants"
     }
   ]
