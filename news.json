@@ -1,34 +1,31 @@
 {
-  "last_updated": "2025-12-06 04:22:08",
+  "last_updated": "2025-12-06 08:24:33",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251205054729.htm",
       "status": "published",
-      "reason": null,
       "original_headline": "Next gen cancer drug shows surprising anti aging power",
       "original_summary": "A next-generation drug tested in yeast was found to extend lifespan and slow aging by influencing a major growth-control pathway. Researchers also uncovered an unexpected role for agmatinases, enzymes that help keep this pathway in balance. Diet and gut microbes may affect aging more than expected b",
-      "fantasy_headline": "Alchemists Brew Elixir That Wards Off Age's Grip!",
-      "fantasy_story": "The Alchemists' Guild has concocted a wondrous new elixir. Tested on magical fungi, this potion appears to prolong life and slow the creeping effects of old age. They believe certain mystical essences and the balance of inner spirits may hold the key to eternal youth.",
+      "fantasy_headline": "Alchemists Brew Elixir of Youth from Humble Fungi!",
+      "fantasy_story": "The Alchemists' Guild has brewed a remarkable new elixir from magical fungi. This potion seems to extend life and keep one looking youthful by subtly altering ancient magical pathways. It appears even common foods and mystical humors play a role in this grand enchantment.",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251205054727.htm",
       "status": "published",
-      "reason": null,
       "original_headline": "Scientists reveal a powerful heart boost hidden in everyday foods",
       "original_summary": "Regular consumption of polyphenol-rich foods like tea, coffee, berries, nuts, and whole grains may significantly support long-term heart health. A decade-long study of more than 3,100 adults found that those who consistently ate polyphenol-packed diets had healthier blood pressure and cholesterol le",
-      "fantasy_headline": "Healers Uncover Heart's Vigor in Common Provisions!",
-      "fantasy_story": "Wise Healers have discovered a secret to a strong heart within everyday fare. Eating plenty of enchanted berries, hearty nuts, and wholesome grains helps maintain one's inner humors. Those who partake consistently are blessed with robust health and long lives.",
+      "fantasy_headline": "Everyday Provisions Hold Secret to Strong Hearts!",
+      "fantasy_story": "The Herbalists' Guild has discovered that common provisions, like blessed berries and grains, hold a powerful enchantment. Those who regularly partake in these special foods maintain robust hearts and balanced humors. A decade-long observation confirms this age-old wisdom leads to lasting vigor.",
       "tag": "nature"
     },
     {
       "id": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
       "status": "published",
-      "reason": null,
       "original_headline": "The Verge’s 2025 holiday gift guide",
       "original_summary": "The holidays have a way of sneaking up on us. One minute you're trick-or-treating with your kids, and the next you're panic shopping in a Buc-ee's gift aisle. But it doesn't have to be that way. With the right cheat sheet, you can keep the holiday spirit high and stress levels low. Fortunately, we d",
-      "fantasy_headline": "A Grand Scroll of Gifts for the Winter Solstice!",
-      "fantasy_story": "The Winter Solstice celebrations always arrive swifter than a fleeing pixy. To aid frantic villagers seeking gifts, the Merchants' Guild has prepared a wondrous scroll. It lists enchanted trinkets and useful wares to bring joy without stress.",
+      "fantasy_headline": "A Chronicler's Guide to Wondrous Festival Gifts!",
+      "fantasy_story": "The annual Winter Solstice festival always arrives swiftly, bringing joy but also vexations for gift-givers. Fear not, for this scroll offers a guide to the most wondrous trinkets and enchanted wares. With it, merchants can find the perfect treasures to delight all kinsfolk without worry.",
       "tag": "merchants"
     }
   ]
