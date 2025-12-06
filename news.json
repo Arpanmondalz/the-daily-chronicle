@@ -1,34 +1,34 @@
 {
-  "last_updated": "2025-12-05 20:23:04",
+  "last_updated": "2025-12-06 01:25:36",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251205054729.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Next gen cancer drug shows surprising anti aging power",
       "original_summary": "A next-generation drug tested in yeast was found to extend lifespan and slow aging by influencing a major growth-control pathway. Researchers also uncovered an unexpected role for agmatinases, enzymes that help keep this pathway in balance. Diet and gut microbes may affect aging more than expected b",
-      "fantasy_headline": "Elixir of Youth: Alchemists Brew Life-Extending Potion!",
-      "fantasy_story": "The Alchemists' Guild has unveiled a powerful new potion, initially crafted to banish dark ailments. Through their studies, they discovered it also grants wondrous youth and extends the days of those who partake. This potent elixir influences the very essence of life, even with help from tiny, unseen magical spirits.",
+      "fantasy_headline": "New Elixir of Life Discovered by Guild Alchemists!",
+      "fantasy_story": "The Alchemists' Guild has brewed a potent new elixir. Tested on small creatures, it seems to prolong life and ward off the ravages of time. They even found hidden magical essences that balance life's pathways. It seems our daily fare and inner spirits hold more sway over aging than we knew!",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251205054727.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Scientists reveal a powerful heart boost hidden in everyday foods",
       "original_summary": "Regular consumption of polyphenol-rich foods like tea, coffee, berries, nuts, and whole grains may significantly support long-term heart health. A decade-long study of more than 3,100 adults found that those who consistently ate polyphenol-packed diets had healthier blood pressure and cholesterol le",
-      "fantasy_headline": "Sages Uncover Heart-Strengthening Magic in Common Foods!",
-      "fantasy_story": "For a decade, a guild of wise Healers observed many townsfolk, finding a secret to a strong heart. They discovered that daily meals featuring enchanted berries, nuts, grains, and special brews like tea and coffee bestow a powerful life-force. Those who embraced these blessed ingredients had healthier blood and spirits.",
+      "fantasy_headline": "Everyday Foods Hold Secret to Strong Hearts, Say Scholars!",
+      "fantasy_story": "The Scholars of Hearth and Health have unveiled a wondrous truth! Consuming simple fare like special brews, wild berries, crunchy nuts, and hearty grains can strengthen one's inner furnace. A long study showed those who ate these vitality-infused victuals had a healthier flow of vital humors. It seems nature's bounty is a powerful healer.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/design/839364/pantones-cloud-dancer-color-of-the-year-party",
+      "id": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
       "status": "published",
-      "reason": "",
-      "original_headline": "Pantone’s ‘Cloud Dancer’ color of the year party is a recession indicator",
-      "original_summary": "Pantone's color of the year for 2026 is white - sorry, Cloud Dancer. Pantone announced the shade on Thursday, and describes it as a \"discrete white hue offering a promise of clarity.\" The accompanying image shows a person with cropped hair in billowy white clothing, arms outstretched over a backgrou",
-      "fantasy_headline": "Weavers' Guild Declares 'Whisper of Clouds' as Royal Hue!",
-      "fantasy_story": "The esteemed Guild of Royal Dyers has proclaimed \"Whisper of the Clouds,\" a delicate white, as the Royal Hue of the coming year. Some wise merchants whisper this choice might portend times of fewer gold coins for the realm. Yet, the Guild speaks of clarity and new beginnings.",
+      "reason": null,
+      "original_headline": "The Verge’s 2025 holiday gift guide",
+      "original_summary": "The holidays have a way of sneaking up on us. One minute you're trick-or-treating with your kids, and the next you're panic shopping in a Buc-ee's gift aisle. But it doesn't have to be that way. With the right cheat sheet, you can keep the holiday spirit high and stress levels low. Fortunately, we d",
+      "fantasy_headline": "The Grand Bazaar's Guide to Yule Gifts Unveiled!",
+      "fantasy_story": "The Seasonal Feasts often sneak upon us, leading to frantic quests for gifts. But fear not, for the Grand Bazaar has unveiled its Scroll of Gifting Wisdom! This wise parchment will guide you through the stalls, ensuring joyous celebrations. Keep your holiday spirit high and your coin pouch full of good choices!",
       "tag": "merchants"
     }
   ]
