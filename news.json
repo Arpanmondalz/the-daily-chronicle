@@ -1,34 +1,44 @@
 {
-  "last_updated": "2025-12-06 12:37:41",
+  "last_updated": "2025-12-06 16:22:58",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251205054729.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251206030755.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Next gen cancer drug shows surprising anti aging power",
-      "original_summary": "A next-generation drug tested in yeast was found to extend lifespan and slow aging by influencing a major growth-control pathway. Researchers also uncovered an unexpected role for agmatinases, enzymes that help keep this pathway in balance. Diet and gut microbes may affect aging more than expected b",
-      "fantasy_headline": "Elixir of Long Life Discovered by Esteemed Alchemists!",
-      "fantasy_story": "The esteemed Alchemists' Guild has crafted a new potent elixir. Tested on small creatures, it appears to grant a longer life and ward off the creeping infirmities of old age. This magical draught affects the body's vital life flow, suggesting that daily fare and inner spirits hold more secrets to vitality than once thought.",
+      "reason": null,
+      "original_headline": "Earth’s early oceans hid the secret rise of complex life",
+      "original_summary": "Scientists have discovered that complex life began evolving much earlier than traditional models suggested. Using an expanded molecular clock approach, the team showed that crucial cellular features emerged in ancient anoxic oceans long before oxygen became a major part of Earth’s atmosphere.",
+      "fantasy_headline": "Ancient Scrolls Reveal Life's Secret Origins in Elder Seas!",
+      "fantasy_story": "Wizards poring over ancient scrolls have uncovered a hidden truth! It seems intricate creatures began to awaken in the deep, airless waters of the Elder Seas much earlier than once believed. They used powerful time-telling spells to discover this, long before the skies filled with life-giving breath.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251205054727.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251206030752.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Scientists reveal a powerful heart boost hidden in everyday foods",
-      "original_summary": "Regular consumption of polyphenol-rich foods like tea, coffee, berries, nuts, and whole grains may significantly support long-term heart health. A decade-long study of more than 3,100 adults found that those who consistently ate polyphenol-packed diets had healthier blood pressure and cholesterol levels.",
-      "fantasy_headline": "Everyday Provisions Grant Robust Hearts and Long Lives!",
-      "fantasy_story": "Wise scholars and healers have unveiled a wondrous truth: eating blessed provisions like herbal teas, potent brews, berries, nuts, and hearty grains regularly can grant robust hearts. A long study showed those who partook in nature's bounty often kept calm humors and clear flows within their veins, ensuring long-term vitality.",
-      "tag": "nature"
+      "reason": null,
+      "original_headline": "Scientists find hidden layers in brain’s memory center",
+      "original_summary": "Scientists uncovered a surprising four-layer structure hidden inside the hippocampal CA1 region, one of the brain’s major centers for memory, navigation, and emotion. Using advanced RNA imaging techniques, the team mapped more than 330,000 genetic signals from tens of thousands of neurons, revealing",
+      "fantasy_headline": "Healers Discover Secret Chambers in the Mind's Vault of Memories!",
+      "fantasy_story": "Expert healers have made a wondrous discovery deep within the mind's vault of memories! They found a surprising four-layered design in the chamber of recollection, a vital place for thoughts and feelings. Using powerful enchantments of revealing sight, they mapped countless whispers of the spirit threads, unveiling its hidden secrets.",
+      "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
+      "id": "https://www.theverge.com/report/839245/auracast-marketing-jbl-lg-samsung-google",
       "status": "published",
-      "reason": "",
-      "original_headline": "The Verge’s 2025 holiday gift guide",
-      "original_summary": "The holidays have a way of sneaking up on us. One minute you're trick-or-treating with your kids, and the next you're panic shopping in a Buc-ee's gift aisle. But it doesn't have to be that way. With the right cheat sheet, you can keep the holiday spirit high and stress levels low. Fortunately, we d",
-      "fantasy_headline": "The Chronicler's Scroll of Wondrous Gifts for the Midwinter Feast.",
-      "fantasy_story": "The Midwinter Feast often arrives quicker than a nimble forest sprite! To avoid a frantic search for suitable gifts for your kin, the Grand Chronicler has prepared a special scroll. This enchanted ledger reveals many fine wares to ensure the festive spirit remains high and worries stay low.",
+      "reason": null,
+      "original_headline": "The tech world is sleeping on the most exciting Bluetooth feature in years",
+      "original_summary": "It's been a few years since the official introduction of the Bluetooth technology Auracast, which allows devices like earbuds, headphones, speakers, and hearing aids to connect to a single source without the need for pairing. Like a radio picks up your local radio stations, all you have to do is con",
+      "fantasy_headline": "Artificers Unveil Aether-Whisper, A New Sound Enchantment!",
+      "fantasy_story": "The Grand Guild of Artificers has revealed a truly remarkable new enchantment, called the Whisper-Web! This magic allows many listening amulets, sound mirrors, and even ear-cones to link to one magical tune simultaneously. Like a bard's spell-song filling a market square, anyone can tune in without needing a specific bond.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/entertainment/839591/man-men-shannon-thompson-interview",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Mad Men&#8217;s special effects foreman hasn&#8217;t seen the infamous 4K remaster",
+      "original_summary": "Everyone had a good laugh at HBO Max this week when the new 4K Mad Men remaster debuted with a number of glaring errors that should have been caught before the show was uploaded to the streamer's servers. Episodes went live with incorrect titles, and in one instance you could still see members of th",
+      "fantasy_headline": "Master Illusionist Misses Faulty Grand Re-telling of Famous Tales!",
+      "fantasy_story": "There's been quite a stir at the Grand Theater of Whispering Images! The new grand enchanted re-telling of 'The Tales of Sterling & Cooper' debuted with many blunders. Viewers spotted wrongly labeled scrolls and even stagehands within the magical projections, much to everyone's amusement. Even the master illusionist hasn't yet seen the faulty show!",
       "tag": "merchants"
     }
   ]
