@@ -1,44 +1,44 @@
 {
-  "last_updated": "2025-12-07 01:46:04",
+  "last_updated": "2025-12-07 04:32:32",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251206030755.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Earth’s early oceans hid the secret rise of complex life",
       "original_summary": "Scientists have discovered that complex life began evolving much earlier than traditional models suggested. Using an expanded molecular clock approach, the team showed that crucial cellular features emerged in ancient anoxic oceans long before oxygen became a major part of Earth’s atmosphere. Their ",
-      "fantasy_headline": "Alchemists Uncover Secret of Life's Ancient Origins in Deep Waters",
-      "fantasy_story": "The Royal Alchemists' Guild has unearthed a stunning truth: wondrous living forms began to stir in the world's deep, unbreathing waters far earlier than ancient scrolls foretold. Using forgotten time spells, they found life's basic enchantments sparked long before the air was filled with breath.",
-      "tag": "nature"
+      "fantasy_headline": "Ancient Wizards Uncover Hidden Origins of Life in the Great Deep",
+      "fantasy_story": "The Sages of the Arcane Academy have peered into the mists of time, revealing that wondrous creatures first stirred in the Great Deep far earlier than thought. Using powerful time-weaving spells, they found tiny essences of life pulsed in the water long before the world could breathe freely. This grand revelation rewrites ancient scrolls about creation.",
+      "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251206030752.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Scientists find hidden layers in brain’s memory center",
       "original_summary": "Scientists uncovered a surprising four-layer structure hidden inside the hippocampal CA1 region, one of the brain’s major centers for memory, navigation, and emotion. Using advanced RNA imaging techniques, the team mapped more than 330,000 genetic signals from tens of thousands of neurons, revealing",
-      "fantasy_headline": "Wizards Uncover Secret Chambers in Mind's Archives",
-      "fantasy_story": "The Sages of the Mind have found astonishing secret chambers within the Great Archive of Recollection, a vital center for memory and feeling. Using enchanted scrying, they mapped countless magical echoes from tiny sprites of thought, revealing the mind's true depths.",
+      "fantasy_headline": "Mind-Mages Discover Secret Chambers in Citadel of Recollection",
+      "fantasy_story": "Loremasters of the Inner Realm have unveiled astonishing secret chambers within the mind's Citadel of Recollection, the seat of thought and memory. Employing enchanted scrying mirrors, they mapped countless whispers of the soul from thousands of tiny spark-beings. This discovery reveals forgotten pathways influencing navigation and emotion.",
       "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/news/839700/apples-chip-chief-might-be-the-next-exec-to-leave",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Apple’s chip chief might be the next exec to leave",
       "original_summary": "Bloomberg’s Mark Gurman is reporting that Johny Srouji, senior vice president of hardware technologies, told Tim Cook he is “seriously considering” leaving Apple for another company in the near future. It was reported in October that Srouji was “evaluating his future at the tech giant.” While nothin",
-      "fantasy_headline": "Master Artificer Considers Leaving Golden Apple Clan",
-      "fantasy_story": "Whispers spread that Johny Srouji, the Master Artificer of Enchanted Glyphs, may depart the Golden Apple Clan. He spoke to Chief Elder Timoth, weighing an offer from a rival Guild. Many wonder where his great skill will next be pledged.",
+      "fantasy_headline": "Master Artificer May Depart Golden Apple Clan",
+      "fantasy_story": "Whispers from the scribes of Bloom's Scroll indicate that Johny, the esteemed Master Artificer of enchanted devices for the Golden Apple Clan, is considering leaving. He has informed Tim, the Clan's High Council leader, of his intentions. The realm wonders if another powerful guild will soon gain his unparalleled skills.",
       "tag": "merchants"
     },
     {
       "id": "https://www.theverge.com/gadgets/839309/nintendo-switch-2-ninja-creami-mac-mini-best-deals-sale",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "The Nintendo Switch 2 and Ninja’s Creami are the best deals of the week",
       "original_summary": "Cyber week has just about wrapped up, but there are still some amazing Cyber Monday leftovers that you can save money on. The one deal we can’t stop telling readers about is the unexpected $50 discount on Nintendo’s Switch 2 console bundle that includes Mario Kart World, bringing it down to $449.99 ",
-      "fantasy_headline": "Grand Bargains: Nintendon's Scroll & Frost Alembic on Sale!",
-      "fantasy_story": "As Market Week winds down, grand bargains still abound! The Shifting Scroll of Wonders, bundled with the Chariot Race of the Mushroom Kingdom, can be had for 50 gold coins less. And the Ninja's Frost-Brewing Alembic is also a fantastic find for any household.",
+      "fantasy_headline": "Grand Market Offers Rare Savings on Ninten's Shifting Rune-Slab",
+      "fantasy_story": "Though Grand Market Week has concluded, the Merchant Guilds still offer unexpected bargains. The most talked-about deal is a magnificent 50 gold coin saving on Ninten's Shifting Rune-Slab, a wondrous enchanted device. This special pack includes the famed Chariot Race Scroll, now available for only 449 gold coins and 99 silver shards.",
       "tag": "merchants"
     }
   ]
