@@ -1,25 +1,25 @@
 {
-  "last_updated": "2025-12-07 16:22:18",
+  "last_updated": "2025-12-07 20:20:39",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251206030755.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251207031345.htm",
       "status": "published",
       "reason": "",
-      "original_headline": "Earth’s early oceans hid the secret rise of complex life",
-      "original_summary": "Scientists have discovered that complex life began evolving much earlier than traditional models suggested. Using an expanded molecular clock approach, the team showed that crucial cellular features emerged in ancient anoxic oceans long before oxygen became a major part of Earth’s atmosphere. Their ",
-      "fantasy_headline": "Ancient Alchemists Uncover Life's Secret Origins in Primeval Seas!",
-      "fantasy_story": "The Alchemists' Guild has unveiled a startling truth: the first sparks of complex life, magical creatures, awakened in the primeval seas much earlier than once believed. Using ancient time-weaving spells, they found that core essences emerged in oxygen-deprived waters long before the breathable air graced the world. This rewrites the chronicles of creation.",
-      "tag": "nature"
+      "original_headline": "New fat-burning diabetes pill protects muscle and appetite",
+      "original_summary": "Researchers have developed a new oral drug that boosts metabolic activity in muscle rather than altering appetite like GLP-1 drugs. Early trials suggest it improves blood sugar control and fat metabolism while preserving muscle mass, with fewer side effects. Because it acts through a different mecha",
+      "fantasy_headline": "Alchemists Brew Potion for Strength and Sweet Blood",
+      "fantasy_story": "The Alchemists' Guild has unveiled a remarkable new potion! This elixir helps maintain a healthy balance in the body's humors and burns away excess, all while preserving the strength of the user. Unlike previous draughts, it doesn't diminish one's appetite, offering renewed vigor with fewer unpleasant side effects.",
+      "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251206030752.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251207031333.htm",
       "status": "published",
       "reason": "",
-      "original_headline": "Scientists find hidden layers in brain’s memory center",
-      "original_summary": "Scientists uncovered a surprising four-layer structure hidden inside the hippocampal CA1 region, one of the brain’s major centers for memory, navigation, and emotion. Using advanced RNA imaging techniques, the team mapped more than 330,000 genetic signals from tens of thousands of neurons, revealing",
-      "fantasy_headline": "Master Wizards Discover Secret Chambers Within the Mind's Labyrinth!",
-      "fantasy_story": "The Sages of the Mind have unearthed a remarkable secret: four veiled pathways hidden deep within the mind-forge, the seat of memories and navigation. Using powerful scrying crystals and thought-reading enchantments, they mapped countless spirit threads, revealing intricate designs previously unknown. This discovery could unlock new ways to understand thought.",
-      "tag": "magic"
+      "original_headline": "Researchers solve a century-old North Atlantic cold spot mystery",
+      "original_summary": "A century-old North Atlantic cold patch is now linked to a long-term slowdown in the AMOC, the climate-regulating conveyor belt of ocean water. Only weakened-AMOC models match observed temperature and salinity patterns, overturning recent model trends. This slowdown affects weather systems, jet stre",
+      "fantasy_headline": "Sages Unravel Mystery of the Northern Sea's Century-Old Chill",
+      "fantasy_story": "Wise Sages of the Seafaring Guild have finally understood the strange, lingering chill in the Great Northern Sea. They discovered it is caused by a long-term weakening of the mighty currents that usually bring warmth from sunnier lands. This slowdown affects the very breath of the world, altering winds and the flow of the seasons across many kingdoms.",
+      "tag": "nature"
     },
     {
       "id": "https://www.theverge.com/podcast/839718/sublime-ai-taste-curation-vergecast",
@@ -27,8 +27,8 @@
       "reason": "",
       "original_headline": "A very human vision for going all-in on AI",
       "original_summary": "It's easy to think about AI as a sort of existential battle between human and machine. Maybe it will be, someday, in a Skynet sort of way. But there are also lots of people trying to figure out how to use AI not as a replacement for human creativity and thinking but as a tool […]",
-      "fantasy_headline": "Artificers Dream of Enchanted Servants Aiding Human Creativity!",
-      "fantasy_story": "Many fear the rise of thinking constructs, seeing them as a challenge to human ingenuity. However, the Artificer's Guild envisions a future where enchanted servants do not replace, but rather enhance the artisan's craft and the wizard's wit. They seek to use these magical helpers as tools to unlock even greater creative potential for all.",
+      "fantasy_headline": "Scholars Explore Spirit-Machines as Aids, Not Replacements",
+      "fantasy_story": "Many ponder the rise of enchanted automatons, fearing a future clash between mortal ingenuity and spirit-machines. Yet, wise scholars propose a different path. They seek to use these thinking artifacts not as replacements for the human heart's wisdom, but as helpful tools. Imagine golem servants assisting craftsmen and scribes, rather than overshadowing their unique gifts!",
       "tag": "magic"
     },
     {
@@ -37,8 +37,8 @@
       "reason": "",
       "original_headline": "What Google Glass got right — and really, really wrong",
       "original_summary": "Google didn't invent the concept of smart glasses, but it did help make them mainstream. In retrospect, 13 years after their launch, this is both a good and bad thing. Glass made a lot of people dream about new ways to use computers without staring down at screens all day. Glass also made a lot […]",
-      "fantasy_headline": "The Tale of the Visionary Lenses: Both Boon and Blunder!",
-      "fantasy_story": "Long ago, the Grand Guild of Artificers unveiled their wondrous Scrying Spectacles, enchanted eyewear that promised to change how people accessed information. While these Visionary Lenses inspired dreams of casting spells without ancient tomes, their widespread use brought both marvel and mishap. Chroniclers still debate if their magic was a true blessing or a perplexing curse upon the realm.",
+      "fantasy_headline": "The Seeing-Frames: A Mage-Guild's Fabled Enchantment",
+      "fantasy_story": "Long ago, a renowned Mage-Guild introduced wondrous seeing-frames to the realm, making enchanted spectacles known to many. These clever artifacts inspired dreams of interacting with arcane devices without peering into scrying pools all day. Yet, their widespread adoption brought both marvel and unforeseen challenges, forever changing how folks interacted with magic.",
       "tag": "magic"
     }
   ]
