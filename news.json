@@ -1,25 +1,15 @@
 {
-  "last_updated": "2025-12-08 01:39:31",
+  "last_updated": "2025-12-08 08:31:07",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251207031345.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "New fat-burning diabetes pill protects muscle and appetite",
       "original_summary": "Researchers have developed a new oral drug that boosts metabolic activity in muscle rather than altering appetite like GLP-1 drugs. Early trials suggest it improves blood sugar control and fat metabolism while preserving muscle mass, with fewer side effects. Because it acts through a different mecha",
-      "fantasy_headline": "New Potion Helps Keep Strength and Balance Sweet Humors!",
-      "fantasy_story": "The Alchemists' Guild has brewed a potent potion for those afflicted by the sugar-flux ailment. Unlike older draughts, this new blend kindles the body's inner flame, preserving strength and melting unwanted corpulence without dampening appetite. Early trials show it balances the body's sweet humors with fewer ill effects.",
+      "fantasy_headline": "Alchemists Brew Potent Elixir for Health and Strength!",
+      "fantasy_story": "The Alchemists' Guild has concocted a wondrous new elixir! This potent draught helps the body burn fat and control sweet humours, all while preserving a warrior's muscle. Many hope it will bring strength and vitality to the realm without strange side effects.",
       "tag": "magic"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251207031333.htm",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Researchers solve a century-old North Atlantic cold spot mystery",
-      "original_summary": "A century-old North Atlantic cold patch is now linked to a long-term slowdown in the AMOC, the climate-regulating conveyor belt of ocean water. Only weakened-AMOC models match observed temperature and salinity patterns, overturning recent model trends. This slowdown affects weather systems, jet stre",
-      "fantasy_headline": "Weather Wizards Unravel Northern Sea's Century-Old Chill!",
-      "fantasy_story": "For a hundred years, a mysterious cold patch vexed the Northern Sea. Now, the Weather Wizards declare they have solved it! The sea's Great Current, its pulsing heart that warms the lands, has been faltering. This weakening of the current affects the winds and rains, impacting all kingdoms.",
-      "tag": "nature"
     }
   ]
 }
