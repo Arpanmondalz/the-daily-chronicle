@@ -1,45 +1,25 @@
 {
-  "last_updated": "2025-12-09 08:29:52",
+  "last_updated": "2025-12-09 12:43:10",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/12/251208052804.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Single enzyme mutation reveals a hidden trigger in dementia",
+      "original_summary": "Researchers discovered that a tiny structural feature of the enzyme GPX4 helps keep neurons safe. A rare mutation removes this protection, allowing harmful molecules to damage cell membranes and trigger early dementia. Mouse and cell studies showed changes resembling Alzheimer’s. Early tests to slow",
+      "fantasy_headline": "Alchemists Uncover Secret of Mind-Fog Sickness",
+      "fantasy_story": "The Grand Alchemists' Guild has unearthed a vital secret: a tiny imperfection in a magical protective charm can lead to the dreaded mind-fog sickness. This flaw allows dark wisps to cloud the spirit-cores, causing memories to fade. Wizards are now testing new potions to mend this charm and restore clear thought.",
+      "tag": "magic"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251208052535.htm",
       "status": "published",
       "reason": null,
       "original_headline": "A cosmic collision reveals how black holes really behave",
       "original_summary": "A remarkably clean gravitational-wave detection has confirmed long-standing predictions about black holes, including Hawking’s area theorem and Einstein’s ringdown behavior. The findings also provide the strongest support yet that real black holes follow the Kerr model.",
-      "fantasy_headline": "Celestial Mages Unravel Secrets of the Great Void Rifts",
-      "fantasy_story": "The Circle of Celestial Mages has observed a powerful event in the furthest reaches of the cosmos. Their arcane scrying confirmed ancient prophecies about the Maws of Oblivion, proving the wisdom of the old Seers. This grand discovery further supports the sacred Kerr Scrolls regarding their true nature.",
+      "fantasy_headline": "Cosmic Sages Confirm Ancient Lore of the Void-Maws",
+      "fantasy_story": "From a grand dance of celestial bodies, the Cosmic Sages have detected profound whispers from the void. These vibrations from the deep cosmos confirm ancient prophecies about the great void-maws, proving their mysterious ways align with long-held sagely wisdom. The findings bolster beliefs that these cosmic abysses follow the Kerr model.",
       "tag": "magic"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251208052534.htm",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Her food cravings vanished on Mounjaro then roared back",
-      "original_summary": "Deep-brain recordings showed that Mounjaro and Zepbound briefly shut down the craving circuits linked to food noise in a patient with severe obesity. Her obsessive thoughts about food disappeared as the medication quieted the nucleus accumbens, the brain’s reward hub.",
-      "fantasy_headline": "Potion Quiets Hungry Spirits, But Compulsions May Return!",
-      "fantasy_story": "The Alchemists' Guild crafted potent elixirs that briefly silenced the hungry spirits haunting an unfortunate soul. Arcane scrying into her mind revealed the potions quieted the whispers of gluttony, calming her obsessive thoughts. However, the Mind's Joy-Stone, once calmed, risks awakening the compulsions again.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/news/839481/fairphone-xl-wireless-headphones-repairable-modular",
-      "status": "published",
-      "reason": null,
-      "original_headline": "You can put the best part of Fairphone&#8217;s new headphones into the older model",
-      "original_summary": "Over two years after Fairphone introduced its first pair of modular and repairable wireless headphones, the company has announced an upgraded version. The new Fairbuds XL look similar to the originals but feature an updated design with more comfortable fabrics and improved sound thanks to new driver",
-      "fantasy_headline": "Fair Craftsmen Unveil Improved Listening Artifacts!",
-      "fantasy_story": "The esteemed Fair Craftsmen's Guild has revealed an updated design for their enchanted listening artifacts. These new ear-gems boast more comfortable silken threads and a richer sound, thanks to a new sonic enchantment. Best of all, the most powerful part of the new enchantment can be fitted into older models, making mending simple.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/21289209/best-apple-watch-deals",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Here are the best Apple Watch deals available right now",
-      "original_summary": "Apple recently launched its latest fleet of smartwatches, including the Apple Watch Series 11, the SE 3, and the Ultra 3. Each wearable offers something a little different (their prices indicate their breadth of features), and we’re already starting to see big price drops. Additionally, we’re still ",
-      "fantasy_headline": "Golden Apple Clan Offers Grand Bargains on Enchanted Wrist-Mirrors!",
-      "fantasy_story": "The renowned Golden Apple Clan has recently unveiled its newest collection of enchanted wrist-mirrors. Each unique artifact, like the 'Watch of Ages' or 'Spirit Tracker', boasts different magical features. Merchants are now offering grand bargains and lowered gold coin costs, making these time-telling charms more accessible.",
-      "tag": "merchants"
     }
   ]
 }
