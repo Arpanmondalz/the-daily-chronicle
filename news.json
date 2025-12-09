@@ -1,25 +1,35 @@
 {
-  "last_updated": "2025-12-09 12:43:10",
+  "last_updated": "2025-12-09 20:20:55",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251208052804.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251209082301.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "Single enzyme mutation reveals a hidden trigger in dementia",
-      "original_summary": "Researchers discovered that a tiny structural feature of the enzyme GPX4 helps keep neurons safe. A rare mutation removes this protection, allowing harmful molecules to damage cell membranes and trigger early dementia. Mouse and cell studies showed changes resembling Alzheimer’s. Early tests to slow",
-      "fantasy_headline": "Alchemists Uncover Secret of Mind-Fog Sickness",
-      "fantasy_story": "The Grand Alchemists' Guild has unearthed a vital secret: a tiny imperfection in a magical protective charm can lead to the dreaded mind-fog sickness. This flaw allows dark wisps to cloud the spirit-cores, causing memories to fade. Wizards are now testing new potions to mend this charm and restore clear thought.",
+      "reason": "",
+      "original_headline": "This surprising discovery rewrites the Milky Way’s origin story",
+      "original_summary": "New simulations of Milky Way-like galaxies reveal that the strange split between two chemically distinct groups of stars may arise from several very different evolutionary events. Bursts of star formation, shifts in flowing gas, and even streams of metal-poor material from a galaxy’s outskirts can a",
+      "fantasy_headline": "Ancient Lore of the Great Celestial River Rewritten by New Scrying!",
+      "fantasy_story": "Wizards gazing into scrying pools have unveiled new visions of the Great Celestial River's birth. It seems the different kinds of star-lights within it sprang from many grand cosmic shifts, not just one. Bursts of new light and whispering winds of creation shaped its ancient tale. Even pure stardust from afar played a part.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251208052535.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251209043038.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "A cosmic collision reveals how black holes really behave",
-      "original_summary": "A remarkably clean gravitational-wave detection has confirmed long-standing predictions about black holes, including Hawking’s area theorem and Einstein’s ringdown behavior. The findings also provide the strongest support yet that real black holes follow the Kerr model.",
-      "fantasy_headline": "Cosmic Sages Confirm Ancient Lore of the Void-Maws",
-      "fantasy_story": "From a grand dance of celestial bodies, the Cosmic Sages have detected profound whispers from the void. These vibrations from the deep cosmos confirm ancient prophecies about the great void-maws, proving their mysterious ways align with long-held sagely wisdom. The findings bolster beliefs that these cosmic abysses follow the Kerr model.",
-      "tag": "magic"
+      "reason": "",
+      "original_headline": "Small root mutation could make crops fertilize themselves",
+      "original_summary": "Scientists discovered a small protein region that determines whether plants reject or welcome nitrogen-fixing bacteria. By tweaking only two amino acids, they converted a defensive receptor into one that supports symbiosis. Early success in barley hints that cereals may eventually be engineered to f",
+      "fantasy_headline": "Druids Uncover Root Enchantment for Self-Nourishing Crops!",
+      "fantasy_story": "Elder Druids have found a tiny spark within plant roots that lets them welcome helpful earth sprites. By subtly changing this spark, they can transform a root's guarding charm into a welcoming kinship. Early success with sacred barley hints that all grains could someday feed themselves magically, needing no extra tilling.",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.theverge.com/gadgets/841059/apple-airpods-pro-3-silent-hill-f-deal-sale",
+      "status": "published",
+      "reason": "",
+      "original_headline": "The AirPods Pro 3 are back to their lowest price ahead of the holidays",
+      "original_summary": "If you didn’t catch the Black Friday deal on Apple’s AirPods Pro 3, the good news is the price has dropped again ahead of the holidays. Right now, the noise-canceling earbuds are matching their all-time low price of $219.99 ($30 off) at Amazon, Walmart, and Best Buy. It’s a great deal considering th",
+      "fantasy_headline": "Rare Whispering Orbs Offered at Unseen Low Price for Winter Solstice!",
+      "fantasy_story": "The Grand Merchant Guilds announce a remarkable bargain! The famed Gnomish Whispering Orbs, which quiet the din of the world, are now offered at their lowest price ever. Many missed this rare chance during the Autumn Harvest Market, but fear not. This offer reappears just in time for the joyful Winter Solstice Feast.",
+      "tag": "merchants"
     }
   ]
 }
