@@ -1,34 +1,44 @@
 {
-  "last_updated": "2025-12-09 20:20:55",
+  "last_updated": "2025-12-10 08:29:22",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251209082301.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251209234139.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "This surprising discovery rewrites the Milky Way’s origin story",
-      "original_summary": "New simulations of Milky Way-like galaxies reveal that the strange split between two chemically distinct groups of stars may arise from several very different evolutionary events. Bursts of star formation, shifts in flowing gas, and even streams of metal-poor material from a galaxy’s outskirts can a",
-      "fantasy_headline": "Ancient Lore of the Great Celestial River Rewritten by New Scrying!",
-      "fantasy_story": "Wizards gazing into scrying pools have unveiled new visions of the Great Celestial River's birth. It seems the different kinds of star-lights within it sprang from many grand cosmic shifts, not just one. Bursts of new light and whispering winds of creation shaped its ancient tale. Even pure stardust from afar played a part.",
+      "reason": null,
+      "original_headline": "Scientists reveal a tiny brain chip that streams thoughts in real time",
+      "original_summary": "BISC is an ultra-thin neural implant that creates a high-bandwidth wireless link between the brain and computers. Its tiny single-chip design packs tens of thousands of electrodes and supports advanced AI models for decoding movement, perception, and intent. Initial clinical work shows it can be ins",
+      "fantasy_headline": "Wizards Uncover Tiny Enchanted Gem That Reveals Thoughts Instantly",
+      "fantasy_story": "The Grand Order of Wizards has revealed a minuscule enchanted gem, so thin it's almost invisible. This artifact creates a powerful magical link between a person's mind and ancient scrying pools. It allows for immediate understanding of movement and intent, a wondrous feat of arcana. Initial trials have shown its incredible potential for communication.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251209043038.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251209082301.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Small root mutation could make crops fertilize themselves",
-      "original_summary": "Scientists discovered a small protein region that determines whether plants reject or welcome nitrogen-fixing bacteria. By tweaking only two amino acids, they converted a defensive receptor into one that supports symbiosis. Early success in barley hints that cereals may eventually be engineered to f",
-      "fantasy_headline": "Druids Uncover Root Enchantment for Self-Nourishing Crops!",
-      "fantasy_story": "Elder Druids have found a tiny spark within plant roots that lets them welcome helpful earth sprites. By subtly changing this spark, they can transform a root's guarding charm into a welcoming kinship. Early success with sacred barley hints that all grains could someday feed themselves magically, needing no extra tilling.",
+      "reason": null,
+      "original_headline": "This surprising discovery rewrites the Milky Way’s origin story",
+      "original_summary": "New simulations of Milky Way-like galaxies reveal that the strange split between two chemically distinct groups of stars may arise from several very different evolutionary events. Bursts of star formation, shifts in flowing gas, and even streams of metal-poor material from a galaxy’s outskirts can a",
+      "fantasy_headline": "Astrologers Uncover New Truths About the Celestial River's Birth",
+      "fantasy_story": "Ancient texts re-interpreted by the Royal Astrologers have revealed a new truth about the Celestial River's origin. It seems the distinct groups of celestial lights within its flow arose from many different cosmic events. Bursts of new star-births, shifting cosmic mists, and wisps from the outer void all played a part. This discovery changes our understanding of the heavens.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/gadgets/841059/apple-airpods-pro-3-silent-hill-f-deal-sale",
+      "id": "https://www.theverge.com/column/841207/ai-neurips-2025",
       "status": "published",
-      "reason": "",
-      "original_headline": "The AirPods Pro 3 are back to their lowest price ahead of the holidays",
-      "original_summary": "If you didn’t catch the Black Friday deal on Apple’s AirPods Pro 3, the good news is the price has dropped again ahead of the holidays. Right now, the noise-canceling earbuds are matching their all-time low price of $219.99 ($30 off) at Amazon, Walmart, and Best Buy. It’s a great deal considering th",
-      "fantasy_headline": "Rare Whispering Orbs Offered at Unseen Low Price for Winter Solstice!",
-      "fantasy_story": "The Grand Merchant Guilds announce a remarkable bargain! The famed Gnomish Whispering Orbs, which quiet the din of the world, are now offered at their lowest price ever. Many missed this rare chance during the Autumn Harvest Market, but fear not. This offer reappears just in time for the joyful Winter Solstice Feast.",
+      "reason": null,
+      "original_headline": "The AI industry’s biggest week: Google’s rise, RL mania, and a party boat",
+      "original_summary": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Reinforcement learning (RL) is the next frontier, Google is surging, and the party scene has gotten completely out of hand. Those were the through lines fr",
+      "fantasy_headline": "Great Magical Automatons Conclave Sees The Gilded Order Flourish",
+      "fantasy_story": "The Grand Conclave of Arcane Arts recently concluded, marking a pivotal moment for magical automatons. The Gilded Order has shown immense progress, particularly with their new self-teaching runes. Many believe this advanced enchantment theory is the next frontier for magical constructs. Festivities aboard a grand celebration vessel continued late into the night.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Call of Duty won’t release Modern Warfare or Black Ops back to back anymore",
+      "original_summary": "Future Call of Duty releases will no longer include back-to-back launches of Modern Warfare or Black Ops games, Activision announced on Tuesday. The past four releases in the series have been Modern Warfare II (2022), Modern Warfare III (2023), Black Ops 6 (2024), and Black Ops 7 (2025), but moving ",
+      "fantasy_headline": "Storyteller's Clan Changes Epic Saga Unveiling Schedule",
+      "fantasy_story": "The esteemed Storyteller's Clan has declared a change in how they unveil chapters of \"Warfare's Call.\" They will no longer release \"Chronicles of the Ironclad\" and \"Shadow Company Saga\" chapters in consecutive years. This shift allows for greater anticipation and crafting of each unique epic. Adventurers and bards eagerly await the new schedule.",
       "tag": "merchants"
     }
   ]
