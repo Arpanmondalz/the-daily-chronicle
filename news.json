@@ -1,44 +1,44 @@
 {
-  "last_updated": "2025-12-10 08:29:22",
+  "last_updated": "2025-12-10 12:43:13",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/12/251209234247.htm",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Rising temperatures are slowing early childhood development",
+      "original_summary": "Researchers discovered that unusually high temperatures can hinder early childhood development. Children living in hotter conditions were less likely to reach key learning milestones, especially in reading and basic math skills. Those facing economic hardship or limited resources were hit the hardes",
+      "fantasy_headline": "Scorching Summers Hinder Young Minds in the Realm!",
+      "fantasy_story": "Wise Sages have uncovered a troubling truth: periods of unnatural heat can slow the learning of young apprentices. Children in sun-scorched lands struggle to master their letters and numbers, especially those from poorer hamlets with fewer resources. It seems the very air stifles their growth.",
+      "tag": "nature"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251209234139.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Scientists reveal a tiny brain chip that streams thoughts in real time",
       "original_summary": "BISC is an ultra-thin neural implant that creates a high-bandwidth wireless link between the brain and computers. Its tiny single-chip design packs tens of thousands of electrodes and supports advanced AI models for decoding movement, perception, and intent. Initial clinical work shows it can be ins",
-      "fantasy_headline": "Wizards Uncover Tiny Enchanted Gem That Reveals Thoughts Instantly",
-      "fantasy_story": "The Grand Order of Wizards has revealed a minuscule enchanted gem, so thin it's almost invisible. This artifact creates a powerful magical link between a person's mind and ancient scrying pools. It allows for immediate understanding of movement and intent, a wondrous feat of arcana. Initial trials have shown its incredible potential for communication.",
+      "fantasy_headline": "Arcane Wizards Unveil a Mind-Linking Artifact!",
+      "fantasy_story": "Master Artificers of the Arcane Guild have revealed a wondrous, coin-sized artifact that can link minds to enchanted scrying pools. This intricate charm, woven with countless tiny runes, allows thoughts, movements, and intentions to be seen instantly. Early trials show its swift and simple enchantment.",
       "tag": "magic"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251209082301.htm",
-      "status": "published",
-      "reason": null,
-      "original_headline": "This surprising discovery rewrites the Milky Way’s origin story",
-      "original_summary": "New simulations of Milky Way-like galaxies reveal that the strange split between two chemically distinct groups of stars may arise from several very different evolutionary events. Bursts of star formation, shifts in flowing gas, and even streams of metal-poor material from a galaxy’s outskirts can a",
-      "fantasy_headline": "Astrologers Uncover New Truths About the Celestial River's Birth",
-      "fantasy_story": "Ancient texts re-interpreted by the Royal Astrologers have revealed a new truth about the Celestial River's origin. It seems the distinct groups of celestial lights within its flow arose from many different cosmic events. Bursts of new star-births, shifting cosmic mists, and wisps from the outer void all played a part. This discovery changes our understanding of the heavens.",
-      "tag": "nature"
     },
     {
       "id": "https://www.theverge.com/column/841207/ai-neurips-2025",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "The AI industry’s biggest week: Google’s rise, RL mania, and a party boat",
       "original_summary": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Reinforcement learning (RL) is the next frontier, Google is surging, and the party scene has gotten completely out of hand. Those were the through lines fr",
-      "fantasy_headline": "Great Magical Automatons Conclave Sees The Gilded Order Flourish",
-      "fantasy_story": "The Grand Conclave of Arcane Arts recently concluded, marking a pivotal moment for magical automatons. The Gilded Order has shown immense progress, particularly with their new self-teaching runes. Many believe this advanced enchantment theory is the next frontier for magical constructs. Festivities aboard a grand celebration vessel continued late into the night.",
+      "fantasy_headline": "Grand Conclave of Enchantment Sees New Magic Surge!",
+      "fantasy_story": "The recent Grand Conclave of Enchantment saw the Great House of Goggle's power surge, with their mastery of self-improving arcane runes reaching new heights. Whispers abound that this 'Reinforcement Magic' is the next great frontier. The merry feasting barges on the Crystal River were certainly lively throughout the week!",
       "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back",
       "status": "published",
-      "reason": null,
-      "original_headline": "Call of Duty won’t release Modern Warfare or Black Ops back to back anymore",
+      "reason": "",
+      "original_headline": "Call of Duty won’t release Modern Warfare or Black Ops back-to-back anymore",
       "original_summary": "Future Call of Duty releases will no longer include back-to-back launches of Modern Warfare or Black Ops games, Activision announced on Tuesday. The past four releases in the series have been Modern Warfare II (2022), Modern Warfare III (2023), Black Ops 6 (2024), and Black Ops 7 (2025), but moving ",
-      "fantasy_headline": "Storyteller's Clan Changes Epic Saga Unveiling Schedule",
-      "fantasy_story": "The esteemed Storyteller's Clan has declared a change in how they unveil chapters of \"Warfare's Call.\" They will no longer release \"Chronicles of the Ironclad\" and \"Shadow Company Saga\" chapters in consecutive years. This shift allows for greater anticipation and crafting of each unique epic. Adventurers and bards eagerly await the new schedule.",
+      "fantasy_headline": "Chroniclers of Conflict Alter Saga Release Schedule!",
+      "fantasy_story": "The esteemed Guild of War Scribes, known for their popular 'Trials of Valor' sagas, has declared a change in their release tradition. No longer will tales of the Ironclad Legions and Shadow Operations be published in consecutive years. This shift aims to give adventurers more time between epic challenges.",
       "tag": "merchants"
     }
   ]
