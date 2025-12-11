@@ -1,45 +1,25 @@
 {
-  "last_updated": "2025-12-10 12:43:13",
+  "last_updated": "2025-12-11 08:29:41",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251209234247.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251210223635.htm",
       "status": "published",
       "reason": "",
-      "original_headline": "Rising temperatures are slowing early childhood development",
-      "original_summary": "Researchers discovered that unusually high temperatures can hinder early childhood development. Children living in hotter conditions were less likely to reach key learning milestones, especially in reading and basic math skills. Those facing economic hardship or limited resources were hit the hardes",
-      "fantasy_headline": "Scorching Summers Hinder Young Minds in the Realm!",
-      "fantasy_story": "Wise Sages have uncovered a troubling truth: periods of unnatural heat can slow the learning of young apprentices. Children in sun-scorched lands struggle to master their letters and numbers, especially those from poorer hamlets with fewer resources. It seems the very air stifles their growth.",
+      "original_headline": "New research reveals how everyday cues secretly shape your habits",
+      "original_summary": "Researchers uncovered how shifting levels of a brain protein called KCC2 can reshape the way cues become linked with rewards, sometimes making habits form more quickly or more powerfully than expected. When this protein drops, dopamine neurons fire more intensely, strengthening new associations in w",
+      "fantasy_headline": "Alchemists Uncover Hidden Magic Behind Daily Habits",
+      "fantasy_story": "The Alchemists' Guild has revealed a hidden magical essence within the minds of folk. When this essence shifts, it can quicken or strengthen how new enchantments, or habits, take hold. A drop in the essence makes impulses fire more intensely, solidifying new patterns.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/12/251210092024.htm",
+      "status": "published",
+      "reason": "",
+      "original_headline": "The deep ocean is fixing carbon in ways no one expected",
+      "original_summary": "Researchers have uncovered surprising evidence that the deep ocean’s carbon-fixing engine works very differently than long assumed. While ammonia-oxidizing archaea were thought to dominate carbon fixation in the sunless depths, experiments show that other microbes—especially heterotrophs—are doing f",
+      "fantasy_headline": "Sunless Depths Hold Unexpected Elemental Magic",
+      "fantasy_story": "Ocean Wizards have uncovered astonishing proof that the great abyss stabilizes its elemental balance in ways previously unimagined. For long, tiny unseen spirits were thought to control this vital magic, but experiments now show other mysterious, deep-dwelling creatures are doing much more.",
       "tag": "nature"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251209234139.htm",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Scientists reveal a tiny brain chip that streams thoughts in real time",
-      "original_summary": "BISC is an ultra-thin neural implant that creates a high-bandwidth wireless link between the brain and computers. Its tiny single-chip design packs tens of thousands of electrodes and supports advanced AI models for decoding movement, perception, and intent. Initial clinical work shows it can be ins",
-      "fantasy_headline": "Arcane Wizards Unveil a Mind-Linking Artifact!",
-      "fantasy_story": "Master Artificers of the Arcane Guild have revealed a wondrous, coin-sized artifact that can link minds to enchanted scrying pools. This intricate charm, woven with countless tiny runes, allows thoughts, movements, and intentions to be seen instantly. Early trials show its swift and simple enchantment.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/column/841207/ai-neurips-2025",
-      "status": "published",
-      "reason": "",
-      "original_headline": "The AI industry’s biggest week: Google’s rise, RL mania, and a party boat",
-      "original_summary": "This is an excerpt of Sources by Alex Heath, a newsletter about AI and the tech industry, syndicated just for The Verge subscribers once a week. Reinforcement learning (RL) is the next frontier, Google is surging, and the party scene has gotten completely out of hand. Those were the through lines fr",
-      "fantasy_headline": "Grand Conclave of Enchantment Sees New Magic Surge!",
-      "fantasy_story": "The recent Grand Conclave of Enchantment saw the Great House of Goggle's power surge, with their mastery of self-improving arcane runes reaching new heights. Whispers abound that this 'Reinforcement Magic' is the next great frontier. The merry feasting barges on the Crystal River were certainly lively throughout the week!",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/news/841290/activision-call-of-duty-modern-warefare-black-ops-back-to-back",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Call of Duty won’t release Modern Warfare or Black Ops back-to-back anymore",
-      "original_summary": "Future Call of Duty releases will no longer include back-to-back launches of Modern Warfare or Black Ops games, Activision announced on Tuesday. The past four releases in the series have been Modern Warfare II (2022), Modern Warfare III (2023), Black Ops 6 (2024), and Black Ops 7 (2025), but moving ",
-      "fantasy_headline": "Chroniclers of Conflict Alter Saga Release Schedule!",
-      "fantasy_story": "The esteemed Guild of War Scribes, known for their popular 'Trials of Valor' sagas, has declared a change in their release tradition. No longer will tales of the Ironclad Legions and Shadow Operations be published in consecutive years. This shift aims to give adventurers more time between epic challenges.",
-      "tag": "merchants"
     }
   ]
 }
