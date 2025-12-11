@@ -1,25 +1,45 @@
 {
-  "last_updated": "2025-12-11 08:29:41",
+  "last_updated": "2025-12-11 12:44:40",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251210223635.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "New research reveals how everyday cues secretly shape your habits",
       "original_summary": "Researchers uncovered how shifting levels of a brain protein called KCC2 can reshape the way cues become linked with rewards, sometimes making habits form more quickly or more powerfully than expected. When this protein drops, dopamine neurons fire more intensely, strengthening new associations in w",
-      "fantasy_headline": "Alchemists Uncover Hidden Magic Behind Daily Habits",
-      "fantasy_story": "The Alchemists' Guild has revealed a hidden magical essence within the minds of folk. When this essence shifts, it can quicken or strengthen how new enchantments, or habits, take hold. A drop in the essence makes impulses fire more intensely, solidifying new patterns.",
+      "fantasy_headline": "Wizards Discover Magic Behind Your Daily Habits",
+      "fantasy_story": "The Grand Wizards of the Mind have discovered a secret enchantment within everyone's spirit. They found that subtle shifts in a magical essence can make small signs link to desires, causing daily routines to take hold faster. When this essence wanes, inner magic sparks brighter, making new connections stronger than ever.",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251210092024.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "The deep ocean is fixing carbon in ways no one expected",
       "original_summary": "Researchers have uncovered surprising evidence that the deep ocean’s carbon-fixing engine works very differently than long assumed. While ammonia-oxidizing archaea were thought to dominate carbon fixation in the sunless depths, experiments show that other microbes—especially heterotrophs—are doing f",
-      "fantasy_headline": "Sunless Depths Hold Unexpected Elemental Magic",
-      "fantasy_story": "Ocean Wizards have uncovered astonishing proof that the great abyss stabilizes its elemental balance in ways previously unimagined. For long, tiny unseen spirits were thought to control this vital magic, but experiments now show other mysterious, deep-dwelling creatures are doing much more.",
+      "fantasy_headline": "Deep Sea Sages Discover Ocean's Hidden Breath",
+      "fantasy_story": "Deep Sea Sages have made a startling discovery about how the great ocean breathes. They learned the sunless depths fix dark energies not by the tiny water sprites once thought, but by other, unseen sea creatures. These minuscule guardians maintain the ocean's balance in surprising new ways.",
       "tag": "nature"
+    },
+    {
+      "id": "https://www.theverge.com/news/842256/adobe-2025-earnings-ai-growth",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Adobe sees a bright future as AI bet pays off",
+      "original_summary": "Entrenching generative AI into Adobe's creative software ecosystem is paying off, according to the company's latest earnings. While its share price has fallen by more than 37 percent this year at the time of writing, Adobe is reporting a bump in annual profits driven by record revenue of $23.77 bill",
+      "fantasy_headline": "Adobe Guild Thrives as Enchanted Automatons Prove Worthy",
+      "fantasy_story": "The venerable Adobe Artificers' Guild is enjoying great prosperity! Their bold choice to weave enchanted automatons into their creative spells has brought a surge of gold coins. Even though the Guild's perceived worth wavered earlier, their annual treasury now swells to record sums, proving the golems' power.",
+      "tag": "merchants"
+    },
+    {
+      "id": "https://www.theverge.com/news/842243/ayaneo-pocket-play-gaming-phone-android-sony-xperia-play",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Ayaneo’s first Android phone looks like a return of the Xperia Play",
+      "original_summary": "Retro gaming handheld manufacturer Ayaneo has finally revealed the design of its first Android phone, which has been teased since August. Fittingly, it too is a throwback - to 2011's Sony Ericcson Xperia Play. The Pocket Play has a screen that slides up to reveal a full set of inset physical control",
+      "fantasy_headline": "Ayaneo Clan Unveils New Scrying Mirror with Hidden Controls",
+      "fantasy_story": "The renowned Ayaneo Tinkerers' Clan has unveiled their latest creation: a unique Pocket Oracle! This magical scrying mirror is a tribute to the legendary Xperia Play artifact of old. It features a special panel that slides up, revealing a hidden set of arcane buttons and levers for wondrous enchantments and games.",
+      "tag": "magic"
     }
   ]
 }
