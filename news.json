@@ -1,44 +1,24 @@
 {
-  "last_updated": "2025-12-11 12:44:40",
+  "last_updated": "2025-12-12 01:40:48",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251210223635.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251211100631.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "New research reveals how everyday cues secretly shape your habits",
-      "original_summary": "Researchers uncovered how shifting levels of a brain protein called KCC2 can reshape the way cues become linked with rewards, sometimes making habits form more quickly or more powerfully than expected. When this protein drops, dopamine neurons fire more intensely, strengthening new associations in w",
-      "fantasy_headline": "Wizards Discover Magic Behind Your Daily Habits",
-      "fantasy_story": "The Grand Wizards of the Mind have discovered a secret enchantment within everyone's spirit. They found that subtle shifts in a magical essence can make small signs link to desires, causing daily routines to take hold faster. When this essence wanes, inner magic sparks brighter, making new connections stronger than ever.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251210092024.htm",
-      "status": "published",
-      "reason": null,
-      "original_headline": "The deep ocean is fixing carbon in ways no one expected",
-      "original_summary": "Researchers have uncovered surprising evidence that the deep ocean’s carbon-fixing engine works very differently than long assumed. While ammonia-oxidizing archaea were thought to dominate carbon fixation in the sunless depths, experiments show that other microbes—especially heterotrophs—are doing f",
-      "fantasy_headline": "Deep Sea Sages Discover Ocean's Hidden Breath",
-      "fantasy_story": "Deep Sea Sages have made a startling discovery about how the great ocean breathes. They learned the sunless depths fix dark energies not by the tiny water sprites once thought, but by other, unseen sea creatures. These minuscule guardians maintain the ocean's balance in surprising new ways.",
+      "reason": "",
+      "original_headline": "Scientists find a massive hidden CO2 sponge beneath the ocean floor",
+      "original_summary": "Researchers found that eroded lava rubble beneath the South Atlantic can trap enormous amounts of CO2 for tens of millions of years. These porous breccia deposits store far more carbon than previously sampled ocean crust. The discovery reshapes how scientists view the long-term balance of carbon bet",
+      "fantasy_headline": "Wizards Discover Great Deep-Sea Trap for Unhealthy Mists!",
+      "fantasy_story": "Beneath the South Atlantic, a new discovery by the Royal Alchemists has unveiled vast volcanic rocks capable of capturing dark, unhealthy mists. These ancient stones, hidden deep within the ocean floor, can store great amounts of these vapors for ages. This finding changes how our wise ones understand the balance of such mists in the world.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/news/842256/adobe-2025-earnings-ai-growth",
+      "id": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
       "status": "published",
-      "reason": null,
-      "original_headline": "Adobe sees a bright future as AI bet pays off",
-      "original_summary": "Entrenching generative AI into Adobe's creative software ecosystem is paying off, according to the company's latest earnings. While its share price has fallen by more than 37 percent this year at the time of writing, Adobe is reporting a bump in annual profits driven by record revenue of $23.77 bill",
-      "fantasy_headline": "Adobe Guild Thrives as Enchanted Automatons Prove Worthy",
-      "fantasy_story": "The venerable Adobe Artificers' Guild is enjoying great prosperity! Their bold choice to weave enchanted automatons into their creative spells has brought a surge of gold coins. Even though the Guild's perceived worth wavered earlier, their annual treasury now swells to record sums, proving the golems' power.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/news/842243/ayaneo-pocket-play-gaming-phone-android-sony-xperia-play",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Ayaneo’s first Android phone looks like a return of the Xperia Play",
-      "original_summary": "Retro gaming handheld manufacturer Ayaneo has finally revealed the design of its first Android phone, which has been teased since August. Fittingly, it too is a throwback - to 2011's Sony Ericcson Xperia Play. The Pocket Play has a screen that slides up to reveal a full set of inset physical control",
-      "fantasy_headline": "Ayaneo Clan Unveils New Scrying Mirror with Hidden Controls",
-      "fantasy_story": "The renowned Ayaneo Tinkerers' Clan has unveiled their latest creation: a unique Pocket Oracle! This magical scrying mirror is a tribute to the legendary Xperia Play artifact of old. It features a special panel that slides up, revealing a hidden set of arcane buttons and levers for wondrous enchantments and games.",
+      "reason": "",
+      "original_headline": "I’ve tested the latest Switch 2 controllers, and this one is the best",
+      "original_summary": "If you choose to get an extra controller for your Nintendo Switch 2, you can spend a lot — and get a lot in return. Buying Nintendo’s own $89.99 Switch 2 Pro Controller, for instance, will net you the console’s only wireless controller with a 3.5mm headphone jack for private listening, not to mentio",
+      "fantasy_headline": "Explorer Finds Best Control Gem for the Crystal Scrying Orb!",
+      "fantasy_story": "A seasoned explorer of enchanted artifacts has found the finest control gem for the famed Crystal Scrying Orb. While many gems exist, the Enchanter's Guild's own Master Wand offers superior control and a whispering connection. It also includes an ear-charm port for private listening to the Orb's mystic sounds, for a price of 89 gold coins.",
       "tag": "magic"
     }
   ]
