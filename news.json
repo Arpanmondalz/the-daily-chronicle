@@ -1,35 +1,45 @@
 {
-  "last_updated": "2025-12-12 08:29:49",
+  "last_updated": "2025-12-12 12:43:03",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251211100631.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251212022252.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Scientists find a massive hidden CO2 sponge beneath the ocean floor",
-      "original_summary": "Researchers found that eroded lava rubble beneath the South Atlantic can trap enormous amounts of CO2 for tens of millions of years. These porous breccia deposits store far more carbon than previously sampled ocean crust. The discovery reshapes how scientists view the long-term balance of carbon bet",
-      "fantasy_headline": "Alchemists Discover Vast Dark Air Trap Beneath the Southern Seas!",
-      "fantasy_story": "The Royal Alchemists' Guild has unearthed a secret under the great southern ocean. Beneath ancient volcanic rock, they found porous stone capable of absorbing vast amounts of noxious fumes. This grand discovery could help cleanse the kingdom's air for ages to come.",
-      "tag": "nature"
+      "reason": null,
+      "original_headline": "Ghost particles slip through Earth and spark a hidden atomic reaction",
+      "original_summary": "Scientists have managed to observe solar neutrinos carrying out a rare atomic transformation deep underground, converting carbon-13 into nitrogen-13 inside the SNO+ detector. By tracking two faint flashes of light separated by several minutes, researchers confirmed one of the lowest-energy neutrino ",
+      "fantasy_headline": "Ethereal Sun-Sprites Cause Secret Elemental Change Deep Below!",
+      "fantasy_story": "The Alchemists' Guild in the Whispering Caves has witnessed tiny sun-sprites causing a rare elemental shift. These fleeting specters, usually unseen, transmute one essence into another deep within the earth. Their magical looking-glass detected faint gleams of arcane energy confirming this subtle magic.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/12/251212022249.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Scientists find dark chocolate ingredient that slows aging",
+      "original_summary": "Scientists have uncovered a surprising link between dark chocolate and slower aging. A natural cocoa compound called theobromine was found in higher levels among people who appeared biologically younger than their real age.",
+      "fantasy_headline": "Wizards Discover Cacao Elixir Holds Secret to Youthful Vigor!",
+      "fantasy_story": "The esteemed Wizards of Longevity have unearthed a wondrous secret within dark cacao beans. A mystic essence, dubbed \"theobromine,\" was found in abundance in those who seemed much younger than their true age. This enchanted treat may soon grant many a prolonged youthful appearance.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/tech/843386/review-cable-paperweight-native-union-weighter",
+      "status": "published",
+      "reason": null,
+      "original_headline": "My defense of a $40 cable paperweight – I’m sorry",
+      "original_summary": "Warning: I'm going to make an attempt to justify a $40 paperweight for cable management. I'm not sure how I ended up in this position, or who hurt me. All I can say is that I'm not proud of myself, so please, take pity. I've been using Native Union's 3-cable Weighter for about a week. […]",
+      "fantasy_headline": "A Worthy Device? The Pricey Gravity Stone for Arcane Cords.",
+      "fantasy_story": "A seasoned merchant has surprisingly championed an expensive artifact, the Gravity Stone, costing 40 gold coins. This curious item, forged by the Guild of Native Union, is said to tame unruly arcane cords and keep magical ley-lines perfectly organized on a scribe's desk. Despite its cost, the merchant insists on its merit.",
+      "tag": "merchants"
     },
     {
       "id": "https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Tomb Raider announces two new games",
-      "original_summary": "While Geoff Keighley had already announced that Tomb Raider would be making a Game Awards appearance, the surprise was that instead of one game announcement there's two. Crystal Dynamics and Amazon Game Studios are releasing two Tomb Raider games back-to-back in 2026 and 2027. First up, coming in 20",
-      "fantasy_headline": "Two New Grand Sagas Unveiled from the Sunken Crypts!",
-      "fantasy_story": "The Crystal Clan and the River Guild have revealed magnificent news for all adventurers. Instead of just one, two grand new sagas about the famous Explorer Lady Lara will soon be presented. Tales of ancient ruins and forgotten magic are expected in the coming years.",
+      "original_summary": "While Geoff Keighley had already announced that Tomb Raider would be making a Game Awards appearance, the surprise was that instead of one game announcement there's two. Crystal Dynamics and Amazon Game Studios are releasing two Tomb Raider games back-to-back in 2026 and 2027. First up, coming in 2",
+      "fantasy_headline": "Two Grand New Quests for Lara Croft, the Relic Hunter!",
+      "fantasy_story": "At the esteemed Grand Storyteller's Conclave, it was proclaimed that Lara Croft, the famed Relic Hunter, would embark on not one, but two new quests! The Crystal Scribes and Amazonian Lorekeepers guilds are preparing these epic tales to be unveiled in the coming two turns of the sun.",
       "tag": "kingdom"
-    },
-    {
-      "id": "https://www.theverge.com/gadgets/802969/best-gifts-under-50-2025",
-      "status": "published",
-      "reason": "",
-      "original_headline": "The best Christmas gifts we love under $50",
-      "original_summary": "One of the easiest things to do during the holidays is spend too much money. It happens to many of us, even when we swear that things are going to be different this year. We want to help you stay true to your intentions to save money when possible, and we're doing that with a […]",
-      "fantasy_headline": "Wise Gifts for the Winter Solstice, Under Fifty Gold Coins!",
-      "fantasy_story": "As the Winter Solstice Festival approaches, many worry about squandering their precious gold coins. Fear not, for the Royal Merchants' Guild has assembled a list of splendid tokens. These delightful keepsakes cost less than fifty gold coins, helping you celebrate wisely this year.",
-      "tag": "merchants"
     }
   ]
 }
