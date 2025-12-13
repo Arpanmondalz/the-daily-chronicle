@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-12 12:43:03",
+  "last_updated": "2025-12-13 01:27:06",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251212022252.htm",
@@ -7,8 +7,8 @@
       "reason": null,
       "original_headline": "Ghost particles slip through Earth and spark a hidden atomic reaction",
       "original_summary": "Scientists have managed to observe solar neutrinos carrying out a rare atomic transformation deep underground, converting carbon-13 into nitrogen-13 inside the SNO+ detector. By tracking two faint flashes of light separated by several minutes, researchers confirmed one of the lowest-energy neutrino ",
-      "fantasy_headline": "Ethereal Sun-Sprites Cause Secret Elemental Change Deep Below!",
-      "fantasy_story": "The Alchemists' Guild in the Whispering Caves has witnessed tiny sun-sprites causing a rare elemental shift. These fleeting specters, usually unseen, transmute one essence into another deep within the earth. Their magical looking-glass detected faint gleams of arcane energy confirming this subtle magic.",
+      "fantasy_headline": "Ethereal Whispers Transform Earth's Core",
+      "fantasy_story": "The Grand Alchemists have glimpsed invisible sprites, born from the sun, passing through the Great Earth. Deep within a shielded chamber, these sprites sparked a rare elemental shift, turning one essence into another. This mystical transformation was revealed by two fleeting glimmers of arcane energy.",
       "tag": "magic"
     },
     {
@@ -17,29 +17,29 @@
       "reason": null,
       "original_headline": "Scientists find dark chocolate ingredient that slows aging",
       "original_summary": "Scientists have uncovered a surprising link between dark chocolate and slower aging. A natural cocoa compound called theobromine was found in higher levels among people who appeared biologically younger than their real age.",
-      "fantasy_headline": "Wizards Discover Cacao Elixir Holds Secret to Youthful Vigor!",
-      "fantasy_story": "The esteemed Wizards of Longevity have unearthed a wondrous secret within dark cacao beans. A mystic essence, dubbed \"theobromine,\" was found in abundance in those who seemed much younger than their true age. This enchanted treat may soon grant many a prolonged youthful appearance.",
+      "fantasy_headline": "Enchanted Cocoa Beans May Grant Longer Lives!",
+      "fantasy_story": "The Alchemists' Guild has discovered a surprising secret within dark, bitter-sweet cocoa beans. A special essence was found in higher amounts among those who seemed younger than their true years. This wondrous finding suggests a path to ward off time's touch, perhaps granting longer, more vibrant lives.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/843386/review-cable-paperweight-native-union-weighter",
+      "id": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
       "status": "published",
       "reason": null,
-      "original_headline": "My defense of a $40 cable paperweight – I’m sorry",
-      "original_summary": "Warning: I'm going to make an attempt to justify a $40 paperweight for cable management. I'm not sure how I ended up in this position, or who hurt me. All I can say is that I'm not proud of myself, so please, take pity. I've been using Native Union's 3-cable Weighter for about a week. […]",
-      "fantasy_headline": "A Worthy Device? The Pricey Gravity Stone for Arcane Cords.",
-      "fantasy_story": "A seasoned merchant has surprisingly championed an expensive artifact, the Gravity Stone, costing 40 gold coins. This curious item, forged by the Guild of Native Union, is said to tame unruly arcane cords and keep magical ley-lines perfectly organized on a scribe's desk. Despite its cost, the merchant insists on its merit.",
+      "original_headline": "The Verge’s 2025 holiday gift guide",
+      "original_summary": "The holidays have a way of sneaking up on us. One minute you're trick-or-treating with your kids, and the next you're panic shopping in a Buc-ee's gift aisle. But it doesn't have to be that way. With the right cheat sheet, you can keep the holiday spirit high and stress levels low. Fortunately, we d",
+      "fantasy_headline": "A Grand Scroll of Wondrous Midwinter Gifts!",
+      "fantasy_story": "The Midwinter Feast often arrives quicker than a nimble forest sprite. To help the townsfolk avoid last-minute quests for presents, the Scribes of the Royal Scroll have prepared a helpful guide. This enchanted list will ensure joyful celebrations and lighten the burden of gift-seeking for all.",
       "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/games/843260/tomb-raider-catalyst-trailer-tomb-raider-atlantis",
+      "id": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
       "status": "published",
       "reason": null,
-      "original_headline": "Tomb Raider announces two new games",
-      "original_summary": "While Geoff Keighley had already announced that Tomb Raider would be making a Game Awards appearance, the surprise was that instead of one game announcement there's two. Crystal Dynamics and Amazon Game Studios are releasing two Tomb Raider games back-to-back in 2026 and 2027. First up, coming in 2",
-      "fantasy_headline": "Two Grand New Quests for Lara Croft, the Relic Hunter!",
-      "fantasy_story": "At the esteemed Grand Storyteller's Conclave, it was proclaimed that Lara Croft, the famed Relic Hunter, would embark on not one, but two new quests! The Crystal Scribes and Amazonian Lorekeepers guilds are preparing these epic tales to be unveiled in the coming two turns of the sun.",
-      "tag": "kingdom"
+      "original_headline": "The best instant cameras you can buy right now",
+      "original_summary": "Even with the ability to take excellent photos with our phones and instantly share them across the world, there’s something magical about the old-school instant camera. With just a click of a button, you can capture a moment in a photo that you can see and touch almost immediately. Images captured b",
+      "fantasy_headline": "New Enchanted Boxes Capture Glimpses Instantly!",
+      "fantasy_story": "While scrying orbs can send visions far and wide, there's a special charm to the new Glimmer-Capture Boxes. With a mere click, these wondrous artifacts imprint a moment onto parchment almost immediately. Now, folk can hold their memories in hand, visible and true, without delay.",
+      "tag": "magic"
     }
   ]
 }
