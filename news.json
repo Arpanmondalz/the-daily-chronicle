@@ -1,34 +1,44 @@
 {
-  "last_updated": "2025-12-15 01:44:24",
+  "last_updated": "2025-12-15 08:32:03",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251214104923.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Male bonobos use hidden clues to boost mating success",
       "original_summary": "Male bonobos have an impressive ability to detect when females are most fertile, even though the usual visual cues are unreliable. Researchers tracking wild bonobos in the Congo discovered that males skillfully interpret a mix of swelling timing and a female’s reproductive history to pinpoint the op",
-      "fantasy_headline": "Forest Bonobos Uncover Secret Fertility Signs",
-      "fantasy_story": "Wise naturalists observed the nimble bonobos of the Great Congo Jungle. They discovered that male bonobos possess an uncanny ability to sense a female's most fertile time. These clever creatures interpret hidden signals, combining swelling patterns and past birthing records to find ideal mates.",
+      "fantasy_headline": "Forest Apes Master Hidden Art of Finding True Love",
+      "fantasy_story": "Wise Druids observing the Emerald Forest have uncovered a secret of the great Forest Apes. The male apes possess a mystical ability to sense when female apes are most ready to nurture new life, even when common signs fail. They interpret subtle arcane signals and a female's past journeys to pick the perfect time, ensuring their lineage thrives.",
       "tag": "nature"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251214100930.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Scientists finally uncovered why the Indus Valley Civilization collapsed",
       "original_summary": "A series of century-scale droughts may have quietly reshaped one of the world’s earliest urban civilizations. New climate reconstructions show that the Indus Valley Civilization endured repeated long dry periods that gradually pushed its people toward the Indus River as rainfall diminished. These en",
-      "fantasy_headline": "Ancient Indus Kingdom Fell to Nature's Lingering Dry Spells",
-      "fantasy_story": "Grand scholars have finally deciphered the ancient scrolls of the Indus Kingdom. It seems a series of long, dry spells, lasting many decades, slowly weakened the mighty realm. As the magical rainfall dwindled, the people were forced to seek refuge along the great Indus River, until the kingdom faded away.",
+      "fantasy_headline": "Ancient Sages Unravel Mystery of the Fading River Kingdom",
+      "fantasy_story": "Arch-Wizards have at last discovered why the grand River Kingdom faded into legend. They found that repeated, century-long droughts, like curses from a parched sky, slowly withered the lands. This forced the people to seek refuge nearer the great river as the rains vanished, leading to the kingdom's gradual change.",
       "tag": "kingdom"
+    },
+    {
+      "id": "https://www.theverge.com/news/844460/irobot-files-for-bankruptcy",
+      "status": "published",
+      "reason": "",
+      "original_headline": "iRobot files for bankruptcy",
+      "original_summary": "After 35 years, the maker of the Roomba robot vacuum filed for bankruptcy protection late Sunday night. Following warnings issued earlier this year that it was fast running out of options, iRobot says it is entering Chapter 11 protection and will be acquired by its contract manufacturer, the Chinese",
+      "fantasy_headline": "Whirring Wonders Guild Faces Ruin, Seeks New Patron",
+      "fantasy_story": "After three-and-a-half decades, the renowned Guild of Whirring Wonders, creators of the magnificent Sweeping Sprites, has fallen into dire financial straits. Whispers of their struggles had circulated, and now they seek the protection of ancient trade laws. A powerful trading house from the Eastern Lands is set to acquire the guild, offering a new path forward.",
+      "tag": "merchants"
     },
     {
       "id": "https://www.theverge.com/entertainment/844447/sudan-archives-the-bpm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "You need to listen to Sudan Archives&#8217; violin opus for the club",
       "original_summary": "My introduction to Sudan Archives was the song \"Nont for Sale\" from her first EP Sink in 2018. I've been a die-hard fan ever since. With each album, she finds new ways to sculpt the sound of her violin, contorting it in defiance of expectations. Athena found her in conversation with it, leaving its ",
-      "fantasy_headline": "The Bard Sudan Archives Charms Halls with Enchanted Fiddle Tunes",
-      "fantasy_story": "Tales speak of the magnificent bard, Sudan Archives, and her enchanted fiddle. Each new scroll of song reveals her mastery, as she shapes the fiddle's voice in wondrous ways. Her melodies fill the grand halls and taverns, captivating all who hear them with their unique magic and rhythm.",
+      "fantasy_headline": "Melodious Minstrel Weaves New Magic with Enchanted Fiddle",
+      "fantasy_story": "The celebrated Minstrel known as Sudan Archives continues to astound listeners with her enchanted fiddle. From her first song scroll, she has captivated audiences, defying all expectations. With each new collection of ballads, she weaves fresh sonic magic, twisting ancient melodies into wondrous and unexpected forms perfect for any festive gathering.",
       "tag": "magic"
     }
   ]
