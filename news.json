@@ -1,34 +1,44 @@
 {
-  "last_updated": "2025-12-15 12:46:11",
+  "last_updated": "2025-12-16 01:41:58",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251214104923.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251215084222.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Male bonobos use hidden clues to boost mating success",
-      "original_summary": "Male bonobos have an impressive ability to detect when females are most fertile, even though the usual visual cues are unreliable. Researchers tracking wild bonobos in the Congo discovered that males skillfully interpret a mix of swelling timing and a female’s reproductive history to pinpoint the op",
-      "fantasy_headline": "Wise Apes Uncover Secret Fertility Signs!",
-      "fantasy_story": "Scribes of the Wild observed the wise forest apes. Male apes have a keen, almost magical, sense for finding mates when they are most fertile. They decipher faint signs and past lineages to ensure their clan's future. This wisdom helps their community thrive in the deep jungles.",
-      "tag": "nature"
-    },
-    {
-      "id": "https://www.theverge.com/news/844538/kindle-app-ask-this-book-ai-ios",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Kindle app now answers questions about the book you​​are reading",
-      "original_summary": "Amazon has launched a new AI feature in the Kindle app that gives spoiler-free answers to questions about the book you're reading and confirmed that authors can't opt out from the feature. The company calls Ask this Book an \"expert reading assistant\" in its announcement and says that it's capable of",
-      "fantasy_headline": "Enchanted Scrolls Now Whisper Book Secrets!",
-      "fantasy_story": "The Grand River Merchants' Guild has unveiled a new enchantment for their enchanted scrolls. A tiny spirit within the scroll can now answer questions about the tale you're reading. It gives knowledge without revealing future prophecies, acting as a helpful companion for all scholars and story-lovers.",
+      "reason": null,
+      "original_headline": "Hidden dimensions could explain where mass comes from",
+      "original_summary": "A new theory proposes that the universe’s fundamental forces and particle properties may arise from the geometry of hidden extra dimensions. These dimensions could twist and evolve over time, forming stable structures that generate mass and symmetry breaking on their own. The approach may even expla",
+      "fantasy_headline": "Wizards Uncover Secret Realms That Create All Substance!",
+      "fantasy_story": "Wise Wizards have unveiled a grand new insight: the very substance of our world might come from secret, twisting realms. These unseen planes evolve over time, shaping stable forms that give all things their weight. This discovery could forever change our understanding of magic.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/cs/features/831818/ai-mercor-handshake-scale-surge-staffing-companies",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251215084209.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Feeding the machine",
-      "original_summary": "When he was 19 years old, Brendan Foody started Mercor with two of his high school friends as a way for his other friends, who also had startups, to hire software engineers overseas. It launched in 2023 as essentially a staffing agency, albeit a highly automated one. Language models reviewed resumes",
-      "fantasy_headline": "Young Alchemist Creates Guild to Connect Crafters!",
-      "fantasy_story": "Young Alchemist Brendan, with his companions, founded the Mercor Guild to help friends find skilled crafters. This new guild, launched recently, uses clever enchantments to assess talents from afar. Enchanted scrolls review a seeker's skills to match them with the perfect rune-smith or magic-weaver in distant lands.",
+      "reason": null,
+      "original_headline": "Why consciousness exists at all",
+      "original_summary": "Consciousness evolved in stages, starting with basic survival responses like pain and alarm, then expanding into focused awareness and self-reflection. These layers help organisms avoid danger, learn from the environment, and coordinate socially. Surprisingly, birds show many of these same traits, f",
+      "fantasy_headline": "Alchemists Study How The Spark of Awareness First Ignited",
+      "fantasy_story": "Ancient alchemists are pondering the origins of the Spark of Awareness itself. They believe it unfolds in stages, beginning with simple fears and alarms, then blossoming into deep thoughts and self-knowledge. Even our feathered kin show these wondrous traits, learning from their surroundings.",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.theverge.com/news/845189/hollow-knight-silksong-sea-of-sorrow-dlc-expansion-switch-2",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Silksong is getting a free expansion next year",
+      "original_summary": "It's still hard to believe that Hollow Knight: Silksong actually came out this year, but now, we all have a new thing to wait for: the game is getting a free expansion in 2026, titled Sea of Sorrow. Team Cherry calls it the game's \"first big expansion.\" \"New areas, bosses, tools, and more!\" Team Che",
+      "fantasy_headline": "Beloved Silksong Chronicle to Receive Grand New Chapters",
+      "fantasy_story": "Good news for fans of the enchanted chronicle, Silksong! The revered Guild of Cherrywood Scribes will release new chapters next year, a gifted expansion called 'The Sea of Sorrow.' Adventurers can expect untamed new lands, fearsome beasts, and powerful artifacts to discover.",
+      "tag": "kingdom"
+    },
+    {
+      "id": "https://www.theverge.com/news/844885/lg-micro-rgb-evo-led-tv-ces-2026",
+      "status": "published",
+      "reason": null,
+      "original_headline": "LG enters the RGB LED fray in 2026 with the Micro RGB evo TV",
+      "original_summary": "In what is sure to be the beginning of a slew of announcements, LG has confirmed it is releasing its first flagship RGB TV in 2026. It wasn't a huge secret, considering \"a premium LCD TV with Micro RGB technology\" won a CES 2026 Innovation Award in November. But it's now certain that the LG […]",
+      "fantasy_headline": "House of Light Presents a Grand New Scrying Mirror",
+      "fantasy_story": "The esteemed Lumina Grand Clan has declared its intent to release a magnificent new scrying mirror next year. This 'Whisperlight' enchanted artifact, known for its vibrant hues, promises to be a marvel. It has already earned a prestigious Enchantment Accolade from the Royal Guild.",
       "tag": "merchants"
     }
   ]
