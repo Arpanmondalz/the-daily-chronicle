@@ -1,25 +1,35 @@
 {
-  "last_updated": "2025-12-17 12:43:49",
+  "last_updated": "2025-12-17 20:24:12",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251216081949.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251217082509.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Ramanujan’s 100-year-old pi formula is still revealing the Universe",
-      "original_summary": "Ramanujan’s elegant formulas for calculating pi, developed more than a century ago, have unexpectedly resurfaced at the heart of modern physics. Researchers at IISc discovered that the same mathematical structures behind these formulas also describe real-world phenomena like turbulence, percolation,",
-      "fantasy_headline": "Ancient Sage's Pi Rune Still Unlocks Cosmos' Secrets",
-      "fantasy_story": "A century-old magical formula, once penned by the wise Sage Ramanujan, is still revealing profound truths about the universe. The Royal Alchemists' Guild found that its elegant patterns perfectly describe powerful currents and hidden flows within our very world. It seems the old magic continues to echo through time.",
+      "original_headline": "A quantum mystery that stumped scientists for decades is solved",
+      "original_summary": "A long-standing physics mystery has been solved with the discovery of emergent photon-like behavior inside a strange quantum material. The finding confirms a true 3D quantum spin liquid and unlocks a new way to study deeply entangled matter.",
+      "fantasy_headline": "Ancient Magic Puzzle Unlocked by Guild of Arcane Scholars!",
+      "fantasy_story": "For many decades, a puzzling secret of the ethereal planes has eluded the wisest wizards. Now, the Grand Alchemists' Guild has unveiled a hidden truth within a strange enchanted crystal. This breakthrough allows them to finally understand deeply woven magical energies.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251216081947.htm",
+      "id": "https://www.theverge.com/news/846693/video-game-hardware-sales-november-2025-circana",
       "status": "published",
       "reason": null,
-      "original_headline": "A simple turn reveals a 1,500-year-old secret on Roman glass",
-      "original_summary": "A museum visit sparked a revelation when a Roman glass cup was turned around and its overlooked markings came into focus. These symbols, once dismissed as decoration, appear to be workshop identifiers used by teams of skilled artisans. The findings challenge centuries of assumptions about how Roman ",
-      "fantasy_headline": "Ancient Goblet Reveals Master Crafters' Hidden Markings",
-      "fantasy_story": "Within the Royal Archives, a simple turn of an ancient Roman glass goblet revealed a long-lost secret. Faint symbols, once thought mere decoration, were uncovered as the unique marks of master crafters' guilds. This discovery changes centuries of belief about these enchanted artifacts.",
-      "tag": "kingdom"
+      "original_headline": "Video game hardware sales had a historically bad November in the US",
+      "original_summary": "Spending on video game hardware during November totalled $695 million, a drop of 27 percent compared to last year, according to market analyst company Circana, \"This is the lowest video game hardware spending total for a November month since the $455M reached during the November 2005 tracking period",
+      "fantasy_headline": "Enchanted Gaming Artifact Sales Decline in the Western Reaches",
+      "fantasy_story": "The Merchants' Guild reports a stark downturn in sales of enchanted scrying pools and magical orb sets this past Moon of Harvest. Spending on these wondrous artifacts fell by a significant amount compared to last year's earnings. This marks the lowest trade figures seen in nearly two decades for such items.",
+      "tag": "merchants"
+    },
+    {
+      "id": "https://www.theverge.com/23769840/best-bluetooth-trackers",
+      "status": "published",
+      "reason": null,
+      "original_headline": "The best Bluetooth trackers for Apple and Android phones",
+      "original_summary": "Some people rarely lose things. Wallets are always exactly where they’re supposed to be, keys never go missing, and remotes never slip between the couch cushions. And then there’s the rest of us — the folks who can’t ever seem to find the thing that was right there a few seconds ago. For us, there [",
+      "fantasy_headline": "New Charm Bags Help Keep Track of Lost Belongings!",
+      "fantasy_story": "For those prone to misplacing their coin purses, enchanted keys, or even their favorite grimoire, help has arrived! The Gnomish Inventors' Guild has crafted clever new tracking charms. These small, magical devices can locate your lost items with ease, whether you carry a Royal Apple-Scribed tablet or a Common Android-Mark scroll.",
+      "tag": "magic"
     }
   ]
 }
