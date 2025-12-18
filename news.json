@@ -1,34 +1,34 @@
 {
-  "last_updated": "2025-12-17 20:24:12",
+  "last_updated": "2025-12-18 12:42:44",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251217082509.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251217231141.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "A quantum mystery that stumped scientists for decades is solved",
-      "original_summary": "A long-standing physics mystery has been solved with the discovery of emergent photon-like behavior inside a strange quantum material. The finding confirms a true 3D quantum spin liquid and unlocks a new way to study deeply entangled matter.",
-      "fantasy_headline": "Ancient Magic Puzzle Unlocked by Guild of Arcane Scholars!",
-      "fantasy_story": "For many decades, a puzzling secret of the ethereal planes has eluded the wisest wizards. Now, the Grand Alchemists' Guild has unveiled a hidden truth within a strange enchanted crystal. This breakthrough allows them to finally understand deeply woven magical energies.",
+      "original_headline": "This tiny protein helps control how hungry you feel",
+      "original_summary": "Researchers have identified a previously overlooked protein that helps regulate appetite and energy use in the body. This “helper” protein supports a key system that decides whether the body burns energy or stores it, and when it does not function properly, appetite signals can weaken.",
+      "fantasy_headline": "Alchemists Discover Spirit That Governs Hunger",
+      "fantasy_story": "The Royal Alchemists' Guild has unearthed a tiny, unseen spirit within all living beings. This spirit guides the body's hunger, helping it decide when to seek provisions or when to store energy. If the spirit falters, one might lose their desire for food or feast excessively.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/news/846693/video-game-hardware-sales-november-2025-circana",
+      "id": "https://www.theverge.com/news/847149/apple-third-party-app-stores-payment-processing-ios-japan",
       "status": "published",
       "reason": null,
-      "original_headline": "Video game hardware sales had a historically bad November in the US",
-      "original_summary": "Spending on video game hardware during November totalled $695 million, a drop of 27 percent compared to last year, according to market analyst company Circana, \"This is the lowest video game hardware spending total for a November month since the $455M reached during the November 2005 tracking period",
-      "fantasy_headline": "Enchanted Gaming Artifact Sales Decline in the Western Reaches",
-      "fantasy_story": "The Merchants' Guild reports a stark downturn in sales of enchanted scrying pools and magical orb sets this past Moon of Harvest. Spending on these wondrous artifacts fell by a significant amount compared to last year's earnings. This marks the lowest trade figures seen in nearly two decades for such items.",
+      "original_headline": "Apple opens iOS to third-party app stores in Japan",
+      "original_summary": "Apple has announced the changes it's making to the iOS App Store in Japan in order to comply with recent legislation in the country. It will allow third-party app stores and payment processing options, though is introducing new commission fees for those transactions. Developers in Japan will now be ",
+      "fantasy_headline": "Clan Apple Opens Scroll Market to Other Guilds in Jappan",
+      "fantasy_story": "Clan Apple, known for its Enchanted Scroll System, has bowed to the Edicts of the Eastern Isles of Jappan. Now, other guilds and independent enchanters may offer their own magical cantrips and artifacts through various marketplaces. However, Clan Apple will levy new tolls upon these transactions.",
       "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/23769840/best-bluetooth-trackers",
+      "id": "https://www.theverge.com/reviews/846094/kuxiu-s3-solid-state-power-bank-review",
       "status": "published",
       "reason": null,
-      "original_headline": "The best Bluetooth trackers for Apple and Android phones",
-      "original_summary": "Some people rarely lose things. Wallets are always exactly where they’re supposed to be, keys never go missing, and remotes never slip between the couch cushions. And then there’s the rest of us — the folks who can’t ever seem to find the thing that was right there a few seconds ago. For us, there [",
-      "fantasy_headline": "New Charm Bags Help Keep Track of Lost Belongings!",
-      "fantasy_story": "For those prone to misplacing their coin purses, enchanted keys, or even their favorite grimoire, help has arrived! The Gnomish Inventors' Guild has crafted clever new tracking charms. These small, magical devices can locate your lost items with ease, whether you carry a Royal Apple-Scribed tablet or a Common Android-Mark scroll.",
+      "original_headline": "Kuxiu’s S3 MagSafe power bank is bigger and better and probably won’t explode",
+      "original_summary": "Kuxiu is back with a new S3 portable battery that addresses most of the issues I had during my review of the S2, aka the \"world's first\" semi-solid state power bank. It also introduces a few new ones, while adding useful features like a kickstand and integrated USB-C cable. As a reminder, these are ",
+      "fantasy_headline": "Kuxiu Clan Unveils New Mana-Battery, Safer Than Ever!",
+      "fantasy_story": "The Kuxiu Clan has crafted a refined Aether-Sphere, the S3 Mana-Battery, improving upon previous designs. This new orb is more robust, less prone to wild magic surges, and even includes a handy stand and an integrated mystic cord for easier use. Travelers and spellcasters alike will find it most useful.",
       "tag": "magic"
     }
   ]
