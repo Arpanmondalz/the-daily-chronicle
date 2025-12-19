@@ -1,34 +1,14 @@
 {
-  "last_updated": "2025-12-18 12:42:44",
+  "last_updated": "2025-12-19 08:29:11",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251217231141.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251218074429.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "This tiny protein helps control how hungry you feel",
-      "original_summary": "Researchers have identified a previously overlooked protein that helps regulate appetite and energy use in the body. This “helper” protein supports a key system that decides whether the body burns energy or stores it, and when it does not function properly, appetite signals can weaken.",
-      "fantasy_headline": "Alchemists Discover Spirit That Governs Hunger",
-      "fantasy_story": "The Royal Alchemists' Guild has unearthed a tiny, unseen spirit within all living beings. This spirit guides the body's hunger, helping it decide when to seek provisions or when to store energy. If the spirit falters, one might lose their desire for food or feast excessively.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/news/847149/apple-third-party-app-stores-payment-processing-ios-japan",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Apple opens iOS to third-party app stores in Japan",
-      "original_summary": "Apple has announced the changes it's making to the iOS App Store in Japan in order to comply with recent legislation in the country. It will allow third-party app stores and payment processing options, though is introducing new commission fees for those transactions. Developers in Japan will now be ",
-      "fantasy_headline": "Clan Apple Opens Scroll Market to Other Guilds in Jappan",
-      "fantasy_story": "Clan Apple, known for its Enchanted Scroll System, has bowed to the Edicts of the Eastern Isles of Jappan. Now, other guilds and independent enchanters may offer their own magical cantrips and artifacts through various marketplaces. However, Clan Apple will levy new tolls upon these transactions.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/reviews/846094/kuxiu-s3-solid-state-power-bank-review",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Kuxiu’s S3 MagSafe power bank is bigger and better and probably won’t explode",
-      "original_summary": "Kuxiu is back with a new S3 portable battery that addresses most of the issues I had during my review of the S2, aka the \"world's first\" semi-solid state power bank. It also introduces a few new ones, while adding useful features like a kickstand and integrated USB-C cable. As a reminder, these are ",
-      "fantasy_headline": "Kuxiu Clan Unveils New Mana-Battery, Safer Than Ever!",
-      "fantasy_story": "The Kuxiu Clan has crafted a refined Aether-Sphere, the S3 Mana-Battery, improving upon previous designs. This new orb is more robust, less prone to wild magic surges, and even includes a handy stand and an integrated mystic cord for easier use. Travelers and spellcasters alike will find it most useful.",
+      "original_headline": "A hidden T cell switch could make cancer immunotherapy work for more people",
+      "original_summary": "Scientists have discovered that T cell receptors activate through a hidden spring-like motion that had never been seen before. This breakthrough may help explain why immunotherapy works for some cancers and how it could be improved for others.",
+      "fantasy_headline": "Alchemists Uncover Secret to Enhanced Healing Enchantments",
+      "fantasy_story": "The revered Alchemists' Guild has unearthed a wondrous secret within the body's tiny guardian spirits. They discovered these spirits activate with a hidden, spring-like motion. This knowledge promises to improve powerful healing enchantments, helping more folk overcome creeping maladies.",
       "tag": "magic"
     }
   ]
