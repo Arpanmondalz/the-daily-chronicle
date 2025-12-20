@@ -1,24 +1,34 @@
 {
-  "last_updated": "2025-12-20 08:25:54",
+  "last_updated": "2025-12-20 12:37:58",
   "stories": [
     {
-      "id": "https://www.theverge.com/news/848540/google-app-fees-external-link-downloads-alternative-payments",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251219093315.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "Want to link from Google’s app store to your app? That’ll be $2–4 per install",
-      "original_summary": "Today was the deadline for Google to reveal how it's complying with Judge James Donato's order to crack open Android for third-party app stores, stop illegally tying its Google Play Billing system to its app store, and let developers link to ways to download their apps outside the Play Store in the ",
-      "fantasy_headline": "Royal Archive Demands Gold for Linking Enchantments",
-      "fantasy_story": "The Grand Royal Archive of Enchantments has revealed new dictates. Scribes' Guilds must now pay a few gold coins for each magical scroll linked from the archive's own register. This decision follows a Royal Magistrate's decree to open more pathways for sharing rare enchantments.",
+      "reason": "",
+      "original_headline": "The 98% mystery: Scientists just cracked the code on “junk DNA” linked to Alzheimer’s",
+      "original_summary": "Researchers have revealed that so-called “junk DNA” contains powerful switches that help control brain cells linked to Alzheimer’s disease. By experimentally testing nearly 1,000 DNA switches in human astrocytes, scientists identified around 150 that truly influence gene activity—many tied to known ",
+      "fantasy_headline": "Alchemists Uncover Hidden Runes in Life's Tapestry, Linked to Fading Minds.",
+      "fantasy_story": "The Grand Guild of Alchemists has unveiled a profound secret within the body's hidden scripts, finding powerful activation sigils that control the mind-gems. These runes, once deemed meaningless, now show a connection to the fading mind blight. Their discovery brings new hope for understanding this mysterious ailment.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/transportation/846783/rivian-ai-autonomy-day-self-driving-lidar-chip-tesla",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Rivian’s AI pivot is about more than chasing Tesla",
+      "original_summary": "RJ Scaringe is sitting in Rivian's Palo Alto offices, explaining why the adventure-themed EV company suddenly decided to build its own self-driving cars, when an unexpected guest glides by the window outside: Waymo. A robotaxi from the Alphabet-owned company pulls up outside the office. The passenge",
+      "fantasy_headline": "Rivian Clan Forges Own Spirit-Guided Chariots, Not Just Chasing Tesla.",
+      "fantasy_story": "The Rivian Clan of Artisans, known for their rugged enchanted carriages, now seeks to forge their own mind-driven wagons. Their chieftain, RJ Scaringe, explained this grand undertaking at their Palo Alto workshop. This bold move aims for true magical innovation, not merely to rival the Tesla Guild's swift conveyances.",
       "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/news/848548/google-youtube-movies-anywhere-back-return",
+      "id": "https://www.theverge.com/games/848449/nex-playground-review-nintendo-wii-microsoft-kinect-motion-tracking-camera",
       "status": "published",
-      "reason": null,
-      "original_headline": "Google is part of Movies Anywhere again",
-      "original_summary": "Google is once again part of Movies Anywhere, meaning that movies you've purchased from Google Play and YouTube will now show up as part of your Movies Anywhere collection. Films from Google Play and YouTube became unavailable on Movies Anywhere on October 31st, but now they should sync to your acco",
-      "fantasy_headline": "Chroniclers' Guild Rejoins Infinite Scroll Repository",
-      "fantasy_story": "The Grand Chroniclers' Guild has proudly rejoined the Infinite Scroll Repository! This means all the moving pictures and ancient sagas acquired from the Whispering Crystal Scryer will now appear in your personal collection. These treasured tales were briefly lost but are now syncing once more for all to enjoy.",
+      "reason": "",
+      "original_headline": "The sold-out Nex Playground made my kids laugh and cry",
+      "original_summary": "If you told me last year the Nex Playground would outsell Microsoft's Xbox, even for two weeks, I would have laughed my way out of the room. It's a three-inch cube of a game console that's likely less powerful than your phone, one which uses a single camera to track your body. It only plays […]",
+      "fantasy_headline": "Nex's Enchanted Play-Cube Sells Out, Delighting Young Lords and Ladies.",
+      "fantasy_story": "The realm is abuzz with tales of Nex's Enchanted Play-Cube, a sold-out artifact that brings great joy to young lords and ladies. This small mimicry-cube, no larger than a fist, uses a magic scrying orb to mirror a player's movements. Its popularity even outshone Mastersoft's grand X-Box contraption for a time.",
       "tag": "magic"
     }
   ]
