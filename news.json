@@ -1,44 +1,44 @@
 {
-  "last_updated": "2025-12-21 08:26:17",
+  "last_updated": "2025-12-21 12:38:55",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251220104621.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "What scientists found inside Titan was not what anyone expected",
       "original_summary": "For years, scientists thought Saturn’s moon Titan hid a global ocean beneath its frozen surface. A new look at Cassini data now suggests something very different: a thick, slushy interior with pockets of liquid water rather than an open sea. A subtle delay in how Titan deforms under Saturn’s gravity",
-      "fantasy_headline": "Wizards Discover Icy Slush, Not Ocean, Within Frozen Moon-World!",
-      "fantasy_story": "For ages, Royal Astrologers believed the distant frozen sphere of Titan held a great ocean beneath its icy crust. Now, new insights from ancient star charts suggest a different truth. Instead of an open sea, Titan hides a thick, slushy heart with many hidden pools of liquid, revealed by the celestial sphere's subtle shivers under the Great Titan's pull.",
+      "fantasy_headline": "The Chilly Moon of the Ringed Giant Hides a Slushy Heart.",
+      "fantasy_story": "For ages, star-gazing wizards believed Titan's Orb held a grand hidden sea beneath its icy shell. Now, ancient scrying records reveal a surprise: not an open ocean, but a deep, swirling frost with scattered pools of living water. The Ringed Giant's pull gently shapes its mysterious core.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251219093322.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251219093328.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "This “mushroom” is not a fungus, it’s a bizarre plant that breaks all the rules",
-      "original_summary": "Balanophora is a plant that abandoned photosynthesis long ago and now lives entirely as a parasite on tree roots, hidden in dark forest undergrowth. Scientists surveying rare populations across East Asian islands uncovered how its cellular machinery shrank but didn’t disappear, revealing unexpected ",
-      "fantasy_headline": "Forest Sages Find Bizarre Root-Flower That Mimics Fungi!",
-      "fantasy_story": "Deep within the shadowed undergrowth, Forest Sages have discovered a peculiar root-flower, known as Balanophora, which defies all normal plant magic. Long ago, it abandoned the sun's light and now draws its life directly from the roots of ancient trees. Its inner workings have shrunken and changed in unexpected ways.",
-      "tag": "nature"
+      "reason": null,
+      "original_headline": "Scientists unlocked a superconductor mystery under crushing pressure",
+      "original_summary": "Superconductors promise loss-free electricity, but most only work at extreme cold. Hydrogen-rich materials changed that—yet their inner workings remained hidden because they only exist under enormous pressure. Now, researchers have directly measured the superconducting state of hydrogen sulfide usin",
+      "fantasy_headline": "Alchemists Uncover Perfect Magic Flow's Secret Under Vast Pressure.",
+      "fantasy_story": "The Alchemists' Guild seeks to create conduits of perfect arcane flow, but most only work in frozen wastes. New materials, imbued with the essence of mist, offered hope, yet their secrets remained locked away by mountains' crushing embrace. Now, arcane researchers have finally revealed the true nature of this perfect flow, hidden deep within foul-smelling crystals.",
+      "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "The Verge’s 2025 holiday gift guide",
       "original_summary": "The holidays have a way of sneaking up on us. One minute you're trick-or-treating with your kids, and the next you're panic shopping in a Buc-ee's gift aisle. But it doesn't have to be that way. With the right cheat sheet, you can keep the holiday spirit high and stress levels low. Fortunately, we d",
-      "fantasy_headline": "A Merchant's Scroll for Stress-Free Midwinter Festival Offerings!",
-      "fantasy_story": "The Midwinter Festival always arrives swiftly, catching many unprepared for the giving of gifts. Fear not, for the Grand Guild of Merchants has prepared a special scroll! This guide will help all folk find the perfect wares and enchantments for their loved ones, ensuring high spirits and low worries during the festive season.",
+      "fantasy_headline": "The Grand Merchant's Scroll of Wondrous Festival Offerings.",
+      "fantasy_story": "The Winter Festival arrives swiftly, often catching folk unprepared! No need to panic or scramble for treasures. With this helpful scroll from the Grand Merchant's Guild, you can fill your coffers with joy and banish all woes. Discover the finest wares for every guild and family.",
       "tag": "merchants"
     },
     {
       "id": "https://www.theverge.com/gadgets/848353/sony-wh-1000xm5-headphones-amazon-kindle-deal-sale",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Sony’s XM5 headphones and the latest Kindle round out this week’s best deals",
       "original_summary": "If you’re feeling the stress of having procrastinated on your holiday shopping — and you missed out during Black Friday and Cyber Monday — we’ve got you. We’ve found a variety of gadgets on sale that make for great gifts, many of which will ship in time for the holidays. One of the standouts is […]",
-      "fantasy_headline": "Great Merchant Bargains on Whispering Shells and Lore-Tablets!",
-      "fantasy_story": "For those who missed the Great Bazaar of Bargains, fear not! Merchants are offering wondrous new discounts on enchanted artifacts just in time for the Midwinter Festival. Discover the finest Whispering Shells of Sony Clan and the newest Lore-Tablets, ensuring swift delivery for all your festive giving needs.",
+      "fantasy_headline": "Clan Sonar's Whispering Shells and Lore-Slates Now at Great Value.",
+      "fantasy_story": "Did you miss the Festival of Shadows or the Great Bazaar Day for finding treasures? Fear not, for the Merchants' Guild has unearthed new wonders! Clan Sonar's Whispering Ear-shells and the Glimmering Lore-Slate of Endless Tales are offered at reduced prices. These wondrous artifacts make perfect gifts for the upcoming Solstice celebrations!",
       "tag": "merchants"
     }
   ]
