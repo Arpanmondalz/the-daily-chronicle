@@ -1,35 +1,45 @@
 {
-  "last_updated": "2025-12-20 12:37:58",
+  "last_updated": "2025-12-21 01:46:29",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251219093315.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251220104621.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "The 98% mystery: Scientists just cracked the code on “junk DNA” linked to Alzheimer’s",
-      "original_summary": "Researchers have revealed that so-called “junk DNA” contains powerful switches that help control brain cells linked to Alzheimer’s disease. By experimentally testing nearly 1,000 DNA switches in human astrocytes, scientists identified around 150 that truly influence gene activity—many tied to known ",
-      "fantasy_headline": "Alchemists Uncover Hidden Runes in Life's Tapestry, Linked to Fading Minds.",
-      "fantasy_story": "The Grand Guild of Alchemists has unveiled a profound secret within the body's hidden scripts, finding powerful activation sigils that control the mind-gems. These runes, once deemed meaningless, now show a connection to the fading mind blight. Their discovery brings new hope for understanding this mysterious ailment.",
+      "reason": null,
+      "original_headline": "What scientists found inside Titan was not what anyone expected",
+      "original_summary": "For years, scientists thought Saturn’s moon Titan hid a global ocean beneath its frozen surface. A new look at Cassini data now suggests something very different: a thick, slushy interior with pockets of liquid water rather than an open sea. A subtle delay in how Titan deforms under Saturn’s gravity",
+      "fantasy_headline": "Alchemists Uncover Slushy Secret Within Distant Icy Sphere",
+      "fantasy_story": "For ages, the Sky-Gazers' Guild believed a vast ocean lay beneath the frozen shell of the distant icy sphere known as Titan. But new insights from enchanted looking-glasses reveal a different truth. It seems Titan's heart is a thick, slushy realm, holding many hidden pockets of liquid rather than an open sea.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/transportation/846783/rivian-ai-autonomy-day-self-driving-lidar-chip-tesla",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251219093322.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Rivian’s AI pivot is about more than chasing Tesla",
-      "original_summary": "RJ Scaringe is sitting in Rivian's Palo Alto offices, explaining why the adventure-themed EV company suddenly decided to build its own self-driving cars, when an unexpected guest glides by the window outside: Waymo. A robotaxi from the Alphabet-owned company pulls up outside the office. The passenge",
-      "fantasy_headline": "Rivian Clan Forges Own Spirit-Guided Chariots, Not Just Chasing Tesla.",
-      "fantasy_story": "The Rivian Clan of Artisans, known for their rugged enchanted carriages, now seeks to forge their own mind-driven wagons. Their chieftain, RJ Scaringe, explained this grand undertaking at their Palo Alto workshop. This bold move aims for true magical innovation, not merely to rival the Tesla Guild's swift conveyances.",
+      "reason": null,
+      "original_headline": "This “mushroom” is not a fungus, it’s a bizarre plant that breaks all the rules",
+      "original_summary": "Balanophora is a plant that abandoned photosynthesis long ago and now lives entirely as a parasite on tree roots, hidden in dark forest undergrowth. Scientists surveying rare populations across East Asian islands uncovered how its cellular machinery shrank but didn't disappear, revealing unexpected ",
+      "fantasy_headline": "Mysterious Root-Dweller: A Plant That Spurns Sunlight",
+      "fantasy_story": "The Botanists' Guild has documented a truly bizarre flora known as Balanophora. This strange growth long ago ceased to draw power from the sun, instead living as a root-leech, hidden deep within the forest's gloom. Wizards studying its inner workings found its magic dwindled but never vanished, revealing unexpected secrets of life.",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
+      "status": "published",
+      "reason": null,
+      "original_headline": "The Verge’s 2025 holiday gift guide",
+      "original_summary": "The holidays have a way of sneaking up on us. One minute you're trick-or-treating with your kids, and the next you're panic shopping in a Buc-ee's gift aisle. But it doesn't have to be that way. With the right cheat sheet, you can keep the holiday spirit high and stress levels low. Fortunately, we d",
+      "fantasy_headline": "Merchants' Guild Presents: The Grand Winter Feast Gifting Scroll",
+      "fantasy_story": "The Grand Winter Feast always seems to arrive swiftly, leaving many scrambling for gifts! Fear not, for the Merchants' Guild has compiled a most helpful Gifting Scroll. This enchanted list will guide you to wonderful treasures, ensuring joyous celebrations and much less worry.",
       "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/games/848449/nex-playground-review-nintendo-wii-microsoft-kinect-motion-tracking-camera",
+      "id": "https://www.theverge.com/gadgets/848353/sony-wh-1000xm5-headphones-amazon-kindle-deal-sale",
       "status": "published",
-      "reason": "",
-      "original_headline": "The sold-out Nex Playground made my kids laugh and cry",
-      "original_summary": "If you told me last year the Nex Playground would outsell Microsoft's Xbox, even for two weeks, I would have laughed my way out of the room. It's a three-inch cube of a game console that's likely less powerful than your phone, one which uses a single camera to track your body. It only plays […]",
-      "fantasy_headline": "Nex's Enchanted Play-Cube Sells Out, Delighting Young Lords and Ladies.",
-      "fantasy_story": "The realm is abuzz with tales of Nex's Enchanted Play-Cube, a sold-out artifact that brings great joy to young lords and ladies. This small mimicry-cube, no larger than a fist, uses a magic scrying orb to mirror a player's movements. Its popularity even outshone Mastersoft's grand X-Box contraption for a time.",
-      "tag": "magic"
+      "reason": null,
+      "original_headline": "Sony’s XM5 headphones and the latest Kindle round out this week’s best deals",
+      "original_summary": "If you’re feeling the stress of having procrastinated on your holiday shopping — and you missed out during Black Friday and Cyber Monday — we’ve got you. We’ve found a variety of gadgets on sale that make for great gifts, many of which will ship in time for the holidays. One of the standouts is […]\n",
+      "fantasy_headline": "Rare Deals on Wondrous Artifacts Before Winter Feast",
+      "fantasy_story": "For those who missed the Grand Market Days, worry not! Merchants are offering special prices on many wondrous artifacts before the Winter Feast. Find enchanted ear-muffs of supreme quiet and reading tablets that hold countless tales. These fine deals will ensure your gifts arrive in time for the celebrations.",
+      "tag": "merchants"
     }
   ]
 }
