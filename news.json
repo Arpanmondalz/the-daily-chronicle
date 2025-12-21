@@ -1,44 +1,44 @@
 {
-  "last_updated": "2025-12-21 01:46:29",
+  "last_updated": "2025-12-21 08:26:17",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251220104621.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "What scientists found inside Titan was not what anyone expected",
       "original_summary": "For years, scientists thought Saturn’s moon Titan hid a global ocean beneath its frozen surface. A new look at Cassini data now suggests something very different: a thick, slushy interior with pockets of liquid water rather than an open sea. A subtle delay in how Titan deforms under Saturn’s gravity",
-      "fantasy_headline": "Alchemists Uncover Slushy Secret Within Distant Icy Sphere",
-      "fantasy_story": "For ages, the Sky-Gazers' Guild believed a vast ocean lay beneath the frozen shell of the distant icy sphere known as Titan. But new insights from enchanted looking-glasses reveal a different truth. It seems Titan's heart is a thick, slushy realm, holding many hidden pockets of liquid rather than an open sea.",
+      "fantasy_headline": "Wizards Discover Icy Slush, Not Ocean, Within Frozen Moon-World!",
+      "fantasy_story": "For ages, Royal Astrologers believed the distant frozen sphere of Titan held a great ocean beneath its icy crust. Now, new insights from ancient star charts suggest a different truth. Instead of an open sea, Titan hides a thick, slushy heart with many hidden pools of liquid, revealed by the celestial sphere's subtle shivers under the Great Titan's pull.",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251219093322.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "This “mushroom” is not a fungus, it’s a bizarre plant that breaks all the rules",
-      "original_summary": "Balanophora is a plant that abandoned photosynthesis long ago and now lives entirely as a parasite on tree roots, hidden in dark forest undergrowth. Scientists surveying rare populations across East Asian islands uncovered how its cellular machinery shrank but didn't disappear, revealing unexpected ",
-      "fantasy_headline": "Mysterious Root-Dweller: A Plant That Spurns Sunlight",
-      "fantasy_story": "The Botanists' Guild has documented a truly bizarre flora known as Balanophora. This strange growth long ago ceased to draw power from the sun, instead living as a root-leech, hidden deep within the forest's gloom. Wizards studying its inner workings found its magic dwindled but never vanished, revealing unexpected secrets of life.",
+      "original_summary": "Balanophora is a plant that abandoned photosynthesis long ago and now lives entirely as a parasite on tree roots, hidden in dark forest undergrowth. Scientists surveying rare populations across East Asian islands uncovered how its cellular machinery shrank but didn’t disappear, revealing unexpected ",
+      "fantasy_headline": "Forest Sages Find Bizarre Root-Flower That Mimics Fungi!",
+      "fantasy_story": "Deep within the shadowed undergrowth, Forest Sages have discovered a peculiar root-flower, known as Balanophora, which defies all normal plant magic. Long ago, it abandoned the sun's light and now draws its life directly from the roots of ancient trees. Its inner workings have shrunken and changed in unexpected ways.",
       "tag": "nature"
     },
     {
       "id": "https://www.theverge.com/tech/809421/holiday-gift-guide-2025",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "The Verge’s 2025 holiday gift guide",
       "original_summary": "The holidays have a way of sneaking up on us. One minute you're trick-or-treating with your kids, and the next you're panic shopping in a Buc-ee's gift aisle. But it doesn't have to be that way. With the right cheat sheet, you can keep the holiday spirit high and stress levels low. Fortunately, we d",
-      "fantasy_headline": "Merchants' Guild Presents: The Grand Winter Feast Gifting Scroll",
-      "fantasy_story": "The Grand Winter Feast always seems to arrive swiftly, leaving many scrambling for gifts! Fear not, for the Merchants' Guild has compiled a most helpful Gifting Scroll. This enchanted list will guide you to wonderful treasures, ensuring joyous celebrations and much less worry.",
+      "fantasy_headline": "A Merchant's Scroll for Stress-Free Midwinter Festival Offerings!",
+      "fantasy_story": "The Midwinter Festival always arrives swiftly, catching many unprepared for the giving of gifts. Fear not, for the Grand Guild of Merchants has prepared a special scroll! This guide will help all folk find the perfect wares and enchantments for their loved ones, ensuring high spirits and low worries during the festive season.",
       "tag": "merchants"
     },
     {
       "id": "https://www.theverge.com/gadgets/848353/sony-wh-1000xm5-headphones-amazon-kindle-deal-sale",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Sony’s XM5 headphones and the latest Kindle round out this week’s best deals",
-      "original_summary": "If you’re feeling the stress of having procrastinated on your holiday shopping — and you missed out during Black Friday and Cyber Monday — we’ve got you. We’ve found a variety of gadgets on sale that make for great gifts, many of which will ship in time for the holidays. One of the standouts is […]\n",
-      "fantasy_headline": "Rare Deals on Wondrous Artifacts Before Winter Feast",
-      "fantasy_story": "For those who missed the Grand Market Days, worry not! Merchants are offering special prices on many wondrous artifacts before the Winter Feast. Find enchanted ear-muffs of supreme quiet and reading tablets that hold countless tales. These fine deals will ensure your gifts arrive in time for the celebrations.",
+      "original_summary": "If you’re feeling the stress of having procrastinated on your holiday shopping — and you missed out during Black Friday and Cyber Monday — we’ve got you. We’ve found a variety of gadgets on sale that make for great gifts, many of which will ship in time for the holidays. One of the standouts is […]",
+      "fantasy_headline": "Great Merchant Bargains on Whispering Shells and Lore-Tablets!",
+      "fantasy_story": "For those who missed the Great Bazaar of Bargains, fear not! Merchants are offering wondrous new discounts on enchanted artifacts just in time for the Midwinter Festival. Discover the finest Whispering Shells of Sony Clan and the newest Lore-Tablets, ensuring swift delivery for all your festive giving needs.",
       "tag": "merchants"
     }
   ]
