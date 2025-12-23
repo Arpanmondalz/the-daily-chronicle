@@ -1,35 +1,35 @@
 {
-  "last_updated": "2025-12-23 08:29:52",
+  "last_updated": "2025-12-23 12:43:14",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251222080127.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Why evolution rewarded ants that sacrificed protection",
       "original_summary": "Some ants thrive by choosing numbers over strength. Instead of heavily protecting each worker, they invest fewer resources in individual armor and produce far more ants. Larger colonies then compensate with collective behaviors like group defense and coordinated foraging. The strategy has been linke",
-      "fantasy_headline": "Secret of the Ant Kingdoms: Many Little Warriors, Not Heavily Armored",
-      "fantasy_story": "The Ant Clans have a curious battle strategy! Instead of giving each worker ant thick armor, they choose to birth many more tiny, nimble warriors. These vast swarms then use clever group tactics for defense and finding food, proving that strength in numbers can conquer all.",
+      "fantasy_headline": "Nature's Wisdom: Tiny Ant-Folk Thrive by Choosing Many Over Mighty!",
+      "fantasy_story": "The wise elders of the Ant-Folk clans have observed a curious truth: some thrive by raising more kin instead of armoring each one heavily. These larger clans pool their strength, weaving complex group defenses and hunting together. It seems the Grand Design favors numbers and shared magic for survival.",
       "tag": "nature"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251222080119.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "A new drug could stop Alzheimer’s before memory loss begins",
       "original_summary": "New research suggests Alzheimer’s may start far earlier than previously thought, driven by a hidden toxic protein in the brain. Scientists found that an experimental drug, NU-9, blocks this early damage in mice and reduces inflammation linked to disease progression. The treatment was given before sy",
-      "fantasy_headline": "Alchemists Brew Potion to Ward Off Memory-Fading Curse",
-      "fantasy_story": "The Grand Alchemists have crafted a hopeful new potion! It seems the dreaded memory-fading curse begins far earlier, caused by a hidden, foul miasma in the mind. This new elixir, tested on enchanted rodents, can block the early creeping damage and soothe the mind's troubled humors, before the curse truly takes hold.",
+      "fantasy_headline": "Healing Wizards Brew Elixir to Ward Off Mind's Fading Curse!",
+      "fantasy_story": "Master Alchemists have uncovered a hidden dark essence that threatens the mind's chamber, long before memory fades. They have brewed a potent new elixir, 'Nu-9,' which halted this creeping damage in small whisker-folk. This discovery offers hope to protect minds from the early whispers of the fading curse.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/news/849460/fcc-foreign-drone-ban-dji-congress-deadline",
+      "id": "https://www.theverge.com/tech/848916/dometic-recon-360-water-pump-review",
       "status": "published",
-      "reason": null,
-      "original_headline": "The FCC’s foreign drone ban is here",
-      "original_summary": "The Federal Communications Commission has banned new drones made in foreign countries from being imported into the US unless the Department of Defense or the Department of Homeland Security recommends them. Monday's action added drones to the FCC's Covered List, qualifying foreign-made drones and dr",
-      "fantasy_headline": "Royal Decree Limits Enchanted Scout-Birds from Foreign Lands",
-      "fantasy_story": "The Royal Council has issued a new decree regarding enchanted scout-birds! From this day forth, new flying artifacts crafted in faraway kingdoms may not enter the realm, unless expressly approved by the High Marshal's Guard or the Protectors of the Homeland. This measure aims to safeguard the kingdom's magical security.",
-      "tag": "kingdom"
+      "reason": "",
+      "original_headline": "Dometic makes a better portable water faucet",
+      "original_summary": "As a reluctant doomsday prepper and eager vanlifer, Dometic's battery-powered Go Faucet has, for the last few years, played a central role in my bougie bug-out kit and my camping rig's water system. So it took me all of two minutes with Dometic's new Recon 360 Faucet to realize it's an upgrade in ev",
+      "fantasy_headline": "The Hydrant Guild Unveils Improved Everflowing Spout for Wanderers!",
+      "fantasy_story": "For wanderers and caravan folk, the Hydrant Guild's rune-charged water spout has been a trusty companion. Now, their master enchanters have crafted an even better design, the 'Recon 360.' This new artifact promises even more reliable refreshment for journeys across the land.",
+      "tag": "merchants"
     }
   ]
 }
