@@ -1,45 +1,35 @@
 {
-  "last_updated": "2025-12-22 08:30:37",
+  "last_updated": "2025-12-23 08:29:52",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251221091246.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251222080127.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Study links full-fat cheese to lower dementia risk",
-      "original_summary": "Eating full-fat cheese and cream may be associated with a lower risk of dementia, according to a large study that tracked people for more than 25 years. Those who consumed higher amounts of these foods developed dementia less often than those who ate little or none. Interestingly, low-fat dairy prod",
-      "fantasy_headline": "New Discovery: Rich Cheese May Ward Off Fading Mind!",
-      "fantasy_story": "The Royal Wizards of the Culinary Arts have unveiled a surprising discovery! After observing many villagers for over two decades, their latest scrolls suggest that feasting upon rich, full-fat cheeses and creams might protect against the dreaded Clouding Sickness, a malady of the mind.",
+      "reason": null,
+      "original_headline": "Why evolution rewarded ants that sacrificed protection",
+      "original_summary": "Some ants thrive by choosing numbers over strength. Instead of heavily protecting each worker, they invest fewer resources in individual armor and produce far more ants. Larger colonies then compensate with collective behaviors like group defense and coordinated foraging. The strategy has been linke",
+      "fantasy_headline": "Secret of the Ant Kingdoms: Many Little Warriors, Not Heavily Armored",
+      "fantasy_story": "The Ant Clans have a curious battle strategy! Instead of giving each worker ant thick armor, they choose to birth many more tiny, nimble warriors. These vast swarms then use clever group tactics for defense and finding food, proving that strength in numbers can conquer all.",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/12/251222080119.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "A new drug could stop Alzheimer’s before memory loss begins",
+      "original_summary": "New research suggests Alzheimer’s may start far earlier than previously thought, driven by a hidden toxic protein in the brain. Scientists found that an experimental drug, NU-9, blocks this early damage in mice and reduces inflammation linked to disease progression. The treatment was given before sy",
+      "fantasy_headline": "Alchemists Brew Potion to Ward Off Memory-Fading Curse",
+      "fantasy_story": "The Grand Alchemists have crafted a hopeful new potion! It seems the dreaded memory-fading curse begins far earlier, caused by a hidden, foul miasma in the mind. This new elixir, tested on enchanted rodents, can block the early creeping damage and soothe the mind's troubled humors, before the curse truly takes hold.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251221091237.htm",
+      "id": "https://www.theverge.com/news/849460/fcc-foreign-drone-ban-dji-congress-deadline",
       "status": "published",
-      "reason": "",
-      "original_headline": "This AI finds simple rules where humans see only chaos",
-      "original_summary": "A new AI developed at Duke University can uncover simple, readable rules behind extremely complex systems. It studies how systems evolve over time and reduces thousands of variables into compact equations that still capture real behavior. The method works across physics, engineering, climate science",
-      "fantasy_headline": "Mystic Oracle Reveals Hidden Truths in Chaotic Spells!",
-      "fantasy_story": "Wizards at the Grand Academy of Duke have crafted a marvelous new enchanted automaton! This mystic oracle can discern simple, hidden patterns within even the most chaotic enchantments and tangled realities. It reduces countless magical threads into elegant runes, revealing the true nature of the cosmos, crafted artifacts, and changing seasons.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/24343913/paypal-honey-megalag-coupon-scam-affiliate-fees",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Honey: all the news about PayPal’s alleged scam coupon app",
-      "original_summary": "PayPal’s Honey browser extension has been lauded for years as an easy way to find coupons online. But some are calling it a “scam” after a deep dive from YouTuber MegaLag, who accused Honey of “stealing money from influencers,” and returned one year later with a second video that says Honey targeted",
-      "fantasy_headline": "Honey Charm Accused of Deceiving Bards of the Etherweaves!",
-      "fantasy_story": "The Honey Charm, a popular enchanted scroll offered by the Grand Merchant's Guild of Pay'Pal, has long been praised for finding bargain scrolls. However, the wandering bard MegaLag now claims it practices trickery, unjustly claiming gold from famed storytellers of the Etherweaves. Many now question the charm's true intentions.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/news/848843/waymo-san-francisco-power-outage",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Frozen Waymos backed up San Francisco traffic during a widespread power outage",
-      "original_summary": "A power outage struck San Francisco on Saturday that blacked out about 130,000 customers at its peak, according to Pacific Gas and Electric Company, but also caused another problem: stranded Waymo vehicles. Posts all over social media showed the company's autonomous SUVs sitting still in the streets",
-      "fantasy_headline": "Arcane Darkness Strands Waymo Golems in Sanctus Francisco!",
-      "fantasy_story": "A sudden arcane darkness swept over the Great City of Sanctus Francisco, leaving countless households in gloom. This magical blight also brought Waymo's enchanted carriages to a halt! Many folk shared crystal orb visions of the driverless chariots sitting motionless in the streets, causing great confusion in the city's thoroughfares.",
-      "tag": "magic"
+      "reason": null,
+      "original_headline": "The FCC’s foreign drone ban is here",
+      "original_summary": "The Federal Communications Commission has banned new drones made in foreign countries from being imported into the US unless the Department of Defense or the Department of Homeland Security recommends them. Monday's action added drones to the FCC's Covered List, qualifying foreign-made drones and dr",
+      "fantasy_headline": "Royal Decree Limits Enchanted Scout-Birds from Foreign Lands",
+      "fantasy_story": "The Royal Council has issued a new decree regarding enchanted scout-birds! From this day forth, new flying artifacts crafted in faraway kingdoms may not enter the realm, unless expressly approved by the High Marshal's Guard or the Protectors of the Homeland. This measure aims to safeguard the kingdom's magical security.",
+      "tag": "kingdom"
     }
   ]
 }
