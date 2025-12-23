@@ -1,35 +1,25 @@
 {
-  "last_updated": "2025-12-23 12:43:14",
+  "last_updated": "2025-12-23 16:27:22",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251222080127.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Why evolution rewarded ants that sacrificed protection",
       "original_summary": "Some ants thrive by choosing numbers over strength. Instead of heavily protecting each worker, they invest fewer resources in individual armor and produce far more ants. Larger colonies then compensate with collective behaviors like group defense and coordinated foraging. The strategy has been linke",
-      "fantasy_headline": "Nature's Wisdom: Tiny Ant-Folk Thrive by Choosing Many Over Mighty!",
-      "fantasy_story": "The wise elders of the Ant-Folk clans have observed a curious truth: some thrive by raising more kin instead of armoring each one heavily. These larger clans pool their strength, weaving complex group defenses and hunting together. It seems the Grand Design favors numbers and shared magic for survival.",
+      "fantasy_headline": "Tiny Legions Flourish by Favoring Numbers Over Heavy Armor!",
+      "fantasy_story": "Nature's sages have observed a peculiar wisdom among certain ant legions. These colonies choose to raise vast numbers of kin rather than heavily armoring each worker. Their strength lies in collective might and clever group tactics, allowing them to defend their tunnels and gather provisions more effectively.",
       "tag": "nature"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251222080119.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "A new drug could stop Alzheimer’s before memory loss begins",
       "original_summary": "New research suggests Alzheimer’s may start far earlier than previously thought, driven by a hidden toxic protein in the brain. Scientists found that an experimental drug, NU-9, blocks this early damage in mice and reduces inflammation linked to disease progression. The treatment was given before sy",
-      "fantasy_headline": "Healing Wizards Brew Elixir to Ward Off Mind's Fading Curse!",
-      "fantasy_story": "Master Alchemists have uncovered a hidden dark essence that threatens the mind's chamber, long before memory fades. They have brewed a potent new elixir, 'Nu-9,' which halted this creeping damage in small whisker-folk. This discovery offers hope to protect minds from the early whispers of the fading curse.",
+      "fantasy_headline": "Grand Alchemists Brew Elixir to Guard Minds from the Fading Curse!",
+      "fantasy_story": "The Grand Alchemists' Guild has unveiled a promising new elixir to combat the dreaded Fading Mind's Curse. They believe this blight begins long before memories vanish, caused by a dark miasma within the mind's labyrinth. Early tests show the potent potion, named 'Nu-9,' can halt this corruption and soothe the mind's inner turmoil, offering hope against forgetfulness.",
       "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/tech/848916/dometic-recon-360-water-pump-review",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Dometic makes a better portable water faucet",
-      "original_summary": "As a reluctant doomsday prepper and eager vanlifer, Dometic's battery-powered Go Faucet has, for the last few years, played a central role in my bougie bug-out kit and my camping rig's water system. So it took me all of two minutes with Dometic's new Recon 360 Faucet to realize it's an upgrade in ev",
-      "fantasy_headline": "The Hydrant Guild Unveils Improved Everflowing Spout for Wanderers!",
-      "fantasy_story": "For wanderers and caravan folk, the Hydrant Guild's rune-charged water spout has been a trusty companion. Now, their master enchanters have crafted an even better design, the 'Recon 360.' This new artifact promises even more reliable refreshment for journeys across the land.",
-      "tag": "merchants"
     }
   ]
 }
