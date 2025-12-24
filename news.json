@@ -1,25 +1,35 @@
 {
-  "last_updated": "2025-12-23 16:27:22",
+  "last_updated": "2025-12-24 08:29:20",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251222080127.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251223084615.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Why evolution rewarded ants that sacrificed protection",
-      "original_summary": "Some ants thrive by choosing numbers over strength. Instead of heavily protecting each worker, they invest fewer resources in individual armor and produce far more ants. Larger colonies then compensate with collective behaviors like group defense and coordinated foraging. The strategy has been linke",
-      "fantasy_headline": "Tiny Legions Flourish by Favoring Numbers Over Heavy Armor!",
-      "fantasy_story": "Nature's sages have observed a peculiar wisdom among certain ant legions. These colonies choose to raise vast numbers of kin rather than heavily armoring each worker. Their strength lies in collective might and clever group tactics, allowing them to defend their tunnels and gather provisions more effectively.",
+      "original_headline": "Physicists found a way to make thermodynamics work in the quantum world",
+      "original_summary": "More than 200 years ago, Count Rumford showed that heat isn’t a mysterious substance but something you can generate endlessly through motion. That insight laid the foundation for thermodynamics, the rules that govern energy, work, and disorder. Now, researchers at the University of Basel are pushing",
+      "fantasy_headline": "Alchemists Uncover Ancient Magic of Heat and Motion!",
+      "fantasy_story": "Long ago, the esteemed Count Rumford showed that heat is not a mystical essence but can be conjured endlessly through simple movement. This wisdom formed the bedrock for understanding how energy and disorder behave. Now, wise alchemists are applying these profound principles to the very fabric of tiny spirit particles.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/12/251223043938.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Your roommate’s genes may be shaping your gut bacteria",
+      "original_summary": "Scientists studying thousands of rats discovered that gut bacteria are shaped by both personal genetics and the genetics of social partners. Some genes promote certain microbes that can spread between individuals living together. When researchers accounted for this social sharing, genetic influence ",
+      "fantasy_headline": "Shared Quarters Share Tiny Belly Creatures, Say Healers!",
+      "fantasy_story": "Healers studying many rodents have found that the tiny creatures dwelling within one's belly are shaped by both personal bloodline magic and the bloodline magic of those living nearby. Certain family traits encourage specific microbes that can pass between companions in a dwelling. This reveals how intimately even our smallest beings are connected.",
       "tag": "nature"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251222080119.htm",
+      "id": "https://www.theverge.com/entertainment/848379/pluribus-review-season-1-finale",
       "status": "published",
       "reason": null,
-      "original_headline": "A new drug could stop Alzheimer’s before memory loss begins",
-      "original_summary": "New research suggests Alzheimer’s may start far earlier than previously thought, driven by a hidden toxic protein in the brain. Scientists found that an experimental drug, NU-9, blocks this early damage in mice and reduces inflammation linked to disease progression. The treatment was given before sy",
-      "fantasy_headline": "Grand Alchemists Brew Elixir to Guard Minds from the Fading Curse!",
-      "fantasy_story": "The Grand Alchemists' Guild has unveiled a promising new elixir to combat the dreaded Fading Mind's Curse. They believe this blight begins long before memories vanish, caused by a dark miasma within the mind's labyrinth. Early tests show the potent potion, named 'Nu-9,' can halt this corruption and soothe the mind's inner turmoil, offering hope against forgetfulness.",
-      "tag": "magic"
+      "original_headline": "The Pluribus finale showed there&#8217;s a lot more to the story",
+      "original_summary": "It's a good thing that we already know a second season of Pluribus is on the way. Because the season finale for the show - a sci-fi drama on Apple TV, helmed by Breaking Bad creator Vince Gilligan - made it clear that things are just getting started. The episode brought together a number of […]",
+      "fantasy_headline": "The Great Saga of Pluribus Hints at Many Untold Chapters Ahead!",
+      "fantasy_story": "It gladdens the heart that the grand saga of Pluribus shall continue with a new chapter. The final viewing of this first part, crafted by the master storyteller Vince Gilligan for the Guild of Scribes, made it clear the tale has only just begun. Many threads were brought together, promising more adventures to come.",
+      "tag": "kingdom"
     }
   ]
 }
