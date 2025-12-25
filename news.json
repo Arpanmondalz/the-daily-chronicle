@@ -1,44 +1,44 @@
 {
-  "last_updated": "2025-12-25 01:42:11",
+  "last_updated": "2025-12-25 08:28:22",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251224032356.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251224032401.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "What you eat could decide the planet’s future",
-      "original_summary": "What we put on our plates may matter more for the climate than we realize. Researchers found that most people, especially in wealthy countries, are exceeding a “food emissions budget” needed to keep global warming below 2°C. Beef alone accounts for nearly half of food-related emissions in Canada. Sm",
-      "fantasy_headline": "Eating Habits Could Spell Fate for the Realm!",
-      "fantasy_story": "Wizards of the Elemental Circle warn that what folk feast upon greatly impacts the realm's balance. Many, especially in richer kingdoms, consume too much of certain foods. Large portions of dark meat alone generate immense magical imbalance, threatening our lands.",
-      "tag": "nature"
+      "reason": null,
+      "original_headline": "New technology eliminates “forever chemicals” with record-breaking speed and efficiency",
+      "original_summary": "A new eco-friendly technology can capture and destroy PFAS, the dangerous “forever chemicals” found worldwide in water. The material works hundreds to thousands of times faster and more efficiently than current filters, even in river water, tap water, and wastewater. After trapping the chemicals, th",
+      "fantasy_headline": "New Magic Vanishes Foul Water Essences Swiftly",
+      "fantasy_story": "The Alchemists' Guild has unveiled a powerful new enchantment that purifies water. This magic captures and banishes foul lingering essences, known as 'forever blights,' from rivers and wells. It works far faster than any previous purification spell, making water safe for all realms.",
+      "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251224032354.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251224032359.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Scientists reverse Alzheimer’s in mice and restore memory",
-      "original_summary": "Alzheimer’s has long been considered irreversible, but new research challenges that assumption. Scientists discovered that severe drops in the brain’s energy supply help drive the disease—and restoring that balance can reverse damage, even in advanced cases. In mouse models, treatment repaired brain",
-      "fantasy_headline": "Alchemists Discover Cure for Memory-Sapping Curse!",
-      "fantasy_story": "For ages, the memory-sapping curse was thought eternal. But skilled Alchemists have found its secret: a fading of the mind's magical essence. By restoring this essence, they can mend even dire cases, as shown on small enchanted creatures, bringing back lost memories.",
-      "tag": "magic"
+      "reason": null,
+      "original_headline": "Scientists say evolution works differently than we thought",
+      "original_summary": "A major evolutionary theory says most genetic changes don’t really matter, but new evidence suggests that’s not true. Researchers found that helpful mutations happen surprisingly often. The twist is that changing environments prevent these mutations from spreading widely before they become useless o",
+      "fantasy_headline": "Sages Uncover New Truths About Life's Shifting Forms",
+      "fantasy_story": "The Grand Sages of the Lyceum have revealed a fascinating insight into how life's forms change. It appears that helpful, hidden blessings arise more often than once believed. However, the ever-changing nature of the lands prevents these unique traits from spreading widely across the realms.",
+      "tag": "nature"
     },
     {
       "id": "https://www.theverge.com/gadgets/849637/anker-laptop-power-bank-xbox-series-x-deal-sale",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Anker’s beefy Laptop Power Bank has returned to its Black Friday low",
       "original_summary": "As you might expect, things have been relatively quiet on the deals front since Black Friday, particularly when it comes to discounts on charging accessories. Thankfully, Anker’s aptly titled Laptop Power Bank is once again on sale at Amazon and Walmart for $87.99 ($47 off), which matches the record",
-      "fantasy_headline": "Anker's Grand Portable Orb of Power Returns to Low Price!",
-      "fantasy_story": "After the bustling Winter Solstice Market, deals have been scarce for magical charging artifacts. Yet, Anker's esteemed Guild now offers their mighty Portable Orb of Power at a rare discount. You can find this powerful artifact at the Grand Trader's Outposts for eighty-seven gold coins.",
+      "fantasy_headline": "Anker Guild Offers Grand Bargain on Traveler's Power Orb!",
+      "fantasy_story": "The Anker Merchant Guild has once again presented a special offering for their remarkable Traveler's Power Orb. This potent artifact, which stores pure magical energy, is now available at a record low price. Many adventurers and scholars will find this a boon for their journeys across the lands.",
       "tag": "merchants"
     },
     {
       "id": "https://www.theverge.com/gadgets/684281/sony-playstation-5-ps5-pro-christmas-deal-sale-2025",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Sony’s souped-up PlayStation 5 Pro is $100 off for the rest of today",
       "original_summary": "Sony’s full suite of PlayStation 5 consoles jumped in price in August due to increased US tariffs, but now through Christmas, you can save $100 on several models. This discount is especially great if you planned to go big with Sony’s PS5 Pro, the company’s priciest, most powerful console yet. Normal",
-      "fantasy_headline": "Sony Clan's Grandest Scrying Pool Sees Price Drop!",
-      "fantasy_story": "The Sony Clan's arcane devices saw a price hike due to new kingdom tariffs. But now, for the duration of the Yule Festival, you can save a hundred gold coins. This grand discount applies especially to their potent PS5 Pro Scrying Pool, their most powerful viewing artifact.",
+      "fantasy_headline": "Sony Clan Lowers Price on Grand Scrying Orbs!",
+      "fantasy_story": "For the Winter Solstice Celebration, the Sony Clan of Enchanters has announced a special reduction on their wondrous Scrying Orbs. The mighty PS5 Pro model, known for its vivid visions and grand amusements, is now available for 100 gold coins less. This is a rare chance to acquire such a powerful enchanted artifact.",
       "tag": "merchants"
     }
   ]
