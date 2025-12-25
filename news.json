@@ -1,45 +1,45 @@
 {
-  "last_updated": "2025-12-25 12:41:07",
+  "last_updated": "2025-12-25 16:25:53",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/12/251225085728.htm",
+      "status": "published",
+      "reason": "",
+      "original_headline": "A Christmas tree 80 light-years wide appears in space",
+      "original_summary": "This Christmas, astronomers are highlighting a spectacular region of space that looks remarkably like a glowing holiday tree. Known as NGC 2264, this distant star-forming region sits about 2,700 light-years away and is filled with newborn stars lighting up clouds of gas and dust. The stars form a tr",
+      "fantasy_headline": "Celestial Sphere Reveals a Glowing Tree of Stars!",
+      "fantasy_story": "The Guild of Sky-Wizards has unveiled a wondrous sight in the Celestial Sphere! Far beyond the known realms, a vast region glows like an enchanted tree, made of newborn stars. These primal fires illuminate swirling clouds of cosmic dust, creating a spectacular and festive display for all to behold.",
+      "tag": "magic"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251225031247.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Scientists found a way to restore brain blood flow in dementia",
       "original_summary": "A new study suggests that dementia may be driven in part by faulty blood flow in the brain. Researchers found that losing a key lipid causes blood vessels to become overactive, disrupting circulation and starving brain tissue. When the missing molecule was restored, normal blood flow returned. This ",
-      "fantasy_headline": "Alchemists Discover Cure for Ailing Minds",
-      "fantasy_story": "The Alchemists' Guild has unveiled a wondrous new potion! They discovered that failing thoughts are caused by vital humours not flowing correctly in the skull. By restoring a missing precious essence, the normal flow of life-essence returns, mending the mind.",
+      "fantasy_headline": "Healers Uncover Cure for Fading Memory Sickness!",
+      "fantasy_story": "The Grand Guild of Healers has made a profound discovery regarding the Fading Memory Sickness. They found that a vital essence helps keep the mind's life-currents flowing smoothly. By restoring this missing essence, they could mend the troubled flow and bring clarity back to ailing minds.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251224032404.htm",
+      "id": "https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial",
       "status": "published",
-      "reason": null,
-      "original_headline": "What are asteroids really made of? New analysis brings space mining closer to reality",
-      "original_summary": "Scientists are digging into the hidden makeup of carbon-rich asteroids to see whether they could one day fuel space exploration—or even be mined for valuable resources. By analyzing rare meteorites that naturally fall to Earth, researchers have uncovered clues about the chemistry, history, and poten",
-      "fantasy_headline": "Wizards Study Sky-Stones for Celestial Treasures",
-      "fantasy_story": "The Royal Wizards are investigating the hidden makeup of dark, drifting sky-stones. They hope these celestial rocks could one day fuel grand journeys beyond the clouds or be harvested for precious ores. By analyzing fallen sky-fragments, they uncover clues about these magical elements.",
+      "reason": "",
+      "original_headline": "I re-created Google&#8217;s cute Gemini ad with my own kid&#8217;s stuffie, and I wish I hadn&#8217;t",
+      "original_summary": "When your kid starts showing a preference for one of their stuffed animals, you're supposed to buy a backup in case it goes missing. I've heard this advice again and again, but never got around to buying a second plush deer once \"Buddy\" became my son's obvious favorite. Neither, apparently, did the ",
+      "fantasy_headline": "A Parent's Regret: Not Duplicating a Beloved Plush Beastie!",
+      "fantasy_story": "A youngling's parent shared a tale of woe concerning a beloved plush beastie. Inspired by a merchant's moving picture show, they realized the peril of having only one treasured companion. Alas, the magic of duplication was never sought for the favored 'Buddy,' leading to future anxieties.",
+      "tag": "merchants"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Hollywood cozied up to AI in 2025 and had nothing good to show for it",
+      "original_summary": "AI isn't new to Hollywood - but this was the year when it really made its presence felt. For years now, the entertainment industry has used different kinds of generative AI products for a variety of post-production processes ranging from de-aging actors to removing green screen backgrounds. In many ",
+      "fantasy_headline": "Grand Storytelling Guild's Golem-Scribes Yield No Great Magic!",
+      "fantasy_story": "The Grand Storytelling Guild embraced the new Golem-Scribes for their moving parchment tales. These enchanted automatons could mask time's touch on performers and conjure illusions of other realms. Yet, despite much effort, the year concluded with little truly grand magic brought forth by these new artifacts.",
       "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/gadgets/849637/anker-laptop-power-bank-xbox-series-x-deal-sale",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Anker’s beefy Laptop Power Bank has returned to its Black Friday low",
-      "original_summary": "As you might expect, things have been relatively quiet on the deals front since Black Friday, particularly when it comes to discounts on charging accessories. Thankfully, Anker’s aptly titled Laptop Power Bank is once again on sale at Amazon and Walmart for $87.99 ($47 off), which matches the record",
-      "fantasy_headline": "Anker Clan's Portable Energy Crystal Returns to Sale",
-      "fantasy_story": "The Anker Clan's popular portable energy crystal is once again offered at a grand bargain! Since the Great Market Day, discounts have been rare on charging artifacts. Now, the crystal can be found in the Grand Marketplaces for only 87 gold coins and 99 copper pennies, a truly excellent deal.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/gadgets/684281/sony-playstation-5-ps5-pro-christmas-deal-sale-2025",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Sony’s souped-up PlayStation 5 Pro is $100 off for the rest of today",
-      "original_summary": "Sony’s full suite of PlayStation 5 consoles jumped in price in August due to increased US tariffs, but now through Christmas, you can save $100 on several models. This discount is especially great if you planned to go big with Sony’s PS5 Pro, the company’s priciest, most powerful console yet. Normal",
-      "fantasy_headline": "House of Sony Offers Yuletide Discount on Grand Scrying Orb",
-      "fantasy_story": "The House of Sony announces a special Yuletide saving on their grandest enchanted scrying orbs! After new taxes from the Western Kingdoms raised prices, you can now save 100 gold coins. This is a rare chance to acquire their most powerful orb of amusement.",
-      "tag": "merchants"
     }
   ]
 }
