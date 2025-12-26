@@ -1,24 +1,34 @@
 {
-  "last_updated": "2025-12-26 08:28:16",
+  "last_updated": "2025-12-26 12:41:13",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251225085728.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "A Christmas tree 80 light-years wide appears in space",
       "original_summary": "This Christmas, astronomers are highlighting a spectacular region of space that looks remarkably like a glowing holiday tree. Known as NGC 2264, this distant star-forming region sits about 2,700 light-years away and is filled with newborn stars lighting up clouds of gas and dust. The stars form a tr",
-      "fantasy_headline": "Celestial 'Yuletide Tree' Shines Bright in the Night Sky!",
-      "fantasy_story": "The esteemed Sky-Wizards have observed a wondrous new sight in the celestial tapestry. Far beyond the reach of any griffon, a magnificent formation of newborn celestial lights now glows like a giant Yuletide tree. It fills the distant cosmic mists with sparkling enchantment, a truly magical spectacle for all.",
+      "fantasy_headline": "Stargazers Behold a Colossal Yule Tree in the Celestial Expanse",
+      "fantasy_story": "The Grand Order of Stargazers recently unveiled a wondrous sight in the celestial realm. A vast, glowing form resembling a Yule tree has appeared among the distant sky-gems. This magical vision is made of nascent stars illuminating clouds of cosmic dust, a true spectacle for all.",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial",
+      "status": "published",
+      "reason": null,
+      "original_headline": "I re-created Google&#8217;s cute Gemini ad with my own kid&#8217;s stuffie, and I wish I hadn&#8217;t",
+      "original_summary": "When your kid starts showing a preference for one of their stuffed animals, you're supposed to buy a backup in case it goes missing. I've heard this advice again and again, but never got around to buying a second plush deer once \"Buddy\" became my son's obvious favorite. Neither, apparently, did the ",
+      "fantasy_headline": "A Parent's Magical Regret: No Twin for the Beloved Plush Deer",
+      "fantasy_story": "A local artisan attempted to recreate a popular illusion from the Wizards' Guild, featuring a child and their magical plush deer. However, the tale served as a stark reminder. When a child's heart chooses a comfort familiar, it is wise to consult the Replication Enchanters for a twin, lest sorrow befall the household if the original vanishes.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251225080729.htm",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025",
       "status": "published",
-      "reason": "",
-      "original_headline": "Astronomers discover one of the Universe’s largest spinning structures",
-      "original_summary": "Scientists have discovered a giant cosmic filament where galaxies spin in sync with the structure that holds them together. The razor-thin chain of galaxies sits inside a much larger filament that appears to be slowly rotating as a whole. This coordinated motion is far stronger than expected by chan",
-      "fantasy_headline": "Wizards Uncover Vast, Twirling Celestial Chain!",
-      "fantasy_story": "The wise Star-Sages have unveiled a colossal, swirling wonder within the cosmos! A long, thin chain of shimmering star-islands has been found, dancing in perfect unison with the mystical structure that binds them. This grand celestial ballet is a sight of immense power and mystery, far beyond common understanding.",
+      "reason": null,
+      "original_headline": "Hollywood cozied up to AI in 2025 and had nothing good to show for it",
+      "original_summary": "AI isn't new to Hollywood - but this was the year when it really made its presence felt. For years now, the entertainment industry has used different kinds of generative AI products for a variety of post-production processes ranging from de-aging actors to removing green screen backgrounds. In many ",
+      "fantasy_headline": "Bardic Guild's Artifice-Magic Experiments Yield No Grand Tales",
+      "fantasy_story": "This past year, the Grand Theatre Guild embraced the use of artifice-magic and enchanted automatons in their grand productions. While these arcane aids promised wonders, from age-reversing glamour spells to banishing verdant veils, the resulting shows were not met with the expected applause. It seems true magic still needs the touch of a living bard.",
       "tag": "magic"
     }
   ]
