@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-25 16:25:53",
+  "last_updated": "2025-12-26 08:28:16",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251225085728.htm",
@@ -7,38 +7,18 @@
       "reason": "",
       "original_headline": "A Christmas tree 80 light-years wide appears in space",
       "original_summary": "This Christmas, astronomers are highlighting a spectacular region of space that looks remarkably like a glowing holiday tree. Known as NGC 2264, this distant star-forming region sits about 2,700 light-years away and is filled with newborn stars lighting up clouds of gas and dust. The stars form a tr",
-      "fantasy_headline": "Celestial Sphere Reveals a Glowing Tree of Stars!",
-      "fantasy_story": "The Guild of Sky-Wizards has unveiled a wondrous sight in the Celestial Sphere! Far beyond the known realms, a vast region glows like an enchanted tree, made of newborn stars. These primal fires illuminate swirling clouds of cosmic dust, creating a spectacular and festive display for all to behold.",
+      "fantasy_headline": "Celestial 'Yuletide Tree' Shines Bright in the Night Sky!",
+      "fantasy_story": "The esteemed Sky-Wizards have observed a wondrous new sight in the celestial tapestry. Far beyond the reach of any griffon, a magnificent formation of newborn celestial lights now glows like a giant Yuletide tree. It fills the distant cosmic mists with sparkling enchantment, a truly magical spectacle for all.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251225031247.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251225080729.htm",
       "status": "published",
       "reason": "",
-      "original_headline": "Scientists found a way to restore brain blood flow in dementia",
-      "original_summary": "A new study suggests that dementia may be driven in part by faulty blood flow in the brain. Researchers found that losing a key lipid causes blood vessels to become overactive, disrupting circulation and starving brain tissue. When the missing molecule was restored, normal blood flow returned. This ",
-      "fantasy_headline": "Healers Uncover Cure for Fading Memory Sickness!",
-      "fantasy_story": "The Grand Guild of Healers has made a profound discovery regarding the Fading Memory Sickness. They found that a vital essence helps keep the mind's life-currents flowing smoothly. By restoring this missing essence, they could mend the troubled flow and bring clarity back to ailing minds.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial",
-      "status": "published",
-      "reason": "",
-      "original_headline": "I re-created Google&#8217;s cute Gemini ad with my own kid&#8217;s stuffie, and I wish I hadn&#8217;t",
-      "original_summary": "When your kid starts showing a preference for one of their stuffed animals, you're supposed to buy a backup in case it goes missing. I've heard this advice again and again, but never got around to buying a second plush deer once \"Buddy\" became my son's obvious favorite. Neither, apparently, did the ",
-      "fantasy_headline": "A Parent's Regret: Not Duplicating a Beloved Plush Beastie!",
-      "fantasy_story": "A youngling's parent shared a tale of woe concerning a beloved plush beastie. Inspired by a merchant's moving picture show, they realized the peril of having only one treasured companion. Alas, the magic of duplication was never sought for the favored 'Buddy,' leading to future anxieties.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/848119/hollywood-film-tv-ai-2025",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Hollywood cozied up to AI in 2025 and had nothing good to show for it",
-      "original_summary": "AI isn't new to Hollywood - but this was the year when it really made its presence felt. For years now, the entertainment industry has used different kinds of generative AI products for a variety of post-production processes ranging from de-aging actors to removing green screen backgrounds. In many ",
-      "fantasy_headline": "Grand Storytelling Guild's Golem-Scribes Yield No Great Magic!",
-      "fantasy_story": "The Grand Storytelling Guild embraced the new Golem-Scribes for their moving parchment tales. These enchanted automatons could mask time's touch on performers and conjure illusions of other realms. Yet, despite much effort, the year concluded with little truly grand magic brought forth by these new artifacts.",
+      "original_headline": "Astronomers discover one of the Universe’s largest spinning structures",
+      "original_summary": "Scientists have discovered a giant cosmic filament where galaxies spin in sync with the structure that holds them together. The razor-thin chain of galaxies sits inside a much larger filament that appears to be slowly rotating as a whole. This coordinated motion is far stronger than expected by chan",
+      "fantasy_headline": "Wizards Uncover Vast, Twirling Celestial Chain!",
+      "fantasy_story": "The wise Star-Sages have unveiled a colossal, swirling wonder within the cosmos! A long, thin chain of shimmering star-islands has been found, dancing in perfect unison with the mystical structure that binds them. This grand celestial ballet is a sight of immense power and mystery, far beyond common understanding.",
       "tag": "magic"
     }
   ]
