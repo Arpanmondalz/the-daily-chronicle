@@ -1,35 +1,25 @@
 {
-  "last_updated": "2025-12-27 12:39:14",
+  "last_updated": "2025-12-28 04:43:53",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251226045338.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251227082728.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "Something fundamental about black holes may be changing",
-      "original_summary": "New observations reveal that the relationship between ultraviolet and X-ray light in quasars has changed over billions of years. This unexpected shift suggests the structure around supermassive black holes may evolve with time, challenging a decades-old assumption.",
-      "fantasy_headline": "Ancient Void Maws Might Be Changing Their Shape!",
-      "fantasy_story": "Master Astrologers observing distant star-lanterns have noticed the unseen glimmers shifting over eons. This strange discovery suggests that even the Great Void Maws might evolve, challenging ancient lore about their unchanging nature. It is a mystery for the ages.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251225085728.htm",
-      "status": "published",
-      "reason": null,
-      "original_headline": "A Christmas tree 80 light-years wide appears in space",
-      "original_summary": "This Christmas, astronomers are highlighting a spectacular region of space that looks remarkably like a glowing holiday tree. Known as NGC 2264, this distant star-forming region sits about 2,700 light-years away and is filled with newborn stars lighting up clouds of gas and dust. The stars form a tr",
-      "fantasy_headline": "Celestial Sages Discover Giant Star-Tree in the Sky Expanse!",
-      "fantasy_story": "Just in time for the Winter Solstice, the Celestial Sages have unveiled a wonder! Far in the Great Sky Expanse, a vast region of newborn sky-gems and shimmering mist appears like a colossal, glowing celebration tree. It is truly a magnificent sight.",
+      "reason": "",
+      "original_headline": "A rare cancer-fighting plant compound has finally been decoded",
+      "original_summary": "UBC Okanagan researchers have uncovered how plants create mitraphylline, a rare natural compound linked to anti-cancer effects. By identifying two key enzymes that shape and twist molecules into their final form, the team solved a puzzle that had stumped scientists for years. The discovery could mak",
+      "fantasy_headline": "Sages Unravel the Secret of a Rare Healing Herb!",
+      "fantasy_story": "Wise alchemists from the Silverwood Citadel have finally understood how a rare forest plant creates its potent healing essence. They discovered two magical spirits within the plant that shape its powers. This knowledge could help them brew more of this precious elixir to fight the spreading Blight.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/news/850398/rodeo-hinge-social-app-friends",
+      "id": "https://www.theverge.com/news/850481/two-new-wireless-samsung-speakers-for-2026-lean-into-aesthetics",
       "status": "published",
-      "reason": null,
-      "original_headline": "Rodeo is an app for making plans with friends you already have",
-      "original_summary": "There are plenty of dating apps out there and apps that turn your chaos of work obligations into easily actionable lists. There is also a growing number of apps that help you make new friends. The pitch for Rodeo is a bit different in that it uses AI to help you schedule activities with your […]",
-      "fantasy_headline": "New Enchanted Scroll Helps Friends Plan Gatherings!",
-      "fantasy_story": "A clever new enchanted scroll has emerged from the Scribe's Guild! Unlike other scrolls that find new companions or organize tasks, this one employs a small Clever Spirit. It helps you perfectly orchestrate feasts and adventures with the companions you already hold dear.",
-      "tag": "magic"
+      "reason": "",
+      "original_headline": "Two new wireless Samsung speakers for 2026 lean into aesthetics",
+      "original_summary": "For years, Samsung has made products that try to camouflage what they are by displaying works of art. The Frame TV is the most famous example, but the company also released the Music Frame, a speaker disguised as a picture frame, at last year's CES. Now, instead of hiding a speaker with a piece of [",
+      "fantasy_headline": "Grand Samsung Clan Unveils New Hidden Music Artifacts!",
+      "fantasy_story": "The esteemed Grand Samsung Clan of merchants has long crafted enchanted artifacts that blend seamlessly with their surroundings. Following their famous 'Art Canvas' viewing mirrors, they now offer 'Melody Frames' – magical music boxes disguised as beautiful paintings. These new enchanted devices bring music into homes while remaining a hidden wonder.",
+      "tag": "merchants"
     }
   ]
 }
