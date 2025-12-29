@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-29 08:31:38",
+  "last_updated": "2025-12-29 12:44:04",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251228074505.htm",
@@ -7,8 +7,8 @@
       "reason": null,
       "original_headline": "The deep ocean has a missing link and scientists finally found it",
       "original_summary": "Scientists have uncovered why big predators like sharks spend so much time in the ocean’s twilight zone. The answer lies with mid-sized fish such as the bigscale pomfret, which live deep during the day and rise at night to feed, linking deep and surface food webs. Using satellite tags, researchers t",
-      "fantasy_headline": "Ocean Sages Discover Secret of Deep-Dwelling Beasts!",
-      "fantasy_story": "The Ocean Sages have finally understood why great sea beasts frequent the gloom-shrouded waters. It seems certain scale-fin fish, living in the abyssal depths by day, rise at night to feed. These fish form a crucial link, connecting the hidden depths with the sunlit surface realms for all creatures.",
+      "fantasy_headline": "Deep Sea Alchemists Uncover Twilight Zone's Hidden Feast Link",
+      "fantasy_story": "The Royal Alchemists, using clever tracking enchantments, have finally solved a mystery of the deep sea realm. They discovered that shimmering finned beasts from the Murky Depths rise at night to feed, connecting the bountiful surface waters with the shadowy abyss. This discovery explains why great sea predators frequent these twilight waters.",
       "tag": "nature"
     },
     {
@@ -17,8 +17,18 @@
       "reason": null,
       "original_headline": "Most distant supernova: James Webb sees a star explode at cosmic dawn",
       "original_summary": "Scientists have detected the most distant supernova ever seen, exploding when the universe was less than a billion years old. The event was first signaled by a gamma-ray burst and later confirmed using the James Webb Space Telescope, which was able to isolate the blast from its faint host galaxy. Su",
-      "fantasy_headline": "Star-gazing Wizards Witness Ancient Celestial Bloom!",
-      "fantasy_story": "Cosmic Scholars have spied the most distant star's final radiance ever seen, from the very dawn of creation. An ethereal signal first hinted at the event, which was then confirmed by the Grand Orrery of Celestial Vision. This powerful artifact allowed them to isolate the magnificent blast from its faint star-island cluster.",
+      "fantasy_headline": "Celestial Wizards Witness Grand Star's Fiery Demise in Young Cosmos",
+      "fantasy_story": "Using the Grand Oracle's Far-Seeing Glass, the Celestial Wizards have witnessed the most ancient and grand star's fiery demise ever recorded. This magnificent explosion, first signaled by a powerful magical pulse, occurred when the cosmos was but a babe. It provides rare insights into the very dawn of creation.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/news/850594/samsung-tv-google-photos-integration-2026",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Google Photos is coming to Samsung TVs in 2026",
+      "original_summary": "Google Photos will finally be available on TVs next year, starting with an upcoming integration for Samsung TVs. Samsung announced that the planned integration will \"seamlessly bring the photos people capture on their phones to Samsung TVs, where they can appear in a larger, cinematic format,\" and t",
+      "fantasy_headline": "Grand Library of Images to Grace Samsung Scrying Mirrors",
+      "fantasy_story": "The esteemed Samsung Clan has announced a grand linking enchantment for their Vision Panels next year. Soon, the memories captured on personal Scrying Orbs can be viewed upon their magnificent enchanted mirrors. This will allow villagers to share their treasured images in a truly spectacular fashion.",
       "tag": "magic"
     },
     {
@@ -27,8 +37,8 @@
       "reason": null,
       "original_headline": "LG announces new UltraGear evo gaming monitors with AI upscaling",
       "original_summary": "LG unveiled a whole new line of gaming monitors ahead of CES on Friday. The UltraGear evo line are all high-end monitors covering a range of technologies, but united by 5K resolution and AI upscaling. The three flagships under the new branding are the 39GX950B, the 27GM950B, and the 52G930B. The fir",
-      "fantasy_headline": "The Luminous Guild Unveils New Scrying Mirrors for Arcane Contests!",
-      "fantasy_story": "The Luminous Guild has revealed a stunning collection of scrying mirrors, just before the Grand Exhibition of Arcane Craft. These exquisite UltraGear evo mirrors boast unparalleled clarity and special vision-enhancing spells. They promise to make trials of skill more vivid and immersive for all who gaze upon them.",
+      "fantasy_headline": "LG Clan Unveils New Enchanted Battle Displays with Glimmerweave Magic",
+      "fantasy_story": "The renowned LG Clan has revealed a new collection of master-crafted Enchanted Battle Displays for upcoming tournaments. These magnificent vision panels boast powerful Glimmerweave enchantments, making every skirmish and quest appear remarkably vivid. Adventurers will find their trials of skill truly come to life.",
       "tag": "magic"
     }
   ]
