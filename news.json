@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-29 01:49:53",
+  "last_updated": "2025-12-29 08:31:38",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251228074505.htm",
@@ -7,9 +7,19 @@
       "reason": null,
       "original_headline": "The deep ocean has a missing link and scientists finally found it",
       "original_summary": "Scientists have uncovered why big predators like sharks spend so much time in the ocean’s twilight zone. The answer lies with mid-sized fish such as the bigscale pomfret, which live deep during the day and rise at night to feed, linking deep and surface food webs. Using satellite tags, researchers t",
-      "fantasy_headline": "Wizards Discover Abyssal Secret: The Missing Link of the Deep!",
-      "fantasy_story": "The wisest wizards of the coastal towers have finally solved a great mystery of the Abyssal Depths. They learned why mighty sea beasts frequent the shadowy twilight waters. It seems elusive mid-sized creatures, like the greatscale pomfret, connect the food chains of the dark abyss to the sunlit surface, rising at night to feed.",
+      "fantasy_headline": "Ocean Sages Discover Secret of Deep-Dwelling Beasts!",
+      "fantasy_story": "The Ocean Sages have finally understood why great sea beasts frequent the gloom-shrouded waters. It seems certain scale-fin fish, living in the abyssal depths by day, rise at night to feed. These fish form a crucial link, connecting the hidden depths with the sunlit surface realms for all creatures.",
       "tag": "nature"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/12/251228074453.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Most distant supernova: James Webb sees a star explode at cosmic dawn",
+      "original_summary": "Scientists have detected the most distant supernova ever seen, exploding when the universe was less than a billion years old. The event was first signaled by a gamma-ray burst and later confirmed using the James Webb Space Telescope, which was able to isolate the blast from its faint host galaxy. Su",
+      "fantasy_headline": "Star-gazing Wizards Witness Ancient Celestial Bloom!",
+      "fantasy_story": "Cosmic Scholars have spied the most distant star's final radiance ever seen, from the very dawn of creation. An ethereal signal first hinted at the event, which was then confirmed by the Grand Orrery of Celestial Vision. This powerful artifact allowed them to isolate the magnificent blast from its faint star-island cluster.",
+      "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling",
@@ -17,8 +27,8 @@
       "reason": null,
       "original_headline": "LG announces new UltraGear evo gaming monitors with AI upscaling",
       "original_summary": "LG unveiled a whole new line of gaming monitors ahead of CES on Friday. The UltraGear evo line are all high-end monitors covering a range of technologies, but united by 5K resolution and AI upscaling. The three flagships under the new branding are the 39GX950B, the 27GM950B, and the 52G930B. The fir",
-      "fantasy_headline": "Luminus Golem Clan Unveils New Enchanted Scrying Mirrors!",
-      "fantasy_story": "The esteemed Luminus Golem Clan has proudly revealed their latest line of UltraGear Evo scrying mirrors at the Grand Exhibition of Artificers. These wondrous artifacts offer unparalleled clarity, boasting powerful illusion magic to enhance every vision. They promise to bring magical views to any who gaze upon them.",
+      "fantasy_headline": "The Luminous Guild Unveils New Scrying Mirrors for Arcane Contests!",
+      "fantasy_story": "The Luminous Guild has revealed a stunning collection of scrying mirrors, just before the Grand Exhibition of Arcane Craft. These exquisite UltraGear evo mirrors boast unparalleled clarity and special vision-enhancing spells. They promise to make trials of skill more vivid and immersive for all who gaze upon them.",
       "tag": "magic"
     }
   ]
