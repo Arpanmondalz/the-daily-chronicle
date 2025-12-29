@@ -1,55 +1,25 @@
 {
-  "last_updated": "2025-12-28 12:40:00",
+  "last_updated": "2025-12-29 01:49:53",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251228020004.htm",
+      "id": "https://www.sciencedaily.com/releases/2025/12/251228074505.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Losing weight in midlife may have a hidden brain cost",
-      "original_summary": "Weight loss restored healthy metabolism in both young and mid-aged mice, but the brain told a different story. In mid-aged animals, slimming down actually worsened inflammation in a brain region tied to appetite and energy balance. While this inflammation eventually subsided, brain inflammation has ",
-      "fantasy_headline": "Alchemists Uncover Hidden Toll of Midlife Slenderness on the Mind",
-      "fantasy_story": "Alchemists studied how shedding extra pounds affected creatures. They found that while young beasts became spry, older ones suffered a strange inflammation in their minds, causing a troubling imbalance. This hidden ailment eventually faded, but the wizards warn of its mysterious cost.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251227082736.htm",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Zombie worms are missing and scientists are alarmed",
-      "original_summary": "When researchers lowered whale bones into the deep ocean, they expected zombie worms to quickly move in. Instead, after 10 years, none appeared — an unsettling result tied to low-oxygen waters in the region. These worms play a key role in breaking down whale remains and supporting deep-sea life. The",
-      "fantasy_headline": "Deep-Sea Wizards Alarmed: Bone-Eater Grubs Vanish from Leviathan Remains!",
-      "fantasy_story": "Deep-sea wizards, studying the great leviathans' remains, expected to find the vital bone-eater grubs. Yet, after a decade, none appeared, a mystery tied to stagnant currents in the abyssal realm. These tiny scavengers are crucial for the deep's delicate balance, and their absence troubles the ocean chroniclers.",
+      "original_headline": "The deep ocean has a missing link and scientists finally found it",
+      "original_summary": "Scientists have uncovered why big predators like sharks spend so much time in the ocean’s twilight zone. The answer lies with mid-sized fish such as the bigscale pomfret, which live deep during the day and rise at night to feed, linking deep and surface food webs. Using satellite tags, researchers t",
+      "fantasy_headline": "Wizards Discover Abyssal Secret: The Missing Link of the Deep!",
+      "fantasy_story": "The wisest wizards of the coastal towers have finally solved a great mystery of the Abyssal Depths. They learned why mighty sea beasts frequent the shadowy twilight waters. It seems elusive mid-sized creatures, like the greatscale pomfret, connect the food chains of the dark abyss to the sunlit surface, rising at night to feed.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/news/850481/two-new-wireless-samsung-speakers-for-2026-lean-into-aesthetics",
+      "id": "https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling",
       "status": "published",
       "reason": null,
-      "original_headline": "Two new wireless Samsung speakers for 2026 lean into aesthetics",
-      "original_summary": "For years, Samsung has made products that try to camouflage what they are by displaying works of art. The Frame TV is the most famous example, but the company also released the Music Frame, a speaker disguised as a picture frame, at last year's CES. Now, instead of hiding a speaker with a piece of [",
-      "fantasy_headline": "Sam-sung Artisans Unveil New Echo-Boxes That Blend with Realm's Decor",
-      "fantasy_story": "The skilled Artisans of Sam-sung have long crafted magical artifacts disguised as art. Now, they've revealed two new echo-boxes that not only play enchanting tunes without cords but also blend seamlessly into any noble's chamber. These clever devices appear as ornate scrimshaw frames, enhancing beauty while providing music.",
+      "original_headline": "LG announces new UltraGear evo gaming monitors with AI upscaling",
+      "original_summary": "LG unveiled a whole new line of gaming monitors ahead of CES on Friday. The UltraGear evo line are all high-end monitors covering a range of technologies, but united by 5K resolution and AI upscaling. The three flagships under the new branding are the 39GX950B, the 27GM950B, and the 52G930B. The fir",
+      "fantasy_headline": "Luminus Golem Clan Unveils New Enchanted Scrying Mirrors!",
+      "fantasy_story": "The esteemed Luminus Golem Clan has proudly revealed their latest line of UltraGear Evo scrying mirrors at the Grand Exhibition of Artificers. These wondrous artifacts offer unparalleled clarity, boasting powerful illusion magic to enhance every vision. They promise to bring magical views to any who gaze upon them.",
       "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Sam Altman is hiring someone to worry about the dangers of AI",
-      "original_summary": "OpenAI is hiring a Head of Preparedness. Or, in other words, someone whose primary job is to think about all the ways AI could go horribly, horribly wrong. In a post on X, Sam Altman announced the position by acknowledging that the rapid improvement of AI models poses \"some real challenges.\" The pos",
-      "fantasy_headline": "Grand Conclave Seeks Sentinel to Guard Against Arcane Golem Perils",
-      "fantasy_story": "Master Sam Altman of the Grand Conclave of Open Arcana announced a new quest. They seek a Warden of Warning whose sole task is to foresee all the ways thinking constructs could turn perilous. As the power of these animated runes grows, the Conclave acknowledges the need for vigilance against unforeseen enchantments.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/c888rzkd0dzo?at_medium=RSS&at_campaign=rss",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Brigitte Bardot: The blonde bombshell who revolutionised French cinema",
-      "original_summary": "The cocktail of kittenish charm and continental sensuality who swept away the cinematic cobwebs of the 1950s.",
-      "fantasy_headline": "Lady Brigitta's Dazzling Allure Transforms Realm's Shadow-Plays!",
-      "fantasy_story": "Lady Brigitta, a golden-haired enchantress, brought an irresistible grace and fiery spirit to the realm's shadow-plays. Her captivating allure swept away dusty performances, ushering in a new era for the bards and storytellers. She truly cast a new light upon the scrying pools.",
-      "tag": "kingdom"
     }
   ]
 }
