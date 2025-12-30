@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-29 12:44:04",
+  "last_updated": "2025-12-30 08:29:18",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251228074505.htm",
@@ -7,8 +7,8 @@
       "reason": null,
       "original_headline": "The deep ocean has a missing link and scientists finally found it",
       "original_summary": "Scientists have uncovered why big predators like sharks spend so much time in the ocean’s twilight zone. The answer lies with mid-sized fish such as the bigscale pomfret, which live deep during the day and rise at night to feed, linking deep and surface food webs. Using satellite tags, researchers t",
-      "fantasy_headline": "Deep Sea Alchemists Uncover Twilight Zone's Hidden Feast Link",
-      "fantasy_story": "The Royal Alchemists, using clever tracking enchantments, have finally solved a mystery of the deep sea realm. They discovered that shimmering finned beasts from the Murky Depths rise at night to feed, connecting the bountiful surface waters with the shadowy abyss. This discovery explains why great sea predators frequent these twilight waters.",
+      "fantasy_headline": "Deep Sea Wizards Uncover Secret of the Shadow-Waters!",
+      "fantasy_story": "The Ocean Wizards have finally solved a long-standing mystery of the Gloom-depths. Giant sea beasts, like the great sharks, follow the elusive shimmerfish. These twilight creatures link the surface realms to the deepest, darkest trenches, guided by ancient magic.",
       "tag": "nature"
     },
     {
@@ -17,29 +17,29 @@
       "reason": null,
       "original_headline": "Most distant supernova: James Webb sees a star explode at cosmic dawn",
       "original_summary": "Scientists have detected the most distant supernova ever seen, exploding when the universe was less than a billion years old. The event was first signaled by a gamma-ray burst and later confirmed using the James Webb Space Telescope, which was able to isolate the blast from its faint host galaxy. Su",
-      "fantasy_headline": "Celestial Wizards Witness Grand Star's Fiery Demise in Young Cosmos",
-      "fantasy_story": "Using the Grand Oracle's Far-Seeing Glass, the Celestial Wizards have witnessed the most ancient and grand star's fiery demise ever recorded. This magnificent explosion, first signaled by a powerful magical pulse, occurred when the cosmos was but a babe. It provides rare insights into the very dawn of creation.",
+      "fantasy_headline": "Celestial Mages Witness a Star's Grand Bloom at Creation's Dawn!",
+      "fantasy_story": "The Celestial Mages, using their Grand Crystal Scryer, have witnessed a star's explosion from the earliest days of creation. This brilliant celestial bloom, first heralded by an aetheric pulse, is the most distant event ever observed. It unveils secrets from when the cosmos first began to form.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/news/850594/samsung-tv-google-photos-integration-2026",
+      "id": "https://www.theverge.com/news/850876/lg-gallery-tv-ces-2026",
       "status": "published",
       "reason": null,
-      "original_headline": "Google Photos is coming to Samsung TVs in 2026",
-      "original_summary": "Google Photos will finally be available on TVs next year, starting with an upcoming integration for Samsung TVs. Samsung announced that the planned integration will \"seamlessly bring the photos people capture on their phones to Samsung TVs, where they can appear in a larger, cinematic format,\" and t",
-      "fantasy_headline": "Grand Library of Images to Grace Samsung Scrying Mirrors",
-      "fantasy_story": "The esteemed Samsung Clan has announced a grand linking enchantment for their Vision Panels next year. Soon, the memories captured on personal Scrying Orbs can be viewed upon their magnificent enchanted mirrors. This will allow villagers to share their treasured images in a truly spectacular fashion.",
-      "tag": "magic"
+      "original_headline": "LG is announcing its own Frame-style TV at CES",
+      "original_summary": "In just the past couple years, the art TV category that's been dominated by Samsung's The Frame has seen growth, with additions from both TCL and Hisense. Now LG has announced its own entry, the LG Gallery TV. The TV will leverage the Gallery+ service that LG released earlier this year, which includ",
+      "fantasy_headline": "The LG Merchant Guild Unveils New Magic Portrait Panel!",
+      "fantasy_story": "At the Grand Merchant Faire, the esteemed LG Guild unveiled its own Enchanted Portrait Panel. This new scrying screen, much like those from the Samsung and TCL Clans, can display endless wondrous artworks. It uses the Guild's special Gallery Enchantment service to bring static portraits to life.",
+      "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/tech/850572/lg-announces-new-ultragear-evo-gaming-monitors-with-ai-upscaling",
+      "id": "https://www.theverge.com/news/850832/gog-cd-projekt-acquisition-steam",
       "status": "published",
       "reason": null,
-      "original_headline": "LG announces new UltraGear evo gaming monitors with AI upscaling",
-      "original_summary": "LG unveiled a whole new line of gaming monitors ahead of CES on Friday. The UltraGear evo line are all high-end monitors covering a range of technologies, but united by 5K resolution and AI upscaling. The three flagships under the new branding are the 39GX950B, the 27GM950B, and the 52G930B. The fir",
-      "fantasy_headline": "LG Clan Unveils New Enchanted Battle Displays with Glimmerweave Magic",
-      "fantasy_story": "The renowned LG Clan has revealed a new collection of master-crafted Enchanted Battle Displays for upcoming tournaments. These magnificent vision panels boast powerful Glimmerweave enchantments, making every skirmish and quest appear remarkably vivid. Adventurers will find their trials of skill truly come to life.",
-      "tag": "magic"
+      "original_headline": "GOG&#8217;s Steam-alternative PC game store is leaving CD Projekt, staying DRM-free",
+      "original_summary": "GOG is splitting from CD Projekt, the game company that launched the preservation-focused PC gaming marketplace in 2008. In an update on Monday, GOG announced that its co-founder, Michał Kiciński, has acquired the digital storefront and its online gaming platform GOG Galaxy from CD Projekt - which h",
+      "fantasy_headline": "GOG Gaming Guild Splits from CD Projekt Clan, Keeps Scrolls Unbound!",
+      "fantasy_story": "The GOG Gaming Guild has announced its separation from the mighty CD Projekt Clan. Co-founder Michał Kiciński has purchased the Arcane Gaming Emporium and its Grand Scry-Game Nexus. The Guild promises to continue offering unbound scrolls, ensuring players can enjoy their magical games freely.",
+      "tag": "merchants"
     }
   ]
 }
