@@ -1,34 +1,34 @@
 {
-  "last_updated": "2025-12-31 08:29:17",
+  "last_updated": "2025-12-31 12:42:19",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251228074505.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "The deep ocean has a missing link and scientists finally found it",
       "original_summary": "Scientists have uncovered why big predators like sharks spend so much time in the ocean’s twilight zone. The answer lies with mid-sized fish such as the bigscale pomfret, which live deep during the day and rise at night to feed, linking deep and surface food webs. Using satellite tags, researchers t",
-      "fantasy_headline": "Deep Sea Wizards Uncover Lost Link of Abyssal Creatures!",
-      "fantasy_story": "The Ocean Wizards have finally understood why the great leviathans dwell in the abyssal twilight zone. It seems that mysterious finned creatures, living deep by day, rise at night to feed, bridging the surface and deep sea realms. Ancient scrying artifacts helped track their strange journeys.",
+      "fantasy_headline": "Wizards Discover Secret of Deep Ocean Creatures!",
+      "fantasy_story": "The Circle of Ocean Wizards has finally unveiled a grand mystery of the abyssal depths. They found that wondrous scale-folk, like the great pomfret, link the creatures of the deep to those of the surface. These creatures rise nightly to feed, creating a vital bridge for all life in the waters.",
       "tag": "nature"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251228074458.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Time runs faster on Mars and scientists just proved it",
       "original_summary": "Thanks to Einstein’s relativity, time flows differently on Mars than on Earth. NIST scientists have now nailed down the difference, showing that Mars clocks tick slightly faster—and fluctuate over the Martian year. These microsecond shifts could play a big role in future Mars navigation, communicati",
-      "fantasy_headline": "Star-Gazers Reveal Time's Whimsy on the Red Planet!",
-      "fantasy_story": "The Grand Chronomancers have proven that time flows differently on the Red Planet than in our own realm. Their enchanted time-keeping devices reveal that a Martian day ticks slightly quicker, with subtle fluctuations throughout its year. This discovery is vital for future star-voyages and messages across the void.",
+      "fantasy_headline": "Stargazers Reveal Time Flows Differently on the Red Planet!",
+      "fantasy_story": "Cosmic Sages from the Grand Observatory have proven a startling truth: time itself flows faster on the distant Red Planet than in our own realm. Their enchanted chronometers show that moments there pass more swiftly, though with small changes through its year. This discovery is crucial for future astral journeys and sending messages between worlds.",
       "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/news/851401/one-netbook-onexsugar-gaming-handheld-wallet-folding-oled-screen-android",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "The OneXSugar Wallet is the first gaming handheld with a folding screen",
       "original_summary": "Folding OLED displays are still most commonly found on premium smartphones and laptops, but One-Netbook is bringing the tech to a new gaming device. Its new OneXSugar Wallet is reminiscent of the company's folding OneXSugar Sugar 1 handheld that launched earlier this year. But instead of two screens",
-      "fantasy_headline": "The One-Netbook Clan Reveals a Folding Game Artifact!",
-      "fantasy_story": "The ingenious One-Netbook Clan has unveiled a marvel: a gaming artifact with a folding scrying screen. While such shifting displays are usually found on grand communication mirrors, this portable enchantment brings new delight. The OneXSugar Wallet promises endless hours of magical diversion for adventurers on the go.",
+      "fantasy_headline": "New Enchanted Game Box Folds Like a Tome!",
+      "fantasy_story": "The ingenious One-Netbook Clan has crafted a marvelous new hand-held amusement device! Named the 'OneXSugar Pouch,' it features a wondrous folding scrying mirror, unlike any seen before. This allows adventurers to carry vivid enchanted screens in a small pouch, ready for play anywhere.",
       "tag": "magic"
     }
   ]
