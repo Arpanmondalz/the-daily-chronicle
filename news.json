@@ -1,24 +1,34 @@
 {
-  "last_updated": "2026-01-01 01:52:13",
+  "last_updated": "2026-01-01 08:29:23",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2025/12/251231203753.htm",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Astronomers ring in the new year with a stunning galaxy collision",
+      "original_summary": "The Champagne Cluster is a rare and beautiful example of two galaxy clusters smashing together. Its festive name comes from both its New Year’s Eve discovery and its bubbly appearance in space. Images reveal superheated gas and galaxies spread across a massive collision zone. Astronomers believe thi",
+      "fantasy_headline": "Stargazers Witness Celestial Dance of the Bubbly Constellation!",
+      "fantasy_story": "The Stargazers' Guild has unveiled a breathtaking vision in the night sky. Two grand celestial kingdoms, known as the Bubbly Constellation, were seen swirling together in a magnificent cosmic embrace. Their magic-filled gases mingled, painting the heavens with shimmering light. This rare event was discovered on the eve of the New Year's Festival.",
+      "tag": "magic"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251228074505.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "The deep ocean has a missing link and scientists finally found it",
       "original_summary": "Scientists have uncovered why big predators like sharks spend so much time in the ocean’s twilight zone. The answer lies with mid-sized fish such as the bigscale pomfret, which live deep during the day and rise at night to feed, linking deep and surface food webs. Using satellite tags, researchers t",
-      "fantasy_headline": "Wizards Discover Abyssal Secret: The Missing Link of the Deep!",
-      "fantasy_story": "Wise Alchemists of the Deep Sea Guild have uncovered a great mystery in the Abyssal Depths. They found small, shimmer-scaled dwellers connect the surface's bounty to the deep's mighty sea beasts. These magical fish rise at night to feed, completing the ocean's mystical chain of sustenance.",
+      "fantasy_headline": "Ocean Wizards Uncover Mystery of the Deepwater Sustenance Chain.",
+      "fantasy_story": "The Ocean Wizards' Guild has finally solved a long-standing riddle of the Sunken Gloom. They discovered that cunning Shadow-fin fish, living deep by day, rise at night to feed, connecting the deep sea's bounty to the surface's Great Leviathans. Using enchanted markings, the scholars tracked these vital creatures. This explains why mighty predators frequent these mysterious depths.",
       "tag": "nature"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251228074458.htm",
+      "id": "https://www.theverge.com/news/852124/adam-mosseri-ai-images-video-instagram",
       "status": "published",
-      "reason": null,
-      "original_headline": "Time runs faster on Mars and scientists just proved it",
-      "original_summary": "Thanks to Einstein’s relativity, time flows differently on Mars than on Earth. NIST scientists have now nailed down the difference, showing that Mars clocks tick slightly faster—and fluctuate over the Martian year. These microsecond shifts could play a big role in future Mars navigation, communicati",
-      "fantasy_headline": "Celestial Wizards Confirm: Time Flees Faster on The Red Orb!",
-      "fantasy_story": "The esteemed Celestial Wizards' Guild has confirmed a fascinating truth about The Red Orb. Due to the Grand Weave of Time, moments pass quicker there than in our Azure Realm. These subtle flicks of the sands could greatly aid future astrological charting and sending spells to the distant world.",
+      "reason": "",
+      "original_headline": "You can’t trust your eyes to tell you what’s real anymore, says the head of Instagram",
+      "original_summary": "Instagram boss Adam Mosseri is closing out 2025 with a 20-images-deep dive into what a new era of \"infinite synthetic content\" means as it all becomes harder and harder to distinguish from reality, and the old, more personal Instagram feed that he says has been \"dead\" for years. Last year, The Verge",
+      "fantasy_headline": "Master of Scrying Pool Warns of Shifting Glamours and False Visions.",
+      "fantasy_story": "The esteemed Master of the Grand Scrying Pool, Adam, has issued a grave warning. He cautions that new mimicry spells create fabricated fancies, making it near impossible to tell true visions from false ones. The ancient scrolls, once filled with personal tales, have long since faded. People must now be wary of what their eyes perceive.",
       "tag": "magic"
     }
   ]
