@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-02 08:28:54",
+  "last_updated": "2026-01-02 12:41:12",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251231203753.htm",
@@ -7,9 +7,9 @@
       "reason": null,
       "original_headline": "Astronomers ring in the new year with a stunning galaxy collision",
       "original_summary": "The Champagne Cluster is a rare and beautiful example of two galaxy clusters smashing together. Its festive name comes from both its New Year’s Eve discovery and its bubbly appearance in space. Images reveal superheated gas and galaxies spread across a massive collision zone. Astronomers believe thi",
-      "fantasy_headline": "Stargazers Witness Grand Collision of Heavenly Realms!",
-      "fantasy_story": "Celestial Wizards from the Grand Spire have reported a spectacular sight in the cosmos. Two vast star-realms, known as the Sparkling Nebula, have collided in a magnificent display of swirling magic and stardust. This rare event was first observed during the annual Winter's Eve festivities, painting the night sky with wondrous, bubbly light.",
-      "tag": "magic"
+      "fantasy_headline": "Stargazers Behold a Grand Celestial Dance!",
+      "fantasy_story": "On the eve of the Winter Solstice, the Celestial Scribes witnessed a wondrous event. Two great star-kingdoms, known as the Sparkling Constellation, performed a magnificent cosmic dance across the night sky. Fiery mists and countless stars swirled together in a dazzling spectacle, filling the observers with awe and wonder.",
+      "tag": "nature"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251228074505.htm",
@@ -17,29 +17,19 @@
       "reason": null,
       "original_headline": "The deep ocean has a missing link and scientists finally found it",
       "original_summary": "Scientists have uncovered why big predators like sharks spend so much time in the ocean’s twilight zone. The answer lies with mid-sized fish such as the bigscale pomfret, which live deep during the day and rise at night to feed, linking deep and surface food webs. Using satellite tags, researchers t",
-      "fantasy_headline": "Ocean Wizards Unravel Mystery of Deep-Sea Beasts!",
-      "fantasy_story": "Ocean Wizards have finally understood why the great leviathans lurk in the Gloaming Depths. It seems smaller, shimmer-fin fish, like the greatscale pomfrey, travel between the sunlit waters and the abyssal realm. These unique creatures carry vital sustenance from the deep to the surface, linking all life in the vast ocean.",
+      "fantasy_headline": "Deep Sea Wizards Unravel Abyss Secrets!",
+      "fantasy_story": "Marine Wizards have finally understood why the great leviathans dwell in the murky depths of the Sunken Realm. It seems smaller fish, called Twilight Dwellers, journey from the abyss to the surface each night, linking the Great Chain of Sustenance. Scholars used enchanted tracking gems to follow their mysterious paths.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/news/850992/petkit-ai-camera-yumshare-daily-feast-automatic-wet-food-feeder-eversweet-ultra-fountain",
+      "id": "https://www.theverge.com/tech/849740/punkt-mc03-secure-smartphone-made-in-germany",
       "status": "published",
       "reason": null,
-      "original_headline": "Petkit’s first automatic wet food feeder keeps track of how much your pet eats",
-      "original_summary": "Petkit has announced two new automated machines at CES 2026 designed to feed and care for your pets using AI-powered cameras that track their behavior and provide health insights that may otherwise go unnoticed. Launching sometime in April 2026, the Petkit Yumshare Daily Feast is one of the first au",
-      "fantasy_headline": "Animal Kin Guild Reveals New Magical Pet Care Artifacts!",
-      "fantasy_story": "The esteemed Animal Kin Guild has unveiled wondrous new artifacts for caring for cherished beast companions. Enchanted scrying orbs within clever clockwork dispensers now observe pets and track their feasting habits. These devices reveal secrets about a creature's well-being, ensuring every beloved animal receives its proper care and portion.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/news/852362/lg-xboom-stage-501-karaoke-launch-ces-2026",
-      "status": "published",
-      "reason": null,
-      "original_headline": "LG’s new karaoke-ready party speaker uses AI to remove song vocals",
-      "original_summary": "LG is adding a karaoke-focused party speaker to its lineup of Xboom devices, which is built in collaboration with Will.i.am. Announced this week, LG says the Stage 501 speaker comes with an \"AI Karaoke Master\" that can remove or adjust vocals from \"virtually any song,\" similar to the Soundcore Rave ",
-      "fantasy_headline": "Minstrel's Guild Unveils Enchanted Song Amplifier!",
-      "fantasy_story": "The Grand Minstrel's Guild has presented a marvelous new artifact for joyous gatherings! The Stage 501 Song Amplifier, imbued with an AI Karaoke Master, can silence the voice of any bard from nearly any tune. This allows anyone to join a sing-along circle and lend their own voice to cherished melodies, fostering merriment.",
-      "tag": "magic"
+      "original_headline": "Punkt’s German-made MC03 smartphone comes to the US this spring",
+      "original_summary": "Punkt, the Switzerland-based, privacy-focused phone maker, is trying the whole \"smartphone\" thing again. The MC03 improves on some of the disappointing features of its previous effort, the MC02, while maintaining its security focus. Likewise, its software still comes with a subscription fee: the fir",
+      "fantasy_headline": "New Scrying Mirror Arrives from the Iron Forges!",
+      "fantasy_story": "The esteemed Punkt Clan from the Alpine Holds is releasing a new version of their Whispering Device this spring. Crafted in the Northern Lands, this latest Scrying Mirror, the MC03, boasts improved enchantments for secretive communications. Users will pay a regular tribute of gold coins to maintain its powerful runes.",
+      "tag": "merchants"
     }
   ]
 }
