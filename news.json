@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-01-03 08:26:58",
+  "last_updated": "2026-01-03 12:39:13",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251231203753.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Astronomers ring in the new year with a stunning galaxy collision",
       "original_summary": "The Champagne Cluster is a rare and beautiful example of two galaxy clusters smashing together. Its festive name comes from both its New Year’s Eve discovery and its bubbly appearance in space. Images reveal superheated gas and galaxies spread across a massive collision zone. Astronomers believe thi",
-      "fantasy_headline": "Sky-Gazers Witness Rare Celestial Dance in the Bubbly Constellation!",
-      "fantasy_story": "The Wizards of the Cosmos have observed a breathtaking event: two vast star-clusters, known as the Bubbly Constellation, performing a rare celestial dance. This grand spectacle of shimmering ether and countless stars was discovered on the eve of the new year. It is a wondrous sight across the heavens.",
+      "fantasy_headline": "Stargazers Witness a Grand Celestial Dance!",
+      "fantasy_story": "On the eve of the new year, a wondrous sight appeared in the sky! The Celestial Sages observed two mighty star-kingdoms gently merging, forming a magnificent Bubbly Constellation. Shimmering cosmic mists and countless stars now sprawl across this vast, new realm. It is a truly breathtaking spectacle.",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2025/12/251228074505.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "The deep ocean has a missing link and scientists finally found it",
       "original_summary": "Scientists have uncovered why big predators like sharks spend so much time in the ocean’s twilight zone. The answer lies with mid-sized fish such as the bigscale pomfret, which live deep during the day and rise at night to feed, linking deep and surface food webs. Using satellite tags, researchers t",
-      "fantasy_headline": "Deepwater Sages Uncover Mystery of the Ocean's Gloaming Trench!",
-      "fantasy_story": "Marine Wizards have finally unveiled why great sea beasts frequent the ocean's shadowy Gloaming Trench. Small, silverfin messengers, who dwell deep by day and rise at night to feed, link the Abyssal Depths to the surface waters. This hidden connection was revealed using clever enchanted trackers.",
+      "fantasy_headline": "Ocean Whisperers Uncover Deep-Sea Secret!",
+      "fantasy_story": "The Ocean Whisperers have finally solved a mystery of the Abyssal Depths! Giant sea beasts, like the great sharks, follow a special kind of shimmer-fin fish into the Gloaming Trench. These Twilight Runners connect the Sunken Realms to the sunlit waters, guiding predators to their feasts. They used tracking enchantments to learn this.",
       "tag": "nature"
     }
   ]
