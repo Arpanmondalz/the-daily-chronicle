@@ -1,25 +1,35 @@
 {
-  "last_updated": "2026-01-03 12:39:13",
+  "last_updated": "2026-01-04 08:27:36",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251231203753.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260103155028.htm",
       "status": "published",
       "reason": "",
-      "original_headline": "Astronomers ring in the new year with a stunning galaxy collision",
-      "original_summary": "The Champagne Cluster is a rare and beautiful example of two galaxy clusters smashing together. Its festive name comes from both its New Year’s Eve discovery and its bubbly appearance in space. Images reveal superheated gas and galaxies spread across a massive collision zone. Astronomers believe thi",
-      "fantasy_headline": "Stargazers Witness a Grand Celestial Dance!",
-      "fantasy_story": "On the eve of the new year, a wondrous sight appeared in the sky! The Celestial Sages observed two mighty star-kingdoms gently merging, forming a magnificent Bubbly Constellation. Shimmering cosmic mists and countless stars now sprawl across this vast, new realm. It is a truly breathtaking spectacle.",
+      "original_headline": "Scientists found a way to help aging guts heal themselves",
+      "original_summary": "Researchers have discovered a way to help aging intestines heal themselves using CAR T-cell therapy. By targeting senescent cells that build up over time, the treatment boosted gut regeneration, reduced inflammation, and improved nutrient absorption in mice. It even helped protect the intestine from",
+      "fantasy_headline": "Alchemists Brew Potion to Mend Old Guts and Boost Vitality!",
+      "fantasy_story": "The Alchemists' Guild has concocted a wondrous new potion! This magical brew can help the inner workings of older folk mend themselves. It targets a peculiar blight that builds up over time, allowing the body to heal, reduce fiery aches, and better absorb vital nutrients.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2025/12/251228074505.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260103155024.htm",
       "status": "published",
       "reason": "",
-      "original_headline": "The deep ocean has a missing link and scientists finally found it",
-      "original_summary": "Scientists have uncovered why big predators like sharks spend so much time in the ocean’s twilight zone. The answer lies with mid-sized fish such as the bigscale pomfret, which live deep during the day and rise at night to feed, linking deep and surface food webs. Using satellite tags, researchers t",
-      "fantasy_headline": "Ocean Whisperers Uncover Deep-Sea Secret!",
-      "fantasy_story": "The Ocean Whisperers have finally solved a mystery of the Abyssal Depths! Giant sea beasts, like the great sharks, follow a special kind of shimmer-fin fish into the Gloaming Trench. These Twilight Runners connect the Sunken Realms to the sunlit waters, guiding predators to their feasts. They used tracking enchantments to learn this.",
-      "tag": "nature"
+      "original_headline": "This ancient fossil could rewrite the story of human origins",
+      "original_summary": "Scientists may have cracked the case of whether a seven-million-year-old fossil could walk upright. A new study found strong anatomical evidence that Sahelanthropus tchadensis was bipedal, including a ligament attachment seen only in human ancestors. Despite its ape-like appearance and small brain,",
+      "fantasy_headline": "Ancient Bone Relic May Uncover Secrets of Humankind's First Steps!",
+      "fantasy_story": "Scholars of ancient lore have unearthed a grand secret from a seven-million-year-old bone relic. It seems this ancient creature, despite its beast-like appearance, walked upright on two legs like the early folk. This discovery could rewrite the scrolls detailing the true origins of our kind.",
+      "tag": "kingdom"
+    },
+    {
+      "id": "https://www.theverge.com/games/853786/hollow-knight-silksong-steamawards-game-of-the-year",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Surprise, surprise: Silksong wins Steam’s Game of the Year",
+      "original_summary": "Valve has announced the winners of the 2025 Steam Awards and, unsurprisingly, Hollow Knight: Silksong, took home the Game of the Year honors. It was also given the \"Best Game You Suck At\" award, which, I'm not sure if that's a good thing or not. Given the relentless fawning over Silksong since its r",
+      "fantasy_headline": "'Silksong' Crowned Champion of Enchanted Tales!",
+      "fantasy_story": "The Scrollkeepers' Guild has declared 'Silksong' the Grand Champion of Woven Tales! This enchanted scroll, beloved by all, also earned the title for 'Most Challenging Feat,' a true testament to its demanding quests. The people rejoice in this unsurprising victory.",
+      "tag": "merchants"
     }
   ]
 }
