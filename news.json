@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-01-04 08:27:36",
+  "last_updated": "2026-01-04 12:40:02",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260103155028.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Scientists found a way to help aging guts heal themselves",
       "original_summary": "Researchers have discovered a way to help aging intestines heal themselves using CAR T-cell therapy. By targeting senescent cells that build up over time, the treatment boosted gut regeneration, reduced inflammation, and improved nutrient absorption in mice. It even helped protect the intestine from",
-      "fantasy_headline": "Alchemists Brew Potion to Mend Old Guts and Boost Vitality!",
-      "fantasy_story": "The Alchemists' Guild has concocted a wondrous new potion! This magical brew can help the inner workings of older folk mend themselves. It targets a peculiar blight that builds up over time, allowing the body to heal, reduce fiery aches, and better absorb vital nutrients.",
+      "fantasy_headline": "Alchemists Brew Potion to Heal Aging Bellies!",
+      "fantasy_story": "The Alchemists' Guild has unveiled a remarkable new elixir. This potion can help the innards of even the oldest folk repair themselves. It banishes the lingering shadows that cause discomfort, allowing bellies to feel spry and absorb more nourishment, just as it did for little critters in their studies.",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260103155024.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "This ancient fossil could rewrite the story of human origins",
-      "original_summary": "Scientists may have cracked the case of whether a seven-million-year-old fossil could walk upright. A new study found strong anatomical evidence that Sahelanthropus tchadensis was bipedal, including a ligament attachment seen only in human ancestors. Despite its ape-like appearance and small brain,",
-      "fantasy_headline": "Ancient Bone Relic May Uncover Secrets of Humankind's First Steps!",
-      "fantasy_story": "Scholars of ancient lore have unearthed a grand secret from a seven-million-year-old bone relic. It seems this ancient creature, despite its beast-like appearance, walked upright on two legs like the early folk. This discovery could rewrite the scrolls detailing the true origins of our kind.",
+      "original_summary": "Scientists may have cracked the case of whether a seven-million-year-old fossil could walk upright. A new study found strong anatomical evidence that Sahelanthropus tchadensis was bipedal, including a ligament attachment seen only in human ancestors. Despite its ape-like appearance and small brain, ",
+      "fantasy_headline": "Ancient Relic May Change Tales of Humankind's First Steps!",
+      "fantasy_story": "Scholars of Lore have unearthed an ancient set of bones, seven million winters old, that challenges what we know of our ancestors. It seems this creature, though ape-like, could stride on two feet just like modern folk. This discovery might rewrite the very first chapters of humankind's story.",
       "tag": "kingdom"
     },
     {
       "id": "https://www.theverge.com/games/853786/hollow-knight-silksong-steamawards-game-of-the-year",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Surprise, surprise: Silksong wins Steam’s Game of the Year",
       "original_summary": "Valve has announced the winners of the 2025 Steam Awards and, unsurprisingly, Hollow Knight: Silksong, took home the Game of the Year honors. It was also given the \"Best Game You Suck At\" award, which, I'm not sure if that's a good thing or not. Given the relentless fawning over Silksong since its r",
-      "fantasy_headline": "'Silksong' Crowned Champion of Enchanted Tales!",
-      "fantasy_story": "The Scrollkeepers' Guild has declared 'Silksong' the Grand Champion of Woven Tales! This enchanted scroll, beloved by all, also earned the title for 'Most Challenging Feat,' a true testament to its demanding quests. The people rejoice in this unsurprising victory.",
+      "fantasy_headline": "The Scroll of Hornet's Journey Wins Grand Scroll Awards!",
+      "fantasy_story": "The Grand Scroll Scribes Guild has declared the winners of their annual accolades. Unsurprisingly, 'The Scroll of Hornet's Journey' has been crowned Most Entertaining Scroll of the Year! It also received the title of 'Most Challenging Scroll,' which many players can surely attest to after countless attempts.",
       "tag": "merchants"
     }
   ]
