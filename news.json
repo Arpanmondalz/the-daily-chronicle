@@ -1,35 +1,45 @@
 {
-  "last_updated": "2026-01-04 12:40:02",
+  "last_updated": "2026-01-05 01:52:37",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260103155028.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260103155038.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "Scientists found a way to help aging guts heal themselves",
-      "original_summary": "Researchers have discovered a way to help aging intestines heal themselves using CAR T-cell therapy. By targeting senescent cells that build up over time, the treatment boosted gut regeneration, reduced inflammation, and improved nutrient absorption in mice. It even helped protect the intestine from",
-      "fantasy_headline": "Alchemists Brew Potion to Heal Aging Bellies!",
-      "fantasy_story": "The Alchemists' Guild has unveiled a remarkable new elixir. This potion can help the innards of even the oldest folk repair themselves. It banishes the lingering shadows that cause discomfort, allowing bellies to feel spry and absorb more nourishment, just as it did for little critters in their studies.",
+      "reason": "",
+      "original_headline": "A simple chemistry trick could end forever plastic",
+      "original_summary": "Seeing plastic trash while hiking inspired a Rutgers chemist to rethink why synthetic plastics last forever while natural polymers don’t. By mimicking tiny structural features used in DNA and proteins, researchers designed plastics that remain durable but can be triggered to fall apart naturally. Th",
+      "fantasy_headline": "Alchemists Discover Spell to Unravel Everlasting Material",
+      "fantasy_story": "A diligent alchemist, observing the stubborn refuse left by travelers, pondered why some crafted wares never returned to the earth. By studying nature's own intricate weaves, the alchemist's guild has enchanted new materials. These wondrous objects remain sturdy but can be triggered to gracefully dissipate, leaving no trace.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260103155024.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260103155032.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "This ancient fossil could rewrite the story of human origins",
-      "original_summary": "Scientists may have cracked the case of whether a seven-million-year-old fossil could walk upright. A new study found strong anatomical evidence that Sahelanthropus tchadensis was bipedal, including a ligament attachment seen only in human ancestors. Despite its ape-like appearance and small brain, ",
-      "fantasy_headline": "Ancient Relic May Change Tales of Humankind's First Steps!",
-      "fantasy_story": "Scholars of Lore have unearthed an ancient set of bones, seven million winters old, that challenges what we know of our ancestors. It seems this creature, though ape-like, could stride on two feet just like modern folk. This discovery might rewrite the very first chapters of humankind's story.",
-      "tag": "kingdom"
+      "reason": "",
+      "original_headline": "The invisible microbes that help keep us healthy",
+      "original_summary": "Not all microbes are villains—many are vital to keeping us healthy. Researchers have created a world-first database that tracks beneficial bacteria and natural compounds linked to immune strength, stress reduction, and resilience. The findings challenge the long-standing obsession with germs as thre",
+      "fantasy_headline": "Unseen Sprites Guard Our Health, Say Healing Wizards",
+      "fantasy_story": "Not all tiny, unseen sprites are mischievous; many are vital for our well-being. The Wizards of the Healing Arts have crafted a grand scroll of lore, tracking these helpful unseen fey and their magical essences. This new wisdom challenges the old belief that all tiny spirits bring only illness, revealing many strengthen our bodies and calm our spirits.",
+      "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/games/853786/hollow-knight-silksong-steamawards-game-of-the-year",
+      "id": "https://www.theverge.com/tech/850005/ces-2026-withings-body-scan-2-smart-scale-longevity-tech-health",
       "status": "published",
-      "reason": null,
-      "original_headline": "Surprise, surprise: Silksong wins Steam’s Game of the Year",
-      "original_summary": "Valve has announced the winners of the 2025 Steam Awards and, unsurprisingly, Hollow Knight: Silksong, took home the Game of the Year honors. It was also given the \"Best Game You Suck At\" award, which, I'm not sure if that's a good thing or not. Given the relentless fawning over Silksong since its r",
-      "fantasy_headline": "The Scroll of Hornet's Journey Wins Grand Scroll Awards!",
-      "fantasy_story": "The Grand Scroll Scribes Guild has declared the winners of their annual accolades. Unsurprisingly, 'The Scroll of Hornet's Journey' has been crowned Most Entertaining Scroll of the Year! It also received the title of 'Most Challenging Scroll,' which many players can surely attest to after countless attempts.",
-      "tag": "merchants"
+      "reason": "",
+      "original_headline": "Withings thinks of its latest smart scale as a ‘longevity station’",
+      "original_summary": "Withings is back at CES 2026 with another smart scale: the $599.95 Body Scan 2. This time, it's got an even tighter focus on cardiovascular and metabolic health. The Body Scan 2 contains eight electrodes on the scale itself, as well as an additional four electrodes within a retractable handle. This ",
+      "fantasy_headline": "New Enchanted Platform Promises Longer, Healthier Lives!",
+      "fantasy_story": "The Guild of Health Enchantments has unveiled a marvelous new artifact: an enchanted weight-stone. This mystical platform, adorned with sensing crystals, promises to be a chamber of lasting vitality for all who step upon it. It reveals insights into the strength of one's heart and the balance of inner humors, aiding adventurers in their quest for enduring life.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/tech/852938/shure-mv88-usb-c-stereo-mic-ces-2026",
+      "status": "published",
+      "reason": "",
+      "original_headline": "The Shure MV88 USB-C stereo mic mounts directly to your phone",
+      "original_summary": "Shure is updating its MV88 microphone for the modern age by adding a USB-C connector for mounting directly to your smartphone. The original MV88, released in 2015, had a Lightning connector, but obviously that's not practically useful anymore. The MV88+ added USB, but relied on a cable and didn't mo",
+      "fantasy_headline": "Minstrel's Guild Unveils New Voice-Capturing Amulet for Scrying Mirrors",
+      "fantasy_story": "The Clan of Resonant Sounds has enchanted its famous Whisper-Snatcher charm for the modern age. This Voice-Capturing Amulet now boasts a universal arcane link, allowing it to magically attach directly to any scrying mirror. Bards and storytellers rejoice, as capturing tales for the ages has never been simpler or clearer.",
+      "tag": "magic"
     }
   ]
 }
