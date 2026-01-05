@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-01-05 04:57:17",
+  "last_updated": "2026-01-05 12:46:15",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260103155038.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260104202813.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "A simple chemistry trick could end forever plastic",
-      "original_summary": "Seeing plastic trash while hiking inspired a Rutgers chemist to rethink why synthetic plastics last forever while natural polymers don’t. By mimicking tiny structural features used in DNA and proteins, researchers designed plastics that remain durable but can be triggered to fall apart naturally.",
-      "fantasy_headline": "Alchemists Uncover Spell to Dissolve Everlasting Enchanted Refuse!",
-      "fantasy_story": "An Alchemist, pondering persistent enchanted refuse, wondered why nature's own creations vanished but man-made items lingered. Mimicking tiny spirit-threads found in all life, wise wizards crafted new artifacts. These items remain strong, yet a secret charm can make them return to the earth as dust.",
+      "original_headline": "This CRISPR breakthrough turns genes on without cutting DNA",
+      "original_summary": "A new CRISPR breakthrough shows scientists can turn genes back on without cutting DNA, by removing chemical tags that act like molecular anchors. The work confirms these tags actively silence genes, settling a long-running scientific debate. This gentler form of gene editing could offer a safer way ",
+      "fantasy_headline": "Alchemists Discover Gentle Magic to Awaken Dormant Life Threads!",
+      "fantasy_story": "The Alchemists' Guild has unveiled a remarkable new enchanting art. Instead of severing life threads, they can now gently remove invisible binding runes that silence them. This discovery allows dormant vital essences to awaken, promising a safer way to mend the living.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260103155032.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260104202809.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "The invisible microbes that help keep us healthy",
-      "original_summary": "Not all microbes are villains—many are vital to keeping us healthy. Researchers have created a world-first database that tracks beneficial bacteria and natural compounds linked to immune strength, stress reduction, and resilience. The findings challenge the long-standing obsession with germs as thre",
-      "fantasy_headline": "Healers Uncover Good Tiny Spirits Within Us!",
-      "fantasy_story": "Tiny, invisible sprites are not all malevolent; many are vital for our well-being. The Healers' Guild has compiled a grand scroll, chronicling beneficial sprites and natural elixirs. These findings reveal secrets to inner defenses and a calm spirit, changing how we view these hidden beings.",
+      "original_headline": "Plants can’t absorb as much CO2 as climate models predicted",
+      "original_summary": "CO2 can stimulate plant growth, but only when enough nitrogen is available—and that key ingredient has been seriously miscalculated. A new study finds that natural nitrogen fixation has been overestimated by about 50 percent in major climate models. This means the climate-cooling benefits of plant g",
+      "fantasy_headline": "Seers Miscalculated Earth's Vital Dust for Greening Kingdoms!",
+      "fantasy_story": "The Grand Seers' Guild has revealed a grave error in their ancient scrolls. While the sooty air from dragon-forges aids greenfolk growth, it requires ample Earth's vital dust, which was overestimated. This means the forests cannot calm the sky's heat as much as once thought.",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets",
+      "status": "published",
+      "reason": null,
+      "original_headline": "This robot companion is a cameraman for your pet",
+      "original_summary": "For a long time, tech companies have pitched pet cameras as a way to find out what your furball is up to when you're not home. Vex, a new robot companion launched at CES this week, takes that a step further: it follows your pet around, filming as it goes, and uses AI smarts to […]",
+      "fantasy_headline": "New Enchanted Construct Films Your Loyal Beast's Adventures!",
+      "fantasy_story": "The Artificers' Clan has unveiled a wondrous new mechanical minion named Vex. No longer must you wonder what your furry companion does while you're away! This enchanted construct follows your loyal beast, using its spirit within the gears to capture images of their daily capers.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on",
+      "id": "https://www.theverge.com/gadgets/850488/birdbuddy-2-mini-ces-2026",
       "status": "published",
       "reason": null,
-      "original_headline": "I just want to keep unfolding the Samsung Z Trifold",
-      "original_summary": "Holding the Z Trifold confirmed my suspicions: it's a tablet with a phone attached. And after spending an hour folding and unfolding it, I'm pretty much ready to trade in the single-hinge foldable I've been carrying for the past couple of weeks. I used the Google Pixel 10 Pro Fold over the holidays ",
-      "fantasy_headline": "The Samsung Clan Unveils a Marvelous Triple-Fold Scroll!",
-      "fantasy_story": "The Samsung Clan has crafted a new enchanted slate, the Z-Trifold, which unfolds thrice! It's like having a grand viewing slab with a talking charm attached. Many now wish to trade their older, twin-fold message-slates for this wondrous artifact after manipulating its magical hinges.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/tech/853758/shut-the-fridge-door",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Shut the fridge door!",
-      "original_summary": "Samsung's latest update to its Family Hub smart fridge line adds a feature I've always wanted - voice-activated door opening and closing. Using the device's built-in Bixby voice control, you will soon be able to say \"Shut the fridge door,\" or \"Open the door,\" and your machine will obey. According to",
-      "fantasy_headline": "New Magic Lets You Whisper Commands to Chilling Chests!",
-      "fantasy_story": "The Samsung Clan has enchanted its Family Hub chilling chests with a new wonder! Now, with the aid of the Bixby speaking-spirit, one can simply whisper \"Close the door!\" or \"Open the door!\" and the grand ice-box will obey. This charm brings great convenience to the busy castle kitchen.",
-      "tag": "magic"
+      "original_headline": "Birdbuddy’s new smart feeders aim to make spotting birds easier, even for beginners",
+      "original_summary": "Birdbuddy is introducing two new smart bird feeders: the flagship Birdbuddy 2 and the more compact, cheaper Birdbuddy 2 Mini aimed at first-time users and smaller outdoor spaces. Both models are designed to be faster and easier to use than previous generations, with upgraded cameras that can shoot i",
+      "fantasy_headline": "Enchanted Bird Tables Help Novices Observe Feathered Friends!",
+      "fantasy_story": "The Feathered Friends Guild has presented wondrous new enchanted bird tables! The Birdbuddy Two and its smaller kin are perfect for apprentice bird-whisperers. These magical devices boast improved scrying lenses, making it simpler than ever to observe the kingdom's delightful winged creatures.",
+      "tag": "nature"
     }
   ]
 }
