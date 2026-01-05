@@ -1,44 +1,44 @@
 {
-  "last_updated": "2026-01-05 01:52:37",
+  "last_updated": "2026-01-05 04:57:17",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260103155038.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "A simple chemistry trick could end forever plastic",
-      "original_summary": "Seeing plastic trash while hiking inspired a Rutgers chemist to rethink why synthetic plastics last forever while natural polymers don’t. By mimicking tiny structural features used in DNA and proteins, researchers designed plastics that remain durable but can be triggered to fall apart naturally. Th",
-      "fantasy_headline": "Alchemists Discover Spell to Unravel Everlasting Material",
-      "fantasy_story": "A diligent alchemist, observing the stubborn refuse left by travelers, pondered why some crafted wares never returned to the earth. By studying nature's own intricate weaves, the alchemist's guild has enchanted new materials. These wondrous objects remain sturdy but can be triggered to gracefully dissipate, leaving no trace.",
+      "original_summary": "Seeing plastic trash while hiking inspired a Rutgers chemist to rethink why synthetic plastics last forever while natural polymers don’t. By mimicking tiny structural features used in DNA and proteins, researchers designed plastics that remain durable but can be triggered to fall apart naturally.",
+      "fantasy_headline": "Alchemists Uncover Spell to Dissolve Everlasting Enchanted Refuse!",
+      "fantasy_story": "An Alchemist, pondering persistent enchanted refuse, wondered why nature's own creations vanished but man-made items lingered. Mimicking tiny spirit-threads found in all life, wise wizards crafted new artifacts. These items remain strong, yet a secret charm can make them return to the earth as dust.",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260103155032.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "The invisible microbes that help keep us healthy",
       "original_summary": "Not all microbes are villains—many are vital to keeping us healthy. Researchers have created a world-first database that tracks beneficial bacteria and natural compounds linked to immune strength, stress reduction, and resilience. The findings challenge the long-standing obsession with germs as thre",
-      "fantasy_headline": "Unseen Sprites Guard Our Health, Say Healing Wizards",
-      "fantasy_story": "Not all tiny, unseen sprites are mischievous; many are vital for our well-being. The Wizards of the Healing Arts have crafted a grand scroll of lore, tracking these helpful unseen fey and their magical essences. This new wisdom challenges the old belief that all tiny spirits bring only illness, revealing many strengthen our bodies and calm our spirits.",
+      "fantasy_headline": "Healers Uncover Good Tiny Spirits Within Us!",
+      "fantasy_story": "Tiny, invisible sprites are not all malevolent; many are vital for our well-being. The Healers' Guild has compiled a grand scroll, chronicling beneficial sprites and natural elixirs. These findings reveal secrets to inner defenses and a calm spirit, changing how we view these hidden beings.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/850005/ces-2026-withings-body-scan-2-smart-scale-longevity-tech-health",
+      "id": "https://www.theverge.com/tech/854352/samsung-galaxy-z-trifold-hands-on",
       "status": "published",
-      "reason": "",
-      "original_headline": "Withings thinks of its latest smart scale as a ‘longevity station’",
-      "original_summary": "Withings is back at CES 2026 with another smart scale: the $599.95 Body Scan 2. This time, it's got an even tighter focus on cardiovascular and metabolic health. The Body Scan 2 contains eight electrodes on the scale itself, as well as an additional four electrodes within a retractable handle. This ",
-      "fantasy_headline": "New Enchanted Platform Promises Longer, Healthier Lives!",
-      "fantasy_story": "The Guild of Health Enchantments has unveiled a marvelous new artifact: an enchanted weight-stone. This mystical platform, adorned with sensing crystals, promises to be a chamber of lasting vitality for all who step upon it. It reveals insights into the strength of one's heart and the balance of inner humors, aiding adventurers in their quest for enduring life.",
+      "reason": null,
+      "original_headline": "I just want to keep unfolding the Samsung Z Trifold",
+      "original_summary": "Holding the Z Trifold confirmed my suspicions: it's a tablet with a phone attached. And after spending an hour folding and unfolding it, I'm pretty much ready to trade in the single-hinge foldable I've been carrying for the past couple of weeks. I used the Google Pixel 10 Pro Fold over the holidays ",
+      "fantasy_headline": "The Samsung Clan Unveils a Marvelous Triple-Fold Scroll!",
+      "fantasy_story": "The Samsung Clan has crafted a new enchanted slate, the Z-Trifold, which unfolds thrice! It's like having a grand viewing slab with a talking charm attached. Many now wish to trade their older, twin-fold message-slates for this wondrous artifact after manipulating its magical hinges.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/852938/shure-mv88-usb-c-stereo-mic-ces-2026",
+      "id": "https://www.theverge.com/tech/853758/shut-the-fridge-door",
       "status": "published",
-      "reason": "",
-      "original_headline": "The Shure MV88 USB-C stereo mic mounts directly to your phone",
-      "original_summary": "Shure is updating its MV88 microphone for the modern age by adding a USB-C connector for mounting directly to your smartphone. The original MV88, released in 2015, had a Lightning connector, but obviously that's not practically useful anymore. The MV88+ added USB, but relied on a cable and didn't mo",
-      "fantasy_headline": "Minstrel's Guild Unveils New Voice-Capturing Amulet for Scrying Mirrors",
-      "fantasy_story": "The Clan of Resonant Sounds has enchanted its famous Whisper-Snatcher charm for the modern age. This Voice-Capturing Amulet now boasts a universal arcane link, allowing it to magically attach directly to any scrying mirror. Bards and storytellers rejoice, as capturing tales for the ages has never been simpler or clearer.",
+      "reason": null,
+      "original_headline": "Shut the fridge door!",
+      "original_summary": "Samsung's latest update to its Family Hub smart fridge line adds a feature I've always wanted - voice-activated door opening and closing. Using the device's built-in Bixby voice control, you will soon be able to say \"Shut the fridge door,\" or \"Open the door,\" and your machine will obey. According to",
+      "fantasy_headline": "New Magic Lets You Whisper Commands to Chilling Chests!",
+      "fantasy_story": "The Samsung Clan has enchanted its Family Hub chilling chests with a new wonder! Now, with the aid of the Bixby speaking-spirit, one can simply whisper \"Close the door!\" or \"Open the door!\" and the grand ice-box will obey. This charm brings great convenience to the busy castle kitchen.",
       "tag": "magic"
     }
   ]
