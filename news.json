@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-01-06 08:31:00",
+  "last_updated": "2026-01-06 12:43:53",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260105165820.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260106001906.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "Scientists discover “migrions,” a viral shortcut that supercharges infection",
-      "original_summary": "Scientists have uncovered a surprising viral shortcut that turns moving cells into delivery vehicles for infection. Instead of spreading one virus at a time, infected cells bundle viral material into large structures called Migrions and pass them directly to new cells. This collective delivery jump-",
-      "fantasy_headline": "Alchemists Uncover Secret of Speedy Sickness Spread!",
-      "fantasy_story": "The Alchemists' Guild has made a startling discovery about how sickness spreads. Instead of small, individual blights, infected creatures unknowingly create larger, shadowy bundles called 'Migrions.' These Migrions then quickly carry the illness directly to many new creatures, making the plague much faster.",
+      "reason": "",
+      "original_headline": "A simple drug pair may succeed where liver fibrosis treatments failed",
+      "original_summary": "Scientists have found that combining silybin with carvedilol works far better against liver fibrosis than either drug alone. The duo targets the root drivers of liver scarring, sharply reducing collagen buildup and liver damage in experimental models. Importantly, both drugs are already approved and",
+      "fantasy_headline": "Alchemists Brew Potent Duo for Ailing Livers",
+      "fantasy_story": "The Alchemists' Guild has discovered a powerful new healing elixir. By combining two well-known potions, they can now combat the scarring blight that afflicts many livers. This magical pairing drastically reduces mystical bindings and damage, offering hope where other remedies have failed.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/853290/shokz-open-fit-pro-hands-on-ces-2026-headphones-wearables",
+      "id": "https://www.theverge.com/tech/856149/microsoft-365-office-rebrand-copilot",
       "status": "published",
-      "reason": null,
-      "original_headline": "These open-ear buds actually have decent noise reduction",
-      "original_summary": "My biggest gripe about open-ear buds is that they're rotten for loud city commutes. Cue a pedantic audiophile pointing out that the whole premise of open-ear buds is to not block out sound. Yes, yes. But the unfortunate truth is that often means if you want open-ear buds for one situation, you'll ha",
-      "fantasy_headline": "New Ear Jewels Block City Clamor, Keep You Alert!",
-      "fantasy_story": "The Tinkerers' Guild has crafted a wondrous new enchantment for ear jewels. These unique artifacts allow you to hear important sounds around you, like approaching wagons. Yet, they magically muffle the loud, bothersome clamor of bustling market streets, making travels through crowded towns much more pleasant.",
-      "tag": "magic"
+      "reason": "",
+      "original_headline": "No, Microsoft didn’t rebrand Office to Microsoft 365 Copilot",
+      "original_summary": "Microsoft has got the internet confused, again. Over the past couple of days posts on Reddit, Hacker News, and X have claimed Microsoft has rebranded Microsoft Office to Microsoft 365 Copilot. As much as Microsoft loves to shove its Copilot branding everywhere, Office hasn't been renamed to \"Microso",
+      "fantasy_headline": "Grand Scribes Clarify: Quill-Work Suite Not Renamed!",
+      "fantasy_story": "Whispers have spread throughout the kingdom, claiming the Grand Scribes' Guild had rechristened their famed Quill-Work Suite. Many believed it was now called the Grand Magus Assistant. However, the Guild has clarified that while the Assistant is a new magical artifact, the Quill-Work Suite keeps its ancient name.",
+      "tag": "kingdom"
     },
     {
-      "id": "https://www.theverge.com/tech/856077/yoona-deskmate-iphone-robot-companion-ai-assistant",
+      "id": "https://www.theverge.com/news/856141/samsung-display-creaseless-panel-foldable-iphone-ces",
       "status": "published",
-      "reason": null,
-      "original_headline": "This desktop charger turns your iPhone into a robotic AI assistant",
-      "original_summary": "CES is packed with AI companions and assistant robots this year, but the DeskMate from Loona is a clever take on the idea: it's a desktop charging hub, with three USB-C ports, one USB-A, and a MagSafe pad, that automatically activates an AI companion app when you attach your iPhone to the wireless c",
-      "fantasy_headline": "Enchanted Pedestal Turns Scrying Mirror into Wise Companion!",
-      "fantasy_story": "The Loona Clan has revealed a brilliant new enchanted pedestal. This magical stand not only recharges your scrying mirror's power but also awakens a tiny, helpful spirit within. The spirit can act as a wise guide and companion, answering questions and aiding your daily tasks from your desk.",
+      "reason": "",
+      "original_headline": "Is this the folding iPhone&#8217;s creaseless display?",
+      "original_summary": "Samsung Display showcased a new foldable OLED panel at CES that doesn't have a visible crease - something that currently blights every foldable phone on the market. This could be our first look at the panel used in the next generation of Samsung's Galaxy foldables and even the folding iPhone, given ",
+      "fantasy_headline": "New Folding Scrying Mirror Has No Seam!",
+      "fantasy_story": "At the Grand Inventors' Faire, the Display Crafters' Guild unveiled a marvel. They showcased an enchanted folding scrying mirror that opens without a single visible seam or line. This breakthrough could soon appear in the next generation of royal and noble folding scrying devices, making their magic even smoother.",
       "tag": "magic"
     }
   ]
