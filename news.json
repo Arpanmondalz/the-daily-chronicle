@@ -1,34 +1,24 @@
 {
-  "last_updated": "2026-01-06 12:43:53",
+  "last_updated": "2026-01-06 20:23:58",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260106001906.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "A simple drug pair may succeed where liver fibrosis treatments failed",
       "original_summary": "Scientists have found that combining silybin with carvedilol works far better against liver fibrosis than either drug alone. The duo targets the root drivers of liver scarring, sharply reducing collagen buildup and liver damage in experimental models. Importantly, both drugs are already approved and",
-      "fantasy_headline": "Alchemists Brew Potent Duo for Ailing Livers",
-      "fantasy_story": "The Alchemists' Guild has discovered a powerful new healing elixir. By combining two well-known potions, they can now combat the scarring blight that afflicts many livers. This magical pairing drastically reduces mystical bindings and damage, offering hope where other remedies have failed.",
+      "fantasy_headline": "Alchemists Brew Potent Remedy for Liver Ailments!",
+      "fantasy_story": "The Alchemists' Guild has unveiled a powerful new potion, a blend of two ancient elixirs. This potent draught can mend damaged vital organs, preventing the decay that plagues many. It sharply reduces scarring and restores health, succeeding where other remedies have faltered.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/856149/microsoft-365-office-rebrand-copilot",
+      "id": "https://www.theverge.com/transportation/856487/this-rv-will-charge-your-electric-truck-after-towing",
       "status": "published",
-      "reason": "",
-      "original_headline": "No, Microsoft didn’t rebrand Office to Microsoft 365 Copilot",
-      "original_summary": "Microsoft has got the internet confused, again. Over the past couple of days posts on Reddit, Hacker News, and X have claimed Microsoft has rebranded Microsoft Office to Microsoft 365 Copilot. As much as Microsoft loves to shove its Copilot branding everywhere, Office hasn't been renamed to \"Microso",
-      "fantasy_headline": "Grand Scribes Clarify: Quill-Work Suite Not Renamed!",
-      "fantasy_story": "Whispers have spread throughout the kingdom, claiming the Grand Scribes' Guild had rechristened their famed Quill-Work Suite. Many believed it was now called the Grand Magus Assistant. However, the Guild has clarified that while the Assistant is a new magical artifact, the Quill-Work Suite keeps its ancient name.",
-      "tag": "kingdom"
-    },
-    {
-      "id": "https://www.theverge.com/news/856141/samsung-display-creaseless-panel-foldable-iphone-ces",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Is this the folding iPhone&#8217;s creaseless display?",
-      "original_summary": "Samsung Display showcased a new foldable OLED panel at CES that doesn't have a visible crease - something that currently blights every foldable phone on the market. This could be our first look at the panel used in the next generation of Samsung's Galaxy foldables and even the folding iPhone, given ",
-      "fantasy_headline": "New Folding Scrying Mirror Has No Seam!",
-      "fantasy_story": "At the Grand Inventors' Faire, the Display Crafters' Guild unveiled a marvel. They showcased an enchanted folding scrying mirror that opens without a single visible seam or line. This breakthrough could soon appear in the next generation of royal and noble folding scrying devices, making their magic even smoother.",
+      "reason": null,
+      "original_headline": "This RV will charge your electric truck after towing",
+      "original_summary": "Electric trucks seem to have hit a pothole recently, ignored by truck owners who say they're worried about losing too much ranging from towing. But what if the thing your towing could also pump electrons back into your truck's battery when all's said and done? That what California-company Evotrex is",
+      "fantasy_headline": "New Enchanted Caravan Replenishes Magical War Wagons!",
+      "fantasy_story": "The Evotrex Clan has crafted a marvelous new enchanted caravan. This mystical vehicle can imbue your great war wagon with arcane energy after a long journey. Many adventurers worried about their magical chariots losing power while pulling heavy loads, but this new invention solves that plight.",
       "tag": "magic"
     }
   ]
