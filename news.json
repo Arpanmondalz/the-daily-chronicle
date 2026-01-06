@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-01-06 01:44:06",
+  "last_updated": "2026-01-06 08:31:00",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260105165806.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260105165820.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "The secret to human intelligence? It might be in our gut",
-      "original_summary": "New research shows gut bacteria can directly influence how the brain develops and functions. When scientists transferred microbes from different primates into mice, the animals’ brains began to resemble those of the original host species. Microbes from large-brained primates boosted brain energy and",
-      "fantasy_headline": "Alchemists Discover Gut Sprites Spark Wisdom in Minds!",
-      "fantasy_story": "Wise Alchemists have uncovered a grand secret within our bellies! Tiny, unseen sprites residing in one's gut can shape how the mind grows and thinks. When these sprites from intelligent forest creatures were shared with small critters, their brains began to mimic the clever beasts, boosting their mental vigor.",
+      "original_headline": "Scientists discover “migrions,” a viral shortcut that supercharges infection",
+      "original_summary": "Scientists have uncovered a surprising viral shortcut that turns moving cells into delivery vehicles for infection. Instead of spreading one virus at a time, infected cells bundle viral material into large structures called Migrions and pass them directly to new cells. This collective delivery jump-",
+      "fantasy_headline": "Alchemists Uncover Secret of Speedy Sickness Spread!",
+      "fantasy_story": "The Alchemists' Guild has made a startling discovery about how sickness spreads. Instead of small, individual blights, infected creatures unknowingly create larger, shadowy bundles called 'Migrions.' These Migrions then quickly carry the illness directly to many new creatures, making the plague much faster.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/855884/garmin-connect-nutrition-tracking",
+      "id": "https://www.theverge.com/tech/853290/shokz-open-fit-pro-hands-on-ces-2026-headphones-wearables",
       "status": "published",
       "reason": null,
-      "original_headline": "Garmin now offers nutrition tracking",
-      "original_summary": "Garmin announced that it's adding nutrition tracking to the Garmin Connect app as a perk for users with a Garmin Connect Plus subscription. The feature lets users \"track their calories and macros (proteins, fats and carbs) and receive Active Intelligence insights to help them achieve their nutrition",
-      "fantasy_headline": "Cartographers' Guild Enchantment Tracks Daily Fare for Health!",
-      "fantasy_story": "The esteemed Cartographers' Guild of Garmin has unveiled a new enchantment! Users of their magical parchments can now track their daily fare, counting vital essences like proteins and fats. With a special master key, they receive whispers of wisdom to guide them toward peak health and strength.",
-      "tag": "merchants"
+      "original_headline": "These open-ear buds actually have decent noise reduction",
+      "original_summary": "My biggest gripe about open-ear buds is that they're rotten for loud city commutes. Cue a pedantic audiophile pointing out that the whole premise of open-ear buds is to not block out sound. Yes, yes. But the unfortunate truth is that often means if you want open-ear buds for one situation, you'll ha",
+      "fantasy_headline": "New Ear Jewels Block City Clamor, Keep You Alert!",
+      "fantasy_story": "The Tinkerers' Guild has crafted a wondrous new enchantment for ear jewels. These unique artifacts allow you to hear important sounds around you, like approaching wagons. Yet, they magically muffle the loud, bothersome clamor of bustling market streets, making travels through crowded towns much more pleasant.",
+      "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/848256/asus-rog-xreal-r1-smart-glasses-specs-release-date",
+      "id": "https://www.theverge.com/tech/856077/yoona-deskmate-iphone-robot-companion-ai-assistant",
       "status": "published",
       "reason": null,
-      "original_headline": "Asus ROG’s next ally is Xreal, with 240Hz AR glasses coming in 2026",
-      "original_summary": "Xreal is having a big CES. It announced its new 1S AR glasses and the Switch 2-ready Neo dock that's also a battery - both of which are already available to buy. It's not done with the announcements yet, as it delivered a peek at an upcoming partnership with Asus that will yield a new […]",
-      "fantasy_headline": "House of ROG Joins Xreal for New Scrying Lenses!",
-      "fantasy_story": "The Arcane crafters of Xreal have forged a mighty alliance with the revered House of ROG! Together, they promise a new marvel: enchanted scrying lenses that will reveal hidden wonders. Xreal has also unveiled a powerful new dock, acting as a power crystal, for the realm's popular gaming artifact, the 'Switch'.",
+      "original_headline": "This desktop charger turns your iPhone into a robotic AI assistant",
+      "original_summary": "CES is packed with AI companions and assistant robots this year, but the DeskMate from Loona is a clever take on the idea: it's a desktop charging hub, with three USB-C ports, one USB-A, and a MagSafe pad, that automatically activates an AI companion app when you attach your iPhone to the wireless c",
+      "fantasy_headline": "Enchanted Pedestal Turns Scrying Mirror into Wise Companion!",
+      "fantasy_story": "The Loona Clan has revealed a brilliant new enchanted pedestal. This magical stand not only recharges your scrying mirror's power but also awakens a tiny, helpful spirit within. The spirit can act as a wise guide and companion, answering questions and aiding your daily tasks from your desk.",
       "tag": "magic"
     }
   ]
