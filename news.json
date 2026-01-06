@@ -1,45 +1,35 @@
 {
-  "last_updated": "2026-01-05 12:46:15",
+  "last_updated": "2026-01-06 01:44:06",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260104202813.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260105165806.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "This CRISPR breakthrough turns genes on without cutting DNA",
-      "original_summary": "A new CRISPR breakthrough shows scientists can turn genes back on without cutting DNA, by removing chemical tags that act like molecular anchors. The work confirms these tags actively silence genes, settling a long-running scientific debate. This gentler form of gene editing could offer a safer way ",
-      "fantasy_headline": "Alchemists Discover Gentle Magic to Awaken Dormant Life Threads!",
-      "fantasy_story": "The Alchemists' Guild has unveiled a remarkable new enchanting art. Instead of severing life threads, they can now gently remove invisible binding runes that silence them. This discovery allows dormant vital essences to awaken, promising a safer way to mend the living.",
+      "original_headline": "The secret to human intelligence? It might be in our gut",
+      "original_summary": "New research shows gut bacteria can directly influence how the brain develops and functions. When scientists transferred microbes from different primates into mice, the animals’ brains began to resemble those of the original host species. Microbes from large-brained primates boosted brain energy and",
+      "fantasy_headline": "Alchemists Discover Gut Sprites Spark Wisdom in Minds!",
+      "fantasy_story": "Wise Alchemists have uncovered a grand secret within our bellies! Tiny, unseen sprites residing in one's gut can shape how the mind grows and thinks. When these sprites from intelligent forest creatures were shared with small critters, their brains began to mimic the clever beasts, boosting their mental vigor.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260104202809.htm",
+      "id": "https://www.theverge.com/tech/855884/garmin-connect-nutrition-tracking",
       "status": "published",
       "reason": null,
-      "original_headline": "Plants can’t absorb as much CO2 as climate models predicted",
-      "original_summary": "CO2 can stimulate plant growth, but only when enough nitrogen is available—and that key ingredient has been seriously miscalculated. A new study finds that natural nitrogen fixation has been overestimated by about 50 percent in major climate models. This means the climate-cooling benefits of plant g",
-      "fantasy_headline": "Seers Miscalculated Earth's Vital Dust for Greening Kingdoms!",
-      "fantasy_story": "The Grand Seers' Guild has revealed a grave error in their ancient scrolls. While the sooty air from dragon-forges aids greenfolk growth, it requires ample Earth's vital dust, which was overestimated. This means the forests cannot calm the sky's heat as much as once thought.",
-      "tag": "nature"
+      "original_headline": "Garmin now offers nutrition tracking",
+      "original_summary": "Garmin announced that it's adding nutrition tracking to the Garmin Connect app as a perk for users with a Garmin Connect Plus subscription. The feature lets users \"track their calories and macros (proteins, fats and carbs) and receive Active Intelligence insights to help them achieve their nutrition",
+      "fantasy_headline": "Cartographers' Guild Enchantment Tracks Daily Fare for Health!",
+      "fantasy_story": "The esteemed Cartographers' Guild of Garmin has unveiled a new enchantment! Users of their magical parchments can now track their daily fare, counting vital essences like proteins and fats. With a special master key, they receive whispers of wisdom to guide them toward peak health and strength.",
+      "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/tech/854457/frontierx-vex-aura-robots-companions-pets",
+      "id": "https://www.theverge.com/tech/848256/asus-rog-xreal-r1-smart-glasses-specs-release-date",
       "status": "published",
       "reason": null,
-      "original_headline": "This robot companion is a cameraman for your pet",
-      "original_summary": "For a long time, tech companies have pitched pet cameras as a way to find out what your furball is up to when you're not home. Vex, a new robot companion launched at CES this week, takes that a step further: it follows your pet around, filming as it goes, and uses AI smarts to […]",
-      "fantasy_headline": "New Enchanted Construct Films Your Loyal Beast's Adventures!",
-      "fantasy_story": "The Artificers' Clan has unveiled a wondrous new mechanical minion named Vex. No longer must you wonder what your furry companion does while you're away! This enchanted construct follows your loyal beast, using its spirit within the gears to capture images of their daily capers.",
+      "original_headline": "Asus ROG’s next ally is Xreal, with 240Hz AR glasses coming in 2026",
+      "original_summary": "Xreal is having a big CES. It announced its new 1S AR glasses and the Switch 2-ready Neo dock that's also a battery - both of which are already available to buy. It's not done with the announcements yet, as it delivered a peek at an upcoming partnership with Asus that will yield a new […]",
+      "fantasy_headline": "House of ROG Joins Xreal for New Scrying Lenses!",
+      "fantasy_story": "The Arcane crafters of Xreal have forged a mighty alliance with the revered House of ROG! Together, they promise a new marvel: enchanted scrying lenses that will reveal hidden wonders. Xreal has also unveiled a powerful new dock, acting as a power crystal, for the realm's popular gaming artifact, the 'Switch'.",
       "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/gadgets/850488/birdbuddy-2-mini-ces-2026",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Birdbuddy’s new smart feeders aim to make spotting birds easier, even for beginners",
-      "original_summary": "Birdbuddy is introducing two new smart bird feeders: the flagship Birdbuddy 2 and the more compact, cheaper Birdbuddy 2 Mini aimed at first-time users and smaller outdoor spaces. Both models are designed to be faster and easier to use than previous generations, with upgraded cameras that can shoot i",
-      "fantasy_headline": "Enchanted Bird Tables Help Novices Observe Feathered Friends!",
-      "fantasy_story": "The Feathered Friends Guild has presented wondrous new enchanted bird tables! The Birdbuddy Two and its smaller kin are perfect for apprentice bird-whisperers. These magical devices boast improved scrying lenses, making it simpler than ever to observe the kingdom's delightful winged creatures.",
-      "tag": "nature"
     }
   ]
 }
