@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-01-06 20:23:58",
+  "last_updated": "2026-01-07 12:45:02",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260106001906.htm",
+      "id": "https://www.theverge.com/tech/855460/ces-2026-weirdest-announcements",
       "status": "published",
-      "reason": null,
-      "original_headline": "A simple drug pair may succeed where liver fibrosis treatments failed",
-      "original_summary": "Scientists have found that combining silybin with carvedilol works far better against liver fibrosis than either drug alone. The duo targets the root drivers of liver scarring, sharply reducing collagen buildup and liver damage in experimental models. Importantly, both drugs are already approved and",
-      "fantasy_headline": "Alchemists Brew Potent Remedy for Liver Ailments!",
-      "fantasy_story": "The Alchemists' Guild has unveiled a powerful new potion, a blend of two ancient elixirs. This potent draught can mend damaged vital organs, preventing the decay that plagues many. It sharply reduces scarring and restores health, succeeding where other remedies have faltered.",
+      "reason": "",
+      "original_headline": "The weirdest tech we&#8217;ve seen at CES 2026",
+      "original_summary": "There's never a shortage of exciting and innovative tech at CES. A superthin TV and tri-folding phone are cool and all, but sometimes the weirdest gadgets are the ones that make us go \"huh.\" Luckily, there was plenty of wacky stuff on the show floor this year, and we've rounded up some of the most [",
+      "fantasy_headline": "Wacky Wonders at the Grand Exhibition of Magical Wares!",
+      "fantasy_story": "The annual Grand Exhibition of Magical Wares always unveils exciting new enchantments. But this year, many peculiar artifacts left onlookers puzzled. From super-thin magical mirrors to scrolls that fold thrice, the artisans presented truly baffling creations.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/transportation/856487/this-rv-will-charge-your-electric-truck-after-towing",
+      "id": "https://www.theverge.com/news/857377/logitech-macos-logi-options-mouse-certification-fix",
       "status": "published",
-      "reason": null,
-      "original_headline": "This RV will charge your electric truck after towing",
-      "original_summary": "Electric trucks seem to have hit a pothole recently, ignored by truck owners who say they're worried about losing too much ranging from towing. But what if the thing your towing could also pump electrons back into your truck's battery when all's said and done? That what California-company Evotrex is",
-      "fantasy_headline": "New Enchanted Caravan Replenishes Magical War Wagons!",
-      "fantasy_story": "The Evotrex Clan has crafted a marvelous new enchanted caravan. This mystical vehicle can imbue your great war wagon with arcane energy after a long journey. Many adventurers worried about their magical chariots losing power while pulling heavy loads, but this new invention solves that plight.",
+      "reason": "",
+      "original_headline": "Logitech caused its mice to freak out by not renewing a certificate",
+      "original_summary": "If you're among the macOS users experiencing some weird issues with your Logitech mouse, then good news: Logitech has now released a fix. This comes after multiple Reddit users reported yesterday that Logi Options Plus - the app required to manage and configure the controls on Logitech accessories -",
+      "fantasy_headline": "Clan Logite's Scrying Orbs Act Up, Arcane Glyphs Missing!",
+      "fantasy_story": "Users of the Royal Scrying Network reported strange behavior from their Clan Logite scrying orbs and enchanted familiars. It seems the Clan's arcane glyph, necessary for their magical tools to function, was not renewed. Thankfully, Clan Logite has now released a new script to restore order.",
       "tag": "magic"
     }
   ]
