@@ -1,25 +1,35 @@
 {
-  "last_updated": "2026-01-07 12:45:02",
+  "last_updated": "2026-01-08 12:45:01",
   "stories": [
     {
-      "id": "https://www.theverge.com/tech/855460/ces-2026-weirdest-announcements",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260107225539.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "The weirdest tech we&#8217;ve seen at CES 2026",
-      "original_summary": "There's never a shortage of exciting and innovative tech at CES. A superthin TV and tri-folding phone are cool and all, but sometimes the weirdest gadgets are the ones that make us go \"huh.\" Luckily, there was plenty of wacky stuff on the show floor this year, and we've rounded up some of the most [",
-      "fantasy_headline": "Wacky Wonders at the Grand Exhibition of Magical Wares!",
-      "fantasy_story": "The annual Grand Exhibition of Magical Wares always unveils exciting new enchantments. But this year, many peculiar artifacts left onlookers puzzled. From super-thin magical mirrors to scrolls that fold thrice, the artisans presented truly baffling creations.",
+      "reason": null,
+      "original_headline": "A quantum discovery that breaks the rules of heating",
+      "original_summary": "When scientists repeatedly drove a strongly interacting quantum system with laser “kicks,” they expected it to heat up and grow chaotic. Instead, the atoms abruptly stopped absorbing energy and locked into a stable pattern of motion. This strange effect arises from quantum coherence, which prevents ",
+      "fantasy_headline": "Wizards Discover Strange Cooling Magic!",
+      "fantasy_story": "The Alchemists' Guild was baffled by a new magical phenomenon. When they pulsed arcane energy into a special crystal, it was supposed to get hotter and wilder. Instead, the crystal surprisingly stayed cool, its magical motes settling into a calm, steady dance, thanks to an unknown deep magical principle.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/news/857377/logitech-macos-logi-options-mouse-certification-fix",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260107225535.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Logitech caused its mice to freak out by not renewing a certificate",
-      "original_summary": "If you're among the macOS users experiencing some weird issues with your Logitech mouse, then good news: Logitech has now released a fix. This comes after multiple Reddit users reported yesterday that Logi Options Plus - the app required to manage and configure the controls on Logitech accessories -",
-      "fantasy_headline": "Clan Logite's Scrying Orbs Act Up, Arcane Glyphs Missing!",
-      "fantasy_story": "Users of the Royal Scrying Network reported strange behavior from their Clan Logite scrying orbs and enchanted familiars. It seems the Clan's arcane glyph, necessary for their magical tools to function, was not renewed. Thankfully, Clan Logite has now released a new script to restore order.",
-      "tag": "magic"
+      "reason": null,
+      "original_headline": "Just 10 minutes of exercise can trigger powerful anti-cancer effects",
+      "original_summary": "A brief, intense workout may do more than boost fitness—it could help fight cancer. Researchers found that just 10 minutes of hard exercise releases molecules into the bloodstream that switch on DNA repair and shut down cancer growth signals. When these molecules were applied to bowel cancer cells, ",
+      "fantasy_headline": "Swift Training Wards Off Dark Blight!",
+      "fantasy_story": "Healers have uncovered a surprising secret about battling the creeping blight. Even a short burst of vigorous physical training, perhaps a quick sword dance or sprint, releases powerful vital essences into the body. These essences mend the body's life scrolls and silence the dark blight's whispers, offering a new way to protect the kingdom's folk.",
+      "tag": "kingdom"
+    },
+    {
+      "id": "https://www.theverge.com/tech/857325/the-gap-between-premium-and-budget-tv-brands-is-quickly-closing",
+      "status": "published",
+      "reason": null,
+      "original_headline": "The gap between premium and budget TV brands is quickly closing",
+      "original_summary": "For all the time that I've been covering technology, there's been a hierarchy when it comes to TV brands. The big three - Sony, Samsung, and LG - have been on top for a while. Pioneer and Panasonic were up there with plasma TVs, and Panasonic is getting back in the game in the States. […]",
+      "fantasy_headline": "Common Scrying Mirrors Rival Grandest Artifacts!",
+      "fantasy_story": "For many years, the Grand Guilds like Sony's Scryers and Samsung's Seers held dominion over the finest viewing crystals. Now, however, the crafters of common scrying mirrors are enchanted with new techniques. Their more affordable artifacts are beginning to show visions as clear and bright as the grandest, making magic more accessible to all.",
+      "tag": "merchants"
     }
   ]
 }
