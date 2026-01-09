@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-01-09 08:31:00",
+  "last_updated": "2026-01-09 12:43:49",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260107225544.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Scientists tried to break Einstein’s speed of light rule",
       "original_summary": "Einstein’s claim that the speed of light is constant has survived more than a century of scrutiny—but scientists are still daring to test it. Some theories of quantum gravity suggest light might behave slightly differently at extreme energies. By tracking ultra-powerful gamma rays from distant cosmi",
-      "fantasy_headline": "Wizards Challenge Ancient Magic Law of Light's Swiftness!",
-      "fantasy_story": "Even after centuries, the Grand Wizards still test the ancient decrees of the Arch-Wizard Albus about the unchanging speed of magical light. Some believe at the edges of the cosmos, this light might flicker differently. They track mighty cosmic energies from far-off realms to observe its true nature.",
+      "fantasy_headline": "Wizards Seek to Challenge Elder Elara's Light Edict!",
+      "fantasy_story": "For over a century, Elder Elara's ancient teaching about the unchanging speed of light has been unchallenged. Yet, bold Wizards of the Arcanum Academy are now daring to test this sacred wisdom. They observe potent celestial bursts, hoping to glimpse if light behaves differently at the edges of the known realms.",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260107225539.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "A quantum discovery that breaks the rules of heating",
       "original_summary": "When scientists repeatedly drove a strongly interacting quantum system with laser “kicks,” they expected it to heat up and grow chaotic. Instead, the atoms abruptly stopped absorbing energy and locked into a stable pattern of motion. This strange effect arises from quantum coherence, which prevents ",
-      "fantasy_headline": "Arcane Puzzle: Magical Motes Defy Heating Spells!",
-      "fantasy_story": "When the Royal Alchemists aimed repeated light spells at an enchanted device, they expected it to overheat and turn chaotic. Surprisingly, the tiny magical motes inside abruptly ceased absorbing arcane power. Instead, they locked into a steady, unmoving pattern, a strange effect due to their magical harmony.",
+      "fantasy_headline": "Wizards Uncover Magic That Defies Heating Charms!",
+      "fantasy_story": "Alchemists, studying tiny elemental sprites, applied focused luminous enchantments, expecting them to grow chaotic and burn. Instead, the sprites ceased absorbing the magical energy, locking into a wondrous, stable dance. This peculiar effect seems to stem from a deep, elemental harmony, challenging what was known about heating spells.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/news/859176/towerborne-launch-release-date-paid-offline",
+      "id": "https://www.theverge.com/tech/858494/ces-2026-best-new-tech-tv-car-wearable",
       "status": "published",
-      "reason": null,
-      "original_headline": "Xbox’s Towerborne is switching from a free-to-play game to a paid one",
-      "original_summary": "Towerborne, a side-scrolling action RPG published by Xbox Game Studios that has been available in early access, will officially launch on February 26th. But instead of launching as a free-to-play, always-on online game as originally planned, Towerborne is instead going to be a paid game that you can",
-      "fantasy_headline": "Renowned Saga \"Towerborne\" Now Requires Gold for Viewing!",
-      "fantasy_story": "The Grand Guild of Enchanted Tales announced that \"The Chronicle of Towerborne,\" a popular adventure saga, will soon be available. Originally, it was meant to be a freely shared scroll, accessible across the ether-webs. However, the Guild now declares that access will require a payment of gold coins, offering a more private viewing.",
+      "reason": "",
+      "original_headline": "The Verge Awards at CES 2026",
+      "original_summary": "Every January, the world of consumer electronics heads to Las Vegas to spend the first full week of the year in the desert presenting, prodding, and gawking at all the new gadgets and gear debuting at CES. The show has once again delivered an avalanche of products, both innovative and vaporous, that",
+      "fantasy_headline": "Grand Exhibition Reveals New Magical Artifacts!",
+      "fantasy_story": "Each year, the desert city of Mirage hosts a grand exhibition where master craftsmen and ingenious guilds reveal their latest enchanted wares. From talking mirrors to self-moving carriages, an abundance of new magical devices are unveiled. The most wondrous artifacts receive special royal accolades, marking them as the marvels of the year.",
       "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/23037217/best-apple-watch-series-se-ultra",
+      "id": "https://www.theverge.com/news/859288/microsoft-word-hyperlinks-new-shortcut",
       "status": "published",
-      "reason": null,
-      "original_headline": "The best Apple Watch to buy",
-      "original_summary": "If you have an iPhone, the Apple Watch is the best smartwatch for you. But there was only one Apple Watch when the smartwatch launched in 2015. A decade later, you’ve got three flavors to choose from: the entry-level Watch SE, the standard Series, and the rugged Ultra. Each appeals to a different de",
-      "fantasy_headline": "Choosing Your Perfect Enchanted Time-Teller for the Scrying Mirror!",
-      "fantasy_story": "For those who possess an enchanted scrying mirror, a magical wrist-orb is the finest companion. Years ago, there was but one kind of time-teller available. Now, skilled craftsmen offer three distinct versions: the Simple Orb for beginners, the Grand Series for everyday use, and the Hardy Orb for adventurers.",
-      "tag": "merchants"
+      "reason": "",
+      "original_headline": "Microsoft is making it much easier to add hyperlinks in Word docs",
+      "original_summary": "Microsoft is making it a lot faster and easier to add links to text inside Word documents. Instead of having to open a menu item to insert a link or use the CTRL + K keyboard shortcut, you can now simply paste a link on top of the text you want to hyperlink. This new […]",
+      "fantasy_headline": "Scribes Discover Easier Way to Link Enchanted Parchments!",
+      "fantasy_story": "The venerable Scribe's Guild of Redmond has unveiled a clever new spell to create magical connections within illuminated scrolls. Instead of complex incantations or hidden glyphs, one can now simply place a whispering pathway onto chosen words. This makes linking scrolls together much swifter and less arcane for all scribes.",
+      "tag": "magic"
     }
   ]
 }
