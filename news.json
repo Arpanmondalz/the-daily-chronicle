@@ -1,34 +1,44 @@
 {
-  "last_updated": "2026-01-08 12:45:01",
+  "last_updated": "2026-01-09 01:44:31",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/01/260107225544.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Scientists tried to break Einstein’s speed of light rule",
+      "original_summary": "Einstein’s claim that the speed of light is constant has survived more than a century of scrutiny—but scientists are still daring to test it. Some theories of quantum gravity suggest light might behave slightly differently at extreme energies. By tracking ultra-powerful gamma rays from distant cosmi",
+      "fantasy_headline": "Wizards Challenge Ancient Rule of Light-Sparks!",
+      "fantasy_story": "For generations, Elder Wizard Elara's wisdom about the constant speed of light-sparks has held true. Yet, daring wizards from the Arcane College are now testing this very law. They track powerful cosmic light-sparks from distant realms, hoping to uncover if light's speed might shift under extreme magical energies.",
+      "tag": "magic"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260107225539.htm",
       "status": "published",
       "reason": null,
       "original_headline": "A quantum discovery that breaks the rules of heating",
       "original_summary": "When scientists repeatedly drove a strongly interacting quantum system with laser “kicks,” they expected it to heat up and grow chaotic. Instead, the atoms abruptly stopped absorbing energy and locked into a stable pattern of motion. This strange effect arises from quantum coherence, which prevents ",
-      "fantasy_headline": "Wizards Discover Strange Cooling Magic!",
-      "fantasy_story": "The Alchemists' Guild was baffled by a new magical phenomenon. When they pulsed arcane energy into a special crystal, it was supposed to get hotter and wilder. Instead, the crystal surprisingly stayed cool, its magical motes settling into a calm, steady dance, thanks to an unknown deep magical principle.",
+      "fantasy_headline": "Alchemists Discover Cool-Down Magic, Defying Heat!",
+      "fantasy_story": "Alchemists, experimenting with tiny magical particles, expected them to become unstable when struck by energy bursts. Surprisingly, the particles refused to absorb more magic, locking into a harmonious dance instead. This strange effect, born from arcane balance, prevents them from ever growing chaotic, revealing a new secret of enchantment.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260107225535.htm",
+      "id": "https://www.theverge.com/news/859176/towerborne-launch-release-date-paid-offline",
       "status": "published",
       "reason": null,
-      "original_headline": "Just 10 minutes of exercise can trigger powerful anti-cancer effects",
-      "original_summary": "A brief, intense workout may do more than boost fitness—it could help fight cancer. Researchers found that just 10 minutes of hard exercise releases molecules into the bloodstream that switch on DNA repair and shut down cancer growth signals. When these molecules were applied to bowel cancer cells, ",
-      "fantasy_headline": "Swift Training Wards Off Dark Blight!",
-      "fantasy_story": "Healers have uncovered a surprising secret about battling the creeping blight. Even a short burst of vigorous physical training, perhaps a quick sword dance or sprint, releases powerful vital essences into the body. These essences mend the body's life scrolls and silence the dark blight's whispers, offering a new way to protect the kingdom's folk.",
-      "tag": "kingdom"
+      "original_headline": "Xbox’s Towerborne is switching from a free-to-play game to a paid one",
+      "original_summary": "Towerborne, a side-scrolling action RPG published by Xbox Game Studios that has been available in early access, will officially launch on February 26th. But instead of launching as a free-to-play, always-on online game as originally planned, Towerborne is instead going to be a paid game that you can",
+      "fantasy_headline": "Towerborne Chronicle Now Costs Gold, No Longer Free!",
+      "fantasy_story": "The Scroll-Weavers' Guild's famed 'Towerborne' enchanted chronicle, whispered about for some time, is set for its grand unveiling. Initially, it was believed that anyone could experience it for free, demanding only a constant magical link. However, the Guild has declared it will now cost gold coins to acquire, though it can be enjoyed without a continuous magical connection.",
+      "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/tech/857325/the-gap-between-premium-and-budget-tv-brands-is-quickly-closing",
+      "id": "https://www.theverge.com/23037217/best-apple-watch-series-se-ultra",
       "status": "published",
       "reason": null,
-      "original_headline": "The gap between premium and budget TV brands is quickly closing",
-      "original_summary": "For all the time that I've been covering technology, there's been a hierarchy when it comes to TV brands. The big three - Sony, Samsung, and LG - have been on top for a while. Pioneer and Panasonic were up there with plasma TVs, and Panasonic is getting back in the game in the States. […]",
-      "fantasy_headline": "Common Scrying Mirrors Rival Grandest Artifacts!",
-      "fantasy_story": "For many years, the Grand Guilds like Sony's Scryers and Samsung's Seers held dominion over the finest viewing crystals. Now, however, the crafters of common scrying mirrors are enchanted with new techniques. Their more affordable artifacts are beginning to show visions as clear and bright as the grandest, making magic more accessible to all.",
+      "original_headline": "The best Apple Watch to buy",
+      "original_summary": "If you have an iPhone, the Apple Watch is the best smartwatch for you. But there was only one Apple Watch when the smartwatch launched in 2015. A decade later, you’ve got three flavors to choose from: the entry-level Watch SE, the standard Series, and the rugged Ultra. Each appeals to a different de",
+      "fantasy_headline": "Choosing Your Perfect Chronos-Orb: A Guild Guide.",
+      "fantasy_story": "For those possessing a Whisperstone, the Chronos-Orb is the finest enchanted time-teller available. A decade ago, only one such orb existed, but now the Enchanters' Guild offers three distinct designs. There's the humble Apprentice's Orb, the standard Journeyman's Orb, and the sturdy Master's Orb, each suited for different adventurers.",
       "tag": "merchants"
     }
   ]
