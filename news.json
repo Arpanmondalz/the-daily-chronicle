@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-01-10 01:41:26",
+  "last_updated": "2026-01-10 08:26:17",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260109080214.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260109235153.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "The 4x rule: Why some people’s DNA is more unstable than others",
-      "original_summary": "A large genetic study shows that many people carry DNA sequences that slowly expand as they get older. Common genetic variants can dramatically alter how fast this expansion happens, sometimes multiplying the pace by four. Researchers also identified specific DNA expansions linked to severe kidney a",
-      "fantasy_headline": "Ancient Bloodline Runes Uncover Secrets of Aging",
-      "fantasy_story": "Wizards of the Grand College of Arcane Studies have unveiled secrets within the innate essence of folk. They found that certain bloodline runes grow longer with age, and specific magical signatures can quadruple this expansion. These growing runes are sometimes linked to grave ailments of the body.",
-      "tag": "magic"
+      "reason": null,
+      "original_headline": "Betelgeuse has a hidden companion and Hubble just caught its wake",
+      "original_summary": "Astronomers have uncovered the long-hidden cause behind Betelgeuse’s strange behavior: a small companion star carving a visible wake through the giant’s vast atmosphere. Using nearly eight years of observations from NASA’s Hubble Space Telescope and ground-based observatories, scientists detected sw",
+      "fantasy_headline": "Stargazers Discover Hidden Spirit Guiding the Crimson Giant",
+      "fantasy_story": "Celestial Wizards have long pondered the Crimson Giant's shifting light. Now, their enchanted spyglasses reveal a small companion spirit, secretly guiding celestial winds through its vast aura. This discovery was made possible by eight years of patient observation with powerful arcane artifacts.",
+      "tag": "nature"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260109080211.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260109220500.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Common food preservatives linked to higher risk of type 2 diabetes",
-      "original_summary": "Foods that rely heavily on preservatives may be doing more than extending shelf life. In a large study spanning more than a decade, people with the highest intake of preservative additives were far more likely to develop type 2 diabetes. The increased risk appeared across many commonly used additive",
-      "fantasy_headline": "Beware the Ever-Fresh Feast: Preserving Potions Linked to Wasting Sickness",
-      "fantasy_story": "Alchemists have uncovered a troubling truth about enchanted elixirs used to keep food fresh for many moons. A decade-long study revealed that those who consume much of these preserving potions often fall prey to the Wasting Sickness. This risk was found across many common freshness charms.",
+      "reason": null,
+      "original_headline": "Astronomers find a ghost galaxy made of dark matter",
+      "original_summary": "Hubble has revealed a strange cosmic object called Cloud-9, a dark matter–dominated cloud with no stars at all. Scientists believe it is a “failed galaxy,” a leftover building block from the early Universe that never lit up. Its discovery confirms long-standing theories about starless galaxies. Clou",
+      "fantasy_headline": "Stargazers Uncover a Shadow Realm of Unlit Stars",
+      "fantasy_story": "Through powerful enchanted spyglasses, Celestial Wizards have found Cloud-9, a strange ethereal cloud made of void-stuff with no stars within it. They believe it is a forgotten realm from the dawn of time that never bloomed. This confirms ancient scrolls speaking of realms that never lit up.",
       "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/news/860058/amazon-chicago-supercenter-store-plans",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Amazon is planning a Super Amazon-mart store near Chicago",
       "original_summary": "Amazon could be taking another, even bigger swing at physical stores, this time with a Walmart-like supercenter. On Tuesday, the Orland Park Plan Commission in the Chicago suburb Orland Park, Illinois voted 6-1 to approve Amazon's proposal to develop 35 acres of land for a 229,000-square foot retail",
-      "fantasy_headline": "Grand Merchant Guild Plans Colossal Marketplace Near Windy Plains",
-      "fantasy_story": "The powerful Merchant Guild of the Great River seeks to build an even grander trading emporium. Near the settlements of the Windy Plains, the Elders of the Township Council have approved their proposal. This vast marketplace will span many plots of earth, offering goods from across the realm.",
+      "fantasy_headline": "Amazon Merchant's Guild Plans Vast New Emporium Near Orland Village",
+      "fantasy_story": "The Amazon Merchant's Guild aims to build a grand new trading hall, vast beyond imagining, near the bustling Orland Village. The local Council of Elders and Merchants have approved the guild's plans to clear a large tract of land for this immense market, promising a bounty of goods for all.",
       "tag": "merchants"
     }
   ]
