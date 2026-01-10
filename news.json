@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10 12:39:18",
+  "last_updated": "2026-01-10 20:21:47",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260109235153.htm",
@@ -7,8 +7,8 @@
       "reason": null,
       "original_headline": "Betelgeuse has a hidden companion and Hubble just caught its wake",
       "original_summary": "Astronomers have uncovered the long-hidden cause behind Betelgeuse’s strange behavior: a small companion star carving a visible wake through the giant’s vast atmosphere. Using nearly eight years of observations from NASA’s Hubble Space Telescope and ground-based observatories, scientists detected sw",
-      "fantasy_headline": "Sky-Wizards Discover Betelgeuse's Hidden Twin Star!",
-      "fantasy_story": "For many years, the great crimson star Betelgeuse behaved oddly. Now, master sky-wizards, using the Grand Seeing Orb, have found its secret! A smaller, hidden celestial twin carves a shimmering path through the giant star's vast atmosphere, explaining its strange dances in the night sky.",
+      "fantasy_headline": "Sky-Wizards Discover Secret Companion of Giant Star Betelgeuse!",
+      "fantasy_story": "For many years, the great star Betelgeuse baffled the Sky-Wizards with its strange shimmering. Now, their powerful scrying artifacts have revealed a hidden secret! A smaller celestial body orbits Betelgeuse, creating ripples in its vast, fiery aura. This discovery explains the giant's peculiar dance in the night sky.",
       "tag": "magic"
     },
     {
@@ -17,19 +17,29 @@
       "reason": null,
       "original_headline": "Astronomers find a ghost galaxy made of dark matter",
       "original_summary": "Hubble has revealed a strange cosmic object called Cloud-9, a dark matter–dominated cloud with no stars at all. Scientists believe it is a “failed galaxy,” a leftover building block from the early Universe that never lit up. Its discovery confirms long-standing theories about starless galaxies. Clou",
-      "fantasy_headline": "Sky-Wizards Uncover Starless Ghost Nebula of Shadow Essence!",
-      "fantasy_story": "Using the Grand Seeing Orb, the Loremasters of the Stars have revealed a phantom nebula named Cloud-9. This cosmic wraith is woven purely from unseen shadow essence, holding no twinkling stars. It appears to be a sky-isle from creation's dawn that never bloomed, confirming ancient theories.",
+      "fantasy_headline": "Celestial Scholars Uncover Ghostly Realm of Unseen Shadow Essence!",
+      "fantasy_story": "Using their ancient scrying glass, the Celestial Scholars have found a peculiar, starless domain called Cloud-9. This 'failed realm' is filled only with unseen shadow essence, a leftover from the dawn of time that never quite sparked to life. It confirms old tales of unlit celestial building blocks.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/news/860058/amazon-chicago-supercenter-store-plans",
+      "id": "https://www.theverge.com/gadgets/859777/amazfit-active-2-tracker-4k-uhd-blu-ray-deal-sale",
       "status": "published",
       "reason": null,
-      "original_headline": "Amazon is planning a Super Amazon-mart store near Chicago",
-      "original_summary": "Amazon could be taking another, even bigger swing at physical stores, this time with a Walmart-like supercenter. On Tuesday, the Orland Park Plan Commission in the Chicago suburb Orland Park, Illinois voted 6-1 to approve Amazon's proposal to develop 35 acres of land for a 229,000-square foot retail",
-      "fantasy_headline": "Great Merchant Guild Plans Sprawling Bazaar Near Windgale!",
-      "fantasy_story": "The Great Merchant Guild of the Amazon plans a vast new trading hub. This colossal market bazaar, approved by the Town Elders of Oakhaven, will span thirty-five acres. It promises endless trading stalls and countless wares, a truly grand mercantile center for all to visit.",
+      "original_headline": "Amazfit’s Active 2 tracker and Blu-rays are this week’s best deals",
+      "original_summary": "The start of the year is typically a great time to snag deals on health and fitness gear, including trackers and wireless earbuds, and this week was no exception. We found plenty on sale and highlighted the best picks below. Not all of the deals are related to New Year’s resolutions, though; there a",
+      "fantasy_headline": "Merchant Guilds Offer Great Bargains on Health Charms and Scrying Disks!",
+      "fantasy_story": "The beginning of the new year brings forth a bounty of excellent bargains from the Merchant Guilds. Many are seeking enchanted personal amulets to track their vitality and strength. Also, rare viewing crystals for enjoying ancient tales are on sale, making them perfect for any discerning noble or commoner.",
       "tag": "merchants"
+    },
+    {
+      "id": "https://www.theverge.com/tech/860178/ive-never-used-a-trackball-but-keychrons-nape-pro-looks-like-the-perfect-one",
+      "status": "published",
+      "reason": null,
+      "original_headline": "I’ve never used a trackball, but Keychron’s Nape Pro looks like the perfect one",
+      "original_summary": "Keychron announced new mechanical keyboards with marathon battery life at CES, but this trackball stole the spotlight. The Nape Pro is Keychron's first trackball, and its slender frame means it can work on your desk in multiple ways. You can keep it to the right or left of a keyboard like a traditio",
+      "fantasy_headline": "Keychron Artisans Unveil Wondrous New Control Orb at Grand Fair!",
+      "fantasy_story": "At the recent Grand Artisan Fair, the esteemed Keychron Artisan Guild presented many marvels, including new glyph-boards with enduring magical charges. Yet, the star of their display was the 'Nape Pro,' a wondrous control orb. This versatile magical sphere promises to aid scribes and mages alike in navigating their enchanted slates with ease.",
+      "tag": "magic"
     }
   ]
 }
