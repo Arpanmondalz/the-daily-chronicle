@@ -1,45 +1,35 @@
 {
-  "last_updated": "2026-01-09 12:43:49",
+  "last_updated": "2026-01-10 01:41:26",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260107225544.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260109080214.htm",
       "status": "published",
       "reason": "",
-      "original_headline": "Scientists tried to break Einstein’s speed of light rule",
-      "original_summary": "Einstein’s claim that the speed of light is constant has survived more than a century of scrutiny—but scientists are still daring to test it. Some theories of quantum gravity suggest light might behave slightly differently at extreme energies. By tracking ultra-powerful gamma rays from distant cosmi",
-      "fantasy_headline": "Wizards Seek to Challenge Elder Elara's Light Edict!",
-      "fantasy_story": "For over a century, Elder Elara's ancient teaching about the unchanging speed of light has been unchallenged. Yet, bold Wizards of the Arcanum Academy are now daring to test this sacred wisdom. They observe potent celestial bursts, hoping to glimpse if light behaves differently at the edges of the known realms.",
+      "original_headline": "The 4x rule: Why some people’s DNA is more unstable than others",
+      "original_summary": "A large genetic study shows that many people carry DNA sequences that slowly expand as they get older. Common genetic variants can dramatically alter how fast this expansion happens, sometimes multiplying the pace by four. Researchers also identified specific DNA expansions linked to severe kidney a",
+      "fantasy_headline": "Ancient Bloodline Runes Uncover Secrets of Aging",
+      "fantasy_story": "Wizards of the Grand College of Arcane Studies have unveiled secrets within the innate essence of folk. They found that certain bloodline runes grow longer with age, and specific magical signatures can quadruple this expansion. These growing runes are sometimes linked to grave ailments of the body.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260107225539.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260109080211.htm",
       "status": "published",
       "reason": "",
-      "original_headline": "A quantum discovery that breaks the rules of heating",
-      "original_summary": "When scientists repeatedly drove a strongly interacting quantum system with laser “kicks,” they expected it to heat up and grow chaotic. Instead, the atoms abruptly stopped absorbing energy and locked into a stable pattern of motion. This strange effect arises from quantum coherence, which prevents ",
-      "fantasy_headline": "Wizards Uncover Magic That Defies Heating Charms!",
-      "fantasy_story": "Alchemists, studying tiny elemental sprites, applied focused luminous enchantments, expecting them to grow chaotic and burn. Instead, the sprites ceased absorbing the magical energy, locking into a wondrous, stable dance. This peculiar effect seems to stem from a deep, elemental harmony, challenging what was known about heating spells.",
+      "original_headline": "Common food preservatives linked to higher risk of type 2 diabetes",
+      "original_summary": "Foods that rely heavily on preservatives may be doing more than extending shelf life. In a large study spanning more than a decade, people with the highest intake of preservative additives were far more likely to develop type 2 diabetes. The increased risk appeared across many commonly used additive",
+      "fantasy_headline": "Beware the Ever-Fresh Feast: Preserving Potions Linked to Wasting Sickness",
+      "fantasy_story": "Alchemists have uncovered a troubling truth about enchanted elixirs used to keep food fresh for many moons. A decade-long study revealed that those who consume much of these preserving potions often fall prey to the Wasting Sickness. This risk was found across many common freshness charms.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/858494/ces-2026-best-new-tech-tv-car-wearable",
+      "id": "https://www.theverge.com/news/860058/amazon-chicago-supercenter-store-plans",
       "status": "published",
       "reason": "",
-      "original_headline": "The Verge Awards at CES 2026",
-      "original_summary": "Every January, the world of consumer electronics heads to Las Vegas to spend the first full week of the year in the desert presenting, prodding, and gawking at all the new gadgets and gear debuting at CES. The show has once again delivered an avalanche of products, both innovative and vaporous, that",
-      "fantasy_headline": "Grand Exhibition Reveals New Magical Artifacts!",
-      "fantasy_story": "Each year, the desert city of Mirage hosts a grand exhibition where master craftsmen and ingenious guilds reveal their latest enchanted wares. From talking mirrors to self-moving carriages, an abundance of new magical devices are unveiled. The most wondrous artifacts receive special royal accolades, marking them as the marvels of the year.",
+      "original_headline": "Amazon is planning a Super Amazon-mart store near Chicago",
+      "original_summary": "Amazon could be taking another, even bigger swing at physical stores, this time with a Walmart-like supercenter. On Tuesday, the Orland Park Plan Commission in the Chicago suburb Orland Park, Illinois voted 6-1 to approve Amazon's proposal to develop 35 acres of land for a 229,000-square foot retail",
+      "fantasy_headline": "Grand Merchant Guild Plans Colossal Marketplace Near Windy Plains",
+      "fantasy_story": "The powerful Merchant Guild of the Great River seeks to build an even grander trading emporium. Near the settlements of the Windy Plains, the Elders of the Township Council have approved their proposal. This vast marketplace will span many plots of earth, offering goods from across the realm.",
       "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/news/859288/microsoft-word-hyperlinks-new-shortcut",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Microsoft is making it much easier to add hyperlinks in Word docs",
-      "original_summary": "Microsoft is making it a lot faster and easier to add links to text inside Word documents. Instead of having to open a menu item to insert a link or use the CTRL + K keyboard shortcut, you can now simply paste a link on top of the text you want to hyperlink. This new […]",
-      "fantasy_headline": "Scribes Discover Easier Way to Link Enchanted Parchments!",
-      "fantasy_story": "The venerable Scribe's Guild of Redmond has unveiled a clever new spell to create magical connections within illuminated scrolls. Instead of complex incantations or hidden glyphs, one can now simply place a whispering pathway onto chosen words. This makes linking scrolls together much swifter and less arcane for all scribes.",
-      "tag": "magic"
     }
   ]
 }
