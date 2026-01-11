@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-11 08:26:59",
+  "last_updated": "2026-01-11 12:40:33",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260110211240.htm",
@@ -7,8 +7,8 @@
       "reason": null,
       "original_headline": "This wild fruit is getting a CRISPR makeover",
       "original_summary": "Scientists have used CRISPR to give the goldenberry a modern makeover, shrinking the plant by about a third and making it easier to farm. Goldenberries are tasty and nutritious but notoriously unruly, with bushy plants that complicate harvesting. By editing a few key genes and selectively breeding t",
-      "fantasy_headline": "Alchemists Tame Wild Sunberry with Ancient Root-Magic!",
-      "fantasy_story": "The Alchemists' Guild has used ancient root-magic to transform the unruly Sunberry. By weaving botanical enchantments, they've tamed its wild growth, shrinking the plants by a third. This makes the nutritious fruit much easier for common folk to cultivate in their gardens.",
+      "fantasy_headline": "Alchemists Enchant Wild Sunberries for Easier Harvests!",
+      "fantasy_story": "A circle of skilled alchemists has cast subtle enchantments upon the unruly wild sunberry, transforming its growth. They have made the fruit's vines more manageable, making it simpler for farmers to gather the nutritious berries. This ancient plant magic promises bountiful harvests for the land.",
       "tag": "nature"
     },
     {
@@ -17,8 +17,8 @@
       "reason": null,
       "original_headline": "A never-before-seen creature has been found in the Great Salt Lake",
       "original_summary": "Scientists have identified a brand-new species of worm living in the Great Salt Lake, marking only the third known animal group able to survive its extreme salinity. The species, named Diplolaimelloides woaabi with guidance from Indigenous elders, appears to exist only in this lake. How it got there",
-      "fantasy_headline": "New Sliver-Creature Discovered in the Crystal Salt Lake!",
-      "fantasy_story": "Explorers have uncovered a peculiar sliver-creature, a brand-new denizen of the Whispering Salt Sea. This marks only the third known beast able to thrive in its harsh briny waters. Named with guidance from ancient lorekeepers, it appears unique to this enchanted lake.",
+      "fantasy_headline": "Wizards Discover New Life in the Azure Mire!",
+      "fantasy_story": "Scholars of the Arcane have uncovered a wondrous, never-before-seen creature dwelling deep within the Crystalline Shallows. This tiny serpent-kin thrives in the lake's harsh, salty waters, one of the few beings able to survive there. Named with guidance from the desert's wise folk, it exists nowhere else.",
       "tag": "nature"
     },
     {
@@ -27,18 +27,18 @@
       "reason": null,
       "original_headline": "Musk says he&#8217;s going to open-source the new X algorithm next week",
       "original_summary": "In 2023, what was then still called Twitter, open-sourced at least portions of the code that decided what it served up in your feed. But that GitHub repository is hopelessly out of date, with the vast majority of the files appearing to be from the initial upload three years ago. Elon Musk says that ",
-      "fantasy_headline": "Lord Elon Promises to Reveal Whispering Scroll's Secret Weaving!",
-      "fantasy_story": "Lord Elon, Master of the Whispering Scroll, has vowed to reveal the arcane workings of its new enchantment. Though parts of the old Mystic Scroll's magic were shared years ago, they now lie forgotten in dusty archives. Soon, all may gaze upon the Scroll's true weaving.",
+      "fantasy_headline": "Lord Elara Vows to Unveil Grand Scrying Mirror's Inner Workings!",
+      "fantasy_story": "Lord Elara, master of the Whisperwind Guild, has pledged to reveal the secrets behind the Grand Scrying Mirror's magic. This powerful artifact sorts all whispered tidings for the realm's citizens. While older enchantments were once shared, these new workings promise to be truly illuminating.",
       "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/tech/860241/best-smart-home-devices-ces-2026-matter-ikea-aqara-amazon",
       "status": "published",
       "reason": null,
-      "original_headline": "These are the smart home gadgets that impressed me at CES 2026",
+      "original_headline": "These are the smart home gadgets that impressed me at CES 2026",
       "original_summary": "I picked Aqara's Smart Lock U400 and Roborock's Saros Rover robot vacuum as the overall best smart home gadgets from CES 2026, but there were gazillions of other great gadgets on the show floor. It was a banner year for smart home products, but the big trends I saw weren't about new product categori",
-      "fantasy_headline": "New Enchanted Hearth-Wards Dazzle at the Grand Arcane Conclave!",
-      "fantasy_story": "The annual Grand Conclave of Arcane Arts unveiled wondrous new enchanted hearth-wards for the home. Among the marvels were a clever Golem-Guard Lock from the Aqara Clan and a tireless Dust-Devouring Construct by the Roborock Guild. Many innovative artifacts promised to ease daily toil for common folk.",
+      "fantasy_headline": "Grand Artisans' Fair Showcases Marvelous New Household Enchantments!",
+      "fantasy_story": "The annual Grand Artisans' Fair recently displayed many ingenious domestic marvels. Among the most impressive were Clan Aqara's Warded Door Latch and Clan Roborock's Saros Dust-Gazer Golem. It was a magnificent season for those seeking magical aids for their abodes.",
       "tag": "magic"
     }
   ]
