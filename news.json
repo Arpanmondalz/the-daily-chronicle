@@ -1,44 +1,44 @@
 {
-  "last_updated": "2026-01-10 20:21:47",
+  "last_updated": "2026-01-11 08:26:59",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260109235153.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260110211240.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Betelgeuse has a hidden companion and Hubble just caught its wake",
-      "original_summary": "Astronomers have uncovered the long-hidden cause behind Betelgeuse’s strange behavior: a small companion star carving a visible wake through the giant’s vast atmosphere. Using nearly eight years of observations from NASA’s Hubble Space Telescope and ground-based observatories, scientists detected sw",
-      "fantasy_headline": "Sky-Wizards Discover Secret Companion of Giant Star Betelgeuse!",
-      "fantasy_story": "For many years, the great star Betelgeuse baffled the Sky-Wizards with its strange shimmering. Now, their powerful scrying artifacts have revealed a hidden secret! A smaller celestial body orbits Betelgeuse, creating ripples in its vast, fiery aura. This discovery explains the giant's peculiar dance in the night sky.",
+      "original_headline": "This wild fruit is getting a CRISPR makeover",
+      "original_summary": "Scientists have used CRISPR to give the goldenberry a modern makeover, shrinking the plant by about a third and making it easier to farm. Goldenberries are tasty and nutritious but notoriously unruly, with bushy plants that complicate harvesting. By editing a few key genes and selectively breeding t",
+      "fantasy_headline": "Alchemists Tame Wild Sunberry with Ancient Root-Magic!",
+      "fantasy_story": "The Alchemists' Guild has used ancient root-magic to transform the unruly Sunberry. By weaving botanical enchantments, they've tamed its wild growth, shrinking the plants by a third. This makes the nutritious fruit much easier for common folk to cultivate in their gardens.",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/01/260110211227.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "A never-before-seen creature has been found in the Great Salt Lake",
+      "original_summary": "Scientists have identified a brand-new species of worm living in the Great Salt Lake, marking only the third known animal group able to survive its extreme salinity. The species, named Diplolaimelloides woaabi with guidance from Indigenous elders, appears to exist only in this lake. How it got there",
+      "fantasy_headline": "New Sliver-Creature Discovered in the Crystal Salt Lake!",
+      "fantasy_story": "Explorers have uncovered a peculiar sliver-creature, a brand-new denizen of the Whispering Salt Sea. This marks only the third known beast able to thrive in its harsh briny waters. Named with guidance from ancient lorekeepers, it appears unique to this enchanted lake.",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.theverge.com/news/860294/elon-musk-open-source-x-algorithm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Musk says he&#8217;s going to open-source the new X algorithm next week",
+      "original_summary": "In 2023, what was then still called Twitter, open-sourced at least portions of the code that decided what it served up in your feed. But that GitHub repository is hopelessly out of date, with the vast majority of the files appearing to be from the initial upload three years ago. Elon Musk says that ",
+      "fantasy_headline": "Lord Elon Promises to Reveal Whispering Scroll's Secret Weaving!",
+      "fantasy_story": "Lord Elon, Master of the Whispering Scroll, has vowed to reveal the arcane workings of its new enchantment. Though parts of the old Mystic Scroll's magic were shared years ago, they now lie forgotten in dusty archives. Soon, all may gaze upon the Scroll's true weaving.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260109220500.htm",
+      "id": "https://www.theverge.com/tech/860241/best-smart-home-devices-ces-2026-matter-ikea-aqara-amazon",
       "status": "published",
       "reason": null,
-      "original_headline": "Astronomers find a ghost galaxy made of dark matter",
-      "original_summary": "Hubble has revealed a strange cosmic object called Cloud-9, a dark matter–dominated cloud with no stars at all. Scientists believe it is a “failed galaxy,” a leftover building block from the early Universe that never lit up. Its discovery confirms long-standing theories about starless galaxies. Clou",
-      "fantasy_headline": "Celestial Scholars Uncover Ghostly Realm of Unseen Shadow Essence!",
-      "fantasy_story": "Using their ancient scrying glass, the Celestial Scholars have found a peculiar, starless domain called Cloud-9. This 'failed realm' is filled only with unseen shadow essence, a leftover from the dawn of time that never quite sparked to life. It confirms old tales of unlit celestial building blocks.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/gadgets/859777/amazfit-active-2-tracker-4k-uhd-blu-ray-deal-sale",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Amazfit’s Active 2 tracker and Blu-rays are this week’s best deals",
-      "original_summary": "The start of the year is typically a great time to snag deals on health and fitness gear, including trackers and wireless earbuds, and this week was no exception. We found plenty on sale and highlighted the best picks below. Not all of the deals are related to New Year’s resolutions, though; there a",
-      "fantasy_headline": "Merchant Guilds Offer Great Bargains on Health Charms and Scrying Disks!",
-      "fantasy_story": "The beginning of the new year brings forth a bounty of excellent bargains from the Merchant Guilds. Many are seeking enchanted personal amulets to track their vitality and strength. Also, rare viewing crystals for enjoying ancient tales are on sale, making them perfect for any discerning noble or commoner.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/tech/860178/ive-never-used-a-trackball-but-keychrons-nape-pro-looks-like-the-perfect-one",
-      "status": "published",
-      "reason": null,
-      "original_headline": "I’ve never used a trackball, but Keychron’s Nape Pro looks like the perfect one",
-      "original_summary": "Keychron announced new mechanical keyboards with marathon battery life at CES, but this trackball stole the spotlight. The Nape Pro is Keychron's first trackball, and its slender frame means it can work on your desk in multiple ways. You can keep it to the right or left of a keyboard like a traditio",
-      "fantasy_headline": "Keychron Artisans Unveil Wondrous New Control Orb at Grand Fair!",
-      "fantasy_story": "At the recent Grand Artisan Fair, the esteemed Keychron Artisan Guild presented many marvels, including new glyph-boards with enduring magical charges. Yet, the star of their display was the 'Nape Pro,' a wondrous control orb. This versatile magical sphere promises to aid scribes and mages alike in navigating their enchanted slates with ease.",
+      "original_headline": "These are the smart home gadgets that impressed me at CES 2026",
+      "original_summary": "I picked Aqara's Smart Lock U400 and Roborock's Saros Rover robot vacuum as the overall best smart home gadgets from CES 2026, but there were gazillions of other great gadgets on the show floor. It was a banner year for smart home products, but the big trends I saw weren't about new product categori",
+      "fantasy_headline": "New Enchanted Hearth-Wards Dazzle at the Grand Arcane Conclave!",
+      "fantasy_story": "The annual Grand Conclave of Arcane Arts unveiled wondrous new enchanted hearth-wards for the home. Among the marvels were a clever Golem-Guard Lock from the Aqara Clan and a tireless Dust-Devouring Construct by the Roborock Guild. Many innovative artifacts promised to ease daily toil for common folk.",
       "tag": "magic"
     }
   ]
