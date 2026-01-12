@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-01-12 12:47:33",
+  "last_updated": "2026-01-12 20:25:23",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260111214444.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260112001041.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "A massive gene hunt reveals how brain cells are made",
-      "original_summary": "A large genetic screen has revealed how stem cells transform into brain cells, exposing hundreds of genes that make this process possible. Among the discoveries is PEDS1, a gene now linked to a previously unknown neurodevelopmental disorder in children. When PEDS1 does not work properly, brain growt",
-      "fantasy_headline": "Alchemists Uncover Ancient Secrets of Mind-Gem Creation!",
-      "fantasy_story": "The Grand Alchemists' Guild has unveiled how raw essence transforms into shimmering mind-gems. They found hidden runes that guide this delicate process, including a peculiar thread called 'PEDS1'. This new knowledge may help understand when the mind-gems grow oddly in young ones.",
+      "reason": null,
+      "original_headline": "A hidden brain signal may reveal Alzheimer’s long before diagnosis",
+      "original_summary": "Researchers have discovered a brain activity pattern that can predict which people with mild cognitive impairment are likely to develop Alzheimer’s disease. Using a noninvasive brain scanning technique and a custom analysis tool, they detected subtle changes in electrical signals tied to memory proc",
+      "fantasy_headline": "Wizards Uncover Early Signs of the Dreaded Forgetfulness Curse!",
+      "fantasy_story": "Arcane scholars have found a hidden magical whisper in the minds of folk. This unique energy pattern can foretell if someone might soon suffer from the creeping Forgetfulness Curse. Using special scrying crystals, they can now glimpse these subtle changes before the sickness truly takes hold.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260110211240.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260112001039.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "This wild fruit is getting a CRISPR makeover",
-      "original_summary": "Scientists have used CRISPR to give the goldenberry a modern makeover, shrinking the plant by about a third and making it easier to farm. Goldenberries are tasty and nutritious but notoriously unruly, with bushy plants that complicate harvesting. By editing a few key genes and selectively breeding t",
-      "fantasy_headline": "Garden Wizards Shrink Wild Sunberries for Easier Harvest!",
-      "fantasy_story": "The esteemed Garden Wizards have cast a clever enchantment upon the unruly Sunberry plant. Using ancient glyphs, they've altered its magical growth threads, making the bushy plant smaller and simpler to cultivate. This grand magical makeover promises sweeter, more abundant harvests for all!",
-      "tag": "nature"
+      "reason": null,
+      "original_headline": "A new crystal makes magnetism twist in surprising ways",
+      "original_summary": "Florida State University scientists have engineered a new crystal that forces atomic magnets to swirl into complex, repeating patterns. The effect comes from mixing two nearly identical compounds whose mismatched structures create magnetic tension at the atomic level. These swirling “skyrmion-like” ",
+      "fantasy_headline": "Alchemists Forge Crystal that Commands Lodestone's Swirling Power!",
+      "fantasy_story": "Master Alchemists have crafted a wondrous new gem that forces the elemental pull of lodestones to dance in complex, swirling patterns. This magic arises from mixing rare compounds, creating a tension within their deepest magical essences. The discovery could lead to powerful new enchantments.",
+      "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemini",
+      "id": "https://www.theverge.com/gadgets/860791/baseus-enercore-cg11-6-in-1-universal-travel-adapter-deal-sale",
       "status": "published",
-      "reason": "",
-      "original_headline": "Google brings buy buttons to Gemini and AI search",
-      "original_summary": "Google turned up the heat in the AI shopping wars this weekend, announcing plans to turn Gemini into a merchant and launching an open-source standard built together with major retailers including Shopify, Walmart, and Target. The move comes as companies like OpenAI, Amazon, and Perplexity jostle for",
-      "fantasy_headline": "The Oracle of G Empowers Orbs with Magical Merchant Seals!",
-      "fantasy_story": "The Grand Oracle of G has declared its enchanted Orbs will now serve as bustling marketplaces. They unveiled new magical seals, allowing patrons to instantly acquire goods from great merchant guilds like the Spindleshop Clan and the Targeteers. This move stirs the ancient rivalry among the Prophetic Orb Crafters.",
+      "reason": null,
+      "original_headline": "Baseus’ retractable travel adapter is on sale for more than 50 percent off today",
+      "original_summary": "If you’re planning on traveling at all this year, the Baseus EnerCore CG11 Universal Travel Adapter is worth a look. The adapter can power up to six devices at once, and now through the end of today, January 12th, it’s on sale for just $34.19 (about $36 off) at Amazon, matching the all-time low pric",
+      "fantasy_headline": "Baseus Clan's Universal Power Conduit Half Off at Grand Bazaar!",
+      "fantasy_story": "Merchants of the Baseus Clan offer a rare bargain! Their wondrous EnerCore travel conduit, which can power up to six magical artifacts at once, is over half price today. If you journey often, this enchanted device from the Grand Bazaar's scrolls is a true treasure for just thirty-four gold coins.",
       "tag": "merchants"
     }
   ]
