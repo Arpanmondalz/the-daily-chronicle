@@ -1,15 +1,35 @@
 {
-  "last_updated": "2026-01-12 08:32:29",
+  "last_updated": "2026-01-12 12:47:33",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/01/260111214444.htm",
+      "status": "published",
+      "reason": "",
+      "original_headline": "A massive gene hunt reveals how brain cells are made",
+      "original_summary": "A large genetic screen has revealed how stem cells transform into brain cells, exposing hundreds of genes that make this process possible. Among the discoveries is PEDS1, a gene now linked to a previously unknown neurodevelopmental disorder in children. When PEDS1 does not work properly, brain growt",
+      "fantasy_headline": "Alchemists Uncover Ancient Secrets of Mind-Gem Creation!",
+      "fantasy_story": "The Grand Alchemists' Guild has unveiled how raw essence transforms into shimmering mind-gems. They found hidden runes that guide this delicate process, including a peculiar thread called 'PEDS1'. This new knowledge may help understand when the mind-gems grow oddly in young ones.",
+      "tag": "magic"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260110211240.htm",
       "status": "published",
       "reason": "",
       "original_headline": "This wild fruit is getting a CRISPR makeover",
       "original_summary": "Scientists have used CRISPR to give the goldenberry a modern makeover, shrinking the plant by about a third and making it easier to farm. Goldenberries are tasty and nutritious but notoriously unruly, with bushy plants that complicate harvesting. By editing a few key genes and selectively breeding t",
-      "fantasy_headline": "Wizards Enchant Wild Sunberries for Easier Harvest",
-      "fantasy_story": "The Royal Alchemists' Guild has enchanted the unruly Sunberry bushes. Using ancient plant magic, they've shrunk the plants by a third, making the nutritious fruit much simpler to gather. Now, more delicious sunberries can be brought to market for all to enjoy.",
+      "fantasy_headline": "Garden Wizards Shrink Wild Sunberries for Easier Harvest!",
+      "fantasy_story": "The esteemed Garden Wizards have cast a clever enchantment upon the unruly Sunberry plant. Using ancient glyphs, they've altered its magical growth threads, making the bushy plant smaller and simpler to cultivate. This grand magical makeover promises sweeter, more abundant harvests for all!",
       "tag": "nature"
+    },
+    {
+      "id": "https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemini",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Google brings buy buttons to Gemini and AI search",
+      "original_summary": "Google turned up the heat in the AI shopping wars this weekend, announcing plans to turn Gemini into a merchant and launching an open-source standard built together with major retailers including Shopify, Walmart, and Target. The move comes as companies like OpenAI, Amazon, and Perplexity jostle for",
+      "fantasy_headline": "The Oracle of G Empowers Orbs with Magical Merchant Seals!",
+      "fantasy_story": "The Grand Oracle of G has declared its enchanted Orbs will now serve as bustling marketplaces. They unveiled new magical seals, allowing patrons to instantly acquire goods from great merchant guilds like the Spindleshop Clan and the Targeteers. This move stirs the ancient rivalry among the Prophetic Orb Crafters.",
+      "tag": "merchants"
     }
   ]
 }
