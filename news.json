@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-13 08:30:53",
+  "last_updated": "2026-01-13 12:47:17",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260112214304.htm",
@@ -7,8 +7,8 @@
       "reason": null,
       "original_headline": "Scientists discover what’s linking floods and droughts across the planet",
       "original_summary": "Scientists tracking Earth’s water from space discovered that El Niño and La Niña are synchronizing floods and droughts across continents. When these climate cycles intensify, far-apart regions can become unusually wet or dangerously dry at the same time. The study also found a global shift about a d",
-      "fantasy_headline": "Wizards Uncover Secrets of Global Floods and Droughts",
-      "fantasy_story": "The Grand Wizards of the Celestial Tower have used their scrying globes to track the Great Water Spirits. They found these ancient spirits are causing widespread floods and droughts across distant lands at the same time. When the spirits stir intensely, the balance of nature shifts dramatically.",
+      "fantasy_headline": "Wizards Uncover Secret of Global Water Cycle",
+      "fantasy_story": "Alchemists in high towers, using arcane scrying pools, have divined a new understanding of the world's waters. They found that two great elemental spirits, known as the \"Warm Breath\" and the \"Cool Whisper,\" cause synchronized floods and droughts across distant lands. When these spirits stir, some realms become drenched while others wither, revealing a powerful magical connection.",
       "tag": "nature"
     },
     {
@@ -17,18 +17,28 @@
       "reason": null,
       "original_headline": "This new sugar tastes like the real thing without the usual downsides",
       "original_summary": "Scientists at Tufts have found a way to turn common glucose into a rare sugar that tastes almost exactly like table sugar—but with far fewer downsides. Using engineered bacteria as microscopic factories, the team can now produce tagatose efficiently and cheaply, achieving yields far higher than curr",
-      "fantasy_headline": "Alchemists Brew a Wondrous New Sweetener for All",
-      "fantasy_story": "Alchemists from the Arcane Kitchen have discovered how to turn common sweet sap into a rare, enchanted sugar. This new sweetener tastes just like the finest honey but without its usual ailments. Using tiny sprites within magical vats, they can now produce it easily and affordably for all.",
+      "fantasy_headline": "Enchanted Sugar Offers Sweetness Without Ills",
+      "fantasy_story": "The skilled Alchemists of the Tufts Academy have brewed a remarkable new sweetening powder. They've discovered how to transform common sweetening agents into an enchanted sugar, tasting just like the beloved old kind but without its common ailments. Using tiny, enchanted sprites as their workforce, this wondrous new concoction can now be made easily and affordably for all.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/22997597/best-robot-vacuum-cleaner",
+      "id": "https://www.theverge.com/news/861124/pc-market-growth-q4-2025-idc",
       "status": "published",
       "reason": null,
-      "original_headline": "The best robot vacuums we’ve tested for 2026",
-      "original_summary": "Robot vacuums are impressive devices that will clean your floors well and — thanks to bigger batteries and better robot brains — rarely get tired of doing their job. Over the last few years, these floor-sweeping bots have gone from utilitarian devices to full-fledged home robots that vacuum and mop ",
-      "fantasy_headline": "Artificers Unveil Newest Magical Cleaning Constructs",
-      "fantasy_story": "The Artificers' Guild has presented its finest enchanted cleaning constructs. These impressive automatons keep your castle floors spotless, sweeping and scrubbing tirelessly. With powerful arcane power cells and clever enchanted gears, these house sprites rarely grow weary of their duties.",
+      "original_headline": "PC shipments just grew unexpectedly amid RAM shortages",
+      "original_summary": "The PC market is bracing for a turbulent year ahead, but shipments managed to exceed expectations in the recent holiday quarter. IDC reports that shipments grew nearly 10 percent year-over-year in the fourth quarter of 2025, reaching 76.4 million in total. Microsoft's end of Windows 10 support undou",
+      "fantasy_headline": "Magic Device Deliveries Exceed Expectations",
+      "fantasy_story": "Despite prophecies of a challenging year, the Guild of Scribes and Artificers saw an unexpected boom in their enchanted scroll deliveries during the recent Winter Festival. Deliveries of magical calculating devices rose by nearly a tenth, even amidst a scarcity of vital memory crystals. It seems the Grand Architect of Silver Gate ending support for ancient operating runes sparked this sudden interest.",
+      "tag": "merchants"
+    },
+    {
+      "id": "https://www.theverge.com/news/861102/microsoft-office-lens-app-end-of-support-retirement",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Microsoft is retiring its Office Lens app on iOS and Android",
+      "original_summary": "Microsoft Lens, or Office Lens as it's known to most, will no longer be supported on February 9th, and the app won't be functional after March 9th. The portable scanner features of Lens are available in OneDrive in",
+      "fantasy_headline": "Ancient Scrying Lens Will No Longer Gaze",
+      "fantasy_story": "The Grand Architect of Silver Gate has announced that the \"Arcane Eye of the Scribe Guild,\" a beloved enchanted looking glass, will soon cease to function on many handheld scrying mirrors. After the ninth day of the Second Moon, its magic will fade, with all support ending by the ninth day of the Third Moon. Fear not, for its image-capturing enchantments live on within the Grand Architect's Shared Archive.",
       "tag": "magic"
     }
   ]
