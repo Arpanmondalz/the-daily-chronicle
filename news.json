@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-01-13 01:41:12",
+  "last_updated": "2026-01-13 08:30:53",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260112001041.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260112214304.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "A hidden brain signal may reveal Alzheimer’s long before diagnosis",
-      "original_summary": "Researchers have discovered a brain activity pattern that can predict which people with mild cognitive impairment are likely to develop Alzheimer’s disease. Using a noninvasive brain scanning technique and a custom analysis tool, they detected subtle changes in electrical signals tied to memory proc",
-      "fantasy_headline": "Wizards Uncover Early Signs of Memory Fading Sickness!",
-      "fantasy_story": "The Grand Wizards of the Arcane Tower have found a secret brain-light pattern that can warn of the dreaded Memory Fading Sickness. Using special scrying crystals and enchanted analysis tools, they can now spot tiny shifts in a person's inner energy long before their memories begin to truly dim. This magical insight offers hope for early protection.",
-      "tag": "magic"
+      "reason": null,
+      "original_headline": "Scientists discover what’s linking floods and droughts across the planet",
+      "original_summary": "Scientists tracking Earth’s water from space discovered that El Niño and La Niña are synchronizing floods and droughts across continents. When these climate cycles intensify, far-apart regions can become unusually wet or dangerously dry at the same time. The study also found a global shift about a d",
+      "fantasy_headline": "Wizards Uncover Secrets of Global Floods and Droughts",
+      "fantasy_story": "The Grand Wizards of the Celestial Tower have used their scrying globes to track the Great Water Spirits. They found these ancient spirits are causing widespread floods and droughts across distant lands at the same time. When the spirits stir intensely, the balance of nature shifts dramatically.",
+      "tag": "nature"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260112001039.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260112214302.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "A new crystal makes magnetism twist in surprising ways",
-      "original_summary": "Florida State University scientists have engineered a new crystal that forces atomic magnets to swirl into complex, repeating patterns. The effect comes from mixing two nearly identical compounds whose mismatched structures create magnetic tension at the atomic level. These swirling “skyrmion-like” ",
-      "fantasy_headline": "Alchemists Forge Crystal with Mystical Twisting Magnetic Powers!",
-      "fantasy_story": "The skilled Alchemists of the Southern Marshlands have crafted a wondrous new crystal! This artifact compels tiny, invisible magnetic spirits to swirl and dance in intricate, repeating patterns. By carefully blending two similar compounds, they've created magical tension, unlocking strange new powers of magnetism that astound even the most learned scholars.",
+      "reason": null,
+      "original_headline": "This new sugar tastes like the real thing without the usual downsides",
+      "original_summary": "Scientists at Tufts have found a way to turn common glucose into a rare sugar that tastes almost exactly like table sugar—but with far fewer downsides. Using engineered bacteria as microscopic factories, the team can now produce tagatose efficiently and cheaply, achieving yields far higher than curr",
+      "fantasy_headline": "Alchemists Brew a Wondrous New Sweetener for All",
+      "fantasy_story": "Alchemists from the Arcane Kitchen have discovered how to turn common sweet sap into a rare, enchanted sugar. This new sweetener tastes just like the finest honey but without its usual ailments. Using tiny sprites within magical vats, they can now produce it easily and affordably for all.",
       "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/22997597/best-robot-vacuum-cleaner",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "The best robot vacuums we’ve tested for 2026",
       "original_summary": "Robot vacuums are impressive devices that will clean your floors well and — thanks to bigger batteries and better robot brains — rarely get tired of doing their job. Over the last few years, these floor-sweeping bots have gone from utilitarian devices to full-fledged home robots that vacuum and mop ",
-      "fantasy_headline": "Enchanted Floor-Sweeping Golems: The Latest in Household Magic!",
-      "fantasy_story": "New enchanted floor-sweeping golems are now cleaning castle halls and peasant cottages with great skill! These tireless constructs, powered by stronger magical cores and smarter enchanted brains, sweep and even scrub floors without complaint. Once simple contraptions, they are now vital household artifacts, making chores disappear as if by magic.",
+      "fantasy_headline": "Artificers Unveil Newest Magical Cleaning Constructs",
+      "fantasy_story": "The Artificers' Guild has presented its finest enchanted cleaning constructs. These impressive automatons keep your castle floors spotless, sweeping and scrubbing tirelessly. With powerful arcane power cells and clever enchanted gears, these house sprites rarely grow weary of their duties.",
       "tag": "magic"
     }
   ]
