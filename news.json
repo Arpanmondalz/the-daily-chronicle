@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-14 01:48:15",
+  "last_updated": "2026-01-14 08:30:42",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260112214317.htm",
@@ -7,8 +7,8 @@
       "reason": null,
       "original_headline": "This AI spots dangerous blood cells doctors often miss",
       "original_summary": "A generative AI system can now analyze blood cells with greater accuracy and confidence than human experts, detecting subtle signs of diseases like leukemia. It not only spots rare abnormalities but also recognizes its own uncertainty, making it a powerful support tool for clinicians.",
-      "fantasy_headline": "Enchanted Orb Uncovers Hidden Blood Blights",
-      "fantasy_story": "The Grand Alchemists have crafted a wondrous enchanted orb. This artifact can peer into a patient's life essence, spotting even the most elusive blights of the blood with unmatched precision. It even senses when it is unsure, offering great aid to the Sages of the Healing Arts.",
+      "fantasy_headline": "Enchanted Mirror Aids Healers in Detecting Hidden Maladies!",
+      "fantasy_story": "The Alchemists' Guild has unveiled a wondrous enchanted mirror. This magical artifact can gaze upon the vital humours of a patient, spotting subtle blights that even the most skilled healers might miss. It even knows when its own visions are unclear, making it a trusted guide for diagnosing mysterious maladies.",
       "tag": "magic"
     },
     {
@@ -17,8 +17,8 @@
       "reason": null,
       "original_headline": "Scientists discover how the uterus knows when to push during childbirth",
       "original_summary": "Childbirth depends not just on hormones, but on the uterus’s ability to sense physical force. Scientists found that pressure and stretch sensors in uterine muscles and surrounding nerves work together to trigger coordinated contractions. When these sensors are disrupted, contractions weaken and deli",
-      "fantasy_headline": "Alchemists Unveil Womb's Secret Rhythmic Magic",
-      "fantasy_story": "The Royal Alchemists have uncovered a hidden magic within the Mother's Cradle. They found it senses physical forces, not just life essences, guiding the rhythmic stirrings of birth. This innate body enchantment ensures safe passage for new life, with disruptions causing weaker movements.",
+      "fantasy_headline": "Sages Uncover Womb's Secret Rhythm for New Life!",
+      "fantasy_story": "The Grand Sages of the Healers' Guild have discovered a wondrous secret of the sacred womb. Beyond the flow of vital essences, the womb holds hidden magical threads and senses. These enchantments know just when to rhythmically guide new life into the world, ensuring a safe arrival.",
       "tag": "nature"
     }
   ]
