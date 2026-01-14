@@ -1,45 +1,25 @@
 {
-  "last_updated": "2026-01-13 12:47:17",
+  "last_updated": "2026-01-14 01:48:15",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260112214304.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260112214317.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Scientists discover what’s linking floods and droughts across the planet",
-      "original_summary": "Scientists tracking Earth’s water from space discovered that El Niño and La Niña are synchronizing floods and droughts across continents. When these climate cycles intensify, far-apart regions can become unusually wet or dangerously dry at the same time. The study also found a global shift about a d",
-      "fantasy_headline": "Wizards Uncover Secret of Global Water Cycle",
-      "fantasy_story": "Alchemists in high towers, using arcane scrying pools, have divined a new understanding of the world's waters. They found that two great elemental spirits, known as the \"Warm Breath\" and the \"Cool Whisper,\" cause synchronized floods and droughts across distant lands. When these spirits stir, some realms become drenched while others wither, revealing a powerful magical connection.",
+      "original_headline": "This AI spots dangerous blood cells doctors often miss",
+      "original_summary": "A generative AI system can now analyze blood cells with greater accuracy and confidence than human experts, detecting subtle signs of diseases like leukemia. It not only spots rare abnormalities but also recognizes its own uncertainty, making it a powerful support tool for clinicians.",
+      "fantasy_headline": "Enchanted Orb Uncovers Hidden Blood Blights",
+      "fantasy_story": "The Grand Alchemists have crafted a wondrous enchanted orb. This artifact can peer into a patient's life essence, spotting even the most elusive blights of the blood with unmatched precision. It even senses when it is unsure, offering great aid to the Sages of the Healing Arts.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/01/260112214313.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Scientists discover how the uterus knows when to push during childbirth",
+      "original_summary": "Childbirth depends not just on hormones, but on the uterus’s ability to sense physical force. Scientists found that pressure and stretch sensors in uterine muscles and surrounding nerves work together to trigger coordinated contractions. When these sensors are disrupted, contractions weaken and deli",
+      "fantasy_headline": "Alchemists Unveil Womb's Secret Rhythmic Magic",
+      "fantasy_story": "The Royal Alchemists have uncovered a hidden magic within the Mother's Cradle. They found it senses physical forces, not just life essences, guiding the rhythmic stirrings of birth. This innate body enchantment ensures safe passage for new life, with disruptions causing weaker movements.",
       "tag": "nature"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260112214302.htm",
-      "status": "published",
-      "reason": null,
-      "original_headline": "This new sugar tastes like the real thing without the usual downsides",
-      "original_summary": "Scientists at Tufts have found a way to turn common glucose into a rare sugar that tastes almost exactly like table sugar—but with far fewer downsides. Using engineered bacteria as microscopic factories, the team can now produce tagatose efficiently and cheaply, achieving yields far higher than curr",
-      "fantasy_headline": "Enchanted Sugar Offers Sweetness Without Ills",
-      "fantasy_story": "The skilled Alchemists of the Tufts Academy have brewed a remarkable new sweetening powder. They've discovered how to transform common sweetening agents into an enchanted sugar, tasting just like the beloved old kind but without its common ailments. Using tiny, enchanted sprites as their workforce, this wondrous new concoction can now be made easily and affordably for all.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/news/861124/pc-market-growth-q4-2025-idc",
-      "status": "published",
-      "reason": null,
-      "original_headline": "PC shipments just grew unexpectedly amid RAM shortages",
-      "original_summary": "The PC market is bracing for a turbulent year ahead, but shipments managed to exceed expectations in the recent holiday quarter. IDC reports that shipments grew nearly 10 percent year-over-year in the fourth quarter of 2025, reaching 76.4 million in total. Microsoft's end of Windows 10 support undou",
-      "fantasy_headline": "Magic Device Deliveries Exceed Expectations",
-      "fantasy_story": "Despite prophecies of a challenging year, the Guild of Scribes and Artificers saw an unexpected boom in their enchanted scroll deliveries during the recent Winter Festival. Deliveries of magical calculating devices rose by nearly a tenth, even amidst a scarcity of vital memory crystals. It seems the Grand Architect of Silver Gate ending support for ancient operating runes sparked this sudden interest.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/news/861102/microsoft-office-lens-app-end-of-support-retirement",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Microsoft is retiring its Office Lens app on iOS and Android",
-      "original_summary": "Microsoft Lens, or Office Lens as it's known to most, will no longer be supported on February 9th, and the app won't be functional after March 9th. The portable scanner features of Lens are available in OneDrive in",
-      "fantasy_headline": "Ancient Scrying Lens Will No Longer Gaze",
-      "fantasy_story": "The Grand Architect of Silver Gate has announced that the \"Arcane Eye of the Scribe Guild,\" a beloved enchanted looking glass, will soon cease to function on many handheld scrying mirrors. After the ninth day of the Second Moon, its magic will fade, with all support ending by the ninth day of the Third Moon. Fear not, for its image-capturing enchantments live on within the Grand Architect's Shared Archive.",
-      "tag": "magic"
     }
   ]
 }
