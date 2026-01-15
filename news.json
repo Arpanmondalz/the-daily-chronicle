@@ -1,35 +1,45 @@
 {
-  "last_updated": "2026-01-15 01:43:29",
+  "last_updated": "2026-01-15 08:31:15",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/01/260114084125.htm",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Scientists uncover a hidden type of diabetes in newborns",
+      "original_summary": "Researchers have discovered a rare new type of diabetes that affects babies early in life. The condition is caused by changes in a single gene that prevent insulin-producing cells from working properly. When these cells fail, blood sugar rises and diabetes develops, often alongside neurological prob",
+      "fantasy_headline": "Healers Discover New Sweetness Malady in Infants",
+      "fantasy_story": "The Grand Healers' Guild has found a rare new blood-sweetening malady afflicting the youngest villagers. This sickness arises from a fault in a single thread of life's magic, hindering the body's ability to craft a vital sweetening elixir. When this elixir fails, too much sweetness gathers in the blood, often bringing forth mind-muddling ailments.",
+      "tag": "magic"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260114084122.htm",
       "status": "published",
       "reason": "",
       "original_headline": "Scientists finally uncover why statins cause muscle pain",
       "original_summary": "A new discovery may explain why so many people abandon cholesterol-lowering statins because of muscle pain and weakness. Researchers found that certain statins can latch onto a key muscle protein and trigger a tiny but harmful calcium leak inside muscle cells. That leak may weaken muscles directly o",
-      "fantasy_headline": "Alchemists Uncover Secret Behind Painful Potions",
-      "fantasy_story": "The Alchemists' Guild has finally learned why many folk feel weak after taking health elixirs. It seems certain potions cling to muscle fibers, causing a tiny internal leak. This magical imbalance can drain strength from those who consume them, hindering their recovery.",
+      "fantasy_headline": "Alchemists Learn Why Heart Potions Cause Weary Limbs",
+      "fantasy_story": "The Alchemists' Guild has at last understood why some folk suffer from weary limbs after taking the Potions of the Heart's Flow. They found certain potions can grasp vital sinew-strands, causing a small, harmful seepage of inner strength from tiny sinew-chambers. This seepage may be the reason for the aching and weakness in many warriors and common folk.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260114084115.htm",
+      "id": "https://www.theverge.com/news/861935/wikipedia-25th-anniversary-2026",
       "status": "published",
       "reason": "",
-      "original_headline": "“Marine darkwaves”: Hidden ocean blackouts are putting sealife at risk",
-      "original_summary": "Scientists have identified a newly recognized threat lurking beneath the ocean’s surface: sudden episodes of underwater darkness that can last days or even months. Caused by storms, sediment runoff, algae blooms, and murky water, these “marine darkwaves” dramatically reduce light reaching the seaflo",
-      "fantasy_headline": "Sea Sages Reveal Deep Shadows Threaten Ocean Life",
-      "fantasy_story": "Ocean Wizards have discovered strange deep sea shadows that linger for days, even months. These dark spells are caused by fierce storms and murky currents, stealing precious light from the seabed. Many aquatic creatures now find themselves lost in perpetual twilight, struggling to find food.",
-      "tag": "nature"
+      "original_headline": "Wikipedia turns 25 and shares a glimpse into the lives of its volunteer editors",
+      "original_summary": "It's been 25 years since the launch of Wikipedia on January 15th, 2001, and it's come a long way from housing just 100 pages to becoming a behemoth of online knowledge with more than 65 million articles that get almost 15 billion views each month. To celebrate, the Wikimedia Foundation - the nonprof",
+      "fantasy_headline": "Grand Scroll of All Knowledge Celebrates Quarter-Century",
+      "fantasy_story": "The Order of the Whispering Archive joyfully marks two and a half decades since the first enchantment of the Grand Scroll of All Knowledge. What began as a few dozen enchanted parchments has grown into a vast repository of over sixty-five million chronicles. These tales are read billions of times monthly, thanks to its devoted scribes.",
+      "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/23769068/best-ebook-readers",
+      "id": "https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation",
       "status": "published",
       "reason": "",
-      "original_headline": "The best e-reader to buy right now",
-      "original_summary": "Any ebook reader will let you cram a Beauty and the Beast-sized library’s worth of books in your pocket, but so will your phone. An ebook reader offers a more book-like reading experience, with fewer distractions and less eye strain, and many include extra features, like adjustable frontlighting. So",
-      "fantasy_headline": "New Magic Codex Holds Countless Tomes, Eases Eyes",
-      "fantasy_story": "Master enchanters have crafted a new Magic Codex, able to hold a whole kingdom's library in one's hand. Unlike tiny scrying mirrors, this artifact offers a peaceful reading experience, with no distractions. Its gentle, guiding glow keeps the reader's vision clear, even in dim light.",
-      "tag": "magic"
+      "original_headline": "Microsoft, Meta, and Amazon are paying up for &#8216;enterprise&#8217; access to Wikipedia",
+      "original_summary": "Microsoft, Meta, Amazon, Perplexity, and Mistral AI have joined Google in paying the Wikimedia Foundation for access to its projects, including Wikipedia's vast collection of articles. The Wikimedia Foundation announced the news as part of Wikipedia's 25th anniversary on Thursday. The partnerships a",
+      "fantasy_headline": "Mighty Guilds Pay for Grand Scroll's Deepest Lore",
+      "fantasy_story": "Great Merchant Guilds and Sorcerer Clans, including those of Azure, the Shifting Realm, and the River Bazaar, now offer rich tributes to the Order of the Whispering Archive. They seek privileged access to the Grand Scroll of All Knowledge's deepest lore. This new arrangement, announced during the Scroll's anniversary, strengthens its purpose.",
+      "tag": "merchants"
     }
   ]
 }
