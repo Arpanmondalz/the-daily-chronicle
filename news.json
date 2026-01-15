@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-15 08:31:15",
+  "last_updated": "2026-01-15 12:45:03",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260114084125.htm",
@@ -7,8 +7,8 @@
       "reason": "",
       "original_headline": "Scientists uncover a hidden type of diabetes in newborns",
       "original_summary": "Researchers have discovered a rare new type of diabetes that affects babies early in life. The condition is caused by changes in a single gene that prevent insulin-producing cells from working properly. When these cells fail, blood sugar rises and diabetes develops, often alongside neurological prob",
-      "fantasy_headline": "Healers Discover New Sweetness Malady in Infants",
-      "fantasy_story": "The Grand Healers' Guild has found a rare new blood-sweetening malady afflicting the youngest villagers. This sickness arises from a fault in a single thread of life's magic, hindering the body's ability to craft a vital sweetening elixir. When this elixir fails, too much sweetness gathers in the blood, often bringing forth mind-muddling ailments.",
+      "fantasy_headline": "Alchemists Uncover Hidden Blood-Sweetness Malady in Newborns",
+      "fantasy_story": "The Grand Alchemists' Guild has unveiled a previously unknown ailment affecting the smallest citizens of the kingdom. This rare condition causes an imbalance of sweetness in the blood, often leading to weakness and clouded minds. They believe it stems from a flaw in a babe's innermost magical threads, hindering its vital sugar-balancing essence.",
       "tag": "magic"
     },
     {
@@ -17,29 +17,29 @@
       "reason": "",
       "original_headline": "Scientists finally uncover why statins cause muscle pain",
       "original_summary": "A new discovery may explain why so many people abandon cholesterol-lowering statins because of muscle pain and weakness. Researchers found that certain statins can latch onto a key muscle protein and trigger a tiny but harmful calcium leak inside muscle cells. That leak may weaken muscles directly o",
-      "fantasy_headline": "Alchemists Learn Why Heart Potions Cause Weary Limbs",
-      "fantasy_story": "The Alchemists' Guild has at last understood why some folk suffer from weary limbs after taking the Potions of the Heart's Flow. They found certain potions can grasp vital sinew-strands, causing a small, harmful seepage of inner strength from tiny sinew-chambers. This seepage may be the reason for the aching and weakness in many warriors and common folk.",
+      "fantasy_headline": "Alchemists Unravel Mystery of Aching Sinews from Blood-Thickening Draughts",
+      "fantasy_story": "The kingdom's Alchemists have finally understood why many folk suffer aching sinews after taking the popular draughts for thick blood. They found some potions create a tiny, harmful flux within the muscle's vital threads. This small rupture can weaken a person's strength, causing discomfort and weariness throughout their body.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/news/861935/wikipedia-25th-anniversary-2026",
+      "id": "https://www.theverge.com/news/862465/spotify-premium-us-price-increase-2026",
       "status": "published",
       "reason": "",
-      "original_headline": "Wikipedia turns 25 and shares a glimpse into the lives of its volunteer editors",
-      "original_summary": "It's been 25 years since the launch of Wikipedia on January 15th, 2001, and it's come a long way from housing just 100 pages to becoming a behemoth of online knowledge with more than 65 million articles that get almost 15 billion views each month. To celebrate, the Wikimedia Foundation - the nonprof",
-      "fantasy_headline": "Grand Scroll of All Knowledge Celebrates Quarter-Century",
-      "fantasy_story": "The Order of the Whispering Archive joyfully marks two and a half decades since the first enchantment of the Grand Scroll of All Knowledge. What began as a few dozen enchanted parchments has grown into a vast repository of over sixty-five million chronicles. These tales are read billions of times monthly, thanks to its devoted scribes.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/news/862109/wikipedia-microsoft-meta-perplexity-ai-training-wikimedia-foundation",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Microsoft, Meta, and Amazon are paying up for &#8216;enterprise&#8217; access to Wikipedia",
-      "original_summary": "Microsoft, Meta, Amazon, Perplexity, and Mistral AI have joined Google in paying the Wikimedia Foundation for access to its projects, including Wikipedia's vast collection of articles. The Wikimedia Foundation announced the news as part of Wikipedia's 25th anniversary on Thursday. The partnerships a",
-      "fantasy_headline": "Mighty Guilds Pay for Grand Scroll's Deepest Lore",
-      "fantasy_story": "Great Merchant Guilds and Sorcerer Clans, including those of Azure, the Shifting Realm, and the River Bazaar, now offer rich tributes to the Order of the Whispering Archive. They seek privileged access to the Grand Scroll of All Knowledge's deepest lore. This new arrangement, announced during the Scroll's anniversary, strengthens its purpose.",
+      "original_headline": "Spotify is hiking prices again",
+      "original_summary": "The price of Spotify Premium is about to jump again in the US, marking its third price hike since 2023. Spotify announced that subscribers in the US, Estonia, and Latvia will be contacted about the updated pricing over the coming month. Individual Premium plans in the US will increase from $11.99 to",
+      "fantasy_headline": "Minstrel's Guild Demands More Gold for Enchanted Tunes!",
+      "fantasy_story": "The esteemed Minstrel's Guild, keepers of the enchanted harmony scrolls, has declared a new tribute for their patrons. Soon, those wishing for exclusive tunes across the great kingdom of the West, and even lands like Eston and Latva, must part with more gold coins. This marks the third such increase since the year of the great comet.",
       "tag": "merchants"
+    },
+    {
+      "id": "https://www.theverge.com/news/862076/documented-immigration-reporting-whatsapp-wechat-nextdoor",
+      "status": "published",
+      "reason": "",
+      "original_headline": "All the news that’s fit to WhatsApp",
+      "original_summary": "The WeChat channel 纽约移民记事网Documented (or the New York Immigrant Chronicle) is part newsfeed and part public service. The channel, run by the nonprofit newsroom Documented NYC, is filled with local news for Chinese speakers in New York: stories about healthcare and immigration arrests, but also infor",
+      "fantasy_headline": "Whispering Orbs Spread News to Dragon Clans in New York",
+      "fantasy_story": "The Scribes of New York's Brotherhood now send vital tidings through enchanted whispering orbs to the Dragon Clans. This magical channel delivers news on healing arts and the traveler's laws, but also shares stories of feasts and local events. It serves as both a public chronicle and a guide for new arrivals in the bustling city.",
+      "tag": "kingdom"
     }
   ]
 }
