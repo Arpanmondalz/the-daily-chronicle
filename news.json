@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-01-16 08:30:23",
+  "last_updated": "2026-01-16 12:44:13",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/01/260116045344.htm",
+      "status": "published",
+      "reason": "",
+      "original_headline": "NASA brings Crew-11 home early in rare medical evacuation",
+      "original_summary": "SpaceX Crew-11 splashed down safely in the Pacific after more than five months in orbit aboard the International Space Station. The four astronauts completed over 140 experiments and traveled nearly 71 million miles around Earth. NASA brought the crew home earlier than planned due to a medical conce",
+      "fantasy_headline": "Skyfarers Return Early from Floating Citadel After Health Omen!",
+      "fantasy_story": "The brave Skyfarers of the Eleventh Expedition returned early from their floating citadel, the 'Astral Haven'. After months of arcane research, the Grand Order of Stargazers called them back due to a delicate health omen. They descended safely into the Great Western Sea, completing their journey with over a hundred magical studies.",
+      "tag": "magic"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260115220612.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Scientists found the soil secret that doubles forest regrowth",
       "original_summary": "New research shows tropical forests can recover twice as fast after deforestation when their soils contain enough nitrogen. Scientists followed forest regrowth across Central America for decades and found that nitrogen plays a decisive role in how quickly trees return. Faster regrowth also means mor",
-      "fantasy_headline": "Alchemists Uncover Earth's Secret for Swift Forest Renewal!",
-      "fantasy_story": "The Alchemists' Guild, after long study, has revealed a hidden truth about the land. They found that tropical woods can recover twice as fast if their soil holds enough vital essence. This ancient knowledge helps the wise Green Wizards restore the enchanted forests, ensuring plentiful wood and berries for all.",
+      "fantasy_headline": "Nature Wizards Uncover Soil Secret for Swift Forest Return!",
+      "fantasy_story": "The diligent Nature Wizards have discovered an ancient secret of the earth. When the soil in the Verdant Jungles holds enough vital essence, felled woods can regrow twice as quickly. This magical finding promises lush forests to return to the Green Heartlands faster than ever before.",
       "tag": "nature"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260115022814.htm",
+      "id": "https://www.theverge.com/news/863297/asus-pr-mess-rtx-5070-ti-end-of-life-statements-memory-shortages",
       "status": "published",
-      "reason": null,
-      "original_headline": "Fewer offspring, longer life: The hidden rule of mammal aging",
-      "original_summary": "A large international study reveals that mammals tend to live longer when reproduction is suppressed. On average, lifespan increases by about 10 percent, though the reasons differ for males and females. Castrated males avoid the harmful effects of testosterone, while females gain longevity by sidest",
-      "fantasy_headline": "Wizards Discover a Key to Beasts' Longer Lives!",
-      "fantasy_story": "The Grand Order of Healers has uncovered a curious truth among the creatures of the realm. Beasts that do not bear many young tend to live longer lives, by roughly a tenth part. Male creatures avoid the fiery essence's toll, while females gain longevity by sidestepping the burdens of birth.",
-      "tag": "nature"
+      "reason": "",
+      "original_headline": "Asus now claims it&#8217;s not dropping the RTX 5070 Ti amid memory shortages",
+      "original_summary": "The GPU market is turning into a mess again. Asus told Hardware Unboxed earlier this week that it was winding down production of its RTX 5070 Ti, but the PC maker is now walking back that claim and blaming \"incomplete information\" from its own Asus PR representatives. \"The GeForce RTX 5070 Ti and Ge",
+      "fantasy_headline": "House Azmar Reverses Course on 'Glimmering Gaze' Orb Creation!",
+      "fantasy_story": "The esteemed House Azmar first declared they would cease forging the famed 'Glimmering Gaze' Orbs due to a scarcity of luminous minerals. However, their heralds now claim this news was based on incomplete scrolls. Production of the magical vision orbs will continue, ensuring merchants have access to these valuable artifacts.",
+      "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/column/861948/casting-netflix-dead",
+      "id": "https://www.bbc.com/news/articles/cy59pvkqvl5o?at_medium=RSS&at_campaign=rss",
       "status": "published",
-      "reason": null,
-      "original_headline": "Casting is dead. Long live casting!",
-      "original_summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Last month, Netflix made the surprising decision to kill off a key feature: With no prior warning, the company removed the ability to c",
-      "fantasy_headline": "The Scroll-Weavers' Guild Ends an Old Viewing Enchantment!",
-      "fantasy_story": "The renowned Scroll-Weavers' Guild, known for its wondrous moving images, has made a sudden choice. They have removed the magical viewing enchantment that allowed images to leap from one scroll to another without warning. While some lament its passing, the Guild promises new wonders in its stead.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/tech/863209/meta-has-discontinued-its-metaverse-for-work-too",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Meta has discontinued its metaverse for work, too",
-      "original_summary": "Two months before it changed its name to \"Meta,\" Facebook CEO Mark Zuckerberg personally introduced us to his metaverse for work: Horizon Workrooms, envisioned as a virtual space for workers to collaborate. Today, the company announced it's shutting that space down: \"Meta has made the decision to di",
-      "fantasy_headline": "The Grand Illusionist's Guild Dispels Its Dream-Realm for Toil!",
-      "fantasy_story": "The mighty Visionary Clan, led by its Master Illusionist, once unveiled a grand dream-realm for collaboration known as the Hall of Whispering Echoes. This magical space was meant for artisans and scribes to work together from afar. Alas, the Clan has now announced the dispelling of this ambitious enchantment, closing the realm for good.",
-      "tag": "magic"
+      "reason": "",
+      "original_headline": "China and Canada announce tariffs relief after a high-stakes meeting between Carney and Xi",
+      "original_summary": "Canola oil and electric cars are at the centre of the deal agreed by Mark Carney and Xi Jinping after years of strained ties.",
+      "fantasy_headline": "Dragon Kingdoms and Frostfall Dominion Ease Trade Tolls!",
+      "fantasy_story": "After years of troubled relations, emissaries from the Dragon Kingdoms and the Frostfall Dominion held a grand council. They agreed to ease the heavy merchant tolls that had burdened their trade. This pact means more golden seed oil and glimmering chariots will now flow freely between the realms, strengthening their ties once more.",
+      "tag": "kingdom"
     }
   ]
 }
