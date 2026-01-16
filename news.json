@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-01-16 01:45:24",
+  "last_updated": "2026-01-16 08:30:23",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260115022812.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260115220612.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Statins may help almost everyone with type 2 diabetes live longer",
-      "original_summary": "New research suggests statins may protect adults with type 2 diabetes regardless of how low their predicted heart risk appears. In a large UK study, statin use was linked to fewer deaths and major cardiac events across all risk levels. Even those labeled “low risk” benefited, challenging long-held a",
-      "fantasy_headline": "Elixir of Life Extends Days for All with Sweet Rot!",
-      "fantasy_story": "The Alchemists' Guild has unveiled a remarkable new elixir. This potent draught can help those afflicted by the Sweet Rot live longer and stronger, protecting even those deemed to have minor ailments. It seems the potion wards off many afflictions, a discovery challenging old beliefs.",
+      "original_headline": "Scientists found the soil secret that doubles forest regrowth",
+      "original_summary": "New research shows tropical forests can recover twice as fast after deforestation when their soils contain enough nitrogen. Scientists followed forest regrowth across Central America for decades and found that nitrogen plays a decisive role in how quickly trees return. Faster regrowth also means mor",
+      "fantasy_headline": "Alchemists Uncover Earth's Secret for Swift Forest Renewal!",
+      "fantasy_story": "The Alchemists' Guild, after long study, has revealed a hidden truth about the land. They found that tropical woods can recover twice as fast if their soil holds enough vital essence. This ancient knowledge helps the wise Green Wizards restore the enchanted forests, ensuring plentiful wood and berries for all.",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/01/260115022814.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Fewer offspring, longer life: The hidden rule of mammal aging",
+      "original_summary": "A large international study reveals that mammals tend to live longer when reproduction is suppressed. On average, lifespan increases by about 10 percent, though the reasons differ for males and females. Castrated males avoid the harmful effects of testosterone, while females gain longevity by sidest",
+      "fantasy_headline": "Wizards Discover a Key to Beasts' Longer Lives!",
+      "fantasy_story": "The Grand Order of Healers has uncovered a curious truth among the creatures of the realm. Beasts that do not bear many young tend to live longer lives, by roughly a tenth part. Male creatures avoid the fiery essence's toll, while females gain longevity by sidestepping the burdens of birth.",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.theverge.com/column/861948/casting-netflix-dead",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Casting is dead. Long live casting!",
+      "original_summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Last month, Netflix made the surprising decision to kill off a key feature: With no prior warning, the company removed the ability to c",
+      "fantasy_headline": "The Scroll-Weavers' Guild Ends an Old Viewing Enchantment!",
+      "fantasy_story": "The renowned Scroll-Weavers' Guild, known for its wondrous moving images, has made a sudden choice. They have removed the magical viewing enchantment that allowed images to leap from one scroll to another without warning. While some lament its passing, the Guild promises new wonders in its stead.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260115022758.htm",
+      "id": "https://www.theverge.com/tech/863209/meta-has-discontinued-its-metaverse-for-work-too",
       "status": "published",
       "reason": null,
-      "original_headline": "Electrons stop acting like particles—and physics still works",
-      "original_summary": "Physicists have long relied on the idea that electrons behave like tiny particles zipping through materials, even though quantum physics says their exact position is fundamentally uncertain. Now, researchers at TU Wien have discovered something surprising: a material where this particle picture comp",
-      "fantasy_headline": "Invisible Sprites Defy Old Laws in New Enchanted Ore!",
-      "fantasy_story": "The esteemed Wizards of the Arcane University of Wien have made a puzzling discovery. They found a rare enchanted ore where the invisible spirit motes, usually thought to move like tiny dust, behave quite differently. Despite this oddity, the grand design of nature still holds true, baffling even the wisest scholars.",
+      "original_headline": "Meta has discontinued its metaverse for work, too",
+      "original_summary": "Two months before it changed its name to \"Meta,\" Facebook CEO Mark Zuckerberg personally introduced us to his metaverse for work: Horizon Workrooms, envisioned as a virtual space for workers to collaborate. Today, the company announced it's shutting that space down: \"Meta has made the decision to di",
+      "fantasy_headline": "The Grand Illusionist's Guild Dispels Its Dream-Realm for Toil!",
+      "fantasy_story": "The mighty Visionary Clan, led by its Master Illusionist, once unveiled a grand dream-realm for collaboration known as the Hall of Whispering Echoes. This magical space was meant for artisans and scribes to work together from afar. Alas, the Clan has now announced the dispelling of this ambitious enchantment, closing the realm for good.",
       "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/tech/652171/best-sonos-speakers",
-      "status": "published",
-      "reason": null,
-      "original_headline": "The best Sonos speakers to buy in 2026",
-      "original_summary": "After the self-induced tumult Sonos went through last year, I can understand why some people are reluctant to spend money on the company’s products. But newly appointed CEO Tom Conrad has shown that he’s determined to get back on track and revitalize Sonos as the leading whole-home audio brand. The ",
-      "fantasy_headline": "Clan Sonos Unveils New Echoing Crystals for All Homes!",
-      "fantasy_story": "After a period of great discord, Clan Sonos seeks to regain its place. Guildmaster Tom Conrad promises to revitalize the clan, known for its marvelous echoing crystals that fill entire dwellings with music. Many loyal patrons are now eager to spend their gold coins on these celebrated artifacts.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/21289209/best-apple-watch-deals",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Here are the best Apple Watch deals available right now",
-      "original_summary": "In September, Apple launched its latest fleet of smartwatches, including the Apple Watch Series 11, the SE 3, and the Ultra 3. Each wearable offers something a little different (their prices indicate their breadth of features), and we’re already starting to see big price drops. Additionally, we’re s",
-      "fantasy_headline": "Golden Apple Clan Offers Bargains on Enchanted Wrist-Orbs!",
-      "fantasy_story": "The skilled artisans of the Golden Apple Clan have unveiled their newest line of enchanted wrist-orbs, including the Mark XI and Ultima III. These wondrous devices offer many unique enchantments. Now, merchants are offering generous bargains, allowing many to acquire these sought-after artifacts for fewer gold coins.",
-      "tag": "merchants"
     }
   ]
 }
