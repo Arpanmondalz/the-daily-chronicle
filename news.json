@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-16 12:44:13",
+  "last_updated": "2026-01-17 08:26:36",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260116045344.htm",
@@ -7,8 +7,8 @@
       "reason": "",
       "original_headline": "NASA brings Crew-11 home early in rare medical evacuation",
       "original_summary": "SpaceX Crew-11 splashed down safely in the Pacific after more than five months in orbit aboard the International Space Station. The four astronauts completed over 140 experiments and traveled nearly 71 million miles around Earth. NASA brought the crew home earlier than planned due to a medical conce",
-      "fantasy_headline": "Skyfarers Return Early from Floating Citadel After Health Omen!",
-      "fantasy_story": "The brave Skyfarers of the Eleventh Expedition returned early from their floating citadel, the 'Astral Haven'. After months of arcane research, the Grand Order of Stargazers called them back due to a delicate health omen. They descended safely into the Great Western Sea, completing their journey with over a hundred magical studies.",
+      "fantasy_headline": "Sky-Voyagers Return Early from Grand Sky Citadel!",
+      "fantasy_story": "A brave group of Sky-Voyagers from the Grand Order of Sky-Farers returned swiftly from the floating Sky Citadel. They had completed many arcane studies while circling the realms high above. Due to a traveler's ailment, they made an early, safe return to the Great Waters, much to the relief of the Order.",
       "tag": "magic"
     },
     {
@@ -17,29 +17,19 @@
       "reason": "",
       "original_headline": "Scientists found the soil secret that doubles forest regrowth",
       "original_summary": "New research shows tropical forests can recover twice as fast after deforestation when their soils contain enough nitrogen. Scientists followed forest regrowth across Central America for decades and found that nitrogen plays a decisive role in how quickly trees return. Faster regrowth also means mor",
-      "fantasy_headline": "Nature Wizards Uncover Soil Secret for Swift Forest Return!",
-      "fantasy_story": "The diligent Nature Wizards have discovered an ancient secret of the earth. When the soil in the Verdant Jungles holds enough vital essence, felled woods can regrow twice as quickly. This magical finding promises lush forests to return to the Green Heartlands faster than ever before.",
+      "fantasy_headline": "Nature Alchemists Uncover Woodland Rebirth Secret!",
+      "fantasy_story": "The wise Nature Alchemists have discovered a powerful secret for healing the land. They found that ancient groves can recover twice as fast after timberlands are cleared if the soil has enough special earth-dust. This magical nutrient allows trees to return quickly, bringing back the green realms.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/news/863297/asus-pr-mess-rtx-5070-ti-end-of-life-statements-memory-shortages",
+      "id": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
       "status": "published",
       "reason": "",
-      "original_headline": "Asus now claims it&#8217;s not dropping the RTX 5070 Ti amid memory shortages",
-      "original_summary": "The GPU market is turning into a mess again. Asus told Hardware Unboxed earlier this week that it was winding down production of its RTX 5070 Ti, but the PC maker is now walking back that claim and blaming \"incomplete information\" from its own Asus PR representatives. \"The GeForce RTX 5070 Ti and Ge",
-      "fantasy_headline": "House Azmar Reverses Course on 'Glimmering Gaze' Orb Creation!",
-      "fantasy_story": "The esteemed House Azmar first declared they would cease forging the famed 'Glimmering Gaze' Orbs due to a scarcity of luminous minerals. However, their heralds now claim this news was based on incomplete scrolls. Production of the magical vision orbs will continue, ensuring merchants have access to these valuable artifacts.",
+      "original_headline": "The best deals on MacBooks right now",
+      "original_summary": "Apple currently sells MacBooks equipped with its own M-series processors in a wide range of sizes and price points, all of which run the company’s newest operating system, macOS 26. Purchasing a new MacBook can be complicated if you’re trying to figure out what specs you need, but finding a deal on ",
+      "fantasy_headline": "Golden Apple Guild Offers Special Enchanted Mirror Deals!",
+      "fantasy_story": "The esteemed Grand Crafters' Guild of the Golden Apple is currently offering special prices on their enchanted scrying mirrors. These powerful artifacts, imbued with arcane cores, run on their newest Grand Enchantment. Adventurers seeking new magical tools can find great value now, simplifying the quest for the perfect device.",
       "tag": "merchants"
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cy59pvkqvl5o?at_medium=RSS&at_campaign=rss",
-      "status": "published",
-      "reason": "",
-      "original_headline": "China and Canada announce tariffs relief after a high-stakes meeting between Carney and Xi",
-      "original_summary": "Canola oil and electric cars are at the centre of the deal agreed by Mark Carney and Xi Jinping after years of strained ties.",
-      "fantasy_headline": "Dragon Kingdoms and Frostfall Dominion Ease Trade Tolls!",
-      "fantasy_story": "After years of troubled relations, emissaries from the Dragon Kingdoms and the Frostfall Dominion held a grand council. They agreed to ease the heavy merchant tolls that had burdened their trade. This pact means more golden seed oil and glimmering chariots will now flow freely between the realms, strengthening their ties once more.",
-      "tag": "kingdom"
     }
   ]
 }
