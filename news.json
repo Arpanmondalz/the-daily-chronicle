@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-01-18 04:41:47",
+  "last_updated": "2026-01-18 08:27:08",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260117053529.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Tiny earthquakes are revealing a dangerous secret beneath California",
       "original_summary": "Scientists are uncovering a hidden and surprisingly complex earthquake zone beneath Northern California by tracking swarms of tiny earthquakes that are far too weak to feel. These faint tremors are revealing what lies beneath the surface where the San Andreas fault meets the Cascadia subduction zone",
-      "fantasy_headline": "Earth Mages Uncover Slumbering Power Beneath Western Coastlands",
-      "fantasy_story": "The Earth Mages' Guild has been tracking tiny, unseen shivers deep below the Western Coastlands. Their ancient instruments reveal a complex network of unstable earth where the Great Rift meets the Sunken Realm Border. These faint tremors hint at a powerful, hidden magic stirring beneath the land.",
+      "fantasy_headline": "Earth Wizards Discover Hidden Tremor Labyrinth Beneath Northern Lands",
+      "fantasy_story": "The esteemed Earth Wizards have been tracking the faint whispers beneath the northern lands. Their delicate instruments reveal a complex tremor labyrinth, previously unknown to even the oldest lore. These tiny shivers hint at ancient rifts where the Dragon's Sleep meets the Whispering Chasm, holding deep secrets beneath the surface. It is a discovery of great import for the realms.",
       "tag": "nature"
     },
     {
       "id": "https://www.theverge.com/news/863978/setapp-mobile-ios-store-shutdown",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "The Setapp Mobile iOS store is shutting down on February 16th",
       "original_summary": "Setapp Mobile seemed like one of the many alternative app markets with promise that launched in the wake of the EU's Digital Markets Act (DMA). While the law may have forced Apple to allow third-party app stores on its devices, it couldn't make users actually embrace them. MacPaw, the Ukrainian deve",
-      "fantasy_headline": "Enchanted Scroll Market to Close Its Gates Next Moon-Cycle",
-      "fantasy_story": "The MacPaw Clan of Scribes announced their Enchanted Scroll Market will close its gates next moon-cycle. Despite the Grand Council's Edict permitting new scroll vendors, the Royal Scribe's Guild still holds sway over most users. Many hoped for more variety in magical artifacts, but this market struggled to find its footing.",
+      "fantasy_headline": "The Sky-Scrolls Merchant's Bazaar to Close Its Gates",
+      "fantasy_story": "The bustling Sky-Scrolls Merchant's Bazaar, a new market for enchanted scrolls, is soon to close its gates. Despite grand decrees from the Council of Elder Kingdoms allowing such ventures, the Grand Enchanter's Academy's own scrying mirrors remain most popular. The Scrollwrights' Guild of MacPaw, who founded the bazaar, will cease operations by the 16th of February.",
       "tag": "merchants"
     }
   ]
