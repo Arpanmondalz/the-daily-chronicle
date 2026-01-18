@@ -1,34 +1,24 @@
 {
-  "last_updated": "2026-01-17 12:39:10",
+  "last_updated": "2026-01-18 04:41:47",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260116085131.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260117053529.htm",
       "status": "published",
       "reason": "",
-      "original_headline": "Scientists found hidden synapse hotspots in the teen brain",
-      "original_summary": "Scientists have discovered that the adolescent brain does more than prune old connections. During the teen years, it actively builds dense new clusters of synapses in specific parts of neurons. These clusters emerge only in adolescence and may help shape higher-level thinking. When the process is di",
-      "fantasy_headline": "Wizards discover magical 'thought-knots' in young minds!",
-      "fantasy_story": "The Royal Wizards' Guild has uncovered a wondrous secret within the minds of young apprentices. Beyond simply clearing old pathways, these growing minds forge new, intricate clusters of magical connections. These \"thought-knots\" appear only in the years of youth, vital for shaping complex enchantments and higher-level thinking.",
-      "tag": "magic"
+      "original_headline": "Tiny earthquakes are revealing a dangerous secret beneath California",
+      "original_summary": "Scientists are uncovering a hidden and surprisingly complex earthquake zone beneath Northern California by tracking swarms of tiny earthquakes that are far too weak to feel. These faint tremors are revealing what lies beneath the surface where the San Andreas fault meets the Cascadia subduction zone",
+      "fantasy_headline": "Earth Mages Uncover Slumbering Power Beneath Western Coastlands",
+      "fantasy_story": "The Earth Mages' Guild has been tracking tiny, unseen shivers deep below the Western Coastlands. Their ancient instruments reveal a complex network of unstable earth where the Great Rift meets the Sunken Realm Border. These faint tremors hint at a powerful, hidden magic stirring beneath the land.",
+      "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/reviews/863910/tcl-playcube-portable-projector-review-battery",
+      "id": "https://www.theverge.com/news/863978/setapp-mobile-ios-store-shutdown",
       "status": "published",
       "reason": "",
-      "original_headline": "TCL’s PlayCube projector is more fun than a Rubik’s Cube",
-      "original_summary": "The best all-in-one portable projector is the one that makes all the right compromises. It needs to balance image and sound quality with battery life and responsiveness in a device that's not too expensive and small enough to take anywhere. TCL's fun little PlayCube delivers the right mix to justify",
-      "fantasy_headline": "The Tinkerers' Clan unveils a wondrous portable viewing crystal!",
-      "fantasy_story": "The Tinkerers' Clan has crafted a remarkable new artifact: the PlayCube. This small, enchanted crystal projects vivid visions and plays delightful songs. It balances long-lasting magic with clear images, making it the perfect companion for any adventurer seeking entertainment on their journeys, all for a reasonable sum of gold.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals",
-      "status": "published",
-      "reason": "",
-      "original_headline": "The best deals on MacBooks right now",
-      "original_summary": "Apple currently sells MacBooks equipped with its own M-series processors in a wide range of sizes and price points, all of which run the company’s newest operating system, macOS 26. Purchasing a new MacBook can be complicated if you’re trying to figure out what specs you need, but finding a deal on ",
-      "fantasy_headline": "The Applewood Clan offers grand bargains on enchanted scrying slabs!",
-      "fantasy_story": "The esteemed Applewood Clan currently presents excellent opportunities for aspiring scribes and scholars. Their enchanted scrying slabs, powered by miniature magic-golems, are now available with generous merchant offers. These wondrous devices, running on the latest ancient runes, come in many sizes and powers, suiting every need and purse.",
+      "original_headline": "The Setapp Mobile iOS store is shutting down on February 16th",
+      "original_summary": "Setapp Mobile seemed like one of the many alternative app markets with promise that launched in the wake of the EU's Digital Markets Act (DMA). While the law may have forced Apple to allow third-party app stores on its devices, it couldn't make users actually embrace them. MacPaw, the Ukrainian deve",
+      "fantasy_headline": "Enchanted Scroll Market to Close Its Gates Next Moon-Cycle",
+      "fantasy_story": "The MacPaw Clan of Scribes announced their Enchanted Scroll Market will close its gates next moon-cycle. Despite the Grand Council's Edict permitting new scroll vendors, the Royal Scribe's Guild still holds sway over most users. Many hoped for more variety in magical artifacts, but this market struggled to find its footing.",
       "tag": "merchants"
     }
   ]
