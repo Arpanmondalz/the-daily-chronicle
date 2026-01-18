@@ -1,24 +1,31 @@
 {
-  "last_updated": "2026-01-18 08:27:08",
+  "last_updated": "2026-01-18 12:39:34",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260117053529.htm",
       "status": "published",
-      "reason": null,
       "original_headline": "Tiny earthquakes are revealing a dangerous secret beneath California",
       "original_summary": "Scientists are uncovering a hidden and surprisingly complex earthquake zone beneath Northern California by tracking swarms of tiny earthquakes that are far too weak to feel. These faint tremors are revealing what lies beneath the surface where the San Andreas fault meets the Cascadia subduction zone",
-      "fantasy_headline": "Earth Wizards Discover Hidden Tremor Labyrinth Beneath Northern Lands",
-      "fantasy_story": "The esteemed Earth Wizards have been tracking the faint whispers beneath the northern lands. Their delicate instruments reveal a complex tremor labyrinth, previously unknown to even the oldest lore. These tiny shivers hint at ancient rifts where the Dragon's Sleep meets the Whispering Chasm, holding deep secrets beneath the surface. It is a discovery of great import for the realms.",
+      "fantasy_headline": "Wizards Discover Hidden Ground Tremors in Western Reaches",
+      "fantasy_story": "The Earth Mages of the Western Reaches are using their keen senses to track tiny ground shivers. These faint tremors reveal a hidden, complex zone where ancient earth cracks meet, hinting at secrets beneath the Golden Coast.",
       "tag": "nature"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/01/260117053526.htm",
+      "status": "published",
+      "original_headline": "AI maps the hidden forces shaping cancer survival worldwide",
+      "original_summary": "Researchers have turned artificial intelligence into a powerful new lens for understanding why cancer survival rates differ so dramatically around the world. By analyzing cancer data and health system information from 185 countries, the AI model highlights which factors, such as access to radiothera",
+      "fantasy_headline": "Enchanted Orb Reveals Secrets of Resisting the Wasting Curse",
+      "fantasy_story": "Scholars have unveiled a wondrous Enchanted Orb, allowing them to peer into why folk endure the Wasting Curse differently across the lands. By studying countless Healers' Guild records, this magical artifact reveals which provisions and Radiant Healing Spells help folk overcome the ailment.",
+      "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/news/863978/setapp-mobile-ios-store-shutdown",
       "status": "published",
-      "reason": null,
       "original_headline": "The Setapp Mobile iOS store is shutting down on February 16th",
       "original_summary": "Setapp Mobile seemed like one of the many alternative app markets with promise that launched in the wake of the EU's Digital Markets Act (DMA). While the law may have forced Apple to allow third-party app stores on its devices, it couldn't make users actually embrace them. MacPaw, the Ukrainian deve",
-      "fantasy_headline": "The Sky-Scrolls Merchant's Bazaar to Close Its Gates",
-      "fantasy_story": "The bustling Sky-Scrolls Merchant's Bazaar, a new market for enchanted scrolls, is soon to close its gates. Despite grand decrees from the Council of Elder Kingdoms allowing such ventures, the Grand Enchanter's Academy's own scrying mirrors remain most popular. The Scrollwrights' Guild of MacPaw, who founded the bazaar, will cease operations by the 16th of February.",
+      "fantasy_headline": "Enchanted Scroll Emporium Closes Its Doors",
+      "fantasy_story": "The Guild of Mobile Scribes has announced the closure of its Enchanted Scroll Emporium, effective in a few moon cycles. Though a Grand Council decree allowed other marketplaces beside the Great Wizard's Tower, common folk did not fully embrace these new avenues for magical tools.",
       "tag": "merchants"
     }
   ]
