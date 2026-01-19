@@ -1,35 +1,35 @@
 {
-  "last_updated": "2026-01-19 12:50:31",
+  "last_updated": "2026-01-19 16:29:46",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260118233549.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260118233609.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "New research shows emotional expressions work differently in autism",
-      "original_summary": "Researchers found that autistic and non-autistic people move their faces differently when expressing emotions like anger, happiness, and sadness. Autistic participants tended to rely on different facial features and produced more varied expressions, which can look unfamiliar to non-autistic observer",
-      "fantasy_headline": "Sages Uncover Diverse Ways of Showing Feeling",
-      "fantasy_story": "Scholars and wizards have observed that folk from the Enchanted Meadows express joy or sorrow with varied gestures. Some use their countenances in unique ways, different from others, which can sometimes lead to confusion amongst the populace.",
-      "tag": "kingdom"
-    },
-    {
-      "id": "https://www.theverge.com/news/864099/threads-overtakes-x-daily-mobile-ios-android-users",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Threads overtakes X on mobile, but still lags far behind",
-      "original_summary": "After launching almost three years ago, Meta's Threads is now reportedly attracting more daily mobile users than rival platform X. According to Similarweb data shared by TechCrunch, Threads has 141.5 million daily active iOS and Android global app users as of January 7th, compared to 125 million use",
-      "fantasy_headline": "The Weaving Spells Guild Draws More Eyes Than Its Rival",
-      "fantasy_story": "The Weaving Spells Guild, which creates enchanted scrolls for sharing thoughts, now sees more daily gazers than the X-Marked Scribes' Cartel. Though it has gathered many new followers, it still strives to match the ancient reach of its elder competitor.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/column/864078/cosmic-horror-comedy-podcast-welcome-to-night-vale",
-      "status": "published",
-      "reason": "",
-      "original_headline": "You need to listen to the cosmic horror-comedy podcast Welcome to Night Vale",
-      "original_summary": "It's relatively rare for a podcast to last 14 years, especially a fiction one. In fact, as far as I can tell, Welcome to Night Vale is the longest continually running fiction podcast out there. (Some will argue it's actually We're Alive, but that has taken a few significant breaks between seasons.) ",
-      "fantasy_headline": "Ancient Bardic Story-Spell Continues Its Long Run",
-      "fantasy_story": "A most enduring tale, shared through enchanted listening stones, has captivated listeners for fourteen years! This unique story-spell, known as \"Welcome to Night Vale,\" continues to weave its strange blend of unsettling wonders and jests, making it the longest-running of its kind.",
+      "reason": null,
+      "original_headline": "Inside the mysterious collapse of dark matter halos",
+      "original_summary": "Physicists have unveiled a new way to simulate a mysterious form of dark matter that can collide with itself but not with normal matter. This self-interacting dark matter may trigger a dramatic collapse inside dark matter halos, heating and densifying their cores in surprising ways. Until now, this ",
+      "fantasy_headline": "Wizards Uncover Secrets of Collapsing Shadow Mists",
+      "fantasy_story": "The Grand Wizards of the Celestial Spire have divined a new way to understand the mysterious Shadow Mists. These mists, which interact only with themselves, can cause ethereal realms to dramatically collapse. Their findings reveal strange heating within the heart of these realms.",
       "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Gamers love AI in game dev — they just don&#8217;t know it yet, says Razer&#8217;s CEO",
+      "original_summary": "We’re back to start the year off with a very special live interview with Razer CEO Min-Liang Tan, which we taped in front of a terrific audience at Brooklyn Bowl in Las Vegas during CES.  Razer is obviously best known for making mice, keyboards, and gaming PCs in its signature black and bright green",
+      "fantasy_headline": "Guild Master Proclaims: Adventurers Embrace Mimicry Magic!",
+      "fantasy_story": "The esteemed Guild Master of the Serpent's Coil declares that adventurers unknowingly adore the new mimicry magic used in crafting quest scrolls. This powerful enchantment, used to create grand adventures, enhances the tales told by bards and storytellers across the lands.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/tech/864127/seletti-bic-ballpoint-pen-pendant-lamp-maison-objet",
+      "status": "published",
+      "reason": null,
+      "original_headline": "This 5-foot lamp is a supersized tribute to the world’s most iconic pen",
+      "original_summary": "Seletti, an Italian design brand known for everything from furniture to tableware, has debuted an unusual tribute to an icon of design: the Bic Cristal pen. To celebrate its 75th anniversary, Seletti has supersized the pen and replaced its ink cartridge with a long LED-filled tube to illuminate your",
+      "fantasy_headline": "Artisans Craft Giant Quill-Lantern Tribute",
+      "fantasy_story": "The renowned Artisans' Collective has unveiled a magnificent new creation! To honor the Common Quill's seventy-fifth year, they've crafted a colossal, enchanted quill. This grand artifact, nearly five feet tall, now holds a gleaming arcane core that casts a warm light, brightening any chamber.",
+      "tag": "merchants"
     }
   ]
 }
