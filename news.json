@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-01-19 08:33:27",
+  "last_updated": "2026-01-19 12:50:31",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260118064637.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260118233549.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "Scientists sent viruses to space and they evolved in surprising ways",
-      "original_summary": "When scientists sent bacteria-infecting viruses to the International Space Station, the microbes did not behave the same way they do on Earth. In microgravity, infections still occurred, but both viruses and bacteria evolved differently over time. Genetic changes emerged that altered how viruses att",
-      "fantasy_headline": "Wizards' Sky-Chamber Reveals Strange Evolution of Tiny Magic Sprites!",
-      "fantasy_story": "The Royal Order of Wizards sent tiny, unseen magic sprites, known to afflict lesser spirits, aboard their Sky-Chamber into the Aether. To their astonishment, these sprites and the spirits they touched behaved quite differently in the high heavens. New enchantments emerged, altering how the tiny magic affected its hosts, a grand mystery for the kingdom's alchemists.",
-      "tag": "magic"
+      "reason": "",
+      "original_headline": "New research shows emotional expressions work differently in autism",
+      "original_summary": "Researchers found that autistic and non-autistic people move their faces differently when expressing emotions like anger, happiness, and sadness. Autistic participants tended to rely on different facial features and produced more varied expressions, which can look unfamiliar to non-autistic observer",
+      "fantasy_headline": "Sages Uncover Diverse Ways of Showing Feeling",
+      "fantasy_story": "Scholars and wizards have observed that folk from the Enchanted Meadows express joy or sorrow with varied gestures. Some use their countenances in unique ways, different from others, which can sometimes lead to confusion amongst the populace.",
+      "tag": "kingdom"
+    },
+    {
+      "id": "https://www.theverge.com/news/864099/threads-overtakes-x-daily-mobile-ios-android-users",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Threads overtakes X on mobile, but still lags far behind",
+      "original_summary": "After launching almost three years ago, Meta's Threads is now reportedly attracting more daily mobile users than rival platform X. According to Similarweb data shared by TechCrunch, Threads has 141.5 million daily active iOS and Android global app users as of January 7th, compared to 125 million use",
+      "fantasy_headline": "The Weaving Spells Guild Draws More Eyes Than Its Rival",
+      "fantasy_story": "The Weaving Spells Guild, which creates enchanted scrolls for sharing thoughts, now sees more daily gazers than the X-Marked Scribes' Cartel. Though it has gathered many new followers, it still strives to match the ancient reach of its elder competitor.",
+      "tag": "merchants"
     },
     {
       "id": "https://www.theverge.com/column/864078/cosmic-horror-comedy-podcast-welcome-to-night-vale",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "You need to listen to the cosmic horror-comedy podcast Welcome to Night Vale",
       "original_summary": "It's relatively rare for a podcast to last 14 years, especially a fiction one. In fact, as far as I can tell, Welcome to Night Vale is the longest continually running fiction podcast out there. (Some will argue it's actually We're Alive, but that has taken a few significant breaks between seasons.) ",
-      "fantasy_headline": "Long-Running Enchanted Broadcast of Dread and Jest Delights Kingdom.",
-      "fantasy_story": "The ancient Guild of Whispering Sages continues to broadcast their enchanted tales across the land. Known as 'Welcome to the Shadow Vale,' these unique spoken sagas blend tales of cosmic dread with hearty jest. For many seasons, it has remained the longest continuously running magical broadcast, captivating listeners throughout the realm with its peculiar charm.",
-      "tag": "kingdom"
-    },
-    {
-      "id": "https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down",
-      "original_summary": "Microsoft released its first security update of 2026 for Windows 11 on January 13th. Just four days later, it was forced to release an emergency out-of-band update to fix some pretty serious bugs, the first one introduced. The security patch was stopping some systems from shutting down or hibernatin",
-      "fantasy_headline": "Soft-Scroll Guild's New Rune-Patch Prevents Enchanted Viewers from Rest.",
-      "fantasy_story": "The esteemed Soft-Scroll Guild recently released its newest rune-patch for the Grand Lexicon of the Eleventh Sky. However, this magical update introduced a peculiar glitch that prevented many enchanted viewing mirrors from entering their slumber. Swiftly, the Guild had to issue an emergency counter-enchantment to allow the realm's arcane portals to finally rest.",
+      "fantasy_headline": "Ancient Bardic Story-Spell Continues Its Long Run",
+      "fantasy_story": "A most enduring tale, shared through enchanted listening stones, has captivated listeners for fourteen years! This unique story-spell, known as \"Welcome to Night Vale,\" continues to weave its strange blend of unsettling wonders and jests, making it the longest-running of its kind.",
       "tag": "magic"
     }
   ]
