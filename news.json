@@ -1,32 +1,35 @@
 {
-  "last_updated": "2026-01-18 12:39:34",
+  "last_updated": "2026-01-19 08:33:27",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260117053529.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260118064637.htm",
       "status": "published",
-      "original_headline": "Tiny earthquakes are revealing a dangerous secret beneath California",
-      "original_summary": "Scientists are uncovering a hidden and surprisingly complex earthquake zone beneath Northern California by tracking swarms of tiny earthquakes that are far too weak to feel. These faint tremors are revealing what lies beneath the surface where the San Andreas fault meets the Cascadia subduction zone",
-      "fantasy_headline": "Wizards Discover Hidden Ground Tremors in Western Reaches",
-      "fantasy_story": "The Earth Mages of the Western Reaches are using their keen senses to track tiny ground shivers. These faint tremors reveal a hidden, complex zone where ancient earth cracks meet, hinting at secrets beneath the Golden Coast.",
-      "tag": "nature"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260117053526.htm",
-      "status": "published",
-      "original_headline": "AI maps the hidden forces shaping cancer survival worldwide",
-      "original_summary": "Researchers have turned artificial intelligence into a powerful new lens for understanding why cancer survival rates differ so dramatically around the world. By analyzing cancer data and health system information from 185 countries, the AI model highlights which factors, such as access to radiothera",
-      "fantasy_headline": "Enchanted Orb Reveals Secrets of Resisting the Wasting Curse",
-      "fantasy_story": "Scholars have unveiled a wondrous Enchanted Orb, allowing them to peer into why folk endure the Wasting Curse differently across the lands. By studying countless Healers' Guild records, this magical artifact reveals which provisions and Radiant Healing Spells help folk overcome the ailment.",
+      "reason": null,
+      "original_headline": "Scientists sent viruses to space and they evolved in surprising ways",
+      "original_summary": "When scientists sent bacteria-infecting viruses to the International Space Station, the microbes did not behave the same way they do on Earth. In microgravity, infections still occurred, but both viruses and bacteria evolved differently over time. Genetic changes emerged that altered how viruses att",
+      "fantasy_headline": "Wizards' Sky-Chamber Reveals Strange Evolution of Tiny Magic Sprites!",
+      "fantasy_story": "The Royal Order of Wizards sent tiny, unseen magic sprites, known to afflict lesser spirits, aboard their Sky-Chamber into the Aether. To their astonishment, these sprites and the spirits they touched behaved quite differently in the high heavens. New enchantments emerged, altering how the tiny magic affected its hosts, a grand mystery for the kingdom's alchemists.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/news/863978/setapp-mobile-ios-store-shutdown",
+      "id": "https://www.theverge.com/column/864078/cosmic-horror-comedy-podcast-welcome-to-night-vale",
       "status": "published",
-      "original_headline": "The Setapp Mobile iOS store is shutting down on February 16th",
-      "original_summary": "Setapp Mobile seemed like one of the many alternative app markets with promise that launched in the wake of the EU's Digital Markets Act (DMA). While the law may have forced Apple to allow third-party app stores on its devices, it couldn't make users actually embrace them. MacPaw, the Ukrainian deve",
-      "fantasy_headline": "Enchanted Scroll Emporium Closes Its Doors",
-      "fantasy_story": "The Guild of Mobile Scribes has announced the closure of its Enchanted Scroll Emporium, effective in a few moon cycles. Though a Grand Council decree allowed other marketplaces beside the Great Wizard's Tower, common folk did not fully embrace these new avenues for magical tools.",
-      "tag": "merchants"
+      "reason": null,
+      "original_headline": "You need to listen to the cosmic horror-comedy podcast Welcome to Night Vale",
+      "original_summary": "It's relatively rare for a podcast to last 14 years, especially a fiction one. In fact, as far as I can tell, Welcome to Night Vale is the longest continually running fiction podcast out there. (Some will argue it's actually We're Alive, but that has taken a few significant breaks between seasons.) ",
+      "fantasy_headline": "Long-Running Enchanted Broadcast of Dread and Jest Delights Kingdom.",
+      "fantasy_story": "The ancient Guild of Whispering Sages continues to broadcast their enchanted tales across the land. Known as 'Welcome to the Shadow Vale,' these unique spoken sagas blend tales of cosmic dread with hearty jest. For many seasons, it has remained the longest continuously running magical broadcast, captivating listeners throughout the realm with its peculiar charm.",
+      "tag": "kingdom"
+    },
+    {
+      "id": "https://www.theverge.com/news/864032/microsofts-out-of-band-windows-11-update-bug",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Microsoft’s first Windows 11 update of 2026 stopped some computers from shutting down",
+      "original_summary": "Microsoft released its first security update of 2026 for Windows 11 on January 13th. Just four days later, it was forced to release an emergency out-of-band update to fix some pretty serious bugs, the first one introduced. The security patch was stopping some systems from shutting down or hibernatin",
+      "fantasy_headline": "Soft-Scroll Guild's New Rune-Patch Prevents Enchanted Viewers from Rest.",
+      "fantasy_story": "The esteemed Soft-Scroll Guild recently released its newest rune-patch for the Grand Lexicon of the Eleventh Sky. However, this magical update introduced a peculiar glitch that prevented many enchanted viewing mirrors from entering their slumber. Swiftly, the Guild had to issue an emergency counter-enchantment to allow the realm's arcane portals to finally rest.",
+      "tag": "magic"
     }
   ]
 }
