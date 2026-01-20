@@ -1,24 +1,34 @@
 {
-  "last_updated": "2026-01-20 01:45:08",
+  "last_updated": "2026-01-20 08:32:12",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260118233609.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Inside the mysterious collapse of dark matter halos",
       "original_summary": "Physicists have unveiled a new way to simulate a mysterious form of dark matter that can collide with itself but not with normal matter. This self-interacting dark matter may trigger a dramatic collapse inside dark matter halos, heating and densifying their cores in surprising ways. Until now, this ",
-      "fantasy_headline": "Wizards Discover Unstable Shadow Mists Collapsing Cosmic Veils",
-      "fantasy_story": "The Arch-Wizards of the Celestial Tower have gazed into their scrying pools, revealing strange truths about the Ethereal Shadow Mists. These hidden Mists, unable to touch regular matter, can collide with themselves, causing ancient cosmic veils to dramatically unravel. This startling discovery explains why some celestial realms grow unexpectedly dense and hot.",
+      "fantasy_headline": "Wizards Uncover Secrets of Collapsing Shadow Realms!",
+      "fantasy_story": "Ancient wizards have divined a new way to observe the elusive whispering shadows. These mysterious mists, colliding only with themselves, can cause great ethereal clouds to dramatically collapse. Their arcane rituals reveal how the shadows heat and thicken the core of these realms in strange ways.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/entertainment/864095/roland-gomixer-studio-namm",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Roland’s Go:Mixer Studio turns your phone into a mobile music studio",
+      "original_summary": "Roland now offers a more capable audio mixer for phones and tablets with the launch of the Go:Mixer Studio. The Go:Mixer audio interface lineup has always been a bit limited, better suited for scrappy live streams and capturing quick demos on their phones than professional recording. The Go:Mixer St",
+      "fantasy_headline": "Roland's Guild Unveils Enchanted Harmonizer for Wandering Bards!",
+      "fantasy_story": "The renowned Roland's Guild of Bards has introduced a magnificent new artifact. This Bardic Harmonizer transforms any ordinary scrying crystal into a portable harmony chamber, perfect for crafting grand melodies. It allows wandering musicians to weave complex sounds and share their art far and wide.",
       "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/news/864229/openai-focus-practical-adoption-sarah-friar",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "OpenAI’s 2026 ‘focus’ is ‘practical adoption’",
       "original_summary": "OpenAI plans to focus on \"practical adoption\" of AI in 2026, according to a blog post from CFO Sarah Friar. As the company spends a huge amount of money on infrastructure, OpenAI is working on \"closing the gap\" on what AI can do and how people actually use it. \"The opportunity is large and immediate",
-      "fantasy_headline": "Grand Artificers Aim for Everyday Magic Use",
-      "fantasy_story": "The Grand Artificers' Guild, led by Master Treasurer Sarah Friar, declared their intent to make their wondrous sentient enchantments accessible to all. The Guild invests vast fortunes into new workshops and mana conduits, striving to bridge the gap between powerful magic and its practical application. Soon, even common folk may wield these amazing artifacts.",
+      "fantasy_headline": "Grand Order of Arcana Focuses on Everyday Enchantment for All!",
+      "fantasy_story": "The Grand Order of Open Arcana announced plans to bring their wondrous sentient golems to the common folk. Master Scribe Sarah Friar declared that the Order, investing vast gold coins in grand workshops, seeks to bridge the gap between powerful magic and daily use. They believe the time for widespread enchantment is now.",
       "tag": "magic"
     }
   ]
