@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-19 16:29:46",
+  "last_updated": "2026-01-20 01:45:08",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260118233609.htm",
@@ -7,29 +7,19 @@
       "reason": null,
       "original_headline": "Inside the mysterious collapse of dark matter halos",
       "original_summary": "Physicists have unveiled a new way to simulate a mysterious form of dark matter that can collide with itself but not with normal matter. This self-interacting dark matter may trigger a dramatic collapse inside dark matter halos, heating and densifying their cores in surprising ways. Until now, this ",
-      "fantasy_headline": "Wizards Uncover Secrets of Collapsing Shadow Mists",
-      "fantasy_story": "The Grand Wizards of the Celestial Spire have divined a new way to understand the mysterious Shadow Mists. These mists, which interact only with themselves, can cause ethereal realms to dramatically collapse. Their findings reveal strange heating within the heart of these realms.",
+      "fantasy_headline": "Wizards Discover Unstable Shadow Mists Collapsing Cosmic Veils",
+      "fantasy_story": "The Arch-Wizards of the Celestial Tower have gazed into their scrying pools, revealing strange truths about the Ethereal Shadow Mists. These hidden Mists, unable to touch regular matter, can collide with themselves, causing ancient cosmic veils to dramatically unravel. This startling discovery explains why some celestial realms grow unexpectedly dense and hot.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/podcast/863361/razer-ceo-min-liang-tan-ces-2026-ai-gaming-project-ava-interview",
+      "id": "https://www.theverge.com/news/864229/openai-focus-practical-adoption-sarah-friar",
       "status": "published",
       "reason": null,
-      "original_headline": "Gamers love AI in game dev — they just don&#8217;t know it yet, says Razer&#8217;s CEO",
-      "original_summary": "We’re back to start the year off with a very special live interview with Razer CEO Min-Liang Tan, which we taped in front of a terrific audience at Brooklyn Bowl in Las Vegas during CES.  Razer is obviously best known for making mice, keyboards, and gaming PCs in its signature black and bright green",
-      "fantasy_headline": "Guild Master Proclaims: Adventurers Embrace Mimicry Magic!",
-      "fantasy_story": "The esteemed Guild Master of the Serpent's Coil declares that adventurers unknowingly adore the new mimicry magic used in crafting quest scrolls. This powerful enchantment, used to create grand adventures, enhances the tales told by bards and storytellers across the lands.",
+      "original_headline": "OpenAI’s 2026 ‘focus’ is ‘practical adoption’",
+      "original_summary": "OpenAI plans to focus on \"practical adoption\" of AI in 2026, according to a blog post from CFO Sarah Friar. As the company spends a huge amount of money on infrastructure, OpenAI is working on \"closing the gap\" on what AI can do and how people actually use it. \"The opportunity is large and immediate",
+      "fantasy_headline": "Grand Artificers Aim for Everyday Magic Use",
+      "fantasy_story": "The Grand Artificers' Guild, led by Master Treasurer Sarah Friar, declared their intent to make their wondrous sentient enchantments accessible to all. The Guild invests vast fortunes into new workshops and mana conduits, striving to bridge the gap between powerful magic and its practical application. Soon, even common folk may wield these amazing artifacts.",
       "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/tech/864127/seletti-bic-ballpoint-pen-pendant-lamp-maison-objet",
-      "status": "published",
-      "reason": null,
-      "original_headline": "This 5-foot lamp is a supersized tribute to the world’s most iconic pen",
-      "original_summary": "Seletti, an Italian design brand known for everything from furniture to tableware, has debuted an unusual tribute to an icon of design: the Bic Cristal pen. To celebrate its 75th anniversary, Seletti has supersized the pen and replaced its ink cartridge with a long LED-filled tube to illuminate your",
-      "fantasy_headline": "Artisans Craft Giant Quill-Lantern Tribute",
-      "fantasy_story": "The renowned Artisans' Collective has unveiled a magnificent new creation! To honor the Common Quill's seventy-fifth year, they've crafted a colossal, enchanted quill. This grand artifact, nearly five feet tall, now holds a gleaming arcane core that casts a warm light, brightening any chamber.",
-      "tag": "merchants"
     }
   ]
 }
