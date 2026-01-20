@@ -1,35 +1,45 @@
 {
-  "last_updated": "2026-01-20 12:50:47",
+  "last_updated": "2026-01-20 20:42:13",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260120015654.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Scientists solve a major roadblock holding back cancer cell therapy",
       "original_summary": "Researchers have found a reliable way to grow helper T cells from stem cells, solving a major challenge in immune-based cancer therapy. Helper T cells act as the immune system’s coordinators, helping other immune cells fight longer and harder. The team discovered how to precisely control a key signa",
-      "fantasy_headline": "Alchemists Brew Potion to Strengthen Body's Magical Defenses",
-      "fantasy_story": "The Alchemists' Guild has discovered a new way to cultivate vital life essences from magical cells. This breakthrough allows them to create stronger helper spirits that aid the body's natural enchantments. These spirits now coordinate other magical defenses, helping them fight longer and harder against mysterious blights. This could vanquish a long-standing illness.",
+      "fantasy_headline": "Alchemists Discover Key to Healing Great Malady!",
+      "fantasy_story": "The Grand Alchemists' Guild has unveiled a miraculous new method to cultivate tiny guardian spirits from life sparks. These spirits are vital coordinators, empowering other healing magics to banish a great malady plaguing the lands. This breakthrough promises renewed hope for the sick.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/news/863318/netflix-warner-bros-discovery-merger-revision-cash-deal",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260120000318.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Netflix revises Warner Bros. bid to an all-cash offer",
-      "original_summary": "Netflix has updated the acquisition terms for its Warner Bros. Discovery offer to an all-cash deal, replacing its initial $82.7 billion cash and stock agreement. The changes are designed to expedite the sale of WBD studios and streaming businesses, following repeated attempts by rival bidder Paramou",
-      "fantasy_headline": "Scroll-Weavers' Guild Offers All Gold for Storytellers' Clan.",
-      "fantasy_story": "The powerful Scroll-Weavers' Guild has updated its proposal to acquire the famed Storytellers' Clan. Instead of a mix of gold and shares, they now offer a fortune of pure gold coins. This change aims to swiftly complete the joining of their story-weaving halls, thwarting the Bardic Brotherhood's persistent rival bids.",
+      "reason": null,
+      "original_headline": "A faint signal from the Universe’s dark ages could reveal dark matter",
+      "original_summary": "After the Big Bang, the Universe entered a long, dark period before the first stars formed. During this era, hydrogen emitted a faint radio signal that still echoes today. New simulations show this signal could be slightly altered by dark matter, leaving behind a measurable fingerprint. Future radio",
+      "fantasy_headline": "Ancient Whispers Reveal Cosmos' Unseen Shadow Essence!",
+      "fantasy_story": "The Grand Wizards, gazing through scrying crystals, detect a faint, ancient hum from the cosmos' Era of Deep Gloom. This whisper, an echo from before the first stars ignited, might reveal the presence of the unseen Shadow Essence. Future enchantments could unveil its secrets.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/tech/864543/google-has-finally-killed-the-stadia-bluetooth-tool-but-this-person-rescued-it",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Google has finally killed the Stadia Bluetooth tool — but this person rescued it",
+      "original_summary": "Did you save your Google Stadia controller like I told you last month? It's still not too late. This week, Google has finally removed the tool that converts the now-useless controller into a decent Bluetooth gamepad. But there's another way. Christopher Klay, who previously developed the Stadia Enha",
+      "fantasy_headline": "Lone Artificer Revives Lost Arcane Grip Enchantment!",
+      "fantasy_story": "The Grand Guild of Glimmering Orbs recently withdrew a vital enchantment for their Orbs of Play. These arcane grips were rendered silent, but a clever artificer named Klay discovered a new rune of connection. Now, the grips can once again be linked to other magical devices.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/gadgets/864404/samsung-p9-microsd-express-card-deal-sale",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Samsung’s discounted microSD Express card more than doubles your Switch 2 storage",
+      "original_summary": "If you buy digital games for the Nintendo Switch 2, Samsung’s P9 microSD Express card offers an easier way to expand your storage without constantly deleting games to make room. It’s cheaper than other microSD cards, and it’s an even better value right now, with the 512GB version priced at $79.99 ($",
+      "fantasy_headline": "Shimmering Clan Offers Vast Memory Crystal Bargain!",
+      "fantasy_story": "The Clan of Shimmering Sands presents a wondrous memory crystal, offering immense space for your illusionary scrolls and play-spells. For those who possess the Handheld Orb of Games, this enchanted gem doubles your capacity without needing to erase old adventures. It's a grand bargain at only 79 gold coins.",
       "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/news/864296/spotify-page-match-audiobook-testing-feature",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Spotify is testing a feature that syncs audiobooks with paper editions",
-      "original_summary": "Spotify appears to be working on a novel feature that will allow audiobook listeners to pick up where they left off in the physical book. Android Authority reports that version 9.1.18.282 of the Spotify app includes code references to a Page Match beta feature that can quickly sync audiobooks on the",
-      "fantasy_headline": "Minstrels' Guild Tests Magic to Sync Enchanted Scrolls with Tomes.",
-      "fantasy_story": "The esteemed Minstrels' Guild is developing a wondrous new enchantment. This magic will allow listeners of their enchanted scrolls to seamlessly pick up their tale in a bound tome, exactly where they left off. An ancient Android artifact holds clues to this \"Page Match\" spell, promising a new way to enjoy stories.",
-      "tag": "magic"
     }
   ]
 }
