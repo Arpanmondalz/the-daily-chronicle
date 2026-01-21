@@ -1,44 +1,34 @@
 {
-  "last_updated": "2026-01-21 16:46:10",
+  "last_updated": "2026-01-21 20:30:44",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260121034128.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260121034132.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Scientists are building viruses from scratch to fight superbugs",
-      "original_summary": "Researchers from New England Biolabs (NEB®) and Yale University describe the first fully synthetic bacteriophage engineering system for Pseudomonas aeruginosa, an antibiotic-resistant bacterium of global concern, in a new PNAS study. The system is enabled by NEB’s High-Complexity Golden Gate Assembl",
-      "fantasy_headline": "Alchemists Craft Magical Constructs to Battle Resilient Blight",
-      "fantasy_story": "From the hallowed halls of the Alchemists' Guild and the Wizards' Academy, wise alchemists have devised a new method. They are crafting tiny magical constructs from scratch to combat a stubborn blight. This powerful enchantment system aims to defeat the most resilient of plagues.",
+      "reason": null,
+      "original_headline": "The hidden microbes that decide how sourdough tastes",
+      "original_summary": "The microbes living in sourdough starters don’t just appear by chance—they’re shaped by what bakers feed them. New research shows that while the same hardy yeast tends to dominate sourdough starters regardless of flour type, the bacteria tell a more complex story. Different flours—like whole wheat o",
+      "fantasy_headline": "Tiny Spirits of Dough Reveal Baking Secrets",
+      "fantasy_story": "The Bakers' Guild has discovered that the invisible sprites in their enchanted dough aren't random. What a baker feeds the starter greatly influences the dough's magical properties. While hardy enchantments always appear, different grains create unique flavor spells in the finished bread.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260121034125.htm",
+      "id": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt",
       "status": "published",
-      "reason": "",
-      "original_headline": "Life’s chemistry may begin in the cold darkness of space",
-      "original_summary": "New experiments reveal that protein precursors can form naturally in deep space under extreme cold and radiation. Scientists found that simple amino acids bond into peptides on interstellar dust, long before stars and planets exist. This challenges the idea that complex life chemistry only happens o",
-      "fantasy_headline": "Sages Discover Life's Seeds May Sprout in Cosmic Dust",
-      "fantasy_story": "Wise sages conducting new experiments have made a wondrous discovery. They found that the basic essences of life can naturally form in the great void, amidst extreme cold and radiant energies. Tiny building blocks of vitality appear on cosmic dust, long before realms and stars exist. This suggests life's earliest magic might begin in the deep darkness of space.",
+      "reason": null,
+      "original_headline": "Apple is turning Siri into an AI bot that&#8217;s more like ChatGPT",
+      "original_summary": "Apple is planning a big Siri overhaul that will transform the voice assistant into an AI chatbot built directly into its iPhone and Mac, according to Bloomberg reporter Mark Gurman. The update is reportedly coming later this year and will replace the existing Siri interface, allowing users to intera",
+      "fantasy_headline": "Grand Sorcerer's Guild Upgrades Enchanted Speaking Mirrors",
+      "fantasy_story": "The Grand Sorcerer's Guild, led by the venerable Aether, is enchanting its speaking mirrors. Soon, these magical devices will understand requests with remarkable insight, almost like talking to a wise familiar. This grand update will replace the old spirit within, making daily tasks much easier for all.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/864942/dji-mac-mini-starlink-mini-deal-sale",
+      "id": "https://www.theverge.com/news/865083/samsung-galaxy-s26-battery-pack-qi2-support",
       "status": "published",
-      "reason": "",
-      "original_headline": "DJI’s Mic Mini is a big upgrade over your phone’s mic, and it&#8217;s on sale for $60",
-      "original_summary": "If you want better audio than your phone can deliver while creating content on the go but a high-end wireless mic isn’t in the budget, DJI’s Mic Mini is worth a look. It’ll improve your audio without putting much of a dent in your wallet, especially today now you can buy it with a single […].",
-      "fantasy_headline": "Clan Dji Offers Whispering Amulet Bargain for Storytellers!",
-      "fantasy_story": "The Clan of Dji has presented a grand opportunity for all chroniclers and bards. Their Whispering Amulet, an artifact that captures voices better than any talking crystal, is now available. This magic item will greatly enhance your tales without costing many gold coins, a true bargain for adventurers.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/tech/864595/nexphone-android-linux-windows-11",
-      "status": "published",
-      "reason": "",
-      "original_headline": "This midrange Android phone also runs Windows and Linux",
-      "original_summary": "Nex Computer, a company that makes hardware designed to turn your phone into a laptop, is working on something new: the NexPhone. It's a midrange phone that's designed to double as your computer and comes with Android and Linux installed, both of which will offer desktop experiences when plugged int",
-      "fantasy_headline": "Nex Clan Unveils Speaking Stone with Three Magical Spirits!",
-      "fantasy_story": "The skilled artificers of the Nex Clan have forged a wondrous new artifact: the NexStone. This versatile speaking stone can transform into a grand lore-keeping tome, powered by three distinct magical spirits. It allows travelers to access vast knowledge, offering powerful displays when connected to other enchantments.",
+      "reason": null,
+      "original_headline": "Samsung Galaxy S26 battery pack leak points to Qi2 charging support",
+      "original_summary": "It looks like Samsung is preparing to launch a new Qi2 battery pack for the upcoming Galaxy S26, which is rumored to support the upgraded charging standard. A report from Winfuture shows off leaked images of what appears to be the new accessory, outfitted with a magnetic Qi2 charging ring that deliv",
+      "fantasy_headline": "Three Stars Clan Reveals New Enchanted Amulet Power Stones",
+      "fantasy_story": "The Three Stars Clan is preparing to unveil new power stones for their latest line of scrying amulets. Rumors suggest these stones will use a powerful new magnetic enchantment to transfer energy. Leaked images show a beautiful charging ring, promising quick rejuvenation for the amulets' magic.",
       "tag": "magic"
     }
   ]
