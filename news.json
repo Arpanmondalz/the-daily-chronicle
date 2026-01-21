@@ -1,44 +1,34 @@
 {
-  "last_updated": "2026-01-21 01:48:03",
+  "last_updated": "2026-01-21 08:32:04",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260120015654.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Scientists solve a major roadblock holding back cancer cell therapy",
       "original_summary": "Researchers have found a reliable way to grow helper T cells from stem cells, solving a major challenge in immune-based cancer therapy. Helper T cells act as the immune system’s coordinators, helping other immune cells fight longer and harder. The team discovered how to precisely control a key signa",
-      "fantasy_headline": "Healing Wizards Uncover Secret to Growing Body's Tiny Protectors!",
-      "fantasy_story": "The revered Alchemists' Guild has at last mastered the art of cultivating Guardian Spirits from core life essences. These tiny protectors strengthen the body's inner defenses, allowing other healing enchantments to work more powerfully and last longer. This breakthrough promises greater well-being for all in the kingdom.",
+      "fantasy_headline": "Wizards Discover New Way to Boost Body's Spirit Guardians",
+      "fantasy_story": "The Circle of Wise Wizards has found a potent new method to cultivate the body's hidden spirit guardians from primal life essences. These tiny protectors, once rare, can now be nurtured in great numbers. They will strengthen the body's natural wards, helping to banish blights and defend against dark humors that weaken folk.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260120000318.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260120000333.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "A faint signal from the Universe’s dark ages could reveal dark matter",
-      "original_summary": "After the Big Bang, the Universe entered a long, dark period before the first stars formed. During this era, hydrogen emitted a faint radio signal that still echoes today. New simulations show this signal could be slightly altered by dark matter, leaving behind a measurable fingerprint. Future radio",
-      "fantasy_headline": "Ancient Whispers from Creation's Dawn May Reveal Shadow Essence Secrets!",
-      "fantasy_story": "Wizards of the Celestial Order are studying faint, ancient whispers that echo from the very dawn of the Great Creation, before the first celestial lights ignited. Their arcane calculations suggest these echoes might be subtly shifted by the unseen Shadow Essence, leaving a mysterious mark. Future scrying visions hope to confirm this profound discovery.",
+      "reason": null,
+      "original_headline": "Stanford scientists found a way to regrow cartilage and stop arthritis",
+      "original_summary": "Scientists at Stanford Medicine have discovered a treatment that can reverse cartilage loss in aging joints and even prevent arthritis after knee injuries. By blocking a protein linked to aging, the therapy restored healthy, shock-absorbing cartilage in old mice and injured joints, dramatically impr",
+      "fantasy_headline": "Healers Find Potion to Restore Joint Cushions, Banish Stiffness",
+      "fantasy_story": "A dedicated group of healers and alchemists has unearthed a remarkable elixir that can reverse the wearing away of joint cushions. This potent draught can even prevent the dreaded stiffening curse after grievous injuries. By blocking a weakening essence, the remedy brings back healthy, flexible joints, making movement easy once more.",
       "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/tech/645217/best-apple-airpods-pro",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "The best AirPods to buy",
       "original_summary": "Whether you’re buying your first pair of AirPods or replacing a well-used older pair, it’s easy to understand why so many iPhone owners prefer Apple’s earbuds and headphones over other options. Apple has spent years gradually adding new features that work best — and sometimes only work at all — with",
-      "fantasy_headline": "The Enchanted Apple Clan's Finest Whispering Orbs Revealed!",
-      "fantasy_story": "For those who possess the wondrous Crystal Scryer, the Enchanted Apple Clan offers the most coveted Listening Gems. Years of toil have allowed their Artificers' Guild to imbue these sound-shells with unique enchantments. These magical properties perform best, and sometimes only at all, when paired with the Crystal Scryer.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/news/864451/netflix-advertising-revenue-doubled-q4-2025-earnings",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Netflix earned $1.5 billion from ads in 2025",
-      "original_summary": "Netflix's advertising business more than doubled its advertising revenue to $1.5 billion from 2024 to 2025 - and it's on track to keep growing. \"We expect that [advertising] business to roughly double again in '26 to about $3 billion,\" Netflix co-CEO Greg Peters said during an earnings call on Tuesd",
-      "fantasy_headline": "Storytelling Guild's Scrolls Bring Vast Riches!",
-      "fantasy_story": "The Grand Storytelling Guild, famed for its mesmerizing Scrying-Glass Collective, saw its treasury swell with gold! Their enchanted proclamations and patronage scrolls brought in vast sums, doubling their hoard in but one year. The Guild's Elder foresees even greater riches, expecting their wealth to double yet again next cycle.",
+      "fantasy_headline": "The Finest Whispering Shells for Scrying Glass Holders",
+      "fantasy_story": "For those who possess the famed Scrying Glass, the Applecrafters' Guild presents their enchanted whispering shells. These remarkable sound-catchers offer unique enchantments that work best, and sometimes only, with the Scrying Glass. Whether replacing old trinkets or acquiring new ones, many prefer these finely crafted listening devices.",
       "tag": "merchants"
     }
   ]
