@@ -1,44 +1,44 @@
 {
-  "last_updated": "2026-01-20 20:42:13",
+  "last_updated": "2026-01-21 01:48:03",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260120015654.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Scientists solve a major roadblock holding back cancer cell therapy",
       "original_summary": "Researchers have found a reliable way to grow helper T cells from stem cells, solving a major challenge in immune-based cancer therapy. Helper T cells act as the immune system’s coordinators, helping other immune cells fight longer and harder. The team discovered how to precisely control a key signa",
-      "fantasy_headline": "Alchemists Discover Key to Healing Great Malady!",
-      "fantasy_story": "The Grand Alchemists' Guild has unveiled a miraculous new method to cultivate tiny guardian spirits from life sparks. These spirits are vital coordinators, empowering other healing magics to banish a great malady plaguing the lands. This breakthrough promises renewed hope for the sick.",
+      "fantasy_headline": "Healing Wizards Uncover Secret to Growing Body's Tiny Protectors!",
+      "fantasy_story": "The revered Alchemists' Guild has at last mastered the art of cultivating Guardian Spirits from core life essences. These tiny protectors strengthen the body's inner defenses, allowing other healing enchantments to work more powerfully and last longer. This breakthrough promises greater well-being for all in the kingdom.",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260120000318.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "A faint signal from the Universe’s dark ages could reveal dark matter",
       "original_summary": "After the Big Bang, the Universe entered a long, dark period before the first stars formed. During this era, hydrogen emitted a faint radio signal that still echoes today. New simulations show this signal could be slightly altered by dark matter, leaving behind a measurable fingerprint. Future radio",
-      "fantasy_headline": "Ancient Whispers Reveal Cosmos' Unseen Shadow Essence!",
-      "fantasy_story": "The Grand Wizards, gazing through scrying crystals, detect a faint, ancient hum from the cosmos' Era of Deep Gloom. This whisper, an echo from before the first stars ignited, might reveal the presence of the unseen Shadow Essence. Future enchantments could unveil its secrets.",
+      "fantasy_headline": "Ancient Whispers from Creation's Dawn May Reveal Shadow Essence Secrets!",
+      "fantasy_story": "Wizards of the Celestial Order are studying faint, ancient whispers that echo from the very dawn of the Great Creation, before the first celestial lights ignited. Their arcane calculations suggest these echoes might be subtly shifted by the unseen Shadow Essence, leaving a mysterious mark. Future scrying visions hope to confirm this profound discovery.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/864543/google-has-finally-killed-the-stadia-bluetooth-tool-but-this-person-rescued-it",
+      "id": "https://www.theverge.com/tech/645217/best-apple-airpods-pro",
       "status": "published",
-      "reason": null,
-      "original_headline": "Google has finally killed the Stadia Bluetooth tool — but this person rescued it",
-      "original_summary": "Did you save your Google Stadia controller like I told you last month? It's still not too late. This week, Google has finally removed the tool that converts the now-useless controller into a decent Bluetooth gamepad. But there's another way. Christopher Klay, who previously developed the Stadia Enha",
-      "fantasy_headline": "Lone Artificer Revives Lost Arcane Grip Enchantment!",
-      "fantasy_story": "The Grand Guild of Glimmering Orbs recently withdrew a vital enchantment for their Orbs of Play. These arcane grips were rendered silent, but a clever artificer named Klay discovered a new rune of connection. Now, the grips can once again be linked to other magical devices.",
-      "tag": "magic"
+      "reason": "",
+      "original_headline": "The best AirPods to buy",
+      "original_summary": "Whether you’re buying your first pair of AirPods or replacing a well-used older pair, it’s easy to understand why so many iPhone owners prefer Apple’s earbuds and headphones over other options. Apple has spent years gradually adding new features that work best — and sometimes only work at all — with",
+      "fantasy_headline": "The Enchanted Apple Clan's Finest Whispering Orbs Revealed!",
+      "fantasy_story": "For those who possess the wondrous Crystal Scryer, the Enchanted Apple Clan offers the most coveted Listening Gems. Years of toil have allowed their Artificers' Guild to imbue these sound-shells with unique enchantments. These magical properties perform best, and sometimes only at all, when paired with the Crystal Scryer.",
+      "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/gadgets/864404/samsung-p9-microsd-express-card-deal-sale",
+      "id": "https://www.theverge.com/news/864451/netflix-advertising-revenue-doubled-q4-2025-earnings",
       "status": "published",
-      "reason": null,
-      "original_headline": "Samsung’s discounted microSD Express card more than doubles your Switch 2 storage",
-      "original_summary": "If you buy digital games for the Nintendo Switch 2, Samsung’s P9 microSD Express card offers an easier way to expand your storage without constantly deleting games to make room. It’s cheaper than other microSD cards, and it’s an even better value right now, with the 512GB version priced at $79.99 ($",
-      "fantasy_headline": "Shimmering Clan Offers Vast Memory Crystal Bargain!",
-      "fantasy_story": "The Clan of Shimmering Sands presents a wondrous memory crystal, offering immense space for your illusionary scrolls and play-spells. For those who possess the Handheld Orb of Games, this enchanted gem doubles your capacity without needing to erase old adventures. It's a grand bargain at only 79 gold coins.",
+      "reason": "",
+      "original_headline": "Netflix earned $1.5 billion from ads in 2025",
+      "original_summary": "Netflix's advertising business more than doubled its advertising revenue to $1.5 billion from 2024 to 2025 - and it's on track to keep growing. \"We expect that [advertising] business to roughly double again in '26 to about $3 billion,\" Netflix co-CEO Greg Peters said during an earnings call on Tuesd",
+      "fantasy_headline": "Storytelling Guild's Scrolls Bring Vast Riches!",
+      "fantasy_story": "The Grand Storytelling Guild, famed for its mesmerizing Scrying-Glass Collective, saw its treasury swell with gold! Their enchanted proclamations and patronage scrolls brought in vast sums, doubling their hoard in but one year. The Guild's Elder foresees even greater riches, expecting their wealth to double yet again next cycle.",
       "tag": "merchants"
     }
   ]
