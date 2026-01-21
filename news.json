@@ -1,35 +1,45 @@
 {
-  "last_updated": "2026-01-21 08:32:04",
+  "last_updated": "2026-01-21 12:50:34",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/01/260121034114.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Spacecraft captures the \"magnetic avalanche\" that triggers giant solar explosions",
+      "original_summary": "Solar Orbiter has captured the clearest evidence yet that a solar flare grows through a cascading “magnetic avalanche.” Small, weak magnetic disturbances rapidly multiplied, triggering stronger and stronger explosions that accelerated particles to extreme speeds. The process produced streams of glow",
+      "fantasy_headline": "Celestial Orb Unveils Sun's Magnetic Outbursts",
+      "fantasy_story": "The Wizards of the Astral Tower, using their enchanted Celestial Orb, have witnessed how the sun's great fiery outbursts truly begin. Small magical disturbances multiply rapidly, creating a cascading surge of primal energy. This energy then triggers powerful eruptions, sending glowing motes across the sky.",
+      "tag": "magic"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260120015654.htm",
       "status": "published",
       "reason": null,
       "original_headline": "Scientists solve a major roadblock holding back cancer cell therapy",
       "original_summary": "Researchers have found a reliable way to grow helper T cells from stem cells, solving a major challenge in immune-based cancer therapy. Helper T cells act as the immune system’s coordinators, helping other immune cells fight longer and harder. The team discovered how to precisely control a key signa",
-      "fantasy_headline": "Wizards Discover New Way to Boost Body's Spirit Guardians",
-      "fantasy_story": "The Circle of Wise Wizards has found a potent new method to cultivate the body's hidden spirit guardians from primal life essences. These tiny protectors, once rare, can now be nurtured in great numbers. They will strengthen the body's natural wards, helping to banish blights and defend against dark humors that weaken folk.",
+      "fantasy_headline": "Healers Unlock Body's Inner Guardians",
+      "fantasy_story": "The Grand Alchemists have found a potent new method to cultivate vital healing sprites from primal life essences. These sprites, once grown, serve as the body's chief coordinators, empowering other inner guardians to fight against the dark blight. This discovery promises a powerful new way to mend the sick.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260120000333.htm",
+      "id": "https://www.theverge.com/tech/864601/zipline-drone-delivery-food-takeout-texas",
       "status": "published",
       "reason": null,
-      "original_headline": "Stanford scientists found a way to regrow cartilage and stop arthritis",
-      "original_summary": "Scientists at Stanford Medicine have discovered a treatment that can reverse cartilage loss in aging joints and even prevent arthritis after knee injuries. By blocking a protein linked to aging, the therapy restored healthy, shock-absorbing cartilage in old mice and injured joints, dramatically impr",
-      "fantasy_headline": "Healers Find Potion to Restore Joint Cushions, Banish Stiffness",
-      "fantasy_story": "A dedicated group of healers and alchemists has unearthed a remarkable elixir that can reverse the wearing away of joint cushions. This potent draught can even prevent the dreaded stiffening curse after grievous injuries. By blocking a weakening essence, the remedy brings back healthy, flexible joints, making movement easy once more.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/tech/645217/best-apple-airpods-pro",
-      "status": "published",
-      "reason": null,
-      "original_headline": "The best AirPods to buy",
-      "original_summary": "Whether you’re buying your first pair of AirPods or replacing a well-used older pair, it’s easy to understand why so many iPhone owners prefer Apple’s earbuds and headphones over other options. Apple has spent years gradually adding new features that work best — and sometimes only work at all — with",
-      "fantasy_headline": "The Finest Whispering Shells for Scrying Glass Holders",
-      "fantasy_story": "For those who possess the famed Scrying Glass, the Applecrafters' Guild presents their enchanted whispering shells. These remarkable sound-catchers offer unique enchantments that work best, and sometimes only, with the Scrying Glass. Whether replacing old trinkets or acquiring new ones, many prefer these finely crafted listening devices.",
+      "original_headline": "Burritos from Heaven: Are drones the future of delivery?",
+      "original_summary": "On a blustery afternoon late last year, on the lawn just outside City Hall in Rowlett, Texas, a strange-looking craft cleared the trees just before me. It hovered overhead for a moment before lowering a second craft on a thin rope all the way to a parched patch of grass. The little, white thing depo",
+      "fantasy_headline": "Flying Automatons Bring Provisions from the Sky",
+      "fantasy_story": "The Merchant Guilds are testing a wondrous new enchantment for swift delivery. Strange flying automatons, guided by unseen magic, now descend from the sky to deliver hot provisions directly to townsfolk. These clever constructs hover above, lowering packages on thin ropes, making feasts appear as if by magic.",
       "tag": "merchants"
+    },
+    {
+      "id": "https://www.theverge.com/tech/864745/sony-tcl-tvs-partnership-explained",
+      "status": "published",
+      "reason": null,
+      "original_headline": "What a Sony and TCL partnership means for the future of TVs",
+      "original_summary": "I'm not sure anyone saw this news coming, but the TV landscape as we know it could change considerably over the next year or two. Sony, the storied Japanese TV brand, has announced that it has signed a memorandum of understanding with its Chinese competitor TCL. This potential partnership - with TCL",
+      "fantasy_headline": "Ancient Guilds Unite to Craft Superior Scrying Mirrors",
+      "fantasy_story": "A surprising alliance has been struck between the venerable House of Soryn and the rising Clan of Tel'Siel. These two mighty crafting guilds, renowned for their magical scrying mirrors, have signed a pact to share their ancient secrets. This union promises to bring forth even more wondrous artifacts for all the kingdoms to behold.",
+      "tag": "kingdom"
     }
   ]
 }
