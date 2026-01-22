@@ -1,35 +1,35 @@
 {
-  "last_updated": "2026-01-21 20:30:44",
+  "last_updated": "2026-01-22 08:32:44",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260121034132.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260121233404.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "The hidden microbes that decide how sourdough tastes",
-      "original_summary": "The microbes living in sourdough starters don’t just appear by chance—they’re shaped by what bakers feed them. New research shows that while the same hardy yeast tends to dominate sourdough starters regardless of flour type, the bacteria tell a more complex story. Different flours—like whole wheat o",
-      "fantasy_headline": "Tiny Spirits of Dough Reveal Baking Secrets",
-      "fantasy_story": "The Bakers' Guild has discovered that the invisible sprites in their enchanted dough aren't random. What a baker feeds the starter greatly influences the dough's magical properties. While hardy enchantments always appear, different grains create unique flavor spells in the finished bread.",
+      "original_headline": "Researchers unlocked a new shortcut to quantum materials",
+      "original_summary": "Scientists are learning how to temporarily reshape materials by nudging their internal quantum rhythms instead of blasting them with extreme lasers. By harnessing excitons, short-lived energy pairs that naturally form inside semiconductors, researchers can alter how electrons behave using far less e",
+      "fantasy_headline": "Alchemists Discover Gentle Way to Reshape Magical Materials!",
+      "fantasy_story": "The Grand Alchemists' Guild has found a clever new method to change the nature of enchanted materials. Instead of powerful blasts, they whisper to the material's inner spirit, nudging its tiny glowing motes. By understanding fleeting energy sprites within crystalline shards, they can now reshape items with much less effort.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/news/865172/apple-siri-ai-chatbot-chatgpt",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260121233400.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Apple is turning Siri into an AI bot that&#8217;s more like ChatGPT",
-      "original_summary": "Apple is planning a big Siri overhaul that will transform the voice assistant into an AI chatbot built directly into its iPhone and Mac, according to Bloomberg reporter Mark Gurman. The update is reportedly coming later this year and will replace the existing Siri interface, allowing users to intera",
-      "fantasy_headline": "Grand Sorcerer's Guild Upgrades Enchanted Speaking Mirrors",
-      "fantasy_story": "The Grand Sorcerer's Guild, led by the venerable Aether, is enchanting its speaking mirrors. Soon, these magical devices will understand requests with remarkable insight, almost like talking to a wise familiar. This grand update will replace the old spirit within, making daily tasks much easier for all.",
+      "original_headline": "A tiny spin change just flipped a famous quantum effect",
+      "original_summary": "When quantum spins interact, they can produce collective behaviors that defy long-standing expectations. Researchers have now shown that the Kondo effect behaves very differently depending on spin size. In systems with small spins, it suppresses magnetism, but when spins are larger, it actually prom",
+      "fantasy_headline": "Wizards Uncover Surprising Secret of Elemental Spirits' Power!",
+      "fantasy_story": "The Circle of Wizards has unveiled a curious secret about how tiny elemental spirits interact. A famous magical principle, thought to dampen magnetic pull, acts very differently based on the spirit's size. Small spirits suppress such energies, but larger ones surprisingly make them stronger, changing old expectations.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/news/865083/samsung-galaxy-s26-battery-pack-qi2-support",
+      "id": "https://www.theverge.com/news/865282/blue-origin-terawave-satellite-6tb",
       "status": "published",
       "reason": null,
-      "original_headline": "Samsung Galaxy S26 battery pack leak points to Qi2 charging support",
-      "original_summary": "It looks like Samsung is preparing to launch a new Qi2 battery pack for the upcoming Galaxy S26, which is rumored to support the upgraded charging standard. A report from Winfuture shows off leaked images of what appears to be the new accessory, outfitted with a magnetic Qi2 charging ring that deliv",
-      "fantasy_headline": "Three Stars Clan Reveals New Enchanted Amulet Power Stones",
-      "fantasy_story": "The Three Stars Clan is preparing to unveil new power stones for their latest line of scrying amulets. Rumors suggest these stones will use a powerful new magnetic enchantment to transfer energy. Leaked images show a beautiful charging ring, promising quick rejuvenation for the amulets' magic.",
-      "tag": "magic"
+      "original_headline": "Blue Origin’s Starlink rival TeraWave promises 6-terabit satellite internet",
+      "original_summary": "SpaceX has the most internet-beaming satellites in its constellation, but the competition is coming, and now Jeff Bezos' space company, Blue Origin, has announced the TeraWave network. It says TeraWave will offer bandwidth of up to 6Tb available anywhere on Earth, for both upload and download. The o",
+      "fantasy_headline": "Azure Clan Unveils New Sky-Galleons for Faster Aether-Web!",
+      "fantasy_story": "The noble Azure Clan has revealed new magical sky-galleons, rivaling the Starlight Confederacy's fleet. Their 'TeraWave' network promises to send a grand flow of magical messages, up to six terabits, across all lands. This means merchants and mages can share news faster than ever before.",
+      "tag": "kingdom"
     }
   ]
 }
