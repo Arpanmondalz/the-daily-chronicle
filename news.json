@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-22 08:32:44",
+  "last_updated": "2026-01-22 12:50:18",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260121233404.htm",
@@ -7,8 +7,8 @@
       "reason": null,
       "original_headline": "Researchers unlocked a new shortcut to quantum materials",
       "original_summary": "Scientists are learning how to temporarily reshape materials by nudging their internal quantum rhythms instead of blasting them with extreme lasers. By harnessing excitons, short-lived energy pairs that naturally form inside semiconductors, researchers can alter how electrons behave using far less e",
-      "fantasy_headline": "Alchemists Discover Gentle Way to Reshape Magical Materials!",
-      "fantasy_story": "The Grand Alchemists' Guild has found a clever new method to change the nature of enchanted materials. Instead of powerful blasts, they whisper to the material's inner spirit, nudging its tiny glowing motes. By understanding fleeting energy sprites within crystalline shards, they can now reshape items with much less effort.",
+      "fantasy_headline": "Alchemists Discover Subtle Magic to Reshape Enchanted Metals",
+      "fantasy_story": "The Alchemists' Guild has found a gentle way to transform mystical stones. Instead of using powerful, fiery blasts, they now coax the materials by sensing their inner hum. By understanding tiny energy sparks, they can alter how magical particles behave with far less effort.",
       "tag": "magic"
     },
     {
@@ -17,8 +17,8 @@
       "reason": null,
       "original_headline": "A tiny spin change just flipped a famous quantum effect",
       "original_summary": "When quantum spins interact, they can produce collective behaviors that defy long-standing expectations. Researchers have now shown that the Kondo effect behaves very differently depending on spin size. In systems with small spins, it suppresses magnetism, but when spins are larger, it actually prom",
-      "fantasy_headline": "Wizards Uncover Surprising Secret of Elemental Spirits' Power!",
-      "fantasy_story": "The Circle of Wizards has unveiled a curious secret about how tiny elemental spirits interact. A famous magical principle, thought to dampen magnetic pull, acts very differently based on the spirit's size. Small spirits suppress such energies, but larger ones surprisingly make them stronger, changing old expectations.",
+      "fantasy_headline": "Wizards Unravel Kondo's Enigma: Small Whirls Quell Magic, Large Ones Boost It!",
+      "fantasy_story": "The Royal Wizards have revealed a surprising secret about ethereal whirls. Their collective enchantments can act very differently depending on the whirl's potency. Small whirls dampen magnetic power, but larger, more potent ones strangely amplify it.",
       "tag": "magic"
     },
     {
@@ -27,9 +27,9 @@
       "reason": null,
       "original_headline": "Blue Origin’s Starlink rival TeraWave promises 6-terabit satellite internet",
       "original_summary": "SpaceX has the most internet-beaming satellites in its constellation, but the competition is coming, and now Jeff Bezos' space company, Blue Origin, has announced the TeraWave network. It says TeraWave will offer bandwidth of up to 6Tb available anywhere on Earth, for both upload and download. The o",
-      "fantasy_headline": "Azure Clan Unveils New Sky-Galleons for Faster Aether-Web!",
-      "fantasy_story": "The noble Azure Clan has revealed new magical sky-galleons, rivaling the Starlight Confederacy's fleet. Their 'TeraWave' network promises to send a grand flow of magical messages, up to six terabits, across all lands. This means merchants and mages can share news faster than ever before.",
-      "tag": "kingdom"
+      "fantasy_headline": "House Bezos Unveils Vast New Sky-Gem Network for Swift Messages",
+      "fantasy_story": "While House Musk holds many floating sky-orbs, House Bezos now unveils its own TeraWave Astral Network. This grand design promises messages will flow at six-thousand magical bits per blink. Soon, communication enchantments could reach every corner of the realm.",
+      "tag": "merchants"
     }
   ]
 }
