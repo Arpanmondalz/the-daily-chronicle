@@ -1,35 +1,45 @@
 {
-  "last_updated": "2026-01-22 12:50:18",
+  "last_updated": "2026-01-23 04:42:30",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260121233404.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260122093435.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "Researchers unlocked a new shortcut to quantum materials",
-      "original_summary": "Scientists are learning how to temporarily reshape materials by nudging their internal quantum rhythms instead of blasting them with extreme lasers. By harnessing excitons, short-lived energy pairs that naturally form inside semiconductors, researchers can alter how electrons behave using far less e",
-      "fantasy_headline": "Alchemists Discover Subtle Magic to Reshape Enchanted Metals",
-      "fantasy_story": "The Alchemists' Guild has found a gentle way to transform mystical stones. Instead of using powerful, fiery blasts, they now coax the materials by sensing their inner hum. By understanding tiny energy sparks, they can alter how magical particles behave with far less effort.",
+      "reason": "",
+      "original_headline": "The genetic advantage that helps some people stay sharp for life",
+      "original_summary": "A new study reveals that super agers over 80 have a distinct genetic edge. They are much less likely to carry the gene most associated with Alzheimer’s risk, even when compared with other healthy seniors. Researchers also found higher levels of a protective gene variant in this group. Together, the ",
+      "fantasy_headline": "Ancient Sages Uncover Magical Lineage for Ever-Sharp Minds",
+      "fantasy_story": "Wizards of the Grand Academy have discovered why some ancient sages keep their minds sharp into old age. These revered elders possess an innate enchantment, a blessing passed down through their lineage. This magical spark helps ward off the Fading Mind, a common curse of forgetfulness. It seems some are born with a greater gift.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260121233400.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260122074702.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "A tiny spin change just flipped a famous quantum effect",
-      "original_summary": "When quantum spins interact, they can produce collective behaviors that defy long-standing expectations. Researchers have now shown that the Kondo effect behaves very differently depending on spin size. In systems with small spins, it suppresses magnetism, but when spins are larger, it actually prom",
-      "fantasy_headline": "Wizards Unravel Kondo's Enigma: Small Whirls Quell Magic, Large Ones Boost It!",
-      "fantasy_story": "The Royal Wizards have revealed a surprising secret about ethereal whirls. Their collective enchantments can act very differently depending on the whirl's potency. Small whirls dampen magnetic power, but larger, more potent ones strangely amplify it.",
-      "tag": "magic"
+      "reason": "",
+      "original_headline": "Why some people get bad colds and others don’t",
+      "original_summary": "Scientists found that nasal cells act as a first line of defense against the common cold, working together to block rhinovirus soon after infection. A fast antiviral response can stop the virus before symptoms appear. If that response is weakened or delayed, the virus spreads and causes inflammation",
+      "fantasy_headline": "Alchemists Discover Inner Wards Against Winter's Sniffles",
+      "fantasy_story": "The Alchemists' Guild has revealed why some folk bravely resist the dreaded Winter's Sniffles. Tiny inner guardians, hidden within the nose, form a first line of defense against ill-wind sprites. A swift deployment of these protective charms can stop the sickness motes before symptoms appear. If these wards are slow, the illness takes hold.",
+      "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/news/865282/blue-origin-terawave-satellite-6tb",
+      "id": "https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx",
       "status": "published",
-      "reason": null,
-      "original_headline": "Blue Origin’s Starlink rival TeraWave promises 6-terabit satellite internet",
-      "original_summary": "SpaceX has the most internet-beaming satellites in its constellation, but the competition is coming, and now Jeff Bezos' space company, Blue Origin, has announced the TeraWave network. It says TeraWave will offer bandwidth of up to 6Tb available anywhere on Earth, for both upload and download. The o",
-      "fantasy_headline": "House Bezos Unveils Vast New Sky-Gem Network for Swift Messages",
-      "fantasy_story": "While House Musk holds many floating sky-orbs, House Bezos now unveils its own TeraWave Astral Network. This grand design promises messages will flow at six-thousand magical bits per blink. Soon, communication enchantments could reach every corner of the realm.",
+      "reason": "",
+      "original_headline": "The TikTok deal is done, finally",
+      "original_summary": "Just over a year after it briefly disappeared from app stores, TikTok in the US is now part of a new entity, TikTok USDS Joint Venture LLC. With approval from both the US and China closing on the schedule laid out in December, ByteDance's ownership of the new joint venture is now only 19.9 percent [",
+      "fantasy_headline": "The Whispering Mirror's Fate Sealed by Grand Alliance",
+      "fantasy_story": "After much debate and a brief disappearance from the grand marketplaces, the enchanted Whispering Mirror has found new stewardship. A powerful alliance between the realms of the West and the Eastern Dynasties has been forged. The great Byte Clan now holds only a small portion of the Mirror's ownership, securing its future for all to use.",
       "tag": "merchants"
+    },
+    {
+      "id": "https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Ring can verify videos now, but that might not help you with most AI fakes",
+      "original_summary": "Ring has launched a new Ring Verify tool that the company says can \"verify that Ring videos you receive haven't been edited or changed.\" But since Ring won't verify videos that have been altered in any way, it probably won't be able to verify those videos you see on TikTok that look like they're fro",
+      "fantasy_headline": "Sentinel's Eye Unveils New Truth Charm for Visions",
+      "fantasy_story": "The Watchful Eye Guild has released a new Truth Charm for their Sentinel's Eye artifacts. This charm promises to verify that captured visions haven't been tampered with by dark magic. However, if the vision has already been significantly altered by powerful illusory spells, the charm may not discern the original truth.",
+      "tag": "magic"
     }
   ]
 }
