@@ -1,34 +1,44 @@
 {
-  "last_updated": "2026-01-23 08:30:25",
+  "last_updated": "2026-01-23 12:47:21",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260122093435.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "The genetic advantage that helps some people stay sharp for life",
       "original_summary": "A new study reveals that super agers over 80 have a distinct genetic edge. They are much less likely to carry the gene most associated with Alzheimer’s risk, even when compared with other healthy seniors. Researchers also found higher levels of a protective gene variant in this group. Together, the ",
-      "fantasy_headline": "The Ancient Blessing: Some Elders Keep Minds Sharp",
-      "fantasy_story": "Wise alchemists have discovered a magical trait in some ancient elders. These special folk are much less likely to suffer from the 'forgetting curse' that troubles others. They carry a protective essence in their very blood, allowing their minds to stay bright for a lifetime.",
+      "fantasy_headline": "Elder Sages Discover Secret to Lifelong Wisdom!",
+      "fantasy_story": "The Royal Alchemists have uncovered a wondrous secret among the oldest sages of the land. These wise ancients possess a unique bloodline gift, protecting their minds from the fading affliction that often befalls others. A special clarity charm within them grants them sharp wit and memory throughout their many years.",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260122074702.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Why some people get bad colds and others don’t",
       "original_summary": "Scientists found that nasal cells act as a first line of defense against the common cold, working together to block rhinovirus soon after infection. A fast antiviral response can stop the virus before symptoms appear. If that response is weakened or delayed, the virus spreads and causes inflammation",
-      "fantasy_headline": "Why Some Battle the Sniffle-Curse Better",
-      "fantasy_story": "Healers have found that tiny sentry spirits within one's nose act as a first defense against the common sniffle-curse. A swift warding spell by these spirits can stop the invisible ill-spirit before symptoms appear. If a person's inner magic is weak, the ill-spirit spreads, bringing a nasty chill.",
+      "fantasy_headline": "Healers Uncover Body's Inner Wards Against Sniffle-Spells!",
+      "fantasy_story": "The Guild of Healers has discovered a secret within our very breath-ways. Tiny guardian spirits act as a first line of defense against the common sniffle-spell. A swift inner healing magic can banish the invisible imps before symptoms appear, keeping many villagers hearty and strong.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification",
+      "id": "https://www.theverge.com/tech/865168/google-says-ai-news-headlines-are-feature-not-experiment",
       "status": "published",
-      "reason": null,
-      "original_headline": "Ring can verify videos now, but that might not help you with most AI fakes",
-      "original_summary": "Ring has launched a new Ring Verify tool that the company says can \"verify that Ring videos you receive haven't been edited or changed.\" But since Ring won't verify videos that have been altered in any way, it probably won't be able to verify those videos you see on TikTok that look like they're fro",
-      "fantasy_headline": "New Orb Verifies Visions, But Not All Shadow Tricks",
-      "fantasy_story": "The Ring-Watchers Guild has unveiled a new enchanted scrying orb to confirm the truth of visions. This orb can discern if a recording from a guarding eye has been altered. However, it cannot verify visions that are entirely products of illusionary trickery or shadow puppet enchantments.",
+      "reason": "",
+      "original_headline": "Google won’t stop replacing our news headlines with terrible AI",
+      "original_summary": "In early December, I brought you the news that Google has begun replacing Verge headlines, and those of our competitors, with AI clickbait nonsense in its content feed. Google appeared to be backing away from the experiment, but now tells The Verge that its AI headlines in Google Discover are a feat",
+      "fantasy_headline": "Scrying Orb's Keepers Embrace Clumsy Mimicry Spirits!",
+      "fantasy_story": "The Grand Chroniclers' Guild, who manage the wondrous Scrying Orb, declared that its lesser enchantments are now a permanent fixture. These mischievous mimicry spirits often alter the town crier scrolls, sometimes making the public pronouncements quite peculiar, much to the dismay of the scribes. They seem to find it amusing.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Microsoft Paint can now make AI coloring books",
+      "original_summary": "Microsoft is giving its Paint and Notepad apps on Windows new AI capabilities for editing text and making digital illustrations. The updates are currently rolling out to Windows Insiders in the Windows 11 Canary and Dev channels, and include features that feel oddly niche or advanced for such simpli",
+      "fantasy_headline": "Golem-Scribing Guild Unveils Enchanted Art Scrolls!",
+      "fantasy_story": "The Arch-Artificers' Clan has bestowed new lesser creation enchantments upon their famous enchanted easels and golem-quills. These tools, running on the Grand Operating Scroll, can now summon auto-drawing spirits to create wondrous, personalized enchanted scribbling books. This advanced magic brings joy to artists and scribes alike.",
       "tag": "magic"
     }
   ]
