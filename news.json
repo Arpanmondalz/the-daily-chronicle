@@ -1,44 +1,34 @@
 {
-  "last_updated": "2026-01-23 04:42:30",
+  "last_updated": "2026-01-23 08:30:25",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260122093435.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "The genetic advantage that helps some people stay sharp for life",
       "original_summary": "A new study reveals that super agers over 80 have a distinct genetic edge. They are much less likely to carry the gene most associated with Alzheimer’s risk, even when compared with other healthy seniors. Researchers also found higher levels of a protective gene variant in this group. Together, the ",
-      "fantasy_headline": "Ancient Sages Uncover Magical Lineage for Ever-Sharp Minds",
-      "fantasy_story": "Wizards of the Grand Academy have discovered why some ancient sages keep their minds sharp into old age. These revered elders possess an innate enchantment, a blessing passed down through their lineage. This magical spark helps ward off the Fading Mind, a common curse of forgetfulness. It seems some are born with a greater gift.",
+      "fantasy_headline": "The Ancient Blessing: Some Elders Keep Minds Sharp",
+      "fantasy_story": "Wise alchemists have discovered a magical trait in some ancient elders. These special folk are much less likely to suffer from the 'forgetting curse' that troubles others. They carry a protective essence in their very blood, allowing their minds to stay bright for a lifetime.",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260122074702.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Why some people get bad colds and others don’t",
       "original_summary": "Scientists found that nasal cells act as a first line of defense against the common cold, working together to block rhinovirus soon after infection. A fast antiviral response can stop the virus before symptoms appear. If that response is weakened or delayed, the virus spreads and causes inflammation",
-      "fantasy_headline": "Alchemists Discover Inner Wards Against Winter's Sniffles",
-      "fantasy_story": "The Alchemists' Guild has revealed why some folk bravely resist the dreaded Winter's Sniffles. Tiny inner guardians, hidden within the nose, form a first line of defense against ill-wind sprites. A swift deployment of these protective charms can stop the sickness motes before symptoms appear. If these wards are slow, the illness takes hold.",
-      "tag": "nature"
-    },
-    {
-      "id": "https://www.theverge.com/tech/866437/tiktok-usds-bytedance-sale-oracle-mgx",
-      "status": "published",
-      "reason": "",
-      "original_headline": "The TikTok deal is done, finally",
-      "original_summary": "Just over a year after it briefly disappeared from app stores, TikTok in the US is now part of a new entity, TikTok USDS Joint Venture LLC. With approval from both the US and China closing on the schedule laid out in December, ByteDance's ownership of the new joint venture is now only 19.9 percent [",
-      "fantasy_headline": "The Whispering Mirror's Fate Sealed by Grand Alliance",
-      "fantasy_story": "After much debate and a brief disappearance from the grand marketplaces, the enchanted Whispering Mirror has found new stewardship. A powerful alliance between the realms of the West and the Eastern Dynasties has been forged. The great Byte Clan now holds only a small portion of the Mirror's ownership, securing its future for all to use.",
-      "tag": "merchants"
+      "fantasy_headline": "Why Some Battle the Sniffle-Curse Better",
+      "fantasy_story": "Healers have found that tiny sentry spirits within one's nose act as a first defense against the common sniffle-curse. A swift warding spell by these spirits can stop the invisible ill-spirit before symptoms appear. If a person's inner magic is weak, the ill-spirit spreads, bringing a nasty chill.",
+      "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/news/866441/ring-verify-security-camera-ai-fakes-video-verification",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Ring can verify videos now, but that might not help you with most AI fakes",
       "original_summary": "Ring has launched a new Ring Verify tool that the company says can \"verify that Ring videos you receive haven't been edited or changed.\" But since Ring won't verify videos that have been altered in any way, it probably won't be able to verify those videos you see on TikTok that look like they're fro",
-      "fantasy_headline": "Sentinel's Eye Unveils New Truth Charm for Visions",
-      "fantasy_story": "The Watchful Eye Guild has released a new Truth Charm for their Sentinel's Eye artifacts. This charm promises to verify that captured visions haven't been tampered with by dark magic. However, if the vision has already been significantly altered by powerful illusory spells, the charm may not discern the original truth.",
+      "fantasy_headline": "New Orb Verifies Visions, But Not All Shadow Tricks",
+      "fantasy_story": "The Ring-Watchers Guild has unveiled a new enchanted scrying orb to confirm the truth of visions. This orb can discern if a recording from a guarding eye has been altered. However, it cannot verify visions that are entirely products of illusionary trickery or shadow puppet enchantments.",
       "tag": "magic"
     }
   ]
