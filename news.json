@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-23 12:47:21",
+  "last_updated": "2026-01-24 01:42:02",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260122093435.htm",
@@ -7,8 +7,8 @@
       "reason": "",
       "original_headline": "The genetic advantage that helps some people stay sharp for life",
       "original_summary": "A new study reveals that super agers over 80 have a distinct genetic edge. They are much less likely to carry the gene most associated with Alzheimer’s risk, even when compared with other healthy seniors. Researchers also found higher levels of a protective gene variant in this group. Together, the ",
-      "fantasy_headline": "Elder Sages Discover Secret to Lifelong Wisdom!",
-      "fantasy_story": "The Royal Alchemists have uncovered a wondrous secret among the oldest sages of the land. These wise ancients possess a unique bloodline gift, protecting their minds from the fading affliction that often befalls others. A special clarity charm within them grants them sharp wit and memory throughout their many years.",
+      "fantasy_headline": "Ancient Bloodline's Secret: Some Elders Retain Sharp Minds to Their Last Breath!",
+      "fantasy_story": "Wise Wizards of the Eldrin College have uncovered a marvelous secret within the oldest noble bloodlines. Some elders possess a unique ancestral mark that wards off the creeping mists that cloud the mind in old age. This magical boon ensures they keep their wits keen and memories bright through many long years.",
       "tag": "magic"
     },
     {
@@ -17,29 +17,19 @@
       "reason": "",
       "original_headline": "Why some people get bad colds and others don’t",
       "original_summary": "Scientists found that nasal cells act as a first line of defense against the common cold, working together to block rhinovirus soon after infection. A fast antiviral response can stop the virus before symptoms appear. If that response is weakened or delayed, the virus spreads and causes inflammation",
-      "fantasy_headline": "Healers Uncover Body's Inner Wards Against Sniffle-Spells!",
-      "fantasy_story": "The Guild of Healers has discovered a secret within our very breath-ways. Tiny guardian spirits act as a first line of defense against the common sniffle-spell. A swift inner healing magic can banish the invisible imps before symptoms appear, keeping many villagers hearty and strong.",
-      "tag": "magic"
+      "fantasy_headline": "Mysteries of Winter's Sniffles: Why Some Fall Ill, Others Stand Strong!",
+      "fantasy_story": "Healers of the Whispering Woods have discovered that tiny sentry sprites guard the inner gates of our breath. These vigilant spirits fight off the naughty imps of the coughing blight before they can take hold. When the sentries are swift and strong, one remains hale; but if they slumber, the blight spreads its chills.",
+      "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/tech/865168/google-says-ai-news-headlines-are-feature-not-experiment",
+      "id": "https://www.theverge.com/games/867056/leak-nvidia-n1-n1x-laptops-lenovo-dell",
       "status": "published",
       "reason": "",
-      "original_headline": "Google won’t stop replacing our news headlines with terrible AI",
-      "original_summary": "In early December, I brought you the news that Google has begun replacing Verge headlines, and those of our competitors, with AI clickbait nonsense in its content feed. Google appeared to be backing away from the experiment, but now tells The Verge that its AI headlines in Google Discover are a feat",
-      "fantasy_headline": "Scrying Orb's Keepers Embrace Clumsy Mimicry Spirits!",
-      "fantasy_story": "The Grand Chroniclers' Guild, who manage the wondrous Scrying Orb, declared that its lesser enchantments are now a permanent fixture. These mischievous mimicry spirits often alter the town crier scrolls, sometimes making the public pronouncements quite peculiar, much to the dismay of the scribes. They seem to find it amusing.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/news/866524/microsoft-paint-notepad-ai-coloring-book",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Microsoft Paint can now make AI coloring books",
-      "original_summary": "Microsoft is giving its Paint and Notepad apps on Windows new AI capabilities for editing text and making digital illustrations. The updates are currently rolling out to Windows Insiders in the Windows 11 Canary and Dev channels, and include features that feel oddly niche or advanced for such simpli",
-      "fantasy_headline": "Golem-Scribing Guild Unveils Enchanted Art Scrolls!",
-      "fantasy_story": "The Arch-Artificers' Clan has bestowed new lesser creation enchantments upon their famous enchanted easels and golem-quills. These tools, running on the Grand Operating Scroll, can now summon auto-drawing spirits to create wondrous, personalized enchanted scribbling books. This advanced magic brings joy to artists and scribes alike.",
-      "tag": "magic"
+      "original_headline": "Leak: Nvidia is about to challenge ‘Intel Inside’ with as many as eight Arm laptops",
+      "original_summary": "Intel and AMD have split the Windows laptop market for years, but the x86 players may be getting outnumbered. It's not just Apple MacBooks and MediaTek-based Chromebooks using Arm chips anymore. There are finally competent Qualcomm Snapdragon laptops running Windows, and - as soon as this spring - N",
+      "fantasy_headline": "The Great Scrolls War: New Makers Challenge Ancient Guilds!",
+      "fantasy_story": "For ages, the Intel and AMD Merchant Guilds have ruled the market for enchanted scrolls, but rivals stir. Whispers tell of the Nvidia Clan preparing many new portable scrying mirrors, powered by unique arcane crystals. These novel artifacts may soon challenge the ancient dominance of the old guilds.",
+      "tag": "merchants"
     }
   ]
 }
