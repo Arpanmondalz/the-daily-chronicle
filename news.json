@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-01-24 08:27:11",
+  "last_updated": "2026-01-24 12:40:35",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260123225925.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260124003822.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "Ancient giant kangaroos could hop after all",
-      "original_summary": "Giant kangaroos that lived during the Ice Age may not have been as slow and grounded as once believed. A new study finds their leg bones and tendons were likely strong enough to support hopping, despite their massive size. Rather than traveling this way all the time, these animals may have relied on",
-      "fantasy_headline": "Ancient Giant Beasts Leapt, Not Just Lumbered, Say Scholars!",
-      "fantasy_story": "Long ago, during the Age of Frost, massive beast-kangaroos roamed the lands. Many believed these enormous creatures merely lumbered, but new findings from learned scholars suggest otherwise. Their mighty limbs and sturdy bones were strong enough to support powerful leaps, defying past assumptions about their travel.",
-      "tag": "nature"
+      "reason": "",
+      "original_headline": "Astronomers just revealed a stunning new view of the Milky Way in radio colors",
+      "original_summary": "A groundbreaking new radio image reveals the Milky Way in more detail than ever before, using low-frequency radio “colors” to map the galaxy’s hidden structures. The image is sharper, deeper, and wider than anything previously released, uncovering both star-forming regions and the remains of ancient",
+      "fantasy_headline": "Celestial Wizards Unveil Hidden Wonders of the Starry Path!",
+      "fantasy_story": "The Order of Celestial Wizards has revealed a magnificent new scroll. It depicts the Starry Path in never-before-seen ethereal lights, showing both new star-births and the remnants of ancient wonders. This scroll is sharper and wider than any previously known.",
+      "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260122093435.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260124003816.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "The genetic advantage that helps some people stay sharp for life",
-      "original_summary": "A new study reveals that super agers over 80 have a distinct genetic edge. They are much less likely to carry the gene most associated with Alzheimer’s risk, even when compared with other healthy seniors. Researchers also found higher levels of a protective gene variant in this group. Together, the ",
-      "fantasy_headline": "Ancient Elders Bear Innate Charm Against Fading Minds!",
-      "fantasy_story": "Alchemists have uncovered a remarkable secret among the truly ancient and wise. These revered elders possess a unique boon of bloodline, making them less susceptible to the dreaded affliction of fading minds. They also carry a powerful, protective charm within their very spirit, granting them enduring sharpness throughout their long lives.",
+      "reason": "",
+      "original_headline": "Astronomers found a black hole growing way too fast",
+      "original_summary": "Astronomers have spotted a rare, rule-breaking quasar in the early Universe that appears to be growing its central black hole at an astonishing pace. Observations show the black hole is devouring matter far faster than theory says it should—about 13 times the usual “speed limit”—while simultaneously",
+      "fantasy_headline": "Celestial Oracles Discover a Shadow Maw Consuming Too Swiftly!",
+      "fantasy_story": "The esteemed Celestial Oracles have found a strange phenomenon in the farthest reaches of the Cosmic Tapestry. A great Shadow Maw, linked to a distant Cosmic Beacon, is devouring matter at an impossible speed. It defies all known laws of the cosmos, growing far quicker than any sage predicted.",
       "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/reviews/866476/loch-capsule-review-counter-dishwasher-vanlife-tiny-house",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "The Loch Capsule dishwasher is small, fast, and efficient — it even sanitizes gadgets",
-      "original_summary": "A dishwasher is a luxury item some people can't live without. It's one of the first major kitchen devices I bought just as soon as I could afford one. And now that the kids are grown, it's the appliance I thought I'd miss most in my nomadic vanlife pursuits. Loch sent me its $459.99 / […]",
-      "fantasy_headline": "Loch's Cleansing Capsule: A Swift Charm for Scullery and Trinkets!",
-      "fantasy_story": "The esteemed Clan Loch has unveiled a wondrous new artifact: the Cleansing Capsule. This compact contraption swiftly purifies nobleware and even small magical trinkets with potent enchantments. It offers a splendid convenience for those dwelling in smaller abodes or traveling the open roads.",
+      "original_summary": "A dishwasher is a luxury item some people can't live without. It's one of the first major kitchen devices I bought just as soon as I could afford one, and the appliance I thought I'd miss most in my nomadic vanlife pursuits. Loch sent me its $459.99 / €459.99 countertop Capsule dishwasher to review ",
+      "fantasy_headline": "Loch Clan's Small Enchanted Purifier Cleanses Plates and Trinkets!",
+      "fantasy_story": "The clever artificers of the Loch Clan have crafted a wondrous new enchanted device. This compact Plate Purifier works quickly and efficiently, not only cleaning dishes but also magically cleansing small personal artifacts. It's perfect for those dwelling in nomadic caravans or small abodes, making daily chores much simpler.",
       "tag": "magic"
     }
   ]
