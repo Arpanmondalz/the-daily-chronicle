@@ -1,34 +1,44 @@
 {
-  "last_updated": "2026-01-24 12:40:35",
+  "last_updated": "2026-01-24 16:24:52",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260124003822.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260124073929.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Astronomers just revealed a stunning new view of the Milky Way in radio colors",
-      "original_summary": "A groundbreaking new radio image reveals the Milky Way in more detail than ever before, using low-frequency radio “colors” to map the galaxy’s hidden structures. The image is sharper, deeper, and wider than anything previously released, uncovering both star-forming regions and the remains of ancient",
-      "fantasy_headline": "Celestial Wizards Unveil Hidden Wonders of the Starry Path!",
-      "fantasy_story": "The Order of Celestial Wizards has revealed a magnificent new scroll. It depicts the Starry Path in never-before-seen ethereal lights, showing both new star-births and the remnants of ancient wonders. This scroll is sharper and wider than any previously known.",
+      "reason": null,
+      "original_headline": "This small soil upgrade cut locust damage and doubled yields",
+      "original_summary": "Locust swarms can wipe out crops across entire regions, threatening food supplies and livelihoods. Now, scientists working with farmers in Senegal have shown that improving soil health can dramatically reduce locust damage. By enriching soil with nitrogen, crops become less appealing to the insects,",
+      "fantasy_headline": "Alchemists Discover Potion to Protect Harvests from Swarms!",
+      "fantasy_story": "Great swarms of winged beasts often threaten the fields of the Sun-Kissed Lands, devouring entire harvests. Yet, the Alchemists' Guild has found a remarkable solution. By enriching the soil with a special brew, crops now grow stronger and are less appealing to the hungry pests. This simple enchantment has doubled the bounty for the farmers!",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/01/260124073926.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Brain waves could help paralyzed patients move again",
+      "original_summary": "People with spinal cord injuries often lose movement even though their brains still send the right signals. Researchers tested whether EEG brain scans could capture those signals and reroute them to spinal stimulators. The system can detect when a patient is trying to move, though finer control rema",
+      "fantasy_headline": "Wizards Seek Magic to Restore Movement to the Still!",
+      "fantasy_story": "Many brave souls are afflicted by a cruel stillness, unable to command their own limbs. Yet, the Healers' Guild is making wondrous strides! Using scrying mirrors, they can now read the silent commands of the mind. These whispers are then routed through enchanted amulets, helping the afflicted move once more. A true marvel of healing magic!",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260124003816.htm",
+      "id": "https://www.theverge.com/games/867004/circana-gaming-sales-data-mat-piscatella-one-copy-obscure-games",
       "status": "published",
-      "reason": "",
-      "original_headline": "Astronomers found a black hole growing way too fast",
-      "original_summary": "Astronomers have spotted a rare, rule-breaking quasar in the early Universe that appears to be growing its central black hole at an astonishing pace. Observations show the black hole is devouring matter far faster than theory says it should—about 13 times the usual “speed limit”—while simultaneously",
-      "fantasy_headline": "Celestial Oracles Discover a Shadow Maw Consuming Too Swiftly!",
-      "fantasy_story": "The esteemed Celestial Oracles have found a strange phenomenon in the farthest reaches of the Cosmic Tapestry. A great Shadow Maw, linked to a distant Cosmic Beacon, is devouring matter at an impossible speed. It defies all known laws of the cosmos, growing far quicker than any sage predicted.",
-      "tag": "magic"
+      "reason": null,
+      "original_headline": "Gaming&#8217;s most fun sales data is full of old and obscure games",
+      "original_summary": "Every month, Circana video game analyst Mat Piscatella posts fascinating data about video game sales on Bluesky, highlighting trends like November's historically bad month for game hardware and Battlefield 6's big launch in October. But he doesn't just share data about what is selling the most; as o",
+      "fantasy_headline": "Merchant Seer Reveals Oddities in Enchanted Diversion Sales!",
+      "fantasy_story": "A renowned market seer of the Merchant Guild, Master Piscatella, regularly shares insights on the trade of enchanted diversions. While many focus on the grandest new magical contraptions, his scrolls reveal a delightful truth. Many adventurers still seek out forgotten enchantments and ancient game boards, proving that old magic holds a special charm in the market!",
+      "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/reviews/866476/loch-capsule-review-counter-dishwasher-vanlife-tiny-house",
+      "id": "https://www.theverge.com/report/866775/ai-generated-ads-slop-human-creativity",
       "status": "published",
-      "reason": "",
-      "original_headline": "The Loch Capsule dishwasher is small, fast, and efficient — it even sanitizes gadgets",
-      "original_summary": "A dishwasher is a luxury item some people can't live without. It's one of the first major kitchen devices I bought just as soon as I could afford one, and the appliance I thought I'd miss most in my nomadic vanlife pursuits. Loch sent me its $459.99 / €459.99 countertop Capsule dishwasher to review ",
-      "fantasy_headline": "Loch Clan's Small Enchanted Purifier Cleanses Plates and Trinkets!",
-      "fantasy_story": "The clever artificers of the Loch Clan have crafted a wondrous new enchanted device. This compact Plate Purifier works quickly and efficiently, not only cleaning dishes but also magically cleansing small personal artifacts. It's perfect for those dwelling in nomadic caravans or small abodes, making daily chores much simpler.",
+      "reason": null,
+      "original_headline": "Get ready for the AI ad-pocalypse",
+      "original_summary": "I'll confess, with no shame whatsoever, that I really love ads. Artsy ones, funny ones, weird ones, emotional ones - TV commercials were my childhood TikTok before any of us were using terms like \"short-form video.\" But like most creative things in my life, AI is sucking the joy out of it. And it's ",
+      "fantasy_headline": "Golems Threaten the Art of Grand Proclamations!",
+      "fantasy_story": "Once, the kingdom rejoiced in vibrant market proclamations and artful bardic tales, crafted with true artisanal skill. But now, it is whispered that soulless automatons are being taught to create these messages. Many fear these golem-crafted proclamations will dull the spirit of true artistry, replacing heartfelt creativity with endless, lifeless mimicry.",
       "tag": "magic"
     }
   ]
