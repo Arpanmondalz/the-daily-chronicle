@@ -1,23 +1,35 @@
 {
-  "last_updated": "2026-01-26 08:33:14",
+  "last_updated": "2026-01-26 12:48:48",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260125083421.htm",
       "status": "published",
+      "reason": "",
       "original_headline": "New DNA analysis rewrites the story of the Beachy Head Woman",
       "original_summary": "A Roman-era skeleton discovered in southern England has finally given up her secrets after more than a decade of debate. Known as the Beachy Head Woman, she was once thought to have roots in sub-Saharan Africa or the Mediterranean—an idea that sparked global attention. But new, high-quality DNA anal",
-      "fantasy_headline": "Ancient Bones Reveal True Tale of Beachy Head Maiden",
-      "fantasy_story": "After much debate, powerful Wizards have studied the ancient bones of the Beachy Head Maiden. Their potent runes now show she hailed from the frosty northern lands, not the sun-drenched coastal kingdoms. This grand discovery re-writes tales whispered throughout the realm for ages.",
-      "tag": "kingdom"
+      "fantasy_headline": "Ancient Bones Reveal New Truths of a Coastal Wanderer",
+      "fantasy_story": "For many seasons, the bones of the Beachy Head Woman, found by the Southern Marches, puzzled the Royal Scribes. Old tales suggested she hailed from distant desert lands or across the warm southern seas. Now, careful readings of ancient enchantments show her roots were closer to the northern misty shores. Her true origins have finally been revealed by the Chronologers' Guild.",
+      "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260125083413.htm",
+      "id": "https://www.theverge.com/news/867647/microsoft-windows-11-january-2026-update-bugs-issues",
       "status": "published",
-      "original_headline": "Alzheimer’s may trick the brain into erasing its own memories",
-      "original_summary": "Alzheimer’s may destroy memory by flipping a single molecular switch that tells neurons to prune their own connections. Researchers found that both amyloid beta and inflammation converge on the same receptor, triggering synapse loss. Surprisingly, neurons aren’t passive victims—they actively respond",
-      "fantasy_headline": "Memory Blight Tricks Minds to Erase Their Own Past",
-      "fantasy_story": "Wizards of the Mind have uncovered a dark secret of the Fading Sickness. It seems this dread malady casts a potent spell, convincing mind-threads to sever their own connections. Instead of a passive affliction, the mind's own magic is turned against its cherished recollections.",
+      "reason": "",
+      "original_headline": "Microsoft’s first Windows 11 update of 2026 has been a mess",
+      "original_summary": "Microsoft's first update for Windows 11 in 2026 has been a buggy mess, to say the least. After reports of shutdown issues on some machines, Microsoft issued an emergency update to fix its January 2026 Windows 11 update last weekend. Now, exactly a week later, the software maker has been forced to is",
+      "fantasy_headline": "Grand Scribes' New Enchantment Spreads Mayhem!",
+      "fantasy_story": "The Grand Scribes' Guild recently released a new seasonal spellweaving for the Royal Scrying Mirrors, but it proved to be riddled with gremlins. Many mirrors unexpectedly went dark or refused to display their wisdom. A hasty counter-spell was cast, yet new woes emerged, causing much vexation across the lands. The Guild Masters are now struggling to mend the troubled magic.",
       "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/news/867625/tiktok-down-weekend-broke-fyp-video-uploads-review",
+      "status": "published",
+      "reason": "",
+      "original_headline": "TikTok broke in its first weekend with US ownership",
+      "original_summary": "TikTok has suffered from extensive problems on its first weekend after completing the sale of its US arm, though some issues appear to have spread globally. TikTok has yet to confirm any issues a day after troubles began, making it difficult to surmise the extent of the problems. Nevertheless, Tikto",
+      "fantasy_headline": "The Whispering Scroll Network Falls Silent!",
+      "fantasy_story": "Upon its transfer to the new lords of the Western Marches, the Whispering Scroll Network fell silent for many who relied upon it. Users found their attempts to share new visions were met with strange afflictions and empty pages. While the full extent of the trouble is unclear, word spread that the network's magic was faltering in other kingdoms too. The Glimmering Oracle's new stewards are yet to speak on the matter.",
+      "tag": "merchants"
     }
   ]
 }
