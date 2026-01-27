@@ -1,14 +1,25 @@
 {
-  "last_updated": "2026-01-27 04:47:23",
+  "last_updated": "2026-01-27 08:33:37",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260126075846.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260126231849.htm",
       "status": "published",
-      "original_headline": "A dying star’s final breath glows in a new Webb image of the Helix Nebula",
-      "original_summary": "Webb’s latest image of the Helix Nebula reveals a dramatic close-up of a dying star shedding its outer layers. The detailed view highlights glowing knots of gas shaped by fast-moving stellar winds colliding with older material. Changes in color trace a shift from scorching hot gas near the center to",
-      "fantasy_headline": "Ancient Sun's Last Light Seen Through Wizard's Scrying Glass",
-      "fantasy_story": "A great Wizard's enchanted scrying glass has captured the final, wondrous glow of an ancient, fading sun. This celestial beacon is slowly unfurling its last magical aura across the cosmic sky. The image shows shimmering motes of starlight, a breathtaking farewell from a star near its end.",
+      "reason": "",
+      "original_headline": "A hidden magnetic order could unlock superconductivity",
+      "original_summary": "Physicists have discovered that hidden magnetic order plays a key role in the pseudogap, a puzzling state of matter that appears just before certain materials become superconductors. Using an ultra-cold quantum simulator, the team found that even when magnetism seems disrupted, subtle and universal ",
+      "fantasy_headline": "Wizards Uncover Hidden Magic for Potent Enchantments!",
+      "fantasy_story": "The Grand Alchemists' Guild has unveiled a secret: a hidden magical order helps materials reach potent enchantment. Using their arcane devices, they found that even when magic seems chaotic, subtle energies guide certain rare metals into a state of powerful flow, just before they become truly magnificent. This discovery could unlock wonders for the kingdom.",
       "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage",
+      "status": "published",
+      "reason": "",
+      "original_headline": "TikTok is still down, here are all the latest updates",
+      "original_summary": "More than a day after TikTok’s issues began, TikTok USDS says the problems are the result of a power outage at a data center and subsequent cascading systems failure. Starting early Sunday morning, TikTok’s now under new ownership US arm started breaking down just a couple of days after Oracle & Co ",
+      "fantasy_headline": "Whispering Mirrors Fall Silent After Leyline Disturbance!",
+      "fantasy_story": "For over a day, the Grand Archive of Whispers has been dormant. The Whispering Mirror Guild reports a severe magical disturbance from their main Crystal Scrying Pool, causing a cascade of failures. This silence comes just after the Elder Scribes' Clan acquired the Western Reaches branch, leaving many without their daily glimpses.",
+      "tag": "merchants"
     }
   ]
 }
