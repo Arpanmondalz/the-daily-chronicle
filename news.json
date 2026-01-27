@@ -1,24 +1,44 @@
 {
-  "last_updated": "2026-01-27 08:33:37",
+  "last_updated": "2026-01-27 12:50:48",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260126231849.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260127010208.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "A hidden magnetic order could unlock superconductivity",
-      "original_summary": "Physicists have discovered that hidden magnetic order plays a key role in the pseudogap, a puzzling state of matter that appears just before certain materials become superconductors. Using an ultra-cold quantum simulator, the team found that even when magnetism seems disrupted, subtle and universal ",
-      "fantasy_headline": "Wizards Uncover Hidden Magic for Potent Enchantments!",
-      "fantasy_story": "The Grand Alchemists' Guild has unveiled a secret: a hidden magical order helps materials reach potent enchantment. Using their arcane devices, they found that even when magic seems chaotic, subtle energies guide certain rare metals into a state of powerful flow, just before they become truly magnificent. This discovery could unlock wonders for the kingdom.",
+      "reason": null,
+      "original_headline": "A century-old Stonehenge mystery may finally be solved",
+      "original_summary": "Scientists have found compelling new evidence that humans, not glaciers, brought Stonehenge’s bluestones to the site. Using advanced mineral analysis, researchers searched nearby river sediments for signs glaciers once passed through the area—and found none. That missing signature strongly suggests ",
+      "fantasy_headline": "Wizards Unravel Ancient Secret of the Standing Stones!",
+      "fantasy_story": "Royal Alchemists have unearthed compelling new evidence about the grand Standing Stones. Their latest divinations suggest that ancient folk, not mighty ice giants, moved the colossal bluestones to their sacred circle. The land holds no trace of glacial magic, pointing to the incredible strength of the ancestors.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/news/868379/tiktok-us-trump-oracle-broken-rumors-power-outage",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260127010151.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "TikTok is still down, here are all the latest updates",
-      "original_summary": "More than a day after TikTok’s issues began, TikTok USDS says the problems are the result of a power outage at a data center and subsequent cascading systems failure. Starting early Sunday morning, TikTok’s now under new ownership US arm started breaking down just a couple of days after Oracle & Co ",
-      "fantasy_headline": "Whispering Mirrors Fall Silent After Leyline Disturbance!",
-      "fantasy_story": "For over a day, the Grand Archive of Whispers has been dormant. The Whispering Mirror Guild reports a severe magical disturbance from their main Crystal Scrying Pool, causing a cascade of failures. This silence comes just after the Elder Scribes' Clan acquired the Western Reaches branch, leaving many without their daily glimpses.",
+      "reason": null,
+      "original_headline": "Scientists finally explain Earth’s strangest fossils",
+      "original_summary": "The Ediacara Biota are some of the strangest fossils ever found—soft-bodied organisms preserved in remarkable detail where preservation shouldn’t be possible. Scientists now think their survival in sandstone came from unusual ancient seawater chemistry that created clay “cements” around their bodies",
+      "fantasy_headline": "Scholar-Wizards Uncover Secrets of Petrified Sea Creatures!",
+      "fantasy_story": "Renowned Scholar-Wizards have finally deciphered the enigma of the strange ancient imprints found in the deep earth. These soft-bodied sea creatures, thought impossible to preserve, were protected by unusual enchantments in the ancient ocean's waters. This rare ocean magic formed earthen seals around them, preserving their forms for ages.",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.theverge.com/news/868510/google-photos-image-to-video-text-prompt-support",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Google Photos now lets you describe how to transform images into video",
+      "original_summary": "Google is giving Photos users more control over the app's generative AI photo-to-video feature. Google Photos now supports text prompts for video generation, according to the update announcement on Monday, allowing users to describe the specific movement, style, or effect they want to see when bring",
+      "fantasy_headline": "New Spell Allows Grand Vision-Weavers to Animate Memories!",
+      "fantasy_story": "The Grand Guild of Vision-Weavers has revealed a powerful new enchantment for the Scrying Pool of Images. Those who gaze into it can now speak specific charms, dictating how their still images will move and swirl. This grants them greater control over the animated visions, bringing their memories to vivid, magical life.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/tech/867819/roland-tr-1000-drum-machine-review",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Roland’s TR-1000 is the ultimate drum machine",
+      "original_summary": "It took way too long, but Roland finally caved and gave the people what they want: a proper analog successor to the iconic TR-808 drum machine. The 808's sound, especially the kick drum, is embedded so deeply in the DNA of modern music that it would be a gross disservice to try and boil its […]",
+      "fantasy_headline": "The Clan of Rhythms Unveils Ultimate Percussion Golem!",
+      "fantasy_story": "The venerable Clan of Rhythms has finally gifted the realm with a magnificent new artifact: the Percussion Golem of a Thousand Beats. This mechanical marvel is a true successor to the legendary Eight-O-Eight, whose deep booming heartbeat is woven into the very fabric of all minstrels' tunes. Bards and troubadours across the land rejoice at its powerful, enchanting rhythms.",
       "tag": "merchants"
     }
   ]
