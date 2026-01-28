@@ -1,35 +1,35 @@
 {
-  "last_updated": "2026-01-27 16:30:46",
+  "last_updated": "2026-01-28 08:32:27",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260127010208.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260127112139.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "A century-old Stonehenge mystery may finally be solved",
-      "original_summary": "Scientists have found compelling new evidence that humans, not glaciers, brought Stonehenge’s bluestones to the site. Using advanced mineral analysis, researchers searched nearby river sediments for signs glaciers once passed through the area—and found none. That missing signature strongly suggests ",
-      "fantasy_headline": "Wizards Uncover Truth of Grand Stone Circle!",
-      "fantasy_story": "For ages, folk wondered how the giant bluestones reached the Grand Stone Circle. Now, the Whispering Wizards' Guild, using ancient scrying spells, has found no trace of great ice magic moving them. This suggests the stones were moved by ancient builders, not winter spirits, a century-old mystery finally unveiled.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260127010151.htm",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Scientists finally explain Earth’s strangest fossils",
-      "original_summary": "The Ediacara Biota are some of the strangest fossils ever found—soft-bodied organisms preserved in remarkable detail where preservation shouldn’t be possible. Scientists now think their survival in sandstone came from unusual ancient seawater chemistry that created clay “cements” around their bodies",
-      "fantasy_headline": "Wizards Solve Riddle of Ancient Soft-Bodied Creatures!",
-      "fantasy_story": "For centuries, the Elder Alchemists pondered the strange stone forms of the Whispering Reef Dwellers, soft creatures preserved perfectly in sandstone. Now, they believe unique ocean enchantments in ancient sea magic allowed magical binding mud to encase them, solving a grand riddle of time.",
+      "original_headline": "This spider’s “pearl necklace” was living parasites",
+      "original_summary": "What looked like a pearl necklace on a tiny spider turned out to be parasitic mite larvae. Scientists identified the mites as a new species, marking the first record of its family in Brazil. The larvae attach to juvenile spiders and feed on lymph through a weak spot in the spider’s body. The discove",
+      "fantasy_headline": "Alchemists Uncover Tiny Imps on Spider, Not Pearls!",
+      "fantasy_story": "In a distant jungle realm, diligent Alchemists observed a small spider with what seemed to be a shimmering pearl necklace. Closer inspection revealed these were actually tiny, newly discovered parasitic imps! These magical mites attach to young spiders, slowly siphoning their life essence.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/tech/868569/nintendo-switch-online-virtual-boy-3d-lineup-launch",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260127112135.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "You’ll be able to change the color of Virtual Boy games on Nintendo Switch Online",
-      "original_summary": "Following the initial reveal last September, Nintendo has released a new trailer detailing which Virtual Boy games will be available to Switch Online subscribers starting on February 17th alongside revamped headsets, and which titles will launch later this year. The company also revealed some new fe",
-      "fantasy_headline": "Ninten Clan Adds Ancient Vision Games to Realm Gate!",
-      "fantasy_story": "The venerable Ninten Clan announced new illusory goggle plays are coming to the Realm Gate Network. Soon, folk can invoke color-shifting magic to alter the hue of these ancient Enchanted Vision Scrying Games. These long-awaited additions promise many hours of magical amusement for all.",
+      "original_headline": "A sudden signal flare reveals the hidden partner behind fast radio bursts",
+      "original_summary": "A repeating fast radio burst has just given up one of its biggest secrets. Long-term observations revealed a rare signal flare caused by plasma likely ejected from a nearby companion star. This shows the burst source isn’t alone, but part of a binary system. The finding strengthens the case that mag",
+      "fantasy_headline": "Mysterious Sky Bursts Reveal a Hidden Celestial Twin!",
+      "fantasy_story": "Wizards observing the celestial sphere have long studied mysterious, repeating magical bursts. Recently, a sudden flare of ethereal energy was seen, revealing a hidden companion star! This means the powerful sky bursts come from two linked magical sources, not just one. It's a grand revelation about the heavens!",
       "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/23674658/best-android-phone",
+      "status": "published",
+      "reason": null,
+      "original_headline": "The best Android phones",
+      "original_summary": "The Android ecosystem is all about choice. While iPhone owners have a smaller pool of new devices to pick from when it’s time to upgrade, there’s a wider range of choices on Android. Some Android phones even fold in half! Imagine. On the flip side, all that choice can make for some hard decisions. H",
+      "fantasy_headline": "Merchants Offer Many Enchanted Scrying Mirrors!",
+      "fantasy_story": "The Grand Market now boasts a vast selection of enchanted scrying mirrors for all. Unlike the simpler Elf-crafted mirrors, human guilds offer a wider array of magical artifacts. Some even fold in half with a flick of the wrist! This abundance of choice can make picking your next communication charm quite difficult.",
+      "tag": "merchants"
     }
   ]
 }
