@@ -1,35 +1,35 @@
 {
-  "last_updated": "2026-01-28 08:32:27",
+  "last_updated": "2026-01-29 08:39:30",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260127112139.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260128075355.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "This spider’s “pearl necklace” was living parasites",
-      "original_summary": "What looked like a pearl necklace on a tiny spider turned out to be parasitic mite larvae. Scientists identified the mites as a new species, marking the first record of its family in Brazil. The larvae attach to juvenile spiders and feed on lymph through a weak spot in the spider’s body. The discove",
-      "fantasy_headline": "Alchemists Uncover Tiny Imps on Spider, Not Pearls!",
-      "fantasy_story": "In a distant jungle realm, diligent Alchemists observed a small spider with what seemed to be a shimmering pearl necklace. Closer inspection revealed these were actually tiny, newly discovered parasitic imps! These magical mites attach to young spiders, slowly siphoning their life essence.",
-      "tag": "nature"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260127112135.htm",
-      "status": "published",
-      "reason": null,
-      "original_headline": "A sudden signal flare reveals the hidden partner behind fast radio bursts",
-      "original_summary": "A repeating fast radio burst has just given up one of its biggest secrets. Long-term observations revealed a rare signal flare caused by plasma likely ejected from a nearby companion star. This shows the burst source isn’t alone, but part of a binary system. The finding strengthens the case that mag",
-      "fantasy_headline": "Mysterious Sky Bursts Reveal a Hidden Celestial Twin!",
-      "fantasy_story": "Wizards observing the celestial sphere have long studied mysterious, repeating magical bursts. Recently, a sudden flare of ethereal energy was seen, revealing a hidden companion star! This means the powerful sky bursts come from two linked magical sources, not just one. It's a grand revelation about the heavens!",
+      "original_headline": "Dark stars could solve three major mysteries of the early universe",
+      "original_summary": "JWST has revealed a strange early universe filled with ultra-bright “blue monster” galaxies, mysterious “little red dots,” and black holes that seem far too massive for their age. A new study proposes that dark stars—hypothetical stars powered by dark matter—could tie all these surprises together. T",
+      "fantasy_headline": "Shadow Stars May Unravel Ancient Sky Mysteries!",
+      "fantasy_story": "The Grand Seers, peering into the ancient scrying pool, have observed puzzling blue sky-beasts and tiny red beacons. Some void maws appear far too immense for their age. Now, wise wizards propose that shadow stars, fueled by unseen essence, could explain these cosmic enigmas from the dawn of creation.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/23674658/best-android-phone",
+      "id": "https://www.theverge.com/tech/869926/apple-hires-sebastiaan-de-with-design-team-halide-lux",
       "status": "published",
       "reason": null,
-      "original_headline": "The best Android phones",
-      "original_summary": "The Android ecosystem is all about choice. While iPhone owners have a smaller pool of new devices to pick from when it’s time to upgrade, there’s a wider range of choices on Android. Some Android phones even fold in half! Imagine. On the flip side, all that choice can make for some hard decisions. H",
-      "fantasy_headline": "Merchants Offer Many Enchanted Scrying Mirrors!",
-      "fantasy_story": "The Grand Market now boasts a vast selection of enchanted scrying mirrors for all. Unlike the simpler Elf-crafted mirrors, human guilds offer a wider array of magical artifacts. Some even fold in half with a flick of the wrist! This abundance of choice can make picking your next communication charm quite difficult.",
+      "original_headline": "Halide co-founder Sebastiaan de With is joining Apple&#8217;s design team",
+      "original_summary": "Sebastiaan de With, known for his work on apps like Halide, Kino, and Orion as the co-founder of Lux, is joining Apple's design team, he announced today. \"So excited to work with the very best team in the world on my favorite products,\" de With says in his post. de With is well-known for his […]",
+      "fantasy_headline": "Master Artificer Joins Royal Apple Guild!",
+      "fantasy_story": "Master Sebastiaan, a renowned artificer known for his exquisite enchanted lenses and scrying orbs from the Luxmiths' Clan, has joined the Royal Apple Guild. He announced his excitement to work with the finest crafting circle in the realm, creating beloved new artifacts for all.",
       "tag": "merchants"
+    },
+    {
+      "id": "https://www.theverge.com/news/869882/mark-zuckerberg-meta-earnings-q4-2025",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Mark Zuckerberg is all in on AI as the new social media",
+      "original_summary": "Meta CEO Mark Zuckerberg's metaverse dreams seem to have been replaced by a new vision: an AI-generated social feed. In an earnings call on Wednesday, Zuckerberg reiterated his belief that AI will become the next big media format, making feeds \"more immersive and interactive:\" We started with text, ",
+      "fantasy_headline": "Lord Zuckerberg Shifts Focus to Sentient Magic!",
+      "fantasy_story": "Chief Merchant Lord Zuckerberg of the Meta Guild has unveiled a new vision for his realm. His grand dreams of the Shadow Realm are now replaced by enchanted chronicles, woven by sentient spirits. At the recent Guild Assembly, Lord Zuckerberg declared that sentient magic will make tale-telling more enchanting and responsive than ever before.",
+      "tag": "magic"
     }
   ]
 }
