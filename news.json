@@ -1,45 +1,35 @@
 {
-  "last_updated": "2026-01-30 08:39:11",
+  "last_updated": "2026-01-30 12:55:34",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260128230509.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "A breakthrough that turns exhaust CO2 into useful materials",
-      "original_summary": "Scientists have created a device that captures carbon dioxide and transforms it into a useful chemical in a single step. The new electrode works with realistic exhaust gases rather than requiring purified CO2. It converts the captured gas into formic acid, which is used in energy and manufacturing. ",
-      "fantasy_headline": "Alchemists Forge Artifact to Transform Sooty Fumes!",
-      "fantasy_story": "The Alchemists' Guild has unveiled a wondrous new artifact! This device can capture dark, sooty fumes from hearths and forges, transforming them into a potent elixir in one swift magical step. This valuable concoction can now power workshops and aid in the crafting of many useful goods.",
+      "original_summary": "Scientists have created a device that captures carbon dioxide and transforms it into a useful chemical in a single step. The new electrode works with realistic exhaust gases rather than requiring purified CO2. It converts the captured gas into formic acid, which is used in energy and manufacturing.",
+      "fantasy_headline": "Alchemists Create Device to Turn Noxious Fumes into Potions!",
+      "fantasy_story": "The Alchemists' Guild has unveiled a wondrous new contraption. This enchanted artifact can capture foul, smoky fumes and instantly transform them into a valuable elixir. This powerful ingredient is vital for new enchantments and grand magical workshops across the kingdom.",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260128075355.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Dark stars could solve three major mysteries of the early universe",
       "original_summary": "JWST has revealed a strange early universe filled with ultra-bright “blue monster” galaxies, mysterious “little red dots,” and black holes that seem far too massive for their age. A new study proposes that dark stars—hypothetical stars powered by dark matter—could tie all these surprises together. T",
-      "fantasy_headline": "Shadow-Stars May Unlock Ancient Sky's Greatest Secrets!",
-      "fantasy_story": "Through the Grand Observatory's Crystal Orb, Stargazers have seen strange celestial anomalies in the ancient skies. Sky behemoths and abyssal rifts appear too vast for their age, puzzling even the wisest mages. A new theory suggests hidden shadow-stars, fueled by ethereal energy, might explain these cosmic mysteries.",
+      "fantasy_headline": "Celestial Wizards Ponder Ancient Starry Mysteries, Propose Shadow-Stars!",
+      "fantasy_story": "Grand Celestial Wizards are baffled by strange sights in the ancient starry expanse. Giant blue star-clusters, mysterious red glows, and colossal void-maws defy understanding. A new theory suggests that unseen shadow-stars, powered by a hidden essence, might explain these cosmic riddles.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge",
+      "id": "https://www.theverge.com/news/870663/microsoft-windows-11-top-menu-bar-powertoy-experiment",
       "status": "published",
-      "reason": "",
-      "original_headline": "It’s a new heyday for gas thanks to data centers",
-      "original_summary": "The US is now leading a global surge in new gas power plants being built in large part to satisfy growing energy demand for data centers. And more gas means more planet-heating pollution. Gas-fired power generation in development globally rose by 31 percent in 2025. Almost a quarter of that added ca",
-      "fantasy_headline": "Demand for Arcane Scrolls Fuels Fire-Gem Boom!",
-      "fantasy_story": "The Grand Kingdom of Westaria, and realms far beyond, see a great rise in the need for power to fuel their vast repositories of arcane scrolls. To meet this growing demand, more and more dragonfire furnaces are being built. This has led to an age of abundant fire-gems, used to power these wondrous magical archives.",
+      "reason": null,
+      "original_headline": "Microsoft is experimenting with a top menu bar for Windows 11",
+      "original_summary": "Microsoft's PowerToys team is contemplating building a top menu bar for Windows 11, much like Linux, macOS, or older versions of Windows. The menu bar, or Command Palette Dock as Microsoft calls it, would be a new optional UI that provides quick access to tools, monitoring of system resources, and m",
+      "fantasy_headline": "Royal Scribes Consider New Layout for the Grand Royal Ledger!",
+      "fantasy_story": "The Royal Scribes' Guild is considering a new design for the Grand Royal Ledger. Master Scribes are experimenting with an enchanted scroll-bar at the top of the magical tome. This new feature would offer quick access to important magical implements and help monitor the kingdom's arcane flow.",
       "tag": "kingdom"
-    },
-    {
-      "id": "https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Apple just had a record-breaking iPhone quarter",
-      "original_summary": "Apple says the iPhone had its \"best-ever\" quarter, with revenue hitting more than $85.3 billion over the past few months. The company announced the news as part of its Q1 2026 earnings report, which also revealed record-breaking revenue of $143.8 billion, up 16 percent when compared to the same time",
-      "fantasy_headline": "Golden Apple Clan Sees Record Sales of Scrying Mirrors!",
-      "fantasy_story": "The esteemed Golden Apple Clan has enjoyed its finest season of trade ever, reporting unprecedented prosperity! Their popular enchanted scrying mirrors have brought in a hoard of over eighty-five billion gold coins. Overall, the clan's treasure coffers grew by sixteen percent, a truly remarkable feat.",
-      "tag": "merchants"
     }
   ]
 }
