@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-29 12:57:11",
+  "last_updated": "2026-01-30 08:39:11",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/01/260128230509.htm",
@@ -7,8 +7,8 @@
       "reason": "",
       "original_headline": "A breakthrough that turns exhaust CO2 into useful materials",
       "original_summary": "Scientists have created a device that captures carbon dioxide and transforms it into a useful chemical in a single step. The new electrode works with realistic exhaust gases rather than requiring purified CO2. It converts the captured gas into formic acid, which is used in energy and manufacturing. ",
-      "fantasy_headline": "Alchemists' Guild Unveils Magic Contraption to Clean Sooty Fumes!",
-      "fantasy_story": "The Alchemists' Guild has forged an arcane contraption that captures sooty fumes and transforms them into a potent elixir. This wondrous artifact works even with the smoky exhausts from forge fires, turning foul air into a valuable concoction. It will be used for powering enchantments and crafting new artifacts.",
+      "fantasy_headline": "Alchemists Forge Artifact to Transform Sooty Fumes!",
+      "fantasy_story": "The Alchemists' Guild has unveiled a wondrous new artifact! This device can capture dark, sooty fumes from hearths and forges, transforming them into a potent elixir in one swift magical step. This valuable concoction can now power workshops and aid in the crafting of many useful goods.",
       "tag": "magic"
     },
     {
@@ -17,29 +17,29 @@
       "reason": "",
       "original_headline": "Dark stars could solve three major mysteries of the early universe",
       "original_summary": "JWST has revealed a strange early universe filled with ultra-bright “blue monster” galaxies, mysterious “little red dots,” and black holes that seem far too massive for their age. A new study proposes that dark stars—hypothetical stars powered by dark matter—could tie all these surprises together. T",
-      "fantasy_headline": "Shadow-Stars May Explain Ancient Cosmic Riddles!",
-      "fantasy_story": "The Grand Scrying Orb has revealed perplexing sights from the dawn of creation: glowing blue celestial kingdoms, mysterious red glowing motes, and immense void-mouths. Now, a new prophecy suggests that hidden shadow-stars, fueled by unseen magic, could explain these ancient cosmic riddles. These stars might hold the key to understanding the oldest realms.",
+      "fantasy_headline": "Shadow-Stars May Unlock Ancient Sky's Greatest Secrets!",
+      "fantasy_story": "Through the Grand Observatory's Crystal Orb, Stargazers have seen strange celestial anomalies in the ancient skies. Sky behemoths and abyssal rifts appear too vast for their age, puzzling even the wisest mages. A new theory suggests hidden shadow-stars, fueled by ethereal energy, might explain these cosmic mysteries.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/869975/nothing-phone-4-not-releasing-2026-flagship",
+      "id": "https://www.theverge.com/news/870422/data-center-ai-gas-power-surge",
       "status": "published",
       "reason": "",
-      "original_headline": "There won’t be a Nothing Phone 4 this year",
-      "original_summary": "Nothing CEO Carl Pei confirmed the Phone 4 won't launch in 2026 in a new video on the brand's YouTube channel. \"There's no new flagship this year,\" Pei said when asked about phone plans for 2026, instead emphasizing that last year's Phone 3 remains the Nothing flagship. \"We're not just going to chur",
-      "fantasy_headline": "Nothing Clan Will Not Unveil New Scrying Mirror This Year!",
-      "fantasy_story": "The Master of the Nothing Clan has declared that no new grand scrying mirror will be unveiled this year. He announced this news by the Whispering Well, confirming that last year's prized artifact remains the most powerful. The Clan seeks not to rush new magic but to perfect existing enchantments.",
+      "original_headline": "It’s a new heyday for gas thanks to data centers",
+      "original_summary": "The US is now leading a global surge in new gas power plants being built in large part to satisfy growing energy demand for data centers. And more gas means more planet-heating pollution. Gas-fired power generation in development globally rose by 31 percent in 2025. Almost a quarter of that added ca",
+      "fantasy_headline": "Demand for Arcane Scrolls Fuels Fire-Gem Boom!",
+      "fantasy_story": "The Grand Kingdom of Westaria, and realms far beyond, see a great rise in the need for power to fuel their vast repositories of arcane scrolls. To meet this growing demand, more and more dragonfire furnaces are being built. This has led to an age of abundant fire-gems, used to power these wondrous magical archives.",
+      "tag": "kingdom"
+    },
+    {
+      "id": "https://www.theverge.com/news/870319/apple-iphone-best-revenue-ai-q1-2026",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Apple just had a record-breaking iPhone quarter",
+      "original_summary": "Apple says the iPhone had its \"best-ever\" quarter, with revenue hitting more than $85.3 billion over the past few months. The company announced the news as part of its Q1 2026 earnings report, which also revealed record-breaking revenue of $143.8 billion, up 16 percent when compared to the same time",
+      "fantasy_headline": "Golden Apple Clan Sees Record Sales of Scrying Mirrors!",
+      "fantasy_story": "The esteemed Golden Apple Clan has enjoyed its finest season of trade ever, reporting unprecedented prosperity! Their popular enchanted scrying mirrors have brought in a hoard of over eighty-five billion gold coins. Overall, the clan's treasure coffers grew by sixteen percent, a truly remarkable feat.",
       "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/news/869965/google-pixel-4-5-take-a-message-disabled-audio-leak",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Google disables Take a Message on older Pixel phones amid audio leak bug",
-      "original_summary": "Google is disabling some Phone app features on older Pixel devices after acknowledging a bug that inadvertently leaked audio to callers. The issue has specifically been linked to the Take a Message feature released last year, which automatically answers and transcribes voicemails when you miss a cal",
-      "fantasy_headline": "Oracle Guild Disables Message-Keeping Spell After Unintended Whispers!",
-      "fantasy_story": "The Grand Guild of Oracles has temporarily disabled certain magical functions on its older enchanted speaking stones. A mischievous spirit caused an unintended echo, letting whispers be heard by others during the message-keeping spell. The Guild is working to mend this magical flaw and restore privacy to all users.",
-      "tag": "magic"
     }
   ]
 }
