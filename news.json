@@ -1,35 +1,35 @@
 {
-  "last_updated": "2026-01-30 12:55:34",
+  "last_updated": "2026-01-31 01:56:14",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260128230509.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260129080446.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "A breakthrough that turns exhaust CO2 into useful materials",
-      "original_summary": "Scientists have created a device that captures carbon dioxide and transforms it into a useful chemical in a single step. The new electrode works with realistic exhaust gases rather than requiring purified CO2. It converts the captured gas into formic acid, which is used in energy and manufacturing.",
-      "fantasy_headline": "Alchemists Create Device to Turn Noxious Fumes into Potions!",
-      "fantasy_story": "The Alchemists' Guild has unveiled a wondrous new contraption. This enchanted artifact can capture foul, smoky fumes and instantly transform them into a valuable elixir. This powerful ingredient is vital for new enchantments and grand magical workshops across the kingdom.",
+      "reason": "",
+      "original_headline": "Gray wolves are hunting sea otters and no one knows how",
+      "original_summary": "On a remote Alaskan island, gray wolves are rewriting the rulebook by hunting sea otters — a behavior few scientists ever expected to see. Researchers are now uncovering how these coastal wolves adapted to marine hunting, what it means for land–sea ecosystems, and whether this ancient predator–prey ",
+      "fantasy_headline": "Shadow-mane Wolves Hunt Fin-eared Otters on Northern Isle",
+      "fantasy_story": "On a faraway northern isle, the wise Sages are perplexed. They have observed the elusive shadow-mane wolves now hunting fin-eared otters, a behavior never before recorded. The Sages seek to understand this strange new custom and what it means for the balance of the land and sea realms.",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/01/260129080428.htm",
+      "status": "published",
+      "reason": "",
+      "original_headline": "A fish that ages in months reveals how kidneys grow old",
+      "original_summary": "A fast-aging fish is giving scientists a rare, accelerated look at how kidneys grow old—and how a common drug may slow that process down. Researchers found that SGLT2 inhibitors, widely used to treat diabetes and heart disease, preserved kidney structure, blood vessels, and energy production as the ",
+      "fantasy_headline": "Enchanted Fish Reveal Secrets of Ageing; New Elixir Slows Wasting Sickness",
+      "fantasy_story": "Master Alchemists have learned much from the enchanted glimmer-fin fish, whose inner cleansing organs age swiftly. This unique creature shows how our own vital parts grow old. A potent elixir, already used for the wasting sickness, can preserve these organs, keeping adventurers hale and strong for longer.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260128075355.htm",
+      "id": "https://www.theverge.com/gadgets/871422/peloton-layoffs-cost-cutting-2026",
       "status": "published",
-      "reason": null,
-      "original_headline": "Dark stars could solve three major mysteries of the early universe",
-      "original_summary": "JWST has revealed a strange early universe filled with ultra-bright “blue monster” galaxies, mysterious “little red dots,” and black holes that seem far too massive for their age. A new study proposes that dark stars—hypothetical stars powered by dark matter—could tie all these surprises together. T",
-      "fantasy_headline": "Celestial Wizards Ponder Ancient Starry Mysteries, Propose Shadow-Stars!",
-      "fantasy_story": "Grand Celestial Wizards are baffled by strange sights in the ancient starry expanse. Giant blue star-clusters, mysterious red glows, and colossal void-maws defy understanding. A new theory suggests that unseen shadow-stars, powered by a hidden essence, might explain these cosmic riddles.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/news/870663/microsoft-windows-11-top-menu-bar-powertoy-experiment",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Microsoft is experimenting with a top menu bar for Windows 11",
-      "original_summary": "Microsoft's PowerToys team is contemplating building a top menu bar for Windows 11, much like Linux, macOS, or older versions of Windows. The menu bar, or Command Palette Dock as Microsoft calls it, would be a new optional UI that provides quick access to tools, monitoring of system resources, and m",
-      "fantasy_headline": "Royal Scribes Consider New Layout for the Grand Royal Ledger!",
-      "fantasy_story": "The Royal Scribes' Guild is considering a new design for the Grand Royal Ledger. Master Scribes are experimenting with an enchanted scroll-bar at the top of the magical tome. This new feature would offer quick access to important magical implements and help monitor the kingdom's arcane flow.",
-      "tag": "kingdom"
+      "reason": "",
+      "original_headline": "Peloton lays off 11 percent of its staff just a few months after launching its AI hardware",
+      "original_summary": "Peloton said on Friday that it's cutting around 11 percent of its staff, mostly impacting \"engineers working on technology and enterprise-related efforts,\" reports Bloomberg. Last August, Peloton laid off six percent of its workforce and told investors it would continue layoffs globally in 2026, in ",
+      "fantasy_headline": "Wheel-Spinning Guild Dismisses Artisans After Launching Spirit-Bound Devices",
+      "fantasy_story": "The renowned Wheel-Spinning Guild has sadly announced the dismissal of many skilled artisans, especially those who crafted enchanted gears and spirit-bound devices. This comes shortly after they unveiled their latest magical creations. Guild leaders state this is part of a larger plan to manage their coffers and continue their craft into the next year.",
+      "tag": "merchants"
     }
   ]
 }
