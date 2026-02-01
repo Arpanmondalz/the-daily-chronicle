@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-02-01 08:32:48",
+  "last_updated": "2026-02-01 12:49:51",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260131084138.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260131084616.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Jupiter’s clouds are hiding something big",
-      "original_summary": "Jupiter’s swirling storms have concealed its true makeup for centuries, but a new model is finally peeling back the clouds. Researchers found the planet likely holds significantly more oxygen than the Sun, a key clue to how Jupiter—and the rest of the solar system—came together. The study also revea",
-      "fantasy_headline": "Ancient Sky-Gazers Unveil Secrets Hidden Within Jupiter's Great Storms",
-      "fantasy_story": "For ages, the swirling mists of the Great Sky Wanderer, Jupiter, have guarded its true nature. Now, wise Sky-Gazing Wizards, using powerful divining spells, have peeked beneath its celestial veils. They found the Giant Orb holds much more vital essence than the Sun, offering clues to how our entire realm of planets came to be.",
+      "reason": null,
+      "original_headline": "Scientists discover hidden geometry that bends electrons like gravity",
+      "original_summary": "Researchers have discovered a hidden quantum geometry inside materials that subtly steers electrons, echoing how gravity warps light in space. Once thought to exist only on paper, this effect has now been observed experimentally in a popular quantum material. The finding reveals a new way to underst",
+      "fantasy_headline": "Wizards Uncover Hidden Magic That Bends Energy Motes",
+      "fantasy_story": "The Grand Council of Wizards has unveiled a secret magical pattern within certain rare crystals. This hidden geometry subtly guides tiny motes of energy, much like ancient earth-magic pulls all things down. Once thought a mere legend, this enchanting effect has now been proven, revealing new ways to understand the world's hidden forces.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260131084135.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/01/260131084138.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Puffy baby planets reveal a missing stage of planet formation",
-      "original_summary": "A young star called V1298 Tau is giving astronomers a front-row seat to the birth of the galaxy’s most common planets. Four massive but extremely low-density worlds orbiting the star appear to be inflated precursors of super-Earths and sub-Neptunes. By watching how the planets subtly tug on one anot",
-      "fantasy_headline": "Stargazers Witness Birth of New Worlds, Uncovering a Celestial Mystery",
-      "fantasy_story": "From their lofty towers, the Celestial Scribes gaze upon a newborn sun-spark, V1298 Tau. There, they see four massive, yet strangely airy, young worlds being born. These 'puffy' orbs seem to be early forms of the Mighty Orbs and Lesser Water Worlds, revealing a missing chapter in how planets are forged across the Starry Expanse.",
-      "tag": "magic"
+      "reason": null,
+      "original_headline": "Jupiter’s clouds are hiding something big",
+      "original_summary": "Jupiter’s swirling storms have concealed its true makeup for centuries, but a new model is finally peeling back the clouds. Researchers found the planet likely holds significantly more oxygen than the Sun, a key clue to how Jupiter—and the rest of the solar system—came together. The study also revea",
+      "fantasy_headline": "Sky-Gazers Peer Beyond Jupiter's Veils, Find Ancient Secret",
+      "fantasy_story": "For ages, the Giant Orb of Storms has hidden its true nature behind swirling mists. Now, a new prophecy from the Star-Seers has begun to reveal its secrets. They discovered the Orb holds far more of the vital breath than the Grand Luminary, hinting at how all the wandering stars first came to be.",
+      "tag": "nature"
     },
     {
       "id": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Nvidia CEO denies he’s ‘unhappy’ with OpenAI",
       "original_summary": "Nvidia's CEO Jensen Huang denied reports that he was unhappy with OpenAI and said his company still planned to make a \"huge\" investment in the ChatGPT firm. NVIDIA announced in September that it would invest up to $100 billion in OpenAI, but recently, there have been suggestions that the deal might ",
-      "fantasy_headline": "Obsidian Mirror Guildmaster Dispels Rumors, Reaffirms Oracle Alliance",
-      "fantasy_story": "The revered Guildmaster of the Obsidian Mirror Guild, Jensen of Huang, has silenced whispers that he was displeased with the Oracle's Whisperers' Clan. He declared his guild would still offer a vast fortune in gold coins to the Clan, reaffirming their grand alliance for future enchantments.",
+      "fantasy_headline": "Ironweave Clan Leader Denies Rift, Pledges Gold to Scroll Guild",
+      "fantasy_story": "Clan Leader Jensen of the mighty Ironweave Clan has quelled rumors of discontent with the Whispering Scroll Guild. He confirmed his clan still plans a vast offering of gold coins to aid their magical research. Despite recent whispers, the alliance between the guilds remains strong and prosperous.",
       "tag": "merchants"
     }
   ]
