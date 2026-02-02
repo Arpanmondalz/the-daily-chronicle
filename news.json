@@ -1,35 +1,4 @@
 {
-  "last_updated": "2026-02-01 12:49:51",
-  "stories": [
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260131084616.htm",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Scientists discover hidden geometry that bends electrons like gravity",
-      "original_summary": "Researchers have discovered a hidden quantum geometry inside materials that subtly steers electrons, echoing how gravity warps light in space. Once thought to exist only on paper, this effect has now been observed experimentally in a popular quantum material. The finding reveals a new way to underst",
-      "fantasy_headline": "Wizards Uncover Hidden Magic That Bends Energy Motes",
-      "fantasy_story": "The Grand Council of Wizards has unveiled a secret magical pattern within certain rare crystals. This hidden geometry subtly guides tiny motes of energy, much like ancient earth-magic pulls all things down. Once thought a mere legend, this enchanting effect has now been proven, revealing new ways to understand the world's hidden forces.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/01/260131084138.htm",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Jupiter’s clouds are hiding something big",
-      "original_summary": "Jupiter’s swirling storms have concealed its true makeup for centuries, but a new model is finally peeling back the clouds. Researchers found the planet likely holds significantly more oxygen than the Sun, a key clue to how Jupiter—and the rest of the solar system—came together. The study also revea",
-      "fantasy_headline": "Sky-Gazers Peer Beyond Jupiter's Veils, Find Ancient Secret",
-      "fantasy_story": "For ages, the Giant Orb of Storms has hidden its true nature behind swirling mists. Now, a new prophecy from the Star-Seers has begun to reveal its secrets. They discovered the Orb holds far more of the vital breath than the Grand Luminary, hinting at how all the wandering stars first came to be.",
-      "tag": "nature"
-    },
-    {
-      "id": "https://www.theverge.com/tech/871818/nvidia-ceo-jensen-huang-unhappy-openai",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Nvidia CEO denies he’s ‘unhappy’ with OpenAI",
-      "original_summary": "Nvidia's CEO Jensen Huang denied reports that he was unhappy with OpenAI and said his company still planned to make a \"huge\" investment in the ChatGPT firm. NVIDIA announced in September that it would invest up to $100 billion in OpenAI, but recently, there have been suggestions that the deal might ",
-      "fantasy_headline": "Ironweave Clan Leader Denies Rift, Pledges Gold to Scroll Guild",
-      "fantasy_story": "Clan Leader Jensen of the mighty Ironweave Clan has quelled rumors of discontent with the Whispering Scroll Guild. He confirmed his clan still plans a vast offering of gold coins to aid their magical research. Despite recent whispers, the alliance between the guilds remains strong and prosperous.",
-      "tag": "merchants"
-    }
-  ]
+  "last_updated": "2026-02-02 02:08:18",
+  "stories": []
 }
