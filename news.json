@@ -1,4 +1,35 @@
 {
-  "last_updated": "2026-02-02 08:42:46",
-  "stories": []
+  "last_updated": "2026-02-02 12:59:26",
+  "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/02/260201231259.htm",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Robots descend into lava tubes to prepare for future Moon bases",
+      "original_summary": "Hidden lava tunnels on the Moon and Mars could one day shelter human explorers, offering natural protection from radiation and space debris. A European research team has unveiled a bold new mission concept that uses three different robots working together to explore these extreme underground environ",
+      "fantasy_headline": "Animated Golems Explore Fiery Tunnels for Distant Realm Sanctuaries",
+      "fantasy_story": "A council of master alchemists has devised a bold plan for pioneers seeking new lands. They crafted enchanted golems to delve into dangerous, fiery tunnels beneath the silver orb and the red star. These underground havens could offer shelter from cosmic dangers for future settlements. The golems work together, each with a unique magical purpose.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/02/260201223727.htm",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Baby dinosaurs were the backbone of the Jurassic food chain",
+      "original_summary": "Despite growing into the largest animals ever to walk on land, sauropods began life small, exposed, and alone. Fossil evidence suggests their babies were frequently eaten by multiple predators, making them a key part of the Jurassic food chain. This steady supply of easy prey may explain why early p",
+      "fantasy_headline": "Young Thunder-Lizards Sustained Ancient Age's Savage Hunters",
+      "fantasy_story": "In the forgotten texts of the Age of Scale and Roar, it is told that the towering long-necks, though mighty in adulthood, began life tiny and vulnerable. Ancient markings in stone reveal that their hatchlings were a vital feast for many monstrous predators. This plentiful supply of easy prey helped shape the balance of predator and hunter in those long-lost times.",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.theverge.com/gadgets/872058/pgytech-telephoto-extender-iphone",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Vivo and Oppo’s telephoto extender comes to iPhone",
+      "original_summary": "PGYTech, the accessory manufacturer behind the official telephoto extender lenses for recent Vivo and Oppo flagships, has launched a Kickstarter for a new version developed for iPhones. The RetroVa Vintage Imaging Kit looks an awful lot like the camera kits for those phones, complete with a custom c",
+      "fantasy_headline": "New Far-Seeing Crystal Offered for the Enchanted Scribe",
+      "fantasy_story": "The skilled Lenscrafters' Guild, known for their powerful far-seeing crystals for the Scrying Orbs of V'ivo and O'ppo, now seeks to craft a new artifact. They are gathering gold coins to create a similar Amulet of Distant Vision for the widely used Enchanted Scribe. This new Master Alchemist's Vision Set promises to reveal distant sights with great clarity.",
+      "tag": "magic"
+    }
+  ]
 }
