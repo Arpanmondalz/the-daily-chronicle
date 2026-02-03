@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-02-03 08:36:29",
+  "last_updated": "2026-02-03 12:59:58",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260203020203.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260203030548.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "This brain discovery is forcing scientists to rethink how memory works",
-      "original_summary": "A new brain imaging study reveals that remembering facts and recalling life events activate nearly identical brain networks. Researchers expected clear differences but instead found strong overlap across memory types. The finding challenges decades of memory research. It may also help scientists bet",
-      "fantasy_headline": "Wizards Uncover Secrets of Recollection Magic",
-      "fantasy_story": "A groundbreaking study by the Grand Wizards' Academy has revealed that recalling facts and reliving past events use nearly identical mental pathways. This unexpected discovery challenges centuries of wisdom about how recollection magic functions. It promises new enchantments to aid memory.",
+      "reason": "",
+      "original_headline": "New catalyst turns carbon dioxide into clean fuel source",
+      "original_summary": "Researchers have found that manganese, an abundant and inexpensive metal, can be used to efficiently convert carbon dioxide into formate, a potential hydrogen source for fuel cells. The key was a clever redesign that made the catalyst last far longer than similar low-cost materials. Surprisingly, th",
+      "fantasy_headline": "Alchemists find new way to cleanse foul air.",
+      "fantasy_story": "The Alchemists' Guild has discovered a new method using common manganese ore. They can now transform noxious fumes into a pure source of magical energy. This enchanted process ensures their new artifact lasts much longer, promising endless power for magic lanterns and glowing crystals across the kingdom.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260201231259.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260203020205.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "Robots descend into lava tubes to prepare for future Moon bases",
-      "original_summary": "Hidden lava tunnels on the Moon and Mars could one day shelter human explorers, offering natural protection from radiation and space debris. A European research team has unveiled a bold new mission concept that uses three different robots working together to explore these extreme underground environ",
-      "fantasy_headline": "Golems Explore Fiery Tunnels for Distant Realm Dwellings",
-      "fantasy_story": "The Grand Explorers' Guild has unveiled a daring quest. Automatons will descend into fiery caverns on distant celestial bodies, seeking natural shelters from cosmic hazards. These hidden tunnels could one day house brave adventurers, protecting them from the perils of the void.",
-      "tag": "kingdom"
+      "reason": "",
+      "original_headline": "Scientists just mapped the hidden structure holding the Universe together",
+      "original_summary": "Astronomers have produced the most detailed map yet of dark matter, revealing the invisible framework that shaped the Universe long before stars and galaxies formed. Using powerful new observations from NASA’s James Webb Space Telescope, the research shows how dark matter gathered ordinary matter in",
+      "fantasy_headline": "Stargazers unveil secret threads holding the Cosmos.",
+      "fantasy_story": "The Royal Stargazers, using their grand Celestial Eye artifact, have crafted the most detailed map of the unseen essence yet. This map reveals the invisible threads that wove the Great Beyond together, long before the first celestial lights or floating islands appeared. It shows how this hidden essence gathered all ordinary matter.",
+      "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/games/872768/nintendo-earnings-switch-best-selling-console-ds",
+      "id": "https://www.theverge.com/news/872937/google-youtube-blocking-third-party-mobile-browsers-background-playback",
       "status": "published",
-      "reason": null,
-      "original_headline": "The Switch is now Nintendo’s best-selling console of all time",
-      "original_summary": "The original Switch is officially Nintendo's best-selling console of all time after surpassing the DS handheld in lifetime sales. In its latest earnings release, Nintendo reports that the Nintendo Switch has, as of December 31, 2025, sold 155.37 million units since its launch in 2017, compared to 15",
-      "fantasy_headline": "Shifting Scrying Stone Becomes Most Sought-After Enchanted Device!",
-      "fantasy_story": "The Enchanted Toymakers' Guild announced joyous tidings! Their Shifting Scrying Stone has become the most sought-after enchanted device of all time, surpassing the beloved Dual-Screened Oracle. Over 155 million of these wondrous artifacts have been acquired by eager hands across the realms.",
+      "reason": "",
+      "original_headline": "YouTube now blocking background playback on mobile browsers",
+      "original_summary": "YouTube has started to block third-party mobile browsers from using a background playback loophole. Background playback is supposed to be limited to YouTube Premium subscribers through the official iOS or Android app, but many people have been using browsers like Brave, Vivaldi, and Edge to get back",
+      "fantasy_headline": "The Grand Scrying Pool stops secret background viewing.",
+      "fantasy_story": "The Scribes' Guild, overseers of the Grand Scrying Pool, has ended a loophole for secret background viewing. This special privilege is meant only for its loyal Patrons, who pay extra gold for the official Scrying Device. Many had been using lesser scrying mirrors from other clans to bypass this rule.",
       "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/news/872731/adobe-animate-app-shutdown-date",
+      "id": "https://www.theverge.com/transportation/872631/tesla-model-s-obituary-discontinued-design-software-elon",
       "status": "published",
-      "reason": null,
-      "original_headline": "Adobe Animate is shutting down next month",
-      "original_summary": "Adobe is pulling the plug on Adobe Animate. In a FAQ posted to Adobe's website, the company says it will stop selling the animation software on March 1st, citing the emergence of new platforms \"that better serve the needs of the users.\" Users have until March 1st, 2027 (or March 1st, 2029 for enterp",
-      "fantasy_headline": "Illusionists' Guild to Cease Enchantment of Living Pictures Scroll",
-      "fantasy_story": "The venerable Illusionists' Guild has declared that the Scroll of Living Pictures will soon cease to be enchanted. Citing the rise of new magical mediums that better serve their apprentices, the guild will halt its support next month. Scribes and artists have until the next great moon to secure their final copies.",
-      "tag": "magic"
+      "reason": "",
+      "original_headline": "The Model S changed everything",
+      "original_summary": "The Tesla Model S is at the end of its illustrious 14-year run - and what a dizzying ride it's been. In 2012, when Tesla made its first Model S deliveries to customers, Facebook acquired Instagram. Apple launched the iPhone 5 and iOS 6. Barack Obama sailed into his second term. Superstorm Sandy shre",
+      "fantasy_headline": "Lightning Clan's Grand Chariot concludes its epic journey.",
+      "fantasy_story": "The Grand Silver Chariot of the Lightning Clan has completed its storied fourteen-year journey. Its arrival long ago truly transformed the ways of travel across the lands. It brought speed and wonder to many loyal patrons, marking an era of great change.",
+      "tag": "kingdom"
     }
   ]
 }
