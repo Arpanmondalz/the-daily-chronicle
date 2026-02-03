@@ -1,34 +1,44 @@
 {
-  "last_updated": "2026-02-02 12:59:26",
+  "last_updated": "2026-02-03 08:36:29",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260201231259.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260203020203.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Robots descend into lava tubes to prepare for future Moon bases",
-      "original_summary": "Hidden lava tunnels on the Moon and Mars could one day shelter human explorers, offering natural protection from radiation and space debris. A European research team has unveiled a bold new mission concept that uses three different robots working together to explore these extreme underground environ",
-      "fantasy_headline": "Animated Golems Explore Fiery Tunnels for Distant Realm Sanctuaries",
-      "fantasy_story": "A council of master alchemists has devised a bold plan for pioneers seeking new lands. They crafted enchanted golems to delve into dangerous, fiery tunnels beneath the silver orb and the red star. These underground havens could offer shelter from cosmic dangers for future settlements. The golems work together, each with a unique magical purpose.",
+      "reason": null,
+      "original_headline": "This brain discovery is forcing scientists to rethink how memory works",
+      "original_summary": "A new brain imaging study reveals that remembering facts and recalling life events activate nearly identical brain networks. Researchers expected clear differences but instead found strong overlap across memory types. The finding challenges decades of memory research. It may also help scientists bet",
+      "fantasy_headline": "Wizards Uncover Secrets of Recollection Magic",
+      "fantasy_story": "A groundbreaking study by the Grand Wizards' Academy has revealed that recalling facts and reliving past events use nearly identical mental pathways. This unexpected discovery challenges centuries of wisdom about how recollection magic functions. It promises new enchantments to aid memory.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260201223727.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260201231259.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Baby dinosaurs were the backbone of the Jurassic food chain",
-      "original_summary": "Despite growing into the largest animals ever to walk on land, sauropods began life small, exposed, and alone. Fossil evidence suggests their babies were frequently eaten by multiple predators, making them a key part of the Jurassic food chain. This steady supply of easy prey may explain why early p",
-      "fantasy_headline": "Young Thunder-Lizards Sustained Ancient Age's Savage Hunters",
-      "fantasy_story": "In the forgotten texts of the Age of Scale and Roar, it is told that the towering long-necks, though mighty in adulthood, began life tiny and vulnerable. Ancient markings in stone reveal that their hatchlings were a vital feast for many monstrous predators. This plentiful supply of easy prey helped shape the balance of predator and hunter in those long-lost times.",
-      "tag": "nature"
+      "reason": null,
+      "original_headline": "Robots descend into lava tubes to prepare for future Moon bases",
+      "original_summary": "Hidden lava tunnels on the Moon and Mars could one day shelter human explorers, offering natural protection from radiation and space debris. A European research team has unveiled a bold new mission concept that uses three different robots working together to explore these extreme underground environ",
+      "fantasy_headline": "Golems Explore Fiery Tunnels for Distant Realm Dwellings",
+      "fantasy_story": "The Grand Explorers' Guild has unveiled a daring quest. Automatons will descend into fiery caverns on distant celestial bodies, seeking natural shelters from cosmic hazards. These hidden tunnels could one day house brave adventurers, protecting them from the perils of the void.",
+      "tag": "kingdom"
     },
     {
-      "id": "https://www.theverge.com/gadgets/872058/pgytech-telephoto-extender-iphone",
+      "id": "https://www.theverge.com/games/872768/nintendo-earnings-switch-best-selling-console-ds",
       "status": "published",
-      "reason": "",
-      "original_headline": "Vivo and Oppo’s telephoto extender comes to iPhone",
-      "original_summary": "PGYTech, the accessory manufacturer behind the official telephoto extender lenses for recent Vivo and Oppo flagships, has launched a Kickstarter for a new version developed for iPhones. The RetroVa Vintage Imaging Kit looks an awful lot like the camera kits for those phones, complete with a custom c",
-      "fantasy_headline": "New Far-Seeing Crystal Offered for the Enchanted Scribe",
-      "fantasy_story": "The skilled Lenscrafters' Guild, known for their powerful far-seeing crystals for the Scrying Orbs of V'ivo and O'ppo, now seeks to craft a new artifact. They are gathering gold coins to create a similar Amulet of Distant Vision for the widely used Enchanted Scribe. This new Master Alchemist's Vision Set promises to reveal distant sights with great clarity.",
+      "reason": null,
+      "original_headline": "The Switch is now Nintendo’s best-selling console of all time",
+      "original_summary": "The original Switch is officially Nintendo's best-selling console of all time after surpassing the DS handheld in lifetime sales. In its latest earnings release, Nintendo reports that the Nintendo Switch has, as of December 31, 2025, sold 155.37 million units since its launch in 2017, compared to 15",
+      "fantasy_headline": "Shifting Scrying Stone Becomes Most Sought-After Enchanted Device!",
+      "fantasy_story": "The Enchanted Toymakers' Guild announced joyous tidings! Their Shifting Scrying Stone has become the most sought-after enchanted device of all time, surpassing the beloved Dual-Screened Oracle. Over 155 million of these wondrous artifacts have been acquired by eager hands across the realms.",
+      "tag": "merchants"
+    },
+    {
+      "id": "https://www.theverge.com/news/872731/adobe-animate-app-shutdown-date",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Adobe Animate is shutting down next month",
+      "original_summary": "Adobe is pulling the plug on Adobe Animate. In a FAQ posted to Adobe's website, the company says it will stop selling the animation software on March 1st, citing the emergence of new platforms \"that better serve the needs of the users.\" Users have until March 1st, 2027 (or March 1st, 2029 for enterp",
+      "fantasy_headline": "Illusionists' Guild to Cease Enchantment of Living Pictures Scroll",
+      "fantasy_story": "The venerable Illusionists' Guild has declared that the Scroll of Living Pictures will soon cease to be enchanted. Citing the rise of new magical mediums that better serve their apprentices, the guild will halt its support next month. Scribes and artists have until the next great moon to secure their final copies.",
       "tag": "magic"
     }
   ]
