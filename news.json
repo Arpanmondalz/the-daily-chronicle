@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-02-04 08:41:32",
+  "last_updated": "2026-02-04 12:59:05",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260203030548.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260204042457.htm",
       "status": "published",
       "reason": "",
-      "original_headline": "New catalyst turns carbon dioxide into clean fuel source",
-      "original_summary": "Researchers have found that manganese, an abundant and inexpensive metal, can be used to efficiently convert carbon dioxide into formate, a potential hydrogen source for fuel cells. The key was a clever redesign that made the catalyst last far longer than similar low-cost materials. Surprisingly, th",
-      "fantasy_headline": "Alchemists Discover Magic Stone to Clean Foul Air",
-      "fantasy_story": "The Grand Alchemists' Guild has unearthed a clever new enchantment. They've found that a common metal can purify the foulest air, transforming it into a potent source of pure magic essence. This discovery promises to fuel enchanted lanterns and artifacts across the realm.",
-      "tag": "magic"
+      "original_headline": "Melting Antarctic ice may weaken a major carbon sink",
+      "original_summary": "Melting ice from West Antarctica once delivered huge amounts of iron to the Southern Ocean, but algae growth did not increase as expected. Researchers found the iron was in a form that marine life could not easily use. This means more melting ice does not automatically boost carbon absorption. In th",
+      "fantasy_headline": "Melting Ice Reveals Tricky Elemental Dust in Southern Sea",
+      "fantasy_story": "From the Frozen Southern Wastes, ancient ice melts, releasing vital elemental dust into the Great Southern Sea. Our Sages of the Deep once thought this would empower magical kelp, helping purify the waters. But they found the dust was in a form the kelp couldn't easily use, meaning the natural enchantment isn't boosted as hoped.",
+      "tag": "nature"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260203030546.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260203030554.htm",
       "status": "published",
       "reason": "",
-      "original_headline": "This unexpected plant discovery could change how drugs are made",
-      "original_summary": "Plants make chemical weapons to protect themselves, and many of these compounds have become vital to human medicine. Researchers found that one powerful plant chemical is produced using a gene that looks surprisingly bacterial. This suggests plants reuse microbial tools to invent new chemistry. The ",
-      "fantasy_headline": "Wizards Uncover Ancient Magic in Healing Plants",
-      "fantasy_story": "Wizards of the Grove have made a wondrous discovery about medicinal plants. They learned that plants craft powerful healing elixirs using ancient mystical patterns, like those found in the smallest, unseen spirits. This suggests plants re-employ forgotten elemental helpers to brew new remedies.",
-      "tag": "nature"
+      "original_headline": "MIT's new brain tool could finally explain consciousness",
+      "original_summary": "Scientists still don’t know how the brain turns physical activity into thoughts, feelings, and awareness—but a powerful new tool may help crack the mystery. Researchers at MIT are exploring transcranial focused ultrasound, a noninvasive technology that can precisely stimulate deep regions of the bra",
+      "fantasy_headline": "Arcane Sages Unveil Artifact to Unlock Secrets of the Soul",
+      "fantasy_story": "Even the wisest Arcane Sages still ponder how the mind-sphere transforms simple impulses into the very spark of the soul. Now, the Grand Academy of Arcane Arts reveals a powerful new artifact: a focused resonance crystal. This subtle enchantment can touch deep within the mind, promising to unveil the mysteries of inner awareness.",
+      "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course",
@@ -27,8 +27,8 @@
       "reason": "",
       "original_headline": "Adobe actually won’t discontinue Animate",
       "original_summary": "Adobe is no longer planning to discontinue Adobe Animate on March 1st. In an FAQ, the company now says that Animate will now be in maintenance mode and that it has \"no plans to discontinue or remove access\" to the app. Animate will still receive \"ongoing security and bug fixes\" and will still be ava",
-      "fantasy_headline": "Grand Scribes Reconsider Fate of Living Pictures Scroll",
-      "fantasy_story": "The esteemed Illuminators' Conclave has reversed a recent decree! They will not withdraw the magic from the famed Living Pictures Scroll. Instead, the enchanted artifact will remain under watchful care, receiving ongoing blessings and repairs for its errant enchantments. All scribes can still conjure their animated visions.",
+      "fantasy_headline": "Grand Scriveners Reverse Course: Enchanted Quill to Remain!",
+      "fantasy_story": "The Grand Scriveners' Guild had planned to cease support for their beloved Enchanted Quill, an artifact renowned for animating illusions, by the First Day of Spring. However, they have now declared the Quill will remain under perpetual upkeep. It will continue to receive runes of warding and cleansing spells, ensuring its magic endures for all bards and storytellers.",
       "tag": "magic"
     }
   ]
