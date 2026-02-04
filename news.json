@@ -1,35 +1,45 @@
 {
-  "last_updated": "2026-02-04 12:59:05",
+  "last_updated": "2026-02-04 16:48:03",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260204042457.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Melting Antarctic ice may weaken a major carbon sink",
       "original_summary": "Melting ice from West Antarctica once delivered huge amounts of iron to the Southern Ocean, but algae growth did not increase as expected. Researchers found the iron was in a form that marine life could not easily use. This means more melting ice does not automatically boost carbon absorption. In th",
-      "fantasy_headline": "Melting Ice Reveals Tricky Elemental Dust in Southern Sea",
-      "fantasy_story": "From the Frozen Southern Wastes, ancient ice melts, releasing vital elemental dust into the Great Southern Sea. Our Sages of the Deep once thought this would empower magical kelp, helping purify the waters. But they found the dust was in a form the kelp couldn't easily use, meaning the natural enchantment isn't boosted as hoped.",
+      "fantasy_headline": "Glacial Melts Don't Aid Sea Flora's Vital Breath Absorption",
+      "fantasy_story": "Wizards of the Ice discovered that elemental dust from melting glacial floes in the Great Southern Sea did not help the sea flora as expected. The nourishing ore was in a form the marine creatures could not easily use. This means more melting ice won't automatically boost nature's vital essence absorption.",
       "tag": "nature"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260203030554.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "MIT's new brain tool could finally explain consciousness",
       "original_summary": "Scientists still don’t know how the brain turns physical activity into thoughts, feelings, and awareness—but a powerful new tool may help crack the mystery. Researchers at MIT are exploring transcranial focused ultrasound, a noninvasive technology that can precisely stimulate deep regions of the bra",
-      "fantasy_headline": "Arcane Sages Unveil Artifact to Unlock Secrets of the Soul",
-      "fantasy_story": "Even the wisest Arcane Sages still ponder how the mind-sphere transforms simple impulses into the very spark of the soul. Now, the Grand Academy of Arcane Arts reveals a powerful new artifact: a focused resonance crystal. This subtle enchantment can touch deep within the mind, promising to unveil the mysteries of inner awareness.",
+      "fantasy_headline": "New Arcane Device May Unravel the Soul's Mystery",
+      "fantasy_story": "Arch-Alchemists at the Grand Academy of Arcane Arts are still baffled by how the mind-orb creates inner light and awareness. A powerful new whispering orb, using sonic enchantments, might finally crack this mystery. This device can gently stir deep regions of the mind without harm.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/873621/adobe-animate-maintenance-mode-reverse-course",
+      "id": "https://www.theverge.com/gadgets/873792/asus-vivobook-snapdragon-x-laptop-amd-ryzen-switch-2-deal-sale",
       "status": "published",
-      "reason": "",
-      "original_headline": "Adobe actually won’t discontinue Animate",
-      "original_summary": "Adobe is no longer planning to discontinue Adobe Animate on March 1st. In an FAQ, the company now says that Animate will now be in maintenance mode and that it has \"no plans to discontinue or remove access\" to the app. Animate will still receive \"ongoing security and bug fixes\" and will still be ava",
-      "fantasy_headline": "Grand Scriveners Reverse Course: Enchanted Quill to Remain!",
-      "fantasy_story": "The Grand Scriveners' Guild had planned to cease support for their beloved Enchanted Quill, an artifact renowned for animating illusions, by the First Day of Spring. However, they have now declared the Quill will remain under perpetual upkeep. It will continue to receive runes of warding and cleansing spells, ensuring its magic endures for all bards and storytellers.",
-      "tag": "magic"
+      "reason": null,
+      "original_headline": "The 14-inch, ARM-based Asus Vivobook is half off today",
+      "original_summary": "I’m typically reluctant to recommend budget-friendly laptops, particularly ones that run Windows, because they suck, more often than not. That’s beginning to change, thanks in part to last year’s introduction of the Snapdragon X-series processors that offer solid performance and good x86 and x64 app",
+      "fantasy_headline": "Asus Clan's Enchanted Scrying Tablet Now Half Price!",
+      "fantasy_story": "The Vivobook scrying tablet, powered by a swift wind-spirit, is available at a grand merchant sale today! These enchanted slates, often costly, are now a rare bargain for adventurers and scholars alike. Thanks to the new Dragon-heart crystals, these tablets offer swift workings and reliable scroll-OS compatibility.",
+      "tag": "merchants"
+    },
+    {
+      "id": "https://www.theverge.com/gadgets/865396/valentines-day-2026-gift-ideas-for-him-boyfriend-husband-partner",
+      "status": "published",
+      "reason": null,
+      "original_headline": "The Verge’s 2026 Valentine’s Day gift guide (for him)",
+      "original_summary": "Valentine's Day is often thought of as the quintessential Hallmark holiday - and why wouldn't it be? Most of the time, it's marketed to us with massive floral arrangements and heart-shaped chocolates, both of which can come off as borderline twee. But no one says you have to play by the rulebook whe",
+      "fantasy_headline": "The Chronicler's Guide to Festival of Hearts Tokens",
+      "fantasy_story": "The Festival of Hearts is often seen as a merchant's fete, filled with lavish enchanted blooms and candied hearts. But one need not follow the usual customs! The Chronicler's Scroll offers unique ideas for tokens of affection for your beloved, moving beyond the usual trinkets.",
+      "tag": "kingdom"
     }
   ]
 }
