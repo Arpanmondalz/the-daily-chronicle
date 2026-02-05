@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04 16:48:03",
+  "last_updated": "2026-02-05 08:42:20",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260204042457.htm",
@@ -7,8 +7,8 @@
       "reason": null,
       "original_headline": "Melting Antarctic ice may weaken a major carbon sink",
       "original_summary": "Melting ice from West Antarctica once delivered huge amounts of iron to the Southern Ocean, but algae growth did not increase as expected. Researchers found the iron was in a form that marine life could not easily use. This means more melting ice does not automatically boost carbon absorption. In th",
-      "fantasy_headline": "Glacial Melts Don't Aid Sea Flora's Vital Breath Absorption",
-      "fantasy_story": "Wizards of the Ice discovered that elemental dust from melting glacial floes in the Great Southern Sea did not help the sea flora as expected. The nourishing ore was in a form the marine creatures could not easily use. This means more melting ice won't automatically boost nature's vital essence absorption.",
+      "fantasy_headline": "Southern Ice Unveils Secret of the Dark Humors",
+      "fantasy_story": "Wizards studying the great Southern Ice Barrier found its melting waters carried much dark earth-metal to the ocean. Yet, the sea moss did not flourish as hoped. They learned the metal was not easily used by deep-sea creatures, meaning the ocean's power to absorb dark humors from the air isn't automatically strengthened by the melting ice.",
       "tag": "nature"
     },
     {
@@ -17,29 +17,29 @@
       "reason": null,
       "original_headline": "MIT's new brain tool could finally explain consciousness",
       "original_summary": "Scientists still don’t know how the brain turns physical activity into thoughts, feelings, and awareness—but a powerful new tool may help crack the mystery. Researchers at MIT are exploring transcranial focused ultrasound, a noninvasive technology that can precisely stimulate deep regions of the bra",
-      "fantasy_headline": "New Arcane Device May Unravel the Soul's Mystery",
-      "fantasy_story": "Arch-Alchemists at the Grand Academy of Arcane Arts are still baffled by how the mind-orb creates inner light and awareness. A powerful new whispering orb, using sonic enchantments, might finally crack this mystery. This device can gently stir deep regions of the mind without harm.",
+      "fantasy_headline": "New Mind-Artifact May Unravel the Secret of Waking Dreams",
+      "fantasy_story": "The Scholars of the Grey Tower have long wondered how our flesh sparks thought and soul. Now, they've unveiled a cunning new artifact: a focused sound-spell. This device can gently stir the deepest chambers of the mind-orb, offering hope to finally understand the mystery of awareness itself.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/gadgets/873792/asus-vivobook-snapdragon-x-laptop-amd-ryzen-switch-2-deal-sale",
+      "id": "https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis",
       "status": "published",
       "reason": null,
-      "original_headline": "The 14-inch, ARM-based Asus Vivobook is half off today",
-      "original_summary": "I’m typically reluctant to recommend budget-friendly laptops, particularly ones that run Windows, because they suck, more often than not. That’s beginning to change, thanks in part to last year’s introduction of the Snapdragon X-series processors that offer solid performance and good x86 and x64 app",
-      "fantasy_headline": "Asus Clan's Enchanted Scrying Tablet Now Half Price!",
-      "fantasy_story": "The Vivobook scrying tablet, powered by a swift wind-spirit, is available at a grand merchant sale today! These enchanted slates, often costly, are now a rare bargain for adventurers and scholars alike. Thanks to the new Dragon-heart crystals, these tablets offer swift workings and reliable scroll-OS compatibility.",
+      "original_headline": "Valve’s Steam Machine has been delayed, and the RAM crisis will impact pricing",
+      "original_summary": "When Valve first announced its impressive-looking Steam Machine, Steam Frame, and Steam Controller hardware in November, the company said the products would begin shipping in early 2026. Some journalists were told \"Q1 2026\" specifically. But because of the ongoing memory and storage crunch, that lau",
+      "fantasy_headline": "Valve Guild's Marvels Delayed Due to Arcane Component Scarcity",
+      "fantasy_story": "The Valve Crafting Guild announced its wondrous Steam Golem and Vision Frame would be delayed. They had promised these mechanical marvels by early next year. However, a widespread scarcity of vital arcane components will both postpone delivery and raise the cost in gold coins.",
       "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/gadgets/865396/valentines-day-2026-gift-ideas-for-him-boyfriend-husband-partner",
+      "id": "https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings",
       "status": "published",
       "reason": null,
-      "original_headline": "The Verge’s 2026 Valentine’s Day gift guide (for him)",
-      "original_summary": "Valentine's Day is often thought of as the quintessential Hallmark holiday - and why wouldn't it be? Most of the time, it's marketed to us with massive floral arrangements and heart-shaped chocolates, both of which can come off as borderline twee. But no one says you have to play by the rulebook whe",
-      "fantasy_headline": "The Chronicler's Guide to Festival of Hearts Tokens",
-      "fantasy_story": "The Festival of Hearts is often seen as a merchant's fete, filled with lavish enchanted blooms and candied hearts. But one need not follow the usual customs! The Chronicler's Scroll offers unique ideas for tokens of affection for your beloved, moving beyond the usual trinkets.",
-      "tag": "kingdom"
+      "original_headline": "Google&#8217;s annual revenue tops $400 billion for the first time",
+      "original_summary": "Google's parent company, Alphabet, has earned more than $400 billion in annual revenue for the first time. The company announced the milestone as part of its Q4 2025 earnings report released on Wednesday, which highlights the 15 percent year-over-year increase as its cloud business and YouTube conti",
+      "fantasy_headline": "Grand Alphabet Guild Achieves Record Gold Haul!",
+      "fantasy_story": "The Grand Alphabet Mercantile Guild announced a truly astounding feat. Their yearly earnings in gold exceeded four hundred million shining gold coins for the first time ever! This grand achievement was thanks to the continued success of their distant sky-scribing services and wondrous crystal-gazing orbs.",
+      "tag": "merchants"
     }
   ]
 }
