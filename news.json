@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05 13:02:13",
+  "last_updated": "2026-02-05 16:49:39",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260205050039.htm",
@@ -7,39 +7,39 @@
       "reason": "",
       "original_headline": "Scientists discover hidden deep-Earth structures shaping the magnetic field",
       "original_summary": "Deep inside Earth, two massive hot rock structures have been quietly shaping the planet’s magnetic field for millions of years. Using ancient magnetic records and advanced simulations, scientists discovered that these formations influence the movement of liquid iron in Earth’s core. Some parts of th",
-      "fantasy_headline": "Alchemists Uncover Deep-Earth Formations Guiding the World's Magic Aura",
-      "fantasy_story": "The Grand Order of Alchemists has unearthed ancient, hidden rock structures deep within the world. For ages, these massive formations have quietly guided the planet's protective magical aura. Using old records and powerful scrying, they found these structures influence the molten heart's flow, shaping our world's magic.",
+      "fantasy_headline": "Ancient Earth-Giants Stir the Planet's Magical Aura!",
+      "fantasy_story": "Wise Alchemists have found two colossal rock forms deep within the world, quietly guiding the Earth's magical aura for ages. Using old enchanted maps and mystical visions, they learned these giants sway the molten heart of the world. Their powerful magic shapes the very ley lines we rely on.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260204114144.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260204121542.htm",
       "status": "published",
       "reason": "",
-      "original_headline": "Two-month-old babies are already making sense of the world",
-      "original_summary": "At just two months old, babies are already organizing the world in their minds. Brain scans revealed distinct patterns as infants looked at pictures of animals, toys, and everyday objects, showing early category recognition. Scientists used AI to help decode these patterns, offering a rare glimpse i",
-      "fantasy_headline": "Even Youngest Babes Begin to Unravel the World's Mysteries",
-      "fantasy_story": "Even at two moons old, the youngest villagers are already making sense of the world. Enchanted scrying revealed distinct thought-patterns as infants gazed at images of beasts and trinkets. Wizards used clever automatons to decode these patterns, offering a rare glimpse into the budding wisdom of the realm's newest inhabitants.",
+      "original_headline": "Endangered sea turtles hear ship noise loud and clear",
+      "original_summary": "Kemp’s ridley sea turtles, one of the most endangered sea turtle species on Earth, live in some of the noisiest waters on the planet, right alongside major shipping routes. New research reveals that these turtles are especially sensitive to low-frequency sounds—the same rumbling tones produced by sh",
+      "fantasy_headline": "Rare Sea Guardians Disturbed by Loud Merchant Vessels.",
+      "fantasy_story": "The gentle, ancient Sea Guardians, known as Kemp's ridleys, face peril in the loudest ocean paths near busy trade routes. Marine Wizards discovered these rare creatures hear the deep rumbling of great merchant vessels all too clearly. This constant din troubles their peaceful existence in the vast waters.",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.theverge.com/tech/874439/nvidia-rtx-50-super-60-series-delay",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Nvidia&#8217;s RTX 50-series Super refresh is delayed, and the RTX 60-series might miss 2027",
+      "original_summary": "The Super refresh to Nvidia's RTX 50-series GPUs was expected at CES 2026 in January, but it didn't make an appearance. The Information reports that in December, Nvidia managers decided not to release the new cards as scheduled, choosing to prioritize AI chips instead due to the limited supply of RA",
+      "fantasy_headline": "Grand Forgemasters Delay New Scrying Mirrors for Magical Golems.",
+      "fantasy_story": "The renowned Forgemasters of the Silicon Peaks have postponed their next line of enchanted viewing crystals, the 'RTX 50-series Super'. Guild elders chose to focus their rare Etherium crystal supply on crafting more powerful calculating golems instead. Thus, even the mighty 'RTX 60-series' might not appear by the year 2027.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/games/874434/playstation-sony-horizon-hunters-gathering-live-service-ps5-pc",
+      "status": "published",
+      "reason": "",
+      "original_headline": "PlayStation’s live service push continues with a co-op Horizon spinoff",
+      "original_summary": "Sony is expanding its Horizon universe again with Horizon Hunters Gathering, a \"cooperative action game\" in development by franchise creator Guerrilla for PS5 and PC. Horizon Hunters Gathering lets \"up to three players team up as heroic Hunters to protect a world under threat from deadly machines,\" ",
+      "fantasy_headline": "New Adventure Announced: Heroes Unite to Battle Clockwork Beasts!",
+      "fantasy_story": "The Scrollkeepers' Guild of Sony has unveiled a grand new quest in the lands of the Sundered Dawn. Titled \"Horizon Hunters Gathering,\" this co-operative adventure allows up to three brave heroes to join forces. Together, they will defend the world from fearsome ancient clockwork beasts, playable on enchanted viewing orbs.",
       "tag": "kingdom"
-    },
-    {
-      "id": "https://www.theverge.com/entertainment/874134/spotify-page-match-audiobook-sync",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Spotify’s Page Match syncs your audiobooks and your physical ones",
-      "original_summary": "Spotify has launched a new feature called Page Match that lets you quickly sync your spot in a physical or ebook with an audiobook. Point your camera at a page, and the Spotify app uses computer vision to match text with audio. If you have to jump behind the wheel for a long drive, but […]",
-      "fantasy_headline": "The Bardic Circle Unveils a New Enchantment for Scroll Synchronization",
-      "fantasy_story": "The Bardic Circle has revealed a clever new enchantment, the Lore Link. This magic allows one to quickly find their place between a leather-bound tome and a speaking scroll. Pointing a scrying crystal at a page lets the enchantment's golem read the text and match it with the bard's recitation.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/entertainment/874150/spotify-bookshop-org-physical-books",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Spotify is partnering with Bookshop.org to sell physical books",
-      "original_summary": "Spotify is going all in on books in 2026 and partnering with Bookshop.org to let you buy physical copies of audiobooks and support local retailers starting in the Spring. The announcement dovetails with the launch of Page Match, a new feature that lets you sync physical books and ebooks with audiobo",
-      "fantasy_headline": "The Bardic Circle Joins Scribes to Offer More Ancient Tomes",
-      "fantasy_story": "The Bardic Circle is expanding its offerings and has partnered with the Scribes' Consortium to sell actual leather-bound tomes. This alliance will allow patrons to purchase physical copies of their favorite speaking scrolls and help support local scroll-merchants. This news comes just after the Lore Link enchantment was revealed.",
-      "tag": "merchants"
     }
   ]
 }
