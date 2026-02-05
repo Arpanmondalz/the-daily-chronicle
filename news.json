@@ -1,44 +1,44 @@
 {
-  "last_updated": "2026-02-05 08:42:20",
+  "last_updated": "2026-02-05 13:02:13",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260204042457.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260205050039.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "Melting Antarctic ice may weaken a major carbon sink",
-      "original_summary": "Melting ice from West Antarctica once delivered huge amounts of iron to the Southern Ocean, but algae growth did not increase as expected. Researchers found the iron was in a form that marine life could not easily use. This means more melting ice does not automatically boost carbon absorption. In th",
-      "fantasy_headline": "Southern Ice Unveils Secret of the Dark Humors",
-      "fantasy_story": "Wizards studying the great Southern Ice Barrier found its melting waters carried much dark earth-metal to the ocean. Yet, the sea moss did not flourish as hoped. They learned the metal was not easily used by deep-sea creatures, meaning the ocean's power to absorb dark humors from the air isn't automatically strengthened by the melting ice.",
-      "tag": "nature"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260203030554.htm",
-      "status": "published",
-      "reason": null,
-      "original_headline": "MIT's new brain tool could finally explain consciousness",
-      "original_summary": "Scientists still don’t know how the brain turns physical activity into thoughts, feelings, and awareness—but a powerful new tool may help crack the mystery. Researchers at MIT are exploring transcranial focused ultrasound, a noninvasive technology that can precisely stimulate deep regions of the bra",
-      "fantasy_headline": "New Mind-Artifact May Unravel the Secret of Waking Dreams",
-      "fantasy_story": "The Scholars of the Grey Tower have long wondered how our flesh sparks thought and soul. Now, they've unveiled a cunning new artifact: a focused sound-spell. This device can gently stir the deepest chambers of the mind-orb, offering hope to finally understand the mystery of awareness itself.",
+      "reason": "",
+      "original_headline": "Scientists discover hidden deep-Earth structures shaping the magnetic field",
+      "original_summary": "Deep inside Earth, two massive hot rock structures have been quietly shaping the planet’s magnetic field for millions of years. Using ancient magnetic records and advanced simulations, scientists discovered that these formations influence the movement of liquid iron in Earth’s core. Some parts of th",
+      "fantasy_headline": "Alchemists Uncover Deep-Earth Formations Guiding the World's Magic Aura",
+      "fantasy_story": "The Grand Order of Alchemists has unearthed ancient, hidden rock structures deep within the world. For ages, these massive formations have quietly guided the planet's protective magical aura. Using old records and powerful scrying, they found these structures influence the molten heart's flow, shaping our world's magic.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/games/874196/valve-steam-machine-frame-controller-delay-pricing-memory-crisis",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260204114144.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "Valve’s Steam Machine has been delayed, and the RAM crisis will impact pricing",
-      "original_summary": "When Valve first announced its impressive-looking Steam Machine, Steam Frame, and Steam Controller hardware in November, the company said the products would begin shipping in early 2026. Some journalists were told \"Q1 2026\" specifically. But because of the ongoing memory and storage crunch, that lau",
-      "fantasy_headline": "Valve Guild's Marvels Delayed Due to Arcane Component Scarcity",
-      "fantasy_story": "The Valve Crafting Guild announced its wondrous Steam Golem and Vision Frame would be delayed. They had promised these mechanical marvels by early next year. However, a widespread scarcity of vital arcane components will both postpone delivery and raise the cost in gold coins.",
-      "tag": "merchants"
+      "reason": "",
+      "original_headline": "Two-month-old babies are already making sense of the world",
+      "original_summary": "At just two months old, babies are already organizing the world in their minds. Brain scans revealed distinct patterns as infants looked at pictures of animals, toys, and everyday objects, showing early category recognition. Scientists used AI to help decode these patterns, offering a rare glimpse i",
+      "fantasy_headline": "Even Youngest Babes Begin to Unravel the World's Mysteries",
+      "fantasy_story": "Even at two moons old, the youngest villagers are already making sense of the world. Enchanted scrying revealed distinct thought-patterns as infants gazed at images of beasts and trinkets. Wizards used clever automatons to decode these patterns, offering a rare glimpse into the budding wisdom of the realm's newest inhabitants.",
+      "tag": "kingdom"
     },
     {
-      "id": "https://www.theverge.com/news/874161/google-400-billion-revenue-q4-2025-earnings",
+      "id": "https://www.theverge.com/entertainment/874134/spotify-page-match-audiobook-sync",
       "status": "published",
-      "reason": null,
-      "original_headline": "Google&#8217;s annual revenue tops $400 billion for the first time",
-      "original_summary": "Google's parent company, Alphabet, has earned more than $400 billion in annual revenue for the first time. The company announced the milestone as part of its Q4 2025 earnings report released on Wednesday, which highlights the 15 percent year-over-year increase as its cloud business and YouTube conti",
-      "fantasy_headline": "Grand Alphabet Guild Achieves Record Gold Haul!",
-      "fantasy_story": "The Grand Alphabet Mercantile Guild announced a truly astounding feat. Their yearly earnings in gold exceeded four hundred million shining gold coins for the first time ever! This grand achievement was thanks to the continued success of their distant sky-scribing services and wondrous crystal-gazing orbs.",
+      "reason": "",
+      "original_headline": "Spotify’s Page Match syncs your audiobooks and your physical ones",
+      "original_summary": "Spotify has launched a new feature called Page Match that lets you quickly sync your spot in a physical or ebook with an audiobook. Point your camera at a page, and the Spotify app uses computer vision to match text with audio. If you have to jump behind the wheel for a long drive, but […]",
+      "fantasy_headline": "The Bardic Circle Unveils a New Enchantment for Scroll Synchronization",
+      "fantasy_story": "The Bardic Circle has revealed a clever new enchantment, the Lore Link. This magic allows one to quickly find their place between a leather-bound tome and a speaking scroll. Pointing a scrying crystal at a page lets the enchantment's golem read the text and match it with the bard's recitation.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/entertainment/874150/spotify-bookshop-org-physical-books",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Spotify is partnering with Bookshop.org to sell physical books",
+      "original_summary": "Spotify is going all in on books in 2026 and partnering with Bookshop.org to let you buy physical copies of audiobooks and support local retailers starting in the Spring. The announcement dovetails with the launch of Page Match, a new feature that lets you sync physical books and ebooks with audiobo",
+      "fantasy_headline": "The Bardic Circle Joins Scribes to Offer More Ancient Tomes",
+      "fantasy_story": "The Bardic Circle is expanding its offerings and has partnered with the Scribes' Consortium to sell actual leather-bound tomes. This alliance will allow patrons to purchase physical copies of their favorite speaking scrolls and help support local scroll-merchants. This news comes just after the Lore Link enchantment was revealed.",
       "tag": "merchants"
     }
   ]
