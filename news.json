@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-02-06 12:59:02",
+  "last_updated": "2026-02-06 16:43:45",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260205050039.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260206020850.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "Scientists discover hidden deep-Earth structures shaping the magnetic field",
-      "original_summary": "Deep inside Earth, two massive hot rock structures have been quietly shaping the planet’s magnetic field for millions of years. Using ancient magnetic records and advanced simulations, scientists discovered that these formations influence the movement of liquid iron in Earth’s core. Some parts of th",
-      "fantasy_headline": "Wizards Uncover Ancient Earth-Heart Secrets Shaping Magic Shield!",
-      "fantasy_story": "Deep within the World-Heart, two vast, fiery stone formations have long guided the land's protective magical aura. Using ancient divinations and enchanted models, the Wizards' Guild discovered these structures influence the flow of molten magical metals in the core. This explains how the realm's shield has been sustained for eons.",
+      "reason": "",
+      "original_headline": "Scientists found a sugar that could defeat deadly superbugs",
+      "original_summary": "Scientists in Australia have uncovered a clever new way to fight some of the most dangerous drug-resistant bacteria by targeting a sugar that exists only on bacterial cells. By designing antibodies that recognize this unique sugar, researchers were able to guide the immune system to attack and elimi",
+      "fantasy_headline": "Alchemists Uncover Sweet Spell to Vanquish Dreadful Blight!",
+      "fantasy_story": "Wise Alchemists from the Sunken Isles have discovered a cunning way to fight the most dangerous plagues. They found a unique, enchanted sugar found only on the dark blight creatures. By crafting special spirit guides that recognize this sugar, they can awaken the body's defenses to banish the sickness.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260204121552.htm",
+      "id": "https://www.theverge.com/tech/874792/the-alexa-app-is-so-bad-im-using-siri-again",
       "status": "published",
-      "reason": null,
-      "original_headline": "Mars’ water mystery may have a simple ice answer",
-      "original_summary": "Scientists have found that ancient Martian lakes could have survived for decades despite freezing air temperatures. Using a newly adapted climate model, researchers showed that thin, seasonal ice could trap heat and protect liquid water beneath. These lakes may have gently melted and refrozen each y",
-      "fantasy_headline": "Sky-Wizards Unravel Red Planet's Icy Lake Enigma!",
-      "fantasy_story": "Astrologers have pondered how the Red Planet's ancient sacred pools survived decades of biting frost. Using new arcane weather-charts, the Sky-Wizards revealed thin, seasonal ice sheets trapped warmth, protecting the liquid waters below. These mystical lakes likely thawed and refroze gently with the seasons.",
-      "tag": "nature"
+      "reason": "",
+      "original_headline": "The Alexa app is so bad I&#8217;m using Siri again",
+      "original_summary": "I've used Alexa to manage my shopping list for years. There are plenty of great list apps out there, but the convenience of adding items by voice anywhere in my house, pulling up the list on an Echo Show in the kitchen, and having it on my phone via the Alexa app has worked well […]",
+      "fantasy_headline": "Troubled Merchant Renounces Grumpy Spirit for Friendlier Helper!",
+      "fantasy_story": "A village merchant, reliant on the Echo-Whisperer's enchanted parchment for market provisions, grew weary of its grumbling spirit. The old scrying mirror in his kitchen and his pocket orb once worked well for voice commands. Now, he plans to consult a more cheerful sprite to manage his important ledger.",
+      "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/policy/874746/tiktok-addictive-eu-regulators-infinite-scroll-notifications-autoplay",
+      "id": "https://www.theverge.com/tech/874494/analogue-3d-4k-n64-console-prototype-limited-editions",
       "status": "published",
-      "reason": null,
-      "original_headline": "TikTok&#8217;s infinite scroll is too addictive, say EU regulators",
-      "original_summary": "EU regulators have declared that TikTok's \"addictive design\" may put it in breach of the Digital Services Act (DSA), in the preliminary results of an ongoing investigation into the social media app. If those findings are confirmed, TikTok could face a major fine and be required to \"change the basic ",
-      "fantasy_headline": "Royal Censors Warn: The Whispering Crystal's Charms Are Too Potent!",
-      "fantasy_story": "The Elder Council declared that the Scrying Glass of Many Visions wields enchantments too binding, violating the Ancient Scrolls of Fair Commerce. Its endless parade of illusions causes folk to stare fixedly for hours. If confirmed, the Guild of Whispering Crystals may face a hefty tribute of gold coins and be forced to alter its magic.",
+      "reason": "",
+      "original_headline": "Analogue’s 4K N64 is getting five new transparent color options",
+      "original_summary": "Analogue has announced another collection of limited-edition colors for its modern remake of the Nintendo 64. Last December it introduced several transparent versions of the Analogue 3D inspired by Nintendo's Funtastic N64 series, but this time the company says it drew inspiration from colored versi",
+      "fantasy_headline": "Artisan Guild Unveils New Gemstone Casings for Chrono-Play Artifacts!",
+      "fantasy_story": "The skilled Artisan's Guild has revealed a new collection of rare, enchanted casings for their renowned Chrono-Play Artifacts. After last season's clear crystal versions, these new designs draw inspiration from vibrant gemstones and ancient lore. Only a select few will be able to acquire these dazzling, limited-edition relics.",
       "tag": "magic"
     }
   ]
