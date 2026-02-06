@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-05 20:33:52",
+  "last_updated": "2026-02-06 08:41:02",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260205050039.htm",
@@ -7,29 +7,39 @@
       "reason": "",
       "original_headline": "Scientists discover hidden deep-Earth structures shaping the magnetic field",
       "original_summary": "Deep inside Earth, two massive hot rock structures have been quietly shaping the planet’s magnetic field for millions of years. Using ancient magnetic records and advanced simulations, scientists discovered that these formations influence the movement of liquid iron in Earth’s core. Some parts of th",
-      "fantasy_headline": "Wizards Uncover Ancient Earth-Heart's Secret Magnetic Influence!",
-      "fantasy_story": "Deep within the world's core, powerful Alchemists have found two vast, hot rock formations. These ancient structures have quietly woven the planet's protective magical aura for eons. Using old scrolls and scrying pools, they learned these formations guide the liquid metal heart of the world.",
+      "fantasy_headline": "Wizards Uncover Hidden Magic Shaping World's Aura!",
+      "fantasy_story": "Grand Alchemists, studying ancient geomantic scrolls, have found two colossal hot rock structures deep within the world. These hidden formations have quietly influenced the Earth's protective magical aura for eons. They subtly guide the molten heart of the world, ensuring its ancient enchantments remain strong.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260204121542.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260204121552.htm",
       "status": "published",
       "reason": "",
-      "original_headline": "Endangered sea turtles hear ship noise loud and clear",
-      "original_summary": "Kemp’s ridley sea turtles, one of the most endangered sea turtle species on Earth, live in some of the noisiest waters on the planet, right alongside major shipping routes. New research reveals that these turtles are especially sensitive to low-frequency sounds—the same rumbling tones produced by sh",
-      "fantasy_headline": "Rare Sea Turtles Hear Merchant Ships Too Clearly!",
-      "fantasy_story": "Druids have discovered that the rare Kemp's ridley sea turtles, precious scaled swimmers of the deep, dwell in the noisiest sea lanes. These gentle beasts, already few in number, are surprisingly sensitive to the deep rumble of bustling merchant vessels. The druids seek ways to quiet the waters for their ancient kin.",
+      "original_headline": "Mars’ water mystery may have a simple ice answer",
+      "original_summary": "Scientists have found that ancient Martian lakes could have survived for decades despite freezing air temperatures. Using a newly adapted climate model, researchers showed that thin, seasonal ice could trap heat and protect liquid water beneath. These lakes may have gently melted and refrozen each y",
+      "fantasy_headline": "Sky-Gazers Solve Red Realm's Ancient Water Riddle!",
+      "fantasy_story": "The Sky-Gazers' Guild has unveiled a secret about the Red Realm's ancient water pools. Despite the freezing winds, these lakes may have lasted for many decades. Thin layers of magical ice trapped warmth, protecting the liquid waters beneath and allowing them to gently melt and refreeze each year.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/gadgets/874509/anker-laptop-power-bank-google-pixel-watch-4-deal-sale",
+      "id": "https://www.theverge.com/entertainment/874682/hbo-baldurs-gate-3-tv-show-craig-mazin",
       "status": "published",
       "reason": "",
-      "original_headline": "One of the best laptop power banks available is cheaper than ever",
-      "original_summary": "If you often travel with your gadgets, a fast, reliable portable battery like Anker’s Laptop Power Bank is a worthwhile purchase. Right now, you can buy the silver model at its all-time low price of $87.99 ($47 off) from Anker via Newegg when you apply promo code ENCF232 at checkout. Alternatively, ",
-      "fantasy_headline": "Anker's Magical Charging Stone Now Costs Fewer Gold Coins!",
-      "fantasy_story": "Travelers often carry many enchanted tools, and a reliable portable magical energy stone is essential. The renowned Anker's Guild of Artificers now offers their finest Laptop Charging Stone at its lowest price ever. This potent artifact, perfect for recharging your magical trinkets on long journeys, is a wise purchase for any adventurer.",
-      "tag": "merchants"
+      "original_headline": "HBO is turning Baldur’s Gate into a TV show",
+      "original_summary": "HBO is developing a Baldur's Gate TV show that will continue the story of Larian Studios' hit RPG Baldur's Gate 3, according to Deadline. The Last Of Us co-creator Craig Mazin will serve as the show's creator, writer, executive producer, and showrunner. While it's set to feature new protagonists, th",
+      "fantasy_headline": "Grand Scriptorium to Bring Legendary Baldur's Gate to Scrying Crystals!",
+      "fantasy_story": "The esteemed Scriptorium Guild is preparing to adapt the epic tales of Baldur's Gate into enchanted moving pictures. This new series will continue the grand adventures from the renowned Tale-weaving Clan. A master bard will oversee the saga, promising new heroes and thrilling quests for all to witness.",
+      "tag": "kingdom"
+    },
+    {
+      "id": "https://www.theverge.com/games/874675/roblox-earnings-q4-2025-increasing-adult-players",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Roblox is working to pull in adult players",
+      "original_summary": "After rolling out age verification last year, Roblox is aiming to grow the number of players over 18 on its platform. As noted in its 2025 year-end earnings report, 45 percent of Roblox's daily active users have completed an age check as of January 31st. Of those who have verified their age, 27 perc",
+      "fantasy_headline": "Enchanted Play-Realm Seeks More Grown Folk to Join the Fun!",
+      "fantasy_story": "The Dream-Weaver's Guild, masterminds of the grand Enchanted Play-Realm, are seeking more grown folk to join their magical lands. After implementing truth-telling charms to prove one's years, the Guild noted many seasoned adventurers are now exploring the Play-Realm. The Guild hopes to welcome even more adults to its wondrous, digital domains.",
+      "tag": "magic"
     }
   ]
 }
