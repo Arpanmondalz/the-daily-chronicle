@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-02-07 08:31:21",
+  "last_updated": "2026-02-07 12:48:40",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260206020850.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Scientists found a sugar that could defeat deadly superbugs",
       "original_summary": "Scientists in Australia have uncovered a clever new way to fight some of the most dangerous drug-resistant bacteria by targeting a sugar that exists only on bacterial cells. By designing antibodies that recognize this unique sugar, researchers were able to guide the immune system to attack and elimi",
-      "fantasy_headline": "Alchemists Discover Sweet Bane for Foul Blights!",
-      "fantasy_story": "The Alchemists' Guild has unearthed a clever new way to combat unseen blights that plague the lands. They found a unique arcane dust present only on these foul sprites. By crafting enchanted wards to recognize this dust, the alchemists guide the body's innate magic to cleanse the affliction.",
+      "fantasy_headline": "Wizards Discover Sweet Charm to Vanquish Dreadful Blights!",
+      "fantasy_story": "Alchemists from the Southern Isles have uncovered a magical sugar that defeats the most stubborn plagues. By crafting enchanted charms to seek out this sugar, they can guide the body's inner guardians to banish the sickness. This sweet discovery brings hope for many.",
       "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/gadgets/873589/valentines-day-gifts-aura-aspen-amazfit-active-2-deal-sale",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "We found 20 Verge-approved gifts on sale ahead of Valentine’s Day",
       "original_summary": "Valentine’s Day is coming up fast, and if you haven’t started shopping yet, there are a lot of great gifts on sale that should still arrive in time if you order soon. Several Verge-approved gadgets are seeing some of their best discounts since the holidays, with options we think will appeal to a wid",
-      "fantasy_headline": "Grand Bazaar Offers Charming Gifts for the Day of Hearts!",
-      "fantasy_story": "The annual Day of Hearts approaches swiftly, and the Guild of Merchants prepares a grand bazaar. Many delightful trinkets and enchanted artifacts are offered at special coin discounts. These charming items are perfect for showing affection to loved ones before the celebrations begin.",
+      "fantasy_headline": "Renowned Merchants Announce Bargains for the Day of Love!",
+      "fantasy_story": "With the Feast of Hearts drawing near, the Gilded Hand Guild has revealed many delightful trinkets on sale. Patrons can find enchanted artifacts and tokens of affection at special discounts. These splendid gifts are sure to arrive swiftly for your beloved.",
       "tag": "merchants"
     },
     {
       "id": "https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Apple might let you use ChatGPT from CarPlay",
       "original_summary": "CarPlay users could soon be able to use their chatbot of choice instead of Siri. As Bloomberg reports, Apple is working to add support for CarPlay voice control apps from OpenAI, Anthropic, Google, and others. Previously, users who wanted to access third-party chatbots in the car would need to go th",
-      "fantasy_headline": "Arcane Road Guides May Soon Hear Many Speaking Spirits!",
-      "fantasy_story": "The Grand Artificers' Guild whispers of a new enchantment for their Arcane Road Guides. Soon, travelers might choose which speaking spirit or oracle answers their spoken spell commands. This means more magical wisdom could aid journeys, beyond the usual familiar voices.",
+      "fantasy_headline": "Golden Apple Clan's Carriages to Speak with New Oracle-Echoes!",
+      "fantasy_story": "The Grand Artificers of the Golden Apple Clan plan to allow other renowned enchanters' Whispering Spirits within their enchanted carriages. Soon, travelers can choose which Oracle-Echo answers their verbal commands, rather than only the clan's own Speaking Servant. This magic will make journeys even more convenient.",
       "tag": "magic"
     }
   ]
