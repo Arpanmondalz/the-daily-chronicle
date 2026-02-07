@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-02-06 16:43:45",
+  "last_updated": "2026-02-07 08:31:21",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260206020850.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Scientists found a sugar that could defeat deadly superbugs",
       "original_summary": "Scientists in Australia have uncovered a clever new way to fight some of the most dangerous drug-resistant bacteria by targeting a sugar that exists only on bacterial cells. By designing antibodies that recognize this unique sugar, researchers were able to guide the immune system to attack and elimi",
-      "fantasy_headline": "Alchemists Uncover Sweet Spell to Vanquish Dreadful Blight!",
-      "fantasy_story": "Wise Alchemists from the Sunken Isles have discovered a cunning way to fight the most dangerous plagues. They found a unique, enchanted sugar found only on the dark blight creatures. By crafting special spirit guides that recognize this sugar, they can awaken the body's defenses to banish the sickness.",
+      "fantasy_headline": "Alchemists Discover Sweet Bane for Foul Blights!",
+      "fantasy_story": "The Alchemists' Guild has unearthed a clever new way to combat unseen blights that plague the lands. They found a unique arcane dust present only on these foul sprites. By crafting enchanted wards to recognize this dust, the alchemists guide the body's innate magic to cleanse the affliction.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/874792/the-alexa-app-is-so-bad-im-using-siri-again",
+      "id": "https://www.theverge.com/gadgets/873589/valentines-day-gifts-aura-aspen-amazfit-active-2-deal-sale",
       "status": "published",
-      "reason": "",
-      "original_headline": "The Alexa app is so bad I&#8217;m using Siri again",
-      "original_summary": "I've used Alexa to manage my shopping list for years. There are plenty of great list apps out there, but the convenience of adding items by voice anywhere in my house, pulling up the list on an Echo Show in the kitchen, and having it on my phone via the Alexa app has worked well […]",
-      "fantasy_headline": "Troubled Merchant Renounces Grumpy Spirit for Friendlier Helper!",
-      "fantasy_story": "A village merchant, reliant on the Echo-Whisperer's enchanted parchment for market provisions, grew weary of its grumbling spirit. The old scrying mirror in his kitchen and his pocket orb once worked well for voice commands. Now, he plans to consult a more cheerful sprite to manage his important ledger.",
+      "reason": null,
+      "original_headline": "We found 20 Verge-approved gifts on sale ahead of Valentine’s Day",
+      "original_summary": "Valentine’s Day is coming up fast, and if you haven’t started shopping yet, there are a lot of great gifts on sale that should still arrive in time if you order soon. Several Verge-approved gadgets are seeing some of their best discounts since the holidays, with options we think will appeal to a wid",
+      "fantasy_headline": "Grand Bazaar Offers Charming Gifts for the Day of Hearts!",
+      "fantasy_story": "The annual Day of Hearts approaches swiftly, and the Guild of Merchants prepares a grand bazaar. Many delightful trinkets and enchanted artifacts are offered at special coin discounts. These charming items are perfect for showing affection to loved ones before the celebrations begin.",
       "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/tech/874494/analogue-3d-4k-n64-console-prototype-limited-editions",
+      "id": "https://www.theverge.com/transportation/875199/apple-carplay-third-party-chatbots-rumor",
       "status": "published",
-      "reason": "",
-      "original_headline": "Analogue’s 4K N64 is getting five new transparent color options",
-      "original_summary": "Analogue has announced another collection of limited-edition colors for its modern remake of the Nintendo 64. Last December it introduced several transparent versions of the Analogue 3D inspired by Nintendo's Funtastic N64 series, but this time the company says it drew inspiration from colored versi",
-      "fantasy_headline": "Artisan Guild Unveils New Gemstone Casings for Chrono-Play Artifacts!",
-      "fantasy_story": "The skilled Artisan's Guild has revealed a new collection of rare, enchanted casings for their renowned Chrono-Play Artifacts. After last season's clear crystal versions, these new designs draw inspiration from vibrant gemstones and ancient lore. Only a select few will be able to acquire these dazzling, limited-edition relics.",
+      "reason": null,
+      "original_headline": "Apple might let you use ChatGPT from CarPlay",
+      "original_summary": "CarPlay users could soon be able to use their chatbot of choice instead of Siri. As Bloomberg reports, Apple is working to add support for CarPlay voice control apps from OpenAI, Anthropic, Google, and others. Previously, users who wanted to access third-party chatbots in the car would need to go th",
+      "fantasy_headline": "Arcane Road Guides May Soon Hear Many Speaking Spirits!",
+      "fantasy_story": "The Grand Artificers' Guild whispers of a new enchantment for their Arcane Road Guides. Soon, travelers might choose which speaking spirit or oracle answers their spoken spell commands. This means more magical wisdom could aid journeys, beyond the usual familiar voices.",
       "tag": "magic"
     }
   ]
