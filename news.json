@@ -1,35 +1,35 @@
 {
-  "last_updated": "2026-02-08 08:33:07",
+  "last_updated": "2026-02-08 12:50:23",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/02/260208011026.htm",
+      "status": "published",
+      "reason": "",
+      "original_headline": "New drug resets the body clock and cuts jet lag recovery nearly in half",
+      "original_summary": "Scientists have identified a promising new compound, Mic-628, that can reliably shift the body’s internal clock forward—something that’s notoriously hard to do. By targeting a key clock-control protein, Mic-628 jump-starts the gene that sets daily rhythms, synchronizing both the brain’s master clock",
+      "fantasy_headline": "Alchemists Brew Potion to Mend Weary Travelers' Rhythms!",
+      "fantasy_story": "The Alchemists' Guild has concocted a marvelous new elixir, \"Mic-628.\" This potent draught can swiftly realign one's inner rhythm, helping folk recover from long, arduous journeys much faster. Travelers weary from crossing vast lands will soon find their energy restored with ease, cutting their recovery time in half.",
+      "tag": "magic"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260208011024.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Scientists warn climate models are missing a key ocean player",
       "original_summary": "Tiny marine plankton that build calcium carbonate shells play an outsized role in regulating Earth’s climate, quietly pulling carbon from the atmosphere and helping lock it away in the deep ocean. New research shows these microscopic engineers are largely missing from the climate models used to fore",
-      "fantasy_headline": "Wizards Warn: Tiny Ocean Sprites Hold Key to Weather Prophecies!",
-      "fantasy_story": "The Order of Weather Wizards has discovered that their grand scrying charts are incomplete. They've overlooked a crucial player: tiny sea sprites who craft chalky shells. These microscopic creatures secretly draw dark humors from the air and store them deep beneath the waves, greatly influencing the realm's climate. Without them, prophecies may err.",
+      "fantasy_headline": "Sages Discover Tiny Ocean Sprites Hold Key to Realm's Balance!",
+      "fantasy_story": "Wise Sages and Seers have unveiled a crucial secret of the deep oceans. Tiny, shell-building sprites dwelling in the waters play a grand role in balancing the realm's air. These minuscule engineers pull dark humours from the skies, but their magic has been overlooked in the Grand Divination Scrying of the world's weather.",
       "tag": "nature"
     },
     {
       "id": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Super Bowl LX ads: all AI everything",
       "original_summary": "Super Bowl LX is nearly here, with the Seattle Seahawks taking on the New England Patriots. While Bad Bunny will be the star of the halftime show, AI could be the star of the commercial breaks, much like crypto was a few years ago. Last year’s Super Bowl featured a Google Gemini ad that fumbled […]",
-      "fantasy_headline": "Grand Tournament Enchantments: Magic Automatons Take Center Stage!",
-      "fantasy_story": "The realm prepares for the spectacular Grand Tournament of the Azure Hawks versus the Crimson Knights. While the Bard Bad Bunny will enthrall the halftime crowd, merchant guilds predict a new enchantment will steal the show: intelligent automatons. These magical creations are expected to weave captivating illusions during the breaks.",
+      "fantasy_headline": "Grand Tournament's Displays Showcase New Golem-Craft!",
+      "fantasy_story": "The realm prepares for the Grand Tournament, where the Baronies of Sea-Hawk and New-Englander will clash. While the minstrel Bad Bunny will charm the mid-match spectacle, it is the new golem-craft that will truly capture the crowd's eye. Merchants will use enchanted banners featuring these animated servants to promote their wares, much like spirit-driven coin-charms did seasons past.",
       "tag": "magic"
-    },
-    {
-      "id": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Japanese people brave snow to vote in snap election",
-      "original_summary": "A coalition led by Takaichi is expected to clinch a decisive win, according to polls.",
-      "fantasy_headline": "Eastern Folk Brave Blizzards to Elect New Council Leader!",
-      "fantasy_story": "Despite heavy snowfall blanketing the Eastern Isles, many brave villagers ventured forth to cast their votes. They sought to choose their next High Council leader in a sudden convocation. Whispers from the town criers suggest that the esteemed House Takaichi is set to win a clear victory.",
-      "tag": "kingdom"
     }
   ]
 }
