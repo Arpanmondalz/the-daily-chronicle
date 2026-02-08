@@ -1,22 +1,34 @@
 {
-  "last_updated": "2026-02-08 05:23:15",
+  "last_updated": "2026-02-08 08:33:07",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/02/260208011024.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Scientists warn climate models are missing a key ocean player",
+      "original_summary": "Tiny marine plankton that build calcium carbonate shells play an outsized role in regulating Earth’s climate, quietly pulling carbon from the atmosphere and helping lock it away in the deep ocean. New research shows these microscopic engineers are largely missing from the climate models used to fore",
+      "fantasy_headline": "Wizards Warn: Tiny Ocean Sprites Hold Key to Weather Prophecies!",
+      "fantasy_story": "The Order of Weather Wizards has discovered that their grand scrying charts are incomplete. They've overlooked a crucial player: tiny sea sprites who craft chalky shells. These microscopic creatures secretly draw dark humors from the air and store them deep beneath the waves, greatly influencing the realm's climate. Without them, prophecies may err.",
+      "tag": "nature"
+    },
     {
       "id": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
       "status": "published",
+      "reason": null,
       "original_headline": "Super Bowl LX ads: all AI everything",
       "original_summary": "Super Bowl LX is nearly here, with the Seattle Seahawks taking on the New England Patriots. While Bad Bunny will be the star of the halftime show, AI could be the star of the commercial breaks, much like crypto was a few years ago. Last year’s Super Bowl featured a Google Gemini ad that fumbled […]",
-      "fantasy_headline": "Royal Games Feature New Automaton Magic for Guild Messages",
-      "fantasy_story": "The Grand Tournament of the Sixtieth Season approaches! While the Bard Badicus Bunny will enchant the crowd, powerful new Construct Magic is set to dominate the enchanted announcements during breaks. Guilds will use these mystical displays, much like the arcane gold-coin spells of seasons past, to sway public favor.",
+      "fantasy_headline": "Grand Tournament Enchantments: Magic Automatons Take Center Stage!",
+      "fantasy_story": "The realm prepares for the spectacular Grand Tournament of the Azure Hawks versus the Crimson Knights. While the Bard Bad Bunny will enthrall the halftime crowd, merchant guilds predict a new enchantment will steal the show: intelligent automatons. These magical creations are expected to weave captivating illusions during the breaks.",
       "tag": "magic"
     },
     {
       "id": "https://www.bbc.com/news/articles/cx2y7d2z29xo?at_medium=RSS&at_campaign=rss",
       "status": "published",
+      "reason": null,
       "original_headline": "Japanese people brave snow to vote in snap election",
       "original_summary": "A coalition led by Takaichi is expected to clinch a decisive win, according to polls.",
-      "fantasy_headline": "Eastern Islanders Brave Blizzard for Sudden Royal Council Convocation",
-      "fantasy_story": "Despite a harsh blizzard, the diligent folk of the Eastern Isles ventured forth to cast their votes in a sudden convocation for the Royal Council. Whispers from the village seers and market scribes suggest the Takaichi Coalition is destined for a grand victory, promising new leadership for the lands.",
+      "fantasy_headline": "Eastern Folk Brave Blizzards to Elect New Council Leader!",
+      "fantasy_story": "Despite heavy snowfall blanketing the Eastern Isles, many brave villagers ventured forth to cast their votes. They sought to choose their next High Council leader in a sudden convocation. Whispers from the town criers suggest that the esteemed House Takaichi is set to win a clear victory.",
       "tag": "kingdom"
     }
   ]
