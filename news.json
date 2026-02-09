@@ -1,44 +1,34 @@
 {
-  "last_updated": "2026-02-09 08:53:07",
+  "last_updated": "2026-02-09 13:08:56",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260208233836.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260209064310.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Forests are changing fast and scientists are deeply concerned",
-      "original_summary": "Forests around the world are quietly transforming, and not for the better. A massive global analysis of more than 31,000 tree species reveals that forests are becoming more uniform, increasingly dominated by fast-growing “sprinter” trees, while slow-growing, long-lived species are disappearing. Thes",
-      "fantasy_headline": "Ancient Woodlands Transform, Worrying Forest Sages",
-      "fantasy_story": "The venerable Forest Sages are troubled by changes in the ancient woodlands. A grand study of countless tree kinds shows that the forests grow more uniform. Swift-sprout saplings now dominate, while the slow-growing, long-lived elder trees are sadly disappearing.",
+      "original_headline": "This popular diet was linked to a much lower stroke risk",
+      "original_summary": "A long-term study found that women who closely followed a Mediterranean diet had a much lower risk of stroke. The strongest benefits were seen in women who ate more plant-based foods, fish, and olive oil while cutting back on red meat and saturated fats. Their risk dropped across all major stroke ty",
+      "fantasy_headline": "Ancient Coastal Diet Wards Off Fainting Sickness!",
+      "fantasy_story": "Healer-wizards observed that women following the eating ways of the southern coasts had less risk of the fainting sickness. Those who favored greens, sea bounty, and blessed oils, while avoiding heavy meats, fared best. It seems wise food choices can bring powerful health blessings.",
       "tag": "nature"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260208233823.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260208233844.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Why this rust-like mineral is one of Earth’s best carbon vaults",
-      "original_summary": "A common iron mineral hiding in soil turns out to be far better at trapping carbon than scientists realized. Its surface isn’t uniform — it’s a nanoscale patchwork of positive and negative charges that can grab many different organic molecules. Instead of relying on a single weak attraction, the min",
-      "fantasy_headline": "Mystic Iron Stone Guards Earth's Dark Vapours!",
-      "fantasy_story": "Alchemists have discovered a common iron-hued stone hidden in the soil. This humble mineral is much better at sealing away dark vapours than previously thought. Its surface holds tiny, intricate enchantments that bind many different essences, making it a powerful guardian of the earth's magic.",
+      "original_headline": "Scientists were wrong for decades about DNA knots",
+      "original_summary": "Scientists have discovered that DNA behaves in a surprising way when squeezed through tiny nanopores, overturning a long-held assumption in genetics research. What researchers once thought were knots causing messy electrical signals turn out to be something else entirely: twisted coils called plecto",
+      "fantasy_headline": "Alchemists Uncover New Truths About Life's Essence-Strands!",
+      "fantasy_story": "For decades, the Alchemists of the Grand Library misread the essence-strands of life. They believed snarls caused messy arcane pulses when squeezed through whisper-thin conduits. Now, they've revealed these were not knots at all, but clever, twisted patterns within the strands themselves.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake",
+      "id": "https://www.theverge.com/streaming/875668/hbo-max-is-finally-launching-in-the-uk-next-month",
       "status": "published",
       "reason": null,
-      "original_headline": "OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax",
-      "original_summary": "As if OpenAI didn't have enough drama around the Super Bowl and advertising, as the game wound down, word spread of a \"leaked\" ad that actually wasn't leaked at all; it was just a fake. Screenshots of a now-deleted Reddit thread told the tale of a frustrated employee who, while posting about how ups",
-      "fantasy_headline": "Grand Artificers' New Scrying Orb Display Proves a Hoax!",
-      "fantasy_story": "Whispers spread through the market during the Festival of Champions about a 'leaked' grand display from the Grand Artificers' Guild. It spoke of new mystic earpieces and a glowing scrying orb. However, these tales were soon revealed to be mere trickery, a fabricated prophecy spread by disgruntled apprentices.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Super Bowl LX ads: all AI everything",
-      "original_summary": "Super Bowl LX is nearly here, with the Seattle Seahawks taking on the New England Patriots. While Bad Bunny will be the star of the halftime show, AI could be the star of the commercial breaks, much like crypto was a few years ago. Last year’s Super Bowl featured a Google Gemini ad that fumbled […]",
-      "fantasy_headline": "Grand Tourney to Showcase New Mystic Devices!",
-      "fantasy_story": "The Grand Tourney of Champions is almost upon us, with mighty Houses battling for glory. While a renowned Bard will charm the crowds, the merchant displays during intermissions might steal the show. Whispers suggest a wealth of new mystic devices and ancient enchantments will be unveiled, much like the Elven gold wonders of yesteryear.",
+      "original_headline": "HBO Max is finally launching in the UK next month",
+      "original_summary": "Warner Bros. Discovery has announced that streaming service HBO Max will make its long-awaited debut in the UK and Ireland on March 26th, having previously promised that a launch would happen in early 2026. Until now, most HBO content has been exclusively available in the UK through Sky or the strea",
+      "fantasy_headline": "Grand Scrying Pool of Aether-Visions Arrives in Northern Isles!",
+      "fantasy_story": "The Storyweavers' Guild announced that their long-awaited Grand Scrying Pool of Aether-Visions will finally unveil in the Northern Isles and Green Shores next month. For too long, tales from this pool were seen only through The Azure Eye Enchanters. Now, all can behold its wonders directly.",
       "tag": "magic"
     }
   ]
