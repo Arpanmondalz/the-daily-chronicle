@@ -1,44 +1,44 @@
 {
-  "last_updated": "2026-02-09 05:27:22",
+  "last_updated": "2026-02-09 08:53:07",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260208011026.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260208233836.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "New drug resets the body clock and cuts jet lag recovery nearly in half",
-      "original_summary": "Scientists have identified a promising new compound, Mic-628, that can reliably shift the body’s internal clock forward—something that’s notoriously hard to do. By targeting a key clock-control protein, Mic-628 jump-starts the gene that sets daily rhythms, synchronizing both the brain’s master clock",
-      "fantasy_headline": "Alchemists Brew Potion to Vanquish Traveler's Fatigue!",
-      "fantasy_story": "The esteemed Alchemists' Guild has concocted a powerful new elixir that resets one's internal sundial. This Arcane Elixir of Timely Tides helps weary travelers quickly recover from long journeys across distant lands. It can cut the time needed to adjust by nearly half, restoring balance to the body's mystical humors.",
-      "tag": "magic"
+      "reason": null,
+      "original_headline": "Forests are changing fast and scientists are deeply concerned",
+      "original_summary": "Forests around the world are quietly transforming, and not for the better. A massive global analysis of more than 31,000 tree species reveals that forests are becoming more uniform, increasingly dominated by fast-growing “sprinter” trees, while slow-growing, long-lived species are disappearing. Thes",
+      "fantasy_headline": "Ancient Woodlands Transform, Worrying Forest Sages",
+      "fantasy_story": "The venerable Forest Sages are troubled by changes in the ancient woodlands. A grand study of countless tree kinds shows that the forests grow more uniform. Swift-sprout saplings now dominate, while the slow-growing, long-lived elder trees are sadly disappearing.",
+      "tag": "nature"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260208011024.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260208233823.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Scientists warn climate models are missing a key ocean player",
-      "original_summary": "Tiny marine plankton that build calcium carbonate shells play an outsized role in regulating Earth’s climate, quietly pulling carbon from the atmosphere and helping lock it away in the deep ocean. New research shows these microscopic engineers are largely missing from the climate models used to fore",
-      "fantasy_headline": "Sages Discover Missing Element in Realm's Weather Prophecies!",
-      "fantasy_story": "Master Sages warn that crucial little ocean sprites, known for weaving pearlescent shells, are overlooked in the realm's weather prophecies. These tiny creatures quietly draw dark mists from the sky, locking them away in the abyssal depths. Their absence from the celestial charts could lead to grave misunderstandings of the land's future climate.",
-      "tag": "nature"
+      "reason": null,
+      "original_headline": "Why this rust-like mineral is one of Earth’s best carbon vaults",
+      "original_summary": "A common iron mineral hiding in soil turns out to be far better at trapping carbon than scientists realized. Its surface isn’t uniform — it’s a nanoscale patchwork of positive and negative charges that can grab many different organic molecules. Instead of relying on a single weak attraction, the min",
+      "fantasy_headline": "Mystic Iron Stone Guards Earth's Dark Vapours!",
+      "fantasy_story": "Alchemists have discovered a common iron-hued stone hidden in the soil. This humble mineral is much better at sealing away dark vapours than previously thought. Its surface holds tiny, intricate enchantments that bind many different essences, making it a powerful guardian of the earth's magic.",
+      "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax",
       "original_summary": "As if OpenAI didn't have enough drama around the Super Bowl and advertising, as the game wound down, word spread of a \"leaked\" ad that actually wasn't leaked at all; it was just a fake. Screenshots of a now-deleted Reddit thread told the tale of a frustrated employee who, while posting about how ups",
-      "fantasy_headline": "Oracle Guild's Grand Tournament Proclamation Revealed as Hoax!",
-      "fantasy_story": "Whispers spread of a secret proclamation from the Oracle Guild of Aether, showcasing new enchanted trinkets and a scrying orb. However, these tales shared among tavern patrons and town criers were mere trickery. The supposed \"leak\" for the Grand Tournament was nothing more than a charlatan's fabrication.",
+      "fantasy_headline": "Grand Artificers' New Scrying Orb Display Proves a Hoax!",
+      "fantasy_story": "Whispers spread through the market during the Festival of Champions about a 'leaked' grand display from the Grand Artificers' Guild. It spoke of new mystic earpieces and a glowing scrying orb. However, these tales were soon revealed to be mere trickery, a fabricated prophecy spread by disgruntled apprentices.",
       "tag": "merchants"
     },
     {
       "id": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Super Bowl LX ads: all AI everything",
       "original_summary": "Super Bowl LX is nearly here, with the Seattle Seahawks taking on the New England Patriots. While Bad Bunny will be the star of the halftime show, AI could be the star of the commercial breaks, much like crypto was a few years ago. Last year’s Super Bowl featured a Google Gemini ad that fumbled […]",
-      "fantasy_headline": "Arcane Arts Dominate Grand Tournament's Guild Pronouncements!",
-      "fantasy_story": "The Grand Tournament of Champions draws near, with famed legions preparing for battle. While a renowned bard will entertain at midway, the arcane arts and enchanted automatons are set to star in guild pronouncements. These magical displays are reminiscent of how mystical currencies dominated announcements just a few years past.",
+      "fantasy_headline": "Grand Tourney to Showcase New Mystic Devices!",
+      "fantasy_story": "The Grand Tourney of Champions is almost upon us, with mighty Houses battling for glory. While a renowned Bard will charm the crowds, the merchant displays during intermissions might steal the show. Whispers suggest a wealth of new mystic devices and ancient enchantments will be unveiled, much like the Elven gold wonders of yesteryear.",
       "tag": "magic"
     }
   ]
