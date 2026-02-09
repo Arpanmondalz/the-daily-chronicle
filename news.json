@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-02-09 02:10:01",
+  "last_updated": "2026-02-09 05:27:22",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260208011026.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "New drug resets the body clock and cuts jet lag recovery nearly in half",
       "original_summary": "Scientists have identified a promising new compound, Mic-628, that can reliably shift the body’s internal clock forward—something that’s notoriously hard to do. By targeting a key clock-control protein, Mic-628 jump-starts the gene that sets daily rhythms, synchronizing both the brain’s master clock",
-      "fantasy_headline": "Alchemists Brew Potion to Conquer Travel Weariness!",
-      "fantasy_story": "The esteemed Alchemists' Guild has concocted a wondrous new potion, the \"Timeweaver's Elixir.\" This magical draught helps travelers quickly adapt their internal rhythms after long journeys across the lands. It cleverly adjusts the body's natural cycle, easing the weariness from distant travels in mere moments.",
+      "fantasy_headline": "Alchemists Brew Potion to Vanquish Traveler's Fatigue!",
+      "fantasy_story": "The esteemed Alchemists' Guild has concocted a powerful new elixir that resets one's internal sundial. This Arcane Elixir of Timely Tides helps weary travelers quickly recover from long journeys across distant lands. It can cut the time needed to adjust by nearly half, restoring balance to the body's mystical humors.",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260208011024.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Scientists warn climate models are missing a key ocean player",
       "original_summary": "Tiny marine plankton that build calcium carbonate shells play an outsized role in regulating Earth’s climate, quietly pulling carbon from the atmosphere and helping lock it away in the deep ocean. New research shows these microscopic engineers are largely missing from the climate models used to fore",
-      "fantasy_headline": "Arch-Wizards Discover Missing Ocean Spirits Crucial for World's Breath!",
-      "fantasy_story": "The Arch-Wizards of the Elemental College warn that ancient prophecies overlook a vital force. Tiny sea sprites, with their shimmering coral armor, quietly cleanse the sky's breath by binding dark fumes into the deep ocean. These microscopic beings are key to balancing the world's harmony, yet absent from our grand charts.",
+      "fantasy_headline": "Sages Discover Missing Element in Realm's Weather Prophecies!",
+      "fantasy_story": "Master Sages warn that crucial little ocean sprites, known for weaving pearlescent shells, are overlooked in the realm's weather prophecies. These tiny creatures quietly draw dark mists from the sky, locking them away in the abyssal depths. Their absence from the celestial charts could lead to grave misunderstandings of the land's future climate.",
       "tag": "nature"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/875615/openai-super-bowl-ai-hardware-leak-hoax-fake",
+      "status": "published",
+      "reason": "",
+      "original_headline": "OpenAI’s supposedly ‘leaked’ Super Bowl ad with ear buds and a shiny orb was a hoax",
+      "original_summary": "As if OpenAI didn't have enough drama around the Super Bowl and advertising, as the game wound down, word spread of a \"leaked\" ad that actually wasn't leaked at all; it was just a fake. Screenshots of a now-deleted Reddit thread told the tale of a frustrated employee who, while posting about how ups",
+      "fantasy_headline": "Oracle Guild's Grand Tournament Proclamation Revealed as Hoax!",
+      "fantasy_story": "Whispers spread of a secret proclamation from the Oracle Guild of Aether, showcasing new enchanted trinkets and a scrying orb. However, these tales shared among tavern patrons and town criers were mere trickery. The supposed \"leak\" for the Grand Tournament was nothing more than a charlatan's fabrication.",
+      "tag": "merchants"
     },
     {
       "id": "https://www.theverge.com/entertainment/874504/super-bowl-lx-ads-big-game",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Super Bowl LX ads: all AI everything",
       "original_summary": "Super Bowl LX is nearly here, with the Seattle Seahawks taking on the New England Patriots. While Bad Bunny will be the star of the halftime show, AI could be the star of the commercial breaks, much like crypto was a few years ago. Last year’s Super Bowl featured a Google Gemini ad that fumbled […]",
-      "fantasy_headline": "Mimicry Magic Dominates Proclamations at Grand Tournament of Champions!",
-      "fantasy_story": "The realm eagerly awaits the Grand Tournament of Champions, where the Sky-Hawks of Seattle will clash with the Iron-Clads of New England. This year, powerful mimicry enchantments are set to dominate the interlude proclamations. Guilds throughout the lands are employing golem orators to spread their messages during the grand spectacle.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/streaming/875511/youtube-music-lyrics-paywall",
-      "status": "published",
-      "reason": null,
-      "original_headline": "YouTube Music starts putting lyrics behind a paywall",
-      "original_summary": "Free YouTube Music accounts are now seeing their access to lyrics limited, according to multiple reports. Google started testing lyrics as an exclusive feature for Premium users in September, but it appears that it's now receiving a wider rollout. It seems that free users will be limited to viewing ",
-      "fantasy_headline": "Bardic Archives Now Guard Ancient Verses Behind a Patron's Fee!",
-      "fantasy_story": "Reports whisper that the Grand Scribes' Guild is limiting access to the ancient verses within the Minstrel's Scroll. Common patrons can now only view parts of the song transcriptions. Full access to these treasured melodies and their written words is now reserved for noble subscribers and Patrons of the Bardic Guild.",
-      "tag": "merchants"
+      "fantasy_headline": "Arcane Arts Dominate Grand Tournament's Guild Pronouncements!",
+      "fantasy_story": "The Grand Tournament of Champions draws near, with famed legions preparing for battle. While a renowned bard will entertain at midway, the arcane arts and enchanted automatons are set to star in guild pronouncements. These magical displays are reminiscent of how mystical currencies dominated announcements just a few years past.",
+      "tag": "magic"
     }
   ]
 }
