@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-10 08:55:58",
+  "last_updated": "2026-02-10 13:13:35",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
@@ -7,8 +7,8 @@
       "reason": null,
       "original_headline": "AI reads brain MRIs in seconds and flags emergencies",
       "original_summary": "Researchers at the University of Michigan have created an AI system that can interpret brain MRI scans in just seconds, accurately identifying a wide range of neurological conditions and determining which cases need urgent care. Trained on hundreds of thousands of real-world scans along with patient",
-      "fantasy_headline": "Enchanted Orb Instantly Reveals Mind's Ailments, Flags Urgent Cases!",
-      "fantasy_story": "Wizards from the Grand Academy of Whispering Pines have enchanted a powerful orb. This artifact can peer into a person's mind in mere moments, revealing hidden ailments of the spirit-veins. It even discerns which cases require immediate magical healing, saving countless lives across the land.",
+      "fantasy_headline": "New Crystal Ball Reveals Mind Ailments Instantly!",
+      "fantasy_story": "The Grand Wizards of the Mystic University have crafted a wondrous enchanted crystal ball. This artifact can peer into a person's mind in mere moments, revealing any lurking ailments or dark enchantments. It even alerts the healers when immediate magical aid is required, saving many souls from prolonged suffering.",
       "tag": "magic"
     },
     {
@@ -17,19 +17,29 @@
       "reason": null,
       "original_headline": "Physicists discover what controls the speed of quantum time",
       "original_summary": "Time may feel smooth and continuous, but at the quantum level it behaves very differently. Physicists have now found a way to measure how long ultrafast quantum events actually last, without relying on any external clock. By tracking subtle changes in electrons as they absorb light and escape a mate",
-      "fantasy_headline": "Chronomancers Unravel the Secret of Time's Fleeting Moments!",
-      "fantasy_story": "The revered Chronomancers of the Sunken Spire have made a wondrous discovery. They can now measure the duration of even the swiftest blinks of primal magic within the very fabric of existence. By observing the subtle dance of spirit motes as they absorb light, they’ve unlocked time's deepest secrets.",
+      "fantasy_headline": "Chronomancers Unravel Secret of Time's Swiftest Moments!",
+      "fantasy_story": "The revered Chronomancers of the Sunken Spire have unveiled a profound secret: the true rhythm of time's smallest beats. They discovered how to measure these fleeting magical instances without relying on hourglasses or sundials. By observing the dance of light spirits within Aetheric Strands, they now understand how time itself flows on the deepest mystical levels.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/876080/mrbeast-step-mobile-banking-app",
+      "id": "https://www.theverge.com/policy/876131/discord-age-verification-mandates-web-future",
       "status": "published",
       "reason": null,
-      "original_headline": "MrBeast just bought a banking app",
-      "original_summary": "Beast Industries, owned by YouTuber Jimmy \"MrBeast\" Donaldson, announced on Monday that it has acquired Step, a banking app designed for teens and young adults. The move comes a couple of months after Donaldson announced plans to start a new YouTube channel centered on personal finance and investing",
-      "fantasy_headline": "Lord Beast Acquires Young Scribes' Coin Vault for Future Merchants!",
-      "fantasy_story": "The famed Lord Beast, known for his grand endeavors, has announced a significant acquisition. His Beast Mercantile Conglomerate has purchased the 'Young Scribes' Coin Vault,' a special ledger for budding merchants. This move follows his recent pledge to teach the art of coin management to the realm's youth.",
-      "tag": "merchants"
+      "original_headline": "Discord’s age verification mandate is a leap toward a gated internet",
+      "original_summary": "Discord is about to force some of the people who use its messaging app to make a choice: Use the platform with restricted features, or prove their age. It's a move that platforms have been slowly approaching, but Discord's teen-by-default rollout is a stronger clampdown that could offer a glimpse at",
+      "fantasy_headline": "The Whisper Guild Demands Proof of Age for Secret Chats!",
+      "fantasy_story": "The secretive Whisper Guild, keepers of the enchanted communication mirrors, has enacted a new decree. All who wish to use their full array of speaking spells must now undergo a 'Rite of Passage' to prove their age. Those who cannot will find their mirrors display only common tidings, unable to access the guild's most guarded secrets or far-reaching networks.",
+      "tag": "kingdom"
+    },
+    {
+      "id": "https://www.theverge.com/tech/876229/nothing-essential-ai-app-builder",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Vibe coding Nothing’s apps is fun, until you try to make them useful",
+      "original_summary": "After a week vibe coding apps using Nothing's Essential Apps Builder, I'm conflicted. I buy into the smartphone maker's vision for software that adapts to you, not the other way around, but right now it doesn't deliver. It's hard to see how this goes from cool novelty to a reliable tool without seri",
+      "fantasy_headline": "Whisperwind Forge's New Spell Kit: Enchanting Fun, Little Use!",
+      "fantasy_story": "The Whisperwind Forge recently unveiled a 'Dream Weaver's Kit' for crafting personalized enchantments. While many found joy in weaving whimsical mood-spells, the overall sentiment is conflicted. Though the idea of magic adapting to the user is grand, these charms often prove more a curious bauble than a truly reliable tool for daily use.",
+      "tag": "magic"
     }
   ]
 }
