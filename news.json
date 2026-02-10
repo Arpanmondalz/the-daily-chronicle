@@ -1,44 +1,34 @@
 {
-  "last_updated": "2026-02-10 13:13:35",
+  "last_updated": "2026-02-10 17:02:15",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260210082913.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "AI reads brain MRIs in seconds and flags emergencies",
-      "original_summary": "Researchers at the University of Michigan have created an AI system that can interpret brain MRI scans in just seconds, accurately identifying a wide range of neurological conditions and determining which cases need urgent care. Trained on hundreds of thousands of real-world scans along with patient",
-      "fantasy_headline": "New Crystal Ball Reveals Mind Ailments Instantly!",
-      "fantasy_story": "The Grand Wizards of the Mystic University have crafted a wondrous enchanted crystal ball. This artifact can peer into a person's mind in mere moments, revealing any lurking ailments or dark enchantments. It even alerts the healers when immediate magical aid is required, saving many souls from prolonged suffering.",
+      "reason": "",
+      "original_headline": "Scientists find genes that existed before all life on Earth",
+      "original_summary": "Life’s story may stretch further back than scientists once thought. Some genes found in nearly every organism today were already duplicated before all life shared a common ancestor. By tracking these rare genes, researchers can investigate how early cells worked and what features of life emerged fir",
+      "fantasy_headline": "Ancient Wizards Uncover Runes from Before Time Itself",
+      "fantasy_story": "The Grand Alchemists' Guild has made a wondrous discovery! They found ancient life essences, like magic runes, that existed even before all creatures walked the realms. These primordial marks, hidden within every living thing, reveal secrets of the earliest sparks of life.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260209221713.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260210040611.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "Physicists discover what controls the speed of quantum time",
-      "original_summary": "Time may feel smooth and continuous, but at the quantum level it behaves very differently. Physicists have now found a way to measure how long ultrafast quantum events actually last, without relying on any external clock. By tracking subtle changes in electrons as they absorb light and escape a mate",
-      "fantasy_headline": "Chronomancers Unravel Secret of Time's Swiftest Moments!",
-      "fantasy_story": "The revered Chronomancers of the Sunken Spire have unveiled a profound secret: the true rhythm of time's smallest beats. They discovered how to measure these fleeting magical instances without relying on hourglasses or sundials. By observing the dance of light spirits within Aetheric Strands, they now understand how time itself flows on the deepest mystical levels.",
-      "tag": "magic"
+      "reason": "",
+      "original_headline": "Scientists uncover the climate shock that reshaped Easter Island",
+      "original_summary": "Around 1550, life on Rapa Nui began changing in ways long misunderstood. New research reveals that a severe drought, lasting more than a century, dramatically reduced rainfall on the already water-scarce island, reshaping how people lived, worshiped, and organized society. Instead of collapsing, Rap",
+      "fantasy_headline": "Sages Uncover Long Drought That Reshaped the Isle of Rapa Nui",
+      "fantasy_story": "Lorekeepers have revealed a forgotten tale from the distant Isle of Rapa Nui. Around five centuries past, a great and terrible drought, lasting over a hundred years, parched the lands. This elemental shock changed how the islanders lived and worshipped, leading them to adapt and thrive anew.",
+      "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/policy/876131/discord-age-verification-mandates-web-future",
+      "id": "https://www.theverge.com/tech/876336/microsoft-windows-secure-boot-certificate-renewal",
       "status": "published",
-      "reason": null,
-      "original_headline": "Discord’s age verification mandate is a leap toward a gated internet",
-      "original_summary": "Discord is about to force some of the people who use its messaging app to make a choice: Use the platform with restricted features, or prove their age. It's a move that platforms have been slowly approaching, but Discord's teen-by-default rollout is a stronger clampdown that could offer a glimpse at",
-      "fantasy_headline": "The Whisper Guild Demands Proof of Age for Secret Chats!",
-      "fantasy_story": "The secretive Whisper Guild, keepers of the enchanted communication mirrors, has enacted a new decree. All who wish to use their full array of speaking spells must now undergo a 'Rite of Passage' to prove their age. Those who cannot will find their mirrors display only common tidings, unable to access the guild's most guarded secrets or far-reaching networks.",
-      "tag": "kingdom"
-    },
-    {
-      "id": "https://www.theverge.com/tech/876229/nothing-essential-ai-app-builder",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Vibe coding Nothing’s apps is fun, until you try to make them useful",
-      "original_summary": "After a week vibe coding apps using Nothing's Essential Apps Builder, I'm conflicted. I buy into the smartphone maker's vision for software that adapts to you, not the other way around, but right now it doesn't deliver. It's hard to see how this goes from cool novelty to a reliable tool without seri",
-      "fantasy_headline": "Whisperwind Forge's New Spell Kit: Enchanting Fun, Little Use!",
-      "fantasy_story": "The Whisperwind Forge recently unveiled a 'Dream Weaver's Kit' for crafting personalized enchantments. While many found joy in weaving whimsical mood-spells, the overall sentiment is conflicted. Though the idea of magic adapting to the user is grand, these charms often prove more a curious bauble than a truly reliable tool for daily use.",
+      "reason": "",
+      "original_headline": "Microsoft is keeping Secure Boot alive with Windows updates",
+      "original_summary": "Microsoft is automatically replacing boot-level security certificates on Windows devices before they start expiring later this year. The new Secure Boot certificates will be rolled out as part of the regular Windows platform updates, according to Microsoft's announcement blog, marking a \"generationa",
+      "fantasy_headline": "Grand Artificers Renew Ancient Wards for Enchanted Scrolls",
+      "fantasy_story": "The Grand Artificers' Guild is ensuring the safety of all enchanted scrolls and scrying mirrors across the lands. They are automatically replacing the ancient wards of protection before their magic fades. These new binding seals are being distributed through regular magical blessings, keeping all knowledge safe for a new age.",
       "tag": "magic"
     }
   ]
