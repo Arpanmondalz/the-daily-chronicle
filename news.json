@@ -1,35 +1,45 @@
 {
-  "last_updated": "2026-02-11 08:50:08",
+  "last_updated": "2026-02-11 13:09:49",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260210082913.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260210231546.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Scientists find genes that existed before all life on Earth",
-      "original_summary": "Life’s story may stretch further back than scientists once thought. Some genes found in nearly every organism today were already duplicated before all life shared a common ancestor. By tracking these rare genes, researchers can investigate how early cells worked and what features of life emerged fir",
-      "fantasy_headline": "Alchemists Unearth Ancient Life Sparks Older Than All Creation!",
-      "fantasy_story": "The Grand Alchemists' Guild has uncovered wondrous primal enchantments. These ancient life sparks, found in every living creature, existed even before the first whispers of life on our world. By studying these rare glyphs, wizards can learn how the earliest life essences worked.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260210040611.htm",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Scientists uncover the climate shock that reshaped Easter Island",
-      "original_summary": "Around 1550, life on Rapa Nui began changing in ways long misunderstood. New research reveals that a severe drought, lasting more than a century, dramatically reduced rainfall on the already water-scarce island, reshaping how people lived, worshipped, and organized society. Instead of collapsing, Rap",
-      "fantasy_headline": "Sages Reveal Long Dry Spell Transformed the Mysterious Isle of Moai.",
-      "fantasy_story": "Scholars have learned new truths about the Mysterious Isle of Moai. Around the year 1550, a terrible Long Dry Spell descended, lasting for over a century, greatly reducing rainfall. This upheaval from nature reshaped how the island's folk lived and worshipped, changing their kingdom's ways.",
+      "reason": null,
+      "original_headline": "This ancient animal was one of the first to eat plants on land",
+      "original_summary": "Hundreds of millions of years ago, the first animals to crawl onto land were strict meat-eaters, even as plants had already taken over the landscape. Now scientists have uncovered a 307-million-year-old fossil that rewrites that story: one of the earliest known land vertebrates to start eating plant",
+      "fantasy_headline": "Ancient Creature Discovered: First Land Beast to Feast on Greens!",
+      "fantasy_story": "Wizards from the Elder Scrolls Guild have unearthed a 307-million-year-old fossil of a remarkable beast. This ancient creature challenges old tales, revealing it was one of the first land animals to enjoy a diet of plants. It proves that not all early beasts were fearsome meat-eaters.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/transportation/875906/toyota-highlander-ev-suv-range-specs",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260210082913.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "The Toyota Highlander is now a three-row electric SUV with 320 miles of range",
-      "original_summary": "Toyota unveiled the new 2027 Highlander, a fully redesigned midsize SUV that marks the brand's first three-row electric vehicle for the US market and the first Toyota EV assembled in America. It's a familiar name - Toyota has been selling gas Highlanders for over 20 years - with an all-new powertrai",
-      "fantasy_headline": "Clan Toyo Unveils New Enchanted Chariot with Great Range.",
-      "fantasy_story": "The esteemed Clan of Toyo has revealed its latest marvel: the new Highlander's Chariot. This grand three-row carriage, powered by a wondrous magical engine, can journey for over three hundred leagues on a single enchantment. It is the first such enchanted vehicle forged entirely in the Western Lands.",
+      "reason": null,
+      "original_headline": "Scientists find genes that existed before all life on Earth",
+      "original_summary": "Life’s story may stretch further back than scientists once thought. Some genes found in nearly every organism today were already duplicated before all life shared a common ancestor. By tracking these rare genes, researchers can investigate how early cells worked and what features of life emerged fir",
+      "fantasy_headline": "Wizards Uncover Ancient Runes Predating All Life's Genesis!",
+      "fantasy_story": "The Arcane Scribes of the Grand Library have found ancient, magical runes that predate all known living creatures. These mystical symbols, present in every organism today, were duplicated even before the first common life spark. This discovery helps wizards understand the very dawn of creation.",
       "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network",
+      "status": "published",
+      "reason": null,
+      "original_headline": "T-Mobile will live translate regular phone calls without an app",
+      "original_summary": "T-Mobile is preparing to test a new AI feature that translates live phone calls into more than 50 languages. Live Translation is launching in beta \"this Spring,\" according to a press release, with registration for eligible T-Mobile customers available starting today. \"Some of the biggest barriers wi",
+      "fantasy_headline": "The Echo Guild Unveils Amulet for Instant Tongue Translation!",
+      "fantasy_story": "The prestigious Echo Guild is crafting new enchanted amulets capable of instantly translating spoken words during magical scrying calls. These marvelous artifacts can bridge communication across fifty different tongues. Soon, merchants and adventurers alike can speak to anyone in the realm without needing a spellbook.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/transportation/876540/uber-eats-ai-chatbot-cart-assistant-grocery-shopping",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Uber Eats adds AI assistant to help with grocery shopping",
+      "original_summary": "Uber announced a new AI feature called \"Cart Assistant\" for grocery shopping in its Uber Eats app. The new feature works a couple different ways. You can use text prompts, as you would with any other AI chatbot, to ask it to build a grocery list for you. Or you can upload a picture of […]",
+      "fantasy_headline": "The Courier's Guild Summons Spirit to Aid Market Shopping!",
+      "fantasy_story": "The famed Courier's Guild has summoned a new magical spirit, the 'Cart Assistant,' to aid townsfolk with their market shopping. This clever spirit, accessible via an enchanted ledger, can create grocery lists from spoken words or even pictures of empty larders. It promises to make provisioning much easier for busy folk.",
+      "tag": "merchants"
     }
   ]
 }
