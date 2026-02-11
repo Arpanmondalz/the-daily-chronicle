@@ -1,44 +1,44 @@
 {
-  "last_updated": "2026-02-11 13:09:49",
+  "last_updated": "2026-02-11 17:04:10",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260210231546.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260211073052.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "This ancient animal was one of the first to eat plants on land",
-      "original_summary": "Hundreds of millions of years ago, the first animals to crawl onto land were strict meat-eaters, even as plants had already taken over the landscape. Now scientists have uncovered a 307-million-year-old fossil that rewrites that story: one of the earliest known land vertebrates to start eating plant",
-      "fantasy_headline": "Ancient Creature Discovered: First Land Beast to Feast on Greens!",
-      "fantasy_story": "Wizards from the Elder Scrolls Guild have unearthed a 307-million-year-old fossil of a remarkable beast. This ancient creature challenges old tales, revealing it was one of the first land animals to enjoy a diet of plants. It proves that not all early beasts were fearsome meat-eaters.",
+      "original_headline": "Life may have started as sticky goo clinging to rocks",
+      "original_summary": "Life may have started in sticky, rock-hugging gels rather than inside cells. Researchers suggest these primitive, biofilm-like materials could trap and concentrate molecules, giving early chemistry a protected space to grow more complex. Within these gels, the first hints of metabolism and self-repl",
+      "fantasy_headline": "Ancient Goo on Rocks May Hold Life's First Spark!",
+      "fantasy_story": "Ancient wizards now believe that life itself might have begun as sticky, magical goo clinging to old rocks. These peculiar slimes could have trapped vital essences, offering a safe place for early arcane arts to weave their intricate spells. Within these mystical gels, the first whispers of life's complex magic began.",
       "tag": "nature"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260210082913.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260211073047.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Scientists find genes that existed before all life on Earth",
-      "original_summary": "Life’s story may stretch further back than scientists once thought. Some genes found in nearly every organism today were already duplicated before all life shared a common ancestor. By tracking these rare genes, researchers can investigate how early cells worked and what features of life emerged fir",
-      "fantasy_headline": "Wizards Uncover Ancient Runes Predating All Life's Genesis!",
-      "fantasy_story": "The Arcane Scribes of the Grand Library have found ancient, magical runes that predate all known living creatures. These mystical symbols, present in every organism today, were duplicated even before the first common life spark. This discovery helps wizards understand the very dawn of creation.",
+      "original_headline": "Interstellar comet 3I/ATLAS is spraying water across the solar system",
+      "original_summary": "For millions of years, a frozen wanderer drifted between the stars before slipping into our solar system as 3I/ATLAS—only the third known interstellar comet ever spotted. When scientists turned NASA’s Swift Observatory toward it, they caught the first-ever hint of water from such an object, detected",
+      "fantasy_headline": "Mysterious Star-Stone Showers Our Realm with Life-Giving Water!",
+      "fantasy_story": "A frozen wanderer from beyond the stars, known as Atlas, has finally graced our realm. The grand sky-wizards, using their mightiest scrying lenses, observed it raining pure water across the sky-dome. This celestial marvel marks the first time water has been seen flowing from such a distant, star-borne artifact.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/877008/t-mobile-live-translation-languages-ai-network",
+      "id": "https://www.theverge.com/tech/877161/tiktok-us-launches-local-feeds",
       "status": "published",
       "reason": null,
-      "original_headline": "T-Mobile will live translate regular phone calls without an app",
-      "original_summary": "T-Mobile is preparing to test a new AI feature that translates live phone calls into more than 50 languages. Live Translation is launching in beta \"this Spring,\" according to a press release, with registration for eligible T-Mobile customers available starting today. \"Some of the biggest barriers wi",
-      "fantasy_headline": "The Echo Guild Unveils Amulet for Instant Tongue Translation!",
-      "fantasy_story": "The prestigious Echo Guild is crafting new enchanted amulets capable of instantly translating spoken words during magical scrying calls. These marvelous artifacts can bridge communication across fifty different tongues. Soon, merchants and adventurers alike can speak to anyone in the realm without needing a spellbook.",
-      "tag": "magic"
+      "original_headline": "TikTok launches Local Feeds in the US",
+      "original_summary": "TikTok announced on Wednesday that it's launching \"Local Feeds,\" an opt-in feature that uses precise GPS location data to create a feed of localized content, similar to the \"Nearby Feeds\" that launched in the UK and Europe in December. This is the first new feature introduced for US users since TikT",
+      "fantasy_headline": "Whispering Mirror Guild Unveils Local Tales for Western Kingdoms!",
+      "fantasy_story": "The renowned Whispering Mirror Guild has enchanted its scrying mirrors with a new charm for the Western Kingdoms. Now, those who wish can glimpse local tales and visions, guided by their magic compasses. This allows villagers to share unique content specific to their own settlements, much like the Northern and Eastern Lands.",
+      "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/transportation/876540/uber-eats-ai-chatbot-cart-assistant-grocery-shopping",
+      "id": "https://www.theverge.com/gadgets/877023/lifx-smart-color-wifi-bulbs-sony-xm6-oled-oakley-deal-sale",
       "status": "published",
       "reason": null,
-      "original_headline": "Uber Eats adds AI assistant to help with grocery shopping",
-      "original_summary": "Uber announced a new AI feature called \"Cart Assistant\" for grocery shopping in its Uber Eats app. The new feature works a couple different ways. You can use text prompts, as you would with any other AI chatbot, to ask it to build a grocery list for you. Or you can upload a picture of […]",
-      "fantasy_headline": "The Courier's Guild Summons Spirit to Aid Market Shopping!",
-      "fantasy_story": "The famed Courier's Guild has summoned a new magical spirit, the 'Cart Assistant,' to aid townsfolk with their market shopping. This clever spirit, accessible via an enchanted ledger, can create grocery lists from spoken words or even pictures of empty larders. It promises to make provisioning much easier for busy folk.",
+      "original_headline": "Lifx’s two-pack of Matter-enabled smart color bulbs is down to $20",
+      "original_summary": "Let’s give it up for companies that are making affordable smart bulbs. Lifx is one, having recently released a two-pack of A19 / E26 LED bulbs at CES 2026 capable of white and color for just $24.99. These dimmable 800-lumen bulbs connect over Wi-Fi, and they’re compatible with Matter, making them wo",
+      "fantasy_headline": "Lumina Guild Offers Affordable Color-Changing Light Orbs!",
+      "fantasy_story": "The Lumina Guild has released remarkable new enchanted light orbs, now available at a grand bargain of twenty gold coins for two! These marvelous glowstones can shift between many colors and shine brightly. They connect to all devices through the universal arcane linking runes, powered by ethereal currents.",
       "tag": "merchants"
     }
   ]
