@@ -1,35 +1,45 @@
 {
-  "last_updated": "2026-02-12 08:47:02",
+  "last_updated": "2026-02-12 13:07:11",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/02/260212025545.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Snowball Earth was not completely frozen, new study reveals",
+      "original_summary": "Even when Earth was locked in its most extreme deep freeze, the planet’s climate may not have been as silent and still as once believed. New research from ancient Scottish rocks reveals that during Snowball Earth — when ice sheets reached the tropics and the planet resembled a giant snowball from sp",
+      "fantasy_headline": "Sages Uncover Warmth in the Age of Frozen Slumber!",
+      "fantasy_story": "Ancient runes found in the Northern Crags reveal a startling truth about the Age of Frozen Slumber. Even when the Great Realm seemed entirely encased in ice, pockets of life and warmth persisted. The Sages of the Scroll Tower now believe the world was not as still as once thought during this icy era.",
+      "tag": "nature"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260211073052.htm",
       "status": "published",
       "reason": null,
       "original_headline": "Life may have started as sticky goo clinging to rocks",
       "original_summary": "Life may have started in sticky, rock-hugging gels rather than inside cells. Researchers suggest these primitive, biofilm-like materials could trap and concentrate molecules, giving early chemistry a protected space to grow more complex. Within these gels, the first hints of metabolism and self-repl",
-      "fantasy_headline": "Ancient Alchemists Uncover Life's First Sticky Beginnings",
-      "fantasy_story": "Ancient Alchemists believe the earliest sparks of life might have begun as special sticky goo clinging to damp rocks. This magical gel could gather tiny mystical essences, allowing elementary arcane workings to flourish safely. Within these growing patches, life's first whispers of growth and self-renewal stirred.",
-      "tag": "nature"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260211073047.htm",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Interstellar comet 3I/ATLAS is spraying water across the solar system",
-      "original_summary": "For millions of years, a frozen wanderer drifted between the stars before slipping into our solar system as 3I/ATLAS—only the third known interstellar comet ever spotted. When scientists turned NASA’s Swift Observatory toward it, they caught the first-ever hint of water from such an object, detected",
-      "fantasy_headline": "Star-Traveling Ice Shard Sprays Pure Celestial Dew Across Our Realm",
-      "fantasy_story": "A magnificent ice wanderer, having journeyed for ages between the stars, has finally entered our own sky kingdom. Celestial wizards, observing with a grand arcane spyglass, have discovered it is shedding pure, life-giving dew. This rare sight hints at hidden springs far beyond our known world.",
+      "fantasy_headline": "Elder Alchemists Discover Life's Origins in Primal Ooze!",
+      "fantasy_story": "The Elder Alchemists of the Arcane College have unearthed a fascinating theory about the Spark of Life. They propose that life began as a sticky, magical ooze clinging to ancient stones. This primal gel likely trapped essential essences, providing a protected space for early enchantments to grow more complex.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/877609/two-more-xai-co-founders-are-among-those-leaving-after-the-spacex-merger",
+      "id": "https://www.theverge.com/tech/877851/weave-isaac-robot-fold-laundry",
       "status": "published",
       "reason": null,
-      "original_headline": "Two more xAI co-founders are among those leaving after the SpaceX merger",
-      "original_summary": "Since the xAI-SpaceX merger announced last week, which combined the two companies (as well as social media platform X) for a reported $1.25 trillion valuation - the biggest merger of all time - a handful of xAI employees and two of its co-founders have abruptly exited the company, penning long depar",
-      "fantasy_headline": "Master Artificers Depart Whispering Engine Clan After Grand Alliance",
-      "fantasy_story": "Following the Whispering Engine Clan's grand alliance with the Sky-Voyager Guild and the Oracle Scrying Network, worth a vast treasure in gold coins, some key members have departed. Two master artificers, who founded the Whispering Engine, have notably chosen to leave their posts.",
+      "original_headline": "This $7,999 robot will fold (some of) your laundry",
+      "original_summary": "If you have a spare $7,999 (plus a $250 deposit), hate folding laundry, and happen to live in the Bay Area, one-and-a-half-year-old startup Weave has the robot for you: Isaac 0. It takes Isaac 0 around 30-90 minutes to fold a load of laundry, Weave says. That's all it does - it's stationary and need",
+      "fantasy_headline": "Weave's Guild Unveils Golem for Tedious Garment Folding!",
+      "fantasy_story": "For those with ample gold coins and a dislike for folding garments, Weave's Guild of Enchanted Comforts offers a solution. Their new automaton, Isaac the Folder, can magically arrange your linens. This stationary Golem, while slow, promises to ease the burden of household chores for a tidy sum.",
       "tag": "merchants"
+    },
+    {
+      "id": "https://www.theverge.com/tech/877688/hp-zbook-ultra-g1a-laptop-amd-strix-halo-review",
+      "status": "published",
+      "reason": null,
+      "original_headline": "HP ZBook Ultra G1a review: a business-class workstation that’s got game",
+      "original_summary": "Business laptops are typically dull computers foisted on employees en masse. But higher-end enterprise workstation notebooks sometimes get an interesting enough blend of power and features to appeal to enthusiasts. HP's ZBook Ultra G1a is a nice example. It's easy to see it as another gray boring-bo",
+      "fantasy_headline": "A Masterful Scrying Slate for Guilds and Gamers Alike!",
+      "fantasy_story": "The Rune Scribes of Havenwood have crafted a remarkable new scrying slate, the ZBook Ultra G1a. While typically used by Guild Masters for their ledgers, this device holds secret enchantments for exciting games and illusions. It's a powerful artifact, blending serious work with delightful magical diversions.",
+      "tag": "magic"
     }
   ]
 }
