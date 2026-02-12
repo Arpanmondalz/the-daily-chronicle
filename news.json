@@ -1,44 +1,34 @@
 {
-  "last_updated": "2026-02-12 13:07:11",
+  "last_updated": "2026-02-12 16:58:32",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260212025545.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260212025620.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "Snowball Earth was not completely frozen, new study reveals",
-      "original_summary": "Even when Earth was locked in its most extreme deep freeze, the planet’s climate may not have been as silent and still as once believed. New research from ancient Scottish rocks reveals that during Snowball Earth — when ice sheets reached the tropics and the planet resembled a giant snowball from sp",
-      "fantasy_headline": "Sages Uncover Warmth in the Age of Frozen Slumber!",
-      "fantasy_story": "Ancient runes found in the Northern Crags reveal a startling truth about the Age of Frozen Slumber. Even when the Great Realm seemed entirely encased in ice, pockets of life and warmth persisted. The Sages of the Scroll Tower now believe the world was not as still as once thought during this icy era.",
-      "tag": "nature"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260211073052.htm",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Life may have started as sticky goo clinging to rocks",
-      "original_summary": "Life may have started in sticky, rock-hugging gels rather than inside cells. Researchers suggest these primitive, biofilm-like materials could trap and concentrate molecules, giving early chemistry a protected space to grow more complex. Within these gels, the first hints of metabolism and self-repl",
-      "fantasy_headline": "Elder Alchemists Discover Life's Origins in Primal Ooze!",
-      "fantasy_story": "The Elder Alchemists of the Arcane College have unearthed a fascinating theory about the Spark of Life. They propose that life began as a sticky, magical ooze clinging to ancient stones. This primal gel likely trapped essential essences, providing a protected space for early enchantments to grow more complex.",
+      "reason": "",
+      "original_headline": "Scientists discover protein that rejuvenates aging brain cells",
+      "original_summary": "A newly identified protein may hold the key to rejuvenating aging brain cells. Researchers found that boosting DMTF1 can restore the ability of neural stem cells to regenerate, even when age-related damage has set in. Without it, these cells struggle to renew and support memory and learning. The fin",
+      "fantasy_headline": "Alchemists Brew Elixir to Restore Elder Minds!",
+      "fantasy_story": "The Grand Alchemists' Guild has unearthed a potent new essence, a hidden ingredient to mend the fading wits of the elderly. They say this elixir can rekindle the mind's inner glow, restoring forgotten memories and sharp thoughts. It promises a brighter age for our wisest elders.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/877851/weave-isaac-robot-fold-laundry",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260212025613.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "This $7,999 robot will fold (some of) your laundry",
-      "original_summary": "If you have a spare $7,999 (plus a $250 deposit), hate folding laundry, and happen to live in the Bay Area, one-and-a-half-year-old startup Weave has the robot for you: Isaac 0. It takes Isaac 0 around 30-90 minutes to fold a load of laundry, Weave says. That's all it does - it's stationary and need",
-      "fantasy_headline": "Weave's Guild Unveils Golem for Tedious Garment Folding!",
-      "fantasy_story": "For those with ample gold coins and a dislike for folding garments, Weave's Guild of Enchanted Comforts offers a solution. Their new automaton, Isaac the Folder, can magically arrange your linens. This stationary Golem, while slow, promises to ease the burden of household chores for a tidy sum.",
-      "tag": "merchants"
+      "reason": "",
+      "original_headline": "Europe’s “untouched” wilderness was shaped by Neanderthals and hunter-gatherers",
+      "original_summary": "Long before agriculture, humans were transforming Europe’s wild landscapes. Advanced simulations show that hunting and fire use by Neanderthals and Mesolithic hunter-gatherers reshaped forests and grasslands in measurable ways. By reducing populations of giant herbivores, people indirectly altered h",
+      "fantasy_headline": "Ancient Clans Tended Wilderness Before Plows!",
+      "fantasy_story": "Long before our settled kingdoms, the Old Continent's wild lands were not untouched. Ancient clans of skilled foragers, through their hunts and hearth fires, subtly reshaped the deep forests and sprawling grasslands. They managed the great beasts, unknowingly changing the very nature of the land for generations.",
+      "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/tech/877688/hp-zbook-ultra-g1a-laptop-amd-strix-halo-review",
+      "id": "https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview",
       "status": "published",
-      "reason": null,
-      "original_headline": "HP ZBook Ultra G1a review: a business-class workstation that’s got game",
-      "original_summary": "Business laptops are typically dull computers foisted on employees en masse. But higher-end enterprise workstation notebooks sometimes get an interesting enough blend of power and features to appeal to enthusiasts. HP's ZBook Ultra G1a is a nice example. It's easy to see it as another gray boring-bo",
-      "fantasy_headline": "A Masterful Scrying Slate for Guilds and Gamers Alike!",
-      "fantasy_story": "The Rune Scribes of Havenwood have crafted a remarkable new scrying slate, the ZBook Ultra G1a. While typically used by Guild Masters for their ledgers, this device holds secret enchantments for exciting games and illusions. It's a powerful artifact, blending serious work with delightful magical diversions.",
+      "reason": "",
+      "original_headline": "The surprising case for AI judges",
+      "original_summary": "Today, we’re going to talk about the role AI might play in deciding legal disputes. Not just drafting memos and doing research — actually deciding who’s right and who’s wrong, and who should pay. My guest today is Bridget McCormack, the former chief justice for the Michigan Supreme Court and now pre",
+      "fantasy_headline": "Enchanted Arbiter to Decide Disputes!",
+      "fantasy_story": "Whispers spread of a wondrous new artifact, an enchanted arbiter that may soon settle all guild disagreements and land claims. Rather than simply researching old parchments, this magical totem could directly pronounce what is right or wrong. It promises a swift new age of justice for all folk.",
       "tag": "magic"
     }
   ]
