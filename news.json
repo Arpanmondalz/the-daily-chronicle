@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-02-12 02:10:01",
+  "last_updated": "2026-02-12 05:24:11",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260211073052.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Life may have started as sticky goo clinging to rocks",
       "original_summary": "Life may have started in sticky, rock-hugging gels rather than inside cells. Researchers suggest these primitive, biofilm-like materials could trap and concentrate molecules, giving early chemistry a protected space to grow more complex. Within these gels, the first hints of metabolism and self-repl",
-      "fantasy_headline": "Ancient Alchemists Uncover Life's Sticky Beginnings on Rocks",
-      "fantasy_story": "Wise Wizards have pondered how the first spark of life came to be. They now suggest that early life might have begun in mysterious clinging gels upon ancient stones, rather than within tiny enchanted cells. These magical gels could trap tiny essences, allowing primordial enchantments to grow complex and self-replicate, hinting at the very dawn of creation.",
-      "tag": "magic"
+      "fantasy_headline": "Ancient Sages Ponder Life's Sticky Beginnings on Stone!",
+      "fantasy_story": "Whispers from the Grand Alchemists' Circle suggest that life itself may have first stirred within humble, sticky gels clinging to ancient stones. These mysterious goo-like substances might have trapped tiny magical essences, nurturing them into the earliest forms of life. It’s believed that within these protective patches, the very first sparks of living enchantment began to glow.",
+      "tag": "nature"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260211073047.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Interstellar comet 3I/ATLAS is spraying water across the solar system",
       "original_summary": "For millions of years, a frozen wanderer drifted between the stars before slipping into our solar system as 3I/ATLAS—only the third known interstellar comet ever spotted. When scientists turned NASA’s Swift Observatory toward it, they caught the first-ever hint of water from such an object, detected",
-      "fantasy_headline": "Celestial Wanderer Sprays Magical Dew Across Our Realm",
-      "fantasy_story": "A frozen star-stone, journeying between realms for eons, has finally entered our celestial sphere. Stargazers of the Grand Observatory, using their powerful crystal scryers, have detected it scattering vital magical dew. This marks the first time water essence has been found from such a mystical wanderer.",
+      "fantasy_headline": "A Wandering Ice Shard from Beyond the Stars Sprays Sacred Waters!",
+      "fantasy_story": "For countless ages, a magnificent ice shard drifted between the distant star-kingdoms, only recently appearing in our own celestial realm. Astromancers, using their Grand Scrying Crystal, observed this rare visitor, detecting ancient, life-giving waters emanating from its frosty core. It is a wondrous sight, offering clues from the outer reaches of creation.",
       "tag": "nature"
     }
   ]
