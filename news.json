@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13 05:20:51",
+  "last_updated": "2026-02-13 08:42:07",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260212025620.htm",
@@ -7,28 +7,18 @@
       "reason": null,
       "original_headline": "Scientists discover protein that rejuvenates aging brain cells",
       "original_summary": "A newly identified protein may hold the key to rejuvenating aging brain cells. Researchers found that boosting DMTF1 can restore the ability of neural stem cells to regenerate, even when age-related damage has set in. Without it, these cells struggle to renew and support memory and learning. The fin",
-      "fantasy_headline": "Alchemists Brew Elixir to Restore Elder Scholars' Wits",
-      "fantasy_story": "The Grand Alchemists' Guild has uncovered a wondrous essence, key to renewing the minds of the elderly. This magical ingredient can restore the vital sparks within ancient scholars, allowing their memories and learning to flourish once more. Without it, their knowledge would slowly fade.",
+      "fantasy_headline": "Alchemists Uncover Elixir to Restore Elder Minds!",
+      "fantasy_story": "The Royal Alchemists' Guild has brewed a potent new elixir. This magical draught can restore the fading wisdom and memory of even the oldest scholars. It helps ancient minds regenerate, ensuring their vast knowledge is not lost to time.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260212025613.htm",
+      "id": "https://www.theverge.com/transportation/877796/tenways-cgo-compact-e-bike-twists-folds-flat",
       "status": "published",
       "reason": null,
-      "original_headline": "Europe’s “untouched” wilderness was shaped by Neanderthals and hunter-gatherers",
-      "original_summary": "Long before agriculture, humans were transforming Europe’s wild landscapes. Advanced simulations show that hunting and fire use by Neanderthals and Mesolithic hunter-gatherers reshaped forests and grasslands in measurable ways. By reducing populations of giant herbivores, people indirectly altered h",
-      "fantasy_headline": "Ancient Clans Shaped the Wild Old Lands with Primal Arts",
-      "fantasy_story": "Long before grand kingdoms, ancient clans of the Old Lands wielded primal magic. Through hunting and careful use of fire, these early kin reshaped the vast forests and rolling grasslands. By taming great beasts, they subtly altered the very nature of their untamed world.",
-      "tag": "nature"
-    },
-    {
-      "id": "https://www.theverge.com/games/878375/god-of-war-sons-of-sparta-trilogy-sony-playstation-ps5-release-date-trailer",
-      "status": "published",
-      "reason": null,
-      "original_headline": "A surprise God of War prequel is out on the PS5 right now",
-      "original_summary": "To close out its February 2026 State of Play presentation, Sony revealed God of War Sons of Sparta, a new prequel 2D side scroller in the God of War franchise, and announced that it's out right now on PlayStation 5. \"God of War Sons of Sparta is a 2D action platformer with a canon story […]",
-      "fantasy_headline": "New Ancient War God Chronicle Unveiled for Visionary Devices!",
-      "fantasy_story": "The Scroll-Weavers' Guild has unveiled a surprising new chapter in the Ballads of the War God. This ancient chronicle, a tale from before the main sagas, can be witnessed immediately on the grand Enchanted Scrying Pools. Heroes can now experience earlier feats of valor.",
+      "original_headline": "Tenways’ compact e-bike twists and folds to go flat",
+      "original_summary": "Tenways just launched its new CGO Compact electric bike in Europe that's designed to fit into tight spaces like car trunks, apartment hallways, and train compartments. To achieve this, the CGO Compact is fitted with small 20-inch wheels, folding pedals, and a handlebar fitted with a twistable stem t",
+      "fantasy_headline": "Tenways Guild Unveils New Folding Mechanical Steed!",
+      "fantasy_story": "The esteemed Tenways Guild of Artisans has revealed a marvelous new mechanical steed. This enchanted contraption can twist and fold itself flat, making it perfect for stashing in small carriages or tight lord's chambers. Its clever design allows swift travel and easy storage.",
       "tag": "magic"
     }
   ]
