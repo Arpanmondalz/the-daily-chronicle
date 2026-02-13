@@ -1,14 +1,24 @@
 {
-  "last_updated": "2026-02-13 08:42:07",
+  "last_updated": "2026-02-13 12:59:12",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260212025620.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260212234220.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Scientists discover protein that rejuvenates aging brain cells",
-      "original_summary": "A newly identified protein may hold the key to rejuvenating aging brain cells. Researchers found that boosting DMTF1 can restore the ability of neural stem cells to regenerate, even when age-related damage has set in. Without it, these cells struggle to renew and support memory and learning. The fin",
-      "fantasy_headline": "Alchemists Uncover Elixir to Restore Elder Minds!",
-      "fantasy_story": "The Royal Alchemists' Guild has brewed a potent new elixir. This magical draught can restore the fading wisdom and memory of even the oldest scholars. It helps ancient minds regenerate, ensuring their vast knowledge is not lost to time.",
+      "original_headline": "Roman mosaic in Britain reveals a 2,000 year old Trojan War secret",
+      "original_summary": "A remarkable Roman mosaic found in Rutland turns out to tell a forgotten version of the Trojan War. Rather than Homer’s famous epic, it reflects a lost Greek tragedy by Aeschylus, featuring vivid scenes of Achilles and Hector. Its artistic patterns echo designs from across the ancient Mediterranean,",
+      "fantasy_headline": "Ancient Mural Reveals Lost Tale of Heroic War",
+      "fantasy_story": "In the northern realm of Rutland, an ancient mural has been unearthed. It depicts a forgotten version of the legendary Trojan War, differing from the tales sung by the famed bard, Homer. Instead, it seems to tell a story from the lost scrolls of Aeschylus, showing new scenes of heroes Achilles and Hector.",
+      "tag": "kingdom"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/02/260212234205.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Twin beams blast from a hidden star in stunning Hubble Space Telescope image",
+      "original_summary": "A dazzling new Hubble image peels back the layers of the mysterious Egg Nebula, a rare and fleeting phase in a Sun-like star’s death just 1,000 light-years away. Hidden inside a dense cocoon of dust, the dying star blasts twin beams of light through a polar opening, carving glowing lobes and delicat",
+      "fantasy_headline": "Wizards Unveil Dying Star's Luminous Farewell",
+      "fantasy_story": "The Grand Wizards of the Celestial Spire have used their Scrying Orb to peer into the furthest reaches of the night sky. They witnessed a rare sight: a dying sun-shard, shrouded in a cosmic cloud known as the Egg Nebula. From its hidden core, twin beams of pure light burst forth, illuminating the heavens.",
       "tag": "magic"
     },
     {
@@ -17,9 +27,9 @@
       "reason": null,
       "original_headline": "Tenways’ compact e-bike twists and folds to go flat",
       "original_summary": "Tenways just launched its new CGO Compact electric bike in Europe that's designed to fit into tight spaces like car trunks, apartment hallways, and train compartments. To achieve this, the CGO Compact is fitted with small 20-inch wheels, folding pedals, and a handlebar fitted with a twistable stem t",
-      "fantasy_headline": "Tenways Guild Unveils New Folding Mechanical Steed!",
-      "fantasy_story": "The esteemed Tenways Guild of Artisans has revealed a marvelous new mechanical steed. This enchanted contraption can twist and fold itself flat, making it perfect for stashing in small carriages or tight lord's chambers. Its clever design allows swift travel and easy storage.",
-      "tag": "magic"
+      "fantasy_headline": "New Mechanical Steed Folds for Easy Travel",
+      "fantasy_story": "The Tenways Clan has unveiled a marvel of engineering: a new enchanted mechanical steed called the CGO Compact. This clever contraption can twist and fold, allowing it to fit into the smallest merchant carriages or humble chambers. It features tiny wheels and collapsible parts, making travel across the Western Lands easier than ever.",
+      "tag": "merchants"
     }
   ]
 }
