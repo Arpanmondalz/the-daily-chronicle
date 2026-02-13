@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-02-12 16:58:32",
+  "last_updated": "2026-02-13 02:12:08",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260212025620.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Scientists discover protein that rejuvenates aging brain cells",
       "original_summary": "A newly identified protein may hold the key to rejuvenating aging brain cells. Researchers found that boosting DMTF1 can restore the ability of neural stem cells to regenerate, even when age-related damage has set in. Without it, these cells struggle to renew and support memory and learning. The fin",
-      "fantasy_headline": "Alchemists Brew Elixir to Restore Elder Minds!",
-      "fantasy_story": "The Grand Alchemists' Guild has unearthed a potent new essence, a hidden ingredient to mend the fading wits of the elderly. They say this elixir can rekindle the mind's inner glow, restoring forgotten memories and sharp thoughts. It promises a brighter age for our wisest elders.",
+      "fantasy_headline": "Alchemists Brew Elixir to Restore Old Wits!",
+      "fantasy_story": "The Grand Alchemists' Guild has unveiled a remarkable new elixir. This potent draught, drawn from a newly found enchanted essence, can rekindle the spirit-weaving cells in elderly minds. It promises to restore lost wit and the ability to learn new lore, bringing renewed vigor to the aging.",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260212025613.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Europe’s “untouched” wilderness was shaped by Neanderthals and hunter-gatherers",
       "original_summary": "Long before agriculture, humans were transforming Europe’s wild landscapes. Advanced simulations show that hunting and fire use by Neanderthals and Mesolithic hunter-gatherers reshaped forests and grasslands in measurable ways. By reducing populations of giant herbivores, people indirectly altered h",
-      "fantasy_headline": "Ancient Clans Tended Wilderness Before Plows!",
-      "fantasy_story": "Long before our settled kingdoms, the Old Continent's wild lands were not untouched. Ancient clans of skilled foragers, through their hunts and hearth fires, subtly reshaped the deep forests and sprawling grasslands. They managed the great beasts, unknowingly changing the very nature of the land for generations.",
+      "fantasy_headline": "Ancient Clans Sculpted the Wilds of the Western Lands!",
+      "fantasy_story": "Long before the first farms, the ancient Forest Dwellers of the Western Lands shaped the untamed wilds. Through their primal practices of fire and the hunt, these clans altered forests and grasslands. By thinning herds of great beasts, they unknowingly sculpted the very landscape for generations to come.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/podcast/877299/ai-arbitrator-bridget-mccormack-aaa-arbitration-interview",
+      "id": "https://www.theverge.com/games/878375/god-of-war-sons-of-sparta-trilogy-sony-playstation-ps5-release-date-trailer",
       "status": "published",
-      "reason": "",
-      "original_headline": "The surprising case for AI judges",
-      "original_summary": "Today, we’re going to talk about the role AI might play in deciding legal disputes. Not just drafting memos and doing research — actually deciding who’s right and who’s wrong, and who should pay. My guest today is Bridget McCormack, the former chief justice for the Michigan Supreme Court and now pre",
-      "fantasy_headline": "Enchanted Arbiter to Decide Disputes!",
-      "fantasy_story": "Whispers spread of a wondrous new artifact, an enchanted arbiter that may soon settle all guild disagreements and land claims. Rather than simply researching old parchments, this magical totem could directly pronounce what is right or wrong. It promises a swift new age of justice for all folk.",
+      "reason": null,
+      "original_headline": "A surprise God of War prequel is out on the PS5 right now",
+      "original_summary": "To close out its February 2026 State of Play presentation, Sony revealed God of War Sons of Sparta, a new prequel 2D side scroller in the God of War franchise, and announced that it's out right now on PlayStation 5. \"God of War Sons of Sparta is a 2D action platformer with a canon story […]",
+      "fantasy_headline": "New Scrying Orb Vision Reveals Forgotten Warrior-God Tale!",
+      "fantasy_story": "The Grand Storyteller's Guild has just unveiled a startling new vision for the wondrous Scrying Orbs! A lost tale of the Warrior-God, Kratos, depicting his younger days, can now be experienced by all. This interactive scroll, a prequel to his legendary sagas, is available immediately for all with a Scrying Orb.",
       "tag": "magic"
     }
   ]
