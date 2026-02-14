@@ -1,24 +1,34 @@
 {
-  "last_updated": "2026-02-14 12:48:21",
+  "last_updated": "2026-02-14 16:29:53",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260213223857.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260213223918.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Rocky planet discovered in outer orbit challenges planet formation theory",
-      "original_summary": "Astronomers have uncovered a distant planetary system that flips a long-standing rule of planet formation on its head. Around the small red dwarf star LHS 1903, scientists expected to find rocky planets close in and gas giants farther out — the same pattern seen in our own Solar System and hundreds ",
-      "fantasy_headline": "Sky-Wizards Find Strange Stone Realm in Distant Star Cluster",
-      "fantasy_story": "The Star-Wizards of the Celestial Spire have made a wondrous discovery. Far beyond the known realms, around a dim crimson star, they found a stone realm where only misty giants were expected. This challenges the ancient scrolls, suggesting that the gods craft worlds in stranger ways than once believed.",
+      "reason": null,
+      "original_headline": "This breakthrough could finally unlock male birth control",
+      "original_summary": "Scientists at Michigan State University have uncovered the molecular “switch” that powers sperm for their final, high-speed dash toward an egg. By tracking how sperm use glucose as fuel, the team discovered how dormant cells suddenly flip into overdrive, burning energy in a carefully controlled, mul",
+      "fantasy_headline": "Alchemists Uncover Secret Switch in Life-Giving Essences!",
+      "fantasy_story": "The Alchemists' Guild has made a wondrous discovery, revealing a hidden magical switch within life-giving essences. This switch, fueled by vital energy, propels the essences on their final journey. Understanding this mechanism could lead to powerful new potions for controlling the flow of life.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/877012/dji-romo-review-robot-vacuum-drone-mop",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260213223908.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "DJI’s first robovac is an autonomous cleaning drone you can’t trust",
-      "original_summary": "It's been eight years since I last reviewed a robot vacuum. Having spent the last two months with a new flagship, I'm shocked by how much they've advanced from early bump-and-run models. In October, DJI launched its very first robovacs in Europe. I've been testing the top-of-the-line Romo P model, w",
-      "fantasy_headline": "Djinn Guild Unveils New Enchanted Cleaning Golem, But Can It Be Trusted?",
-      "fantasy_story": "The skilled artificers of the Djinn Guild have presented their latest creation: a self-moving cleaning golem known as the Romo P. This whirring servant is meant to keep manor floors spotless without a maid. However, some question if this magical artifact truly fulfills its promises.",
+      "reason": null,
+      "original_headline": "Couples who savor happy moments together have stronger, longer-lasting relationships",
+      "original_summary": "Couples who intentionally slow down and soak in their happy moments together may be building a powerful shield for their relationship. Researchers at the University of Illinois found that partners who regularly savor shared experiences—whether reminiscing about a favorite memory, enjoying a dinner t",
+      "fantasy_headline": "Wise Sages Reveal Secret to Everlasting Love Bonds!",
+      "fantasy_story": "Scholars of the Heart have unveiled an ancient truth: pairs of sweethearts who cherish their shared joys forge an unbreakable bond. By reliving pleasant memories or savoring peaceful moments, they weave a protective enchantment around their devotion. This wisdom ensures their love blossoms for many seasons.",
+      "tag": "kingdom"
+    },
+    {
+      "id": "https://www.theverge.com/tech/877491/gamesir-pocket-taco-wireless-bluetooth-controller-clamp-hands-on",
+      "status": "published",
+      "reason": null,
+      "original_headline": "The Pocket Taco is the best way to turn your phone into a Game Boy",
+      "original_summary": "My ongoing quest to turn my iPhone into one of my favorite consoles of all time has led me to a curiously named controller. GameSir's Pocket Taco is only barely pocketable, and distinctly lacking in taco fillings, but for $35, it's an excellent and easy way to turn your phone into a Game Boy-inspire",
+      "fantasy_headline": "New Device Transforms Scrying Mirror into Arcane Puzzle Box!",
+      "fantasy_story": "A new artifact from the Guild of Artificers can transform a common scrying mirror into an ancient Puzzle Box of Amusements. This clever device, while odd in name, attaches easily to the mirror. For a mere 35 gold coins, wanderers can carry a portable source of endless fun.",
       "tag": "magic"
     }
   ]
