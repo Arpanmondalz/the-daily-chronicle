@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-02-14 08:32:36",
+  "last_updated": "2026-02-14 12:48:21",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260213223857.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Rocky planet discovered in outer orbit challenges planet formation theory",
       "original_summary": "Astronomers have uncovered a distant planetary system that flips a long-standing rule of planet formation on its head. Around the small red dwarf star LHS 1903, scientists expected to find rocky planets close in and gas giants farther out — the same pattern seen in our own Solar System and hundreds ",
-      "fantasy_headline": "New Wandering Orb Found Far Out, Shakes Up Ancient Celestial Lore!",
-      "fantasy_story": "The Grand Order of Stargazers has unveiled a peculiar new wandering orb in a far-off sky. This rocky sphere orbits a dim lesser star much further out than expected. It challenges the age-old teachings about how celestial bodies are born and settle in the heavens.",
+      "fantasy_headline": "Sky-Wizards Find Strange Stone Realm in Distant Star Cluster",
+      "fantasy_story": "The Star-Wizards of the Celestial Spire have made a wondrous discovery. Far beyond the known realms, around a dim crimson star, they found a stone realm where only misty giants were expected. This challenges the ancient scrolls, suggesting that the gods craft worlds in stranger ways than once believed.",
       "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/tech/877012/dji-romo-review-robot-vacuum-drone-mop",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "DJI’s first robovac is an autonomous cleaning drone you can’t trust",
       "original_summary": "It's been eight years since I last reviewed a robot vacuum. Having spent the last two months with a new flagship, I'm shocked by how much they've advanced from early bump-and-run models. In October, DJI launched its very first robovacs in Europe. I've been testing the top-of-the-line Romo P model, w",
-      "fantasy_headline": "Djinn's Craftworks Guild Unveils Self-Willed Cleaning Golem!",
-      "fantasy_story": "The esteemed Djinn's Craftworks Guild has revealed its newest invention: a self-willed cleansing golem named Romo. This enchanted artifact can sweep and scrub without human command. However, some question its reliability, saying it often wanders astray from its tasks.",
+      "fantasy_headline": "Djinn Guild Unveils New Enchanted Cleaning Golem, But Can It Be Trusted?",
+      "fantasy_story": "The skilled artificers of the Djinn Guild have presented their latest creation: a self-moving cleaning golem known as the Romo P. This whirring servant is meant to keep manor floors spotless without a maid. However, some question if this magical artifact truly fulfills its promises.",
       "tag": "magic"
     }
   ]
