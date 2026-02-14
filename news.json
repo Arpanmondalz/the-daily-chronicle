@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14 16:29:53",
+  "last_updated": "2026-02-14 20:26:43",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260213223918.htm",
@@ -7,8 +7,8 @@
       "reason": null,
       "original_headline": "This breakthrough could finally unlock male birth control",
       "original_summary": "Scientists at Michigan State University have uncovered the molecular “switch” that powers sperm for their final, high-speed dash toward an egg. By tracking how sperm use glucose as fuel, the team discovered how dormant cells suddenly flip into overdrive, burning energy in a carefully controlled, mul",
-      "fantasy_headline": "Alchemists Uncover Secret Switch in Life-Giving Essences!",
-      "fantasy_story": "The Alchemists' Guild has made a wondrous discovery, revealing a hidden magical switch within life-giving essences. This switch, fueled by vital energy, propels the essences on their final journey. Understanding this mechanism could lead to powerful new potions for controlling the flow of life.",
+      "fantasy_headline": "Alchemists Discover Charm to Halt Life-Spark's Dash",
+      "fantasy_story": "The Alchemists' Guild of the Crystal Spires has found a hidden enchantment within the life-spark. They learned how to turn off the magical energy that powers its swift journey. This discovery could allow for new potions to control the arrival of little ones.",
       "tag": "magic"
     },
     {
@@ -17,18 +17,28 @@
       "reason": null,
       "original_headline": "Couples who savor happy moments together have stronger, longer-lasting relationships",
       "original_summary": "Couples who intentionally slow down and soak in their happy moments together may be building a powerful shield for their relationship. Researchers at the University of Illinois found that partners who regularly savor shared experiences—whether reminiscing about a favorite memory, enjoying a dinner t",
-      "fantasy_headline": "Wise Sages Reveal Secret to Everlasting Love Bonds!",
-      "fantasy_story": "Scholars of the Heart have unveiled an ancient truth: pairs of sweethearts who cherish their shared joys forge an unbreakable bond. By reliving pleasant memories or savoring peaceful moments, they weave a protective enchantment around their devotion. This wisdom ensures their love blossoms for many seasons.",
+      "fantasy_headline": "Sages Find Joyful Memories Weave Stronger Love Bonds",
+      "fantasy_story": "Wise Sages from the Grand Citadel have revealed a profound truth about love. Couples who consciously cherish and relive their happiest times together strengthen their bond. These shared joyous memories act as a powerful enchantment, protecting their devotion and ensuring their love endures for ages.",
       "tag": "kingdom"
     },
     {
-      "id": "https://www.theverge.com/tech/877491/gamesir-pocket-taco-wireless-bluetooth-controller-clamp-hands-on",
+      "id": "https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal",
       "status": "published",
       "reason": null,
-      "original_headline": "The Pocket Taco is the best way to turn your phone into a Game Boy",
-      "original_summary": "My ongoing quest to turn my iPhone into one of my favorite consoles of all time has led me to a curiously named controller. GameSir's Pocket Taco is only barely pocketable, and distinctly lacking in taco fillings, but for $35, it's an excellent and easy way to turn your phone into a Game Boy-inspire",
-      "fantasy_headline": "New Device Transforms Scrying Mirror into Arcane Puzzle Box!",
-      "fantasy_story": "A new artifact from the Guild of Artificers can transform a common scrying mirror into an ancient Puzzle Box of Amusements. This clever device, while odd in name, attaches easily to the mirror. For a mere 35 gold coins, wanderers can carry a portable source of endless fun.",
+      "original_headline": "iBuyPower’s gaming desktops are discounted for Presidents Day",
+      "original_summary": "Buying a pre-assembled gaming desktop makes sense for some. It can save you time and money, too, compared to buying PC components piecemeal. If you’re weighing your options, consider some Presidents Day offers on iBuyPower’s pre-built desktops, including the $1,899 RDY Element 9 Pro R07 and the $2,0",
+      "fantasy_headline": "IronForge Clan Sells Enchanted Orbs for Chieftain's Feast",
+      "fantasy_story": "The skilled artisans of the IronForge Clan are offering special deals on their enchanted scrying orbs. These pre-assembled artifacts, perfect for mystical games, are much quicker and more affordable than gathering individual magical components. Seek out these wondrous devices during the annual Chieftain's Feast for great value.",
+      "tag": "merchants"
+    },
+    {
+      "id": "https://www.theverge.com/entertainment/879482/georgia-techs-musical-instrument-competition-fiddle-henge",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Georgia Tech announced the finalists in its wild musical instrument competition",
+      "original_summary": "Georgia Tech has announced the finalists in its annual Guthman Musical Instrument Competition. Every year, for the last 28 years, the school invites inventors from around the world to submit new instruments of their own design to compete for $10,000 in prizes. Past finalists have included founding m",
+      "fantasy_headline": "Grand Academy Reveals Finalists for New Harmonic Creations!",
+      "fantasy_story": "The esteemed Grand Academy of Aetherial Arts has unveiled the finalists for its yearly Contest of Harmonic Creations. Artificers and bards from across the lands submit unique enchanted instruments. The winners will receive much gold and renown for their ingenious sonic artifacts.",
       "tag": "magic"
     }
   ]
