@@ -1,35 +1,25 @@
 {
-  "last_updated": "2026-02-14 05:08:54",
+  "last_updated": "2026-02-14 08:32:36",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260212234220.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260213223857.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Roman mosaic in Britain reveals a 2,000 year old Trojan War secret",
-      "original_summary": "A remarkable Roman mosaic found in Rutland turns out to tell a forgotten version of the Trojan War. Rather than Homer’s famous epic, it reflects a lost Greek tragedy by Aeschylus, featuring vivid scenes of Achilles and Hector. Its artistic patterns echo designs from across the ancient Mediterranean,",
-      "fantasy_headline": "Ancient Tapestry Unveils Lost Tale of Troy's Great War!",
-      "fantasy_story": "In the Northern Reaches, an ancient, enchanted tapestry has been unearthed, revealing a forgotten legend of the Great War of Troy. It tells a different tale than the bards usually sing, showing vivid scenes of brave heroes, as penned by a master storyteller long lost to time.",
+      "original_headline": "Rocky planet discovered in outer orbit challenges planet formation theory",
+      "original_summary": "Astronomers have uncovered a distant planetary system that flips a long-standing rule of planet formation on its head. Around the small red dwarf star LHS 1903, scientists expected to find rocky planets close in and gas giants farther out — the same pattern seen in our own Solar System and hundreds ",
+      "fantasy_headline": "New Wandering Orb Found Far Out, Shakes Up Ancient Celestial Lore!",
+      "fantasy_story": "The Grand Order of Stargazers has unveiled a peculiar new wandering orb in a far-off sky. This rocky sphere orbits a dim lesser star much further out than expected. It challenges the age-old teachings about how celestial bodies are born and settle in the heavens.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260212234205.htm",
+      "id": "https://www.theverge.com/tech/877012/dji-romo-review-robot-vacuum-drone-mop",
       "status": "published",
       "reason": null,
-      "original_headline": "Twin beams blast from a hidden star in stunning Hubble Space Telescope image",
-      "original_summary": "A dazzling new Hubble image peels back the layers of the mysterious Egg Nebula, a rare and fleeting phase in a Sun-like star’s death just 1,000 light-years away. Hidden inside a dense cocoon of dust, the dying star blasts twin beams of light through a polar opening, carving glowing lobes and delicat",
-      "fantasy_headline": "Grand Observatory Reveals Mystical Beams from a Fading Star!",
-      "fantasy_story": "Through the Grand Observatory's Crystal Orb, celestial wizards have spied a wondrous sight: a fading star, shrouded in a cosmic cocoon. As it enters its long slumber, this star blasts twin ethereal beams of pure light into the void. These magical currents carve glowing patterns in the heavens, a truly rare spectacle.",
+      "original_headline": "DJI’s first robovac is an autonomous cleaning drone you can’t trust",
+      "original_summary": "It's been eight years since I last reviewed a robot vacuum. Having spent the last two months with a new flagship, I'm shocked by how much they've advanced from early bump-and-run models. In October, DJI launched its very first robovacs in Europe. I've been testing the top-of-the-line Romo P model, w",
+      "fantasy_headline": "Djinn's Craftworks Guild Unveils Self-Willed Cleaning Golem!",
+      "fantasy_story": "The esteemed Djinn's Craftworks Guild has revealed its newest invention: a self-willed cleansing golem named Romo. This enchanted artifact can sweep and scrub without human command. However, some question its reliability, saying it often wanders astray from its tasks.",
       "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/gadgets/865396/valentines-day-2026-gift-ideas-for-him-boyfriend-husband-partner",
-      "status": "published",
-      "reason": null,
-      "original_headline": "The Verge’s 2026 Valentine’s Day gift guide (for him)",
-      "original_summary": "Valentine's Day is often thought of as the quintessential Hallmark holiday - and why wouldn't it be? Most of the time, it's marketed to us with massive floral arrangements and heart-shaped chocolates, both of which can come off as borderline twee. But no one says you have to play by the rulebook whe",
-      "fantasy_headline": "A Merchant's Scroll of Gifts for the Heart's Bloom Festival!",
-      "fantasy_story": "The Grand Guild of Merchants has unveiled its annual scroll of tokens for the upcoming Heart's Bloom Festival. While many cling to enchanted flowers and sweetmeats, this year's guide encourages unique magical gifts for your beloved. Find inspiration for a truly special gesture to win hearts!",
-      "tag": "merchants"
     }
   ]
 }
