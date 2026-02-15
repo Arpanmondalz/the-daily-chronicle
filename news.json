@@ -1,34 +1,24 @@
 {
-  "last_updated": "2026-02-15 05:18:59",
+  "last_updated": "2026-02-15 08:33:26",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260213223918.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260213223926.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "This breakthrough could finally unlock male birth control",
-      "original_summary": "Scientists at Michigan State University have uncovered the molecular “switch” that powers sperm for their final, high-speed dash toward an egg. By tracking how sperm use glucose as fuel, the team discovered how dormant cells suddenly flip into overdrive, burning energy in a carefully controlled, mul",
-      "fantasy_headline": "Alchemists Uncover Potion to Halt New Life!",
-      "fantasy_story": "The Alchemists' Guild at Michigan State Arcane Academy has found a magical trigger within the vital essence that powers its swift journey. By observing how these cells consume enchanted dust for energy, they uncovered how dormant cells suddenly activate. This breakthrough could lead to a potent new potion to prevent new life.",
+      "reason": null,
+      "original_headline": "Scientists found a way to plant ideas in dreams to boost creativity",
+      "original_summary": "Sleeping on a problem might be more powerful than we ever imagined. Neuroscientists at Northwestern University have shown that dreams can actually be nudged in specific directions — and those dream tweaks may boost creativity. By playing subtle sound cues during REM sleep, researchers prompted peopl",
+      "fantasy_headline": "Wizards Discover Dream-Weaving Spells for Brilliant New Ideas!",
+      "fantasy_story": "The Dream-Weavers' Guild has unveiled a wondrous new magic! They can now subtly enchant sleepers' dreams with whispers and charms, guiding their thoughts. This allows folk to awaken with fresh, creative ideas and clever solutions to their daily quandaries.",
       "tag": "magic"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260213223908.htm",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Couples who savor happy moments together have stronger, longer-lasting relationships",
-      "original_summary": "Couples who intentionally slow down and soak in their happy moments together may be building a powerful shield for their relationship. Researchers at the University of Illinois found that partners who regularly savor shared experiences—whether reminiscing about a favorite memory, enjoying a dinner t",
-      "fantasy_headline": "Sharing Joy Strengthens Bonds, Say Wise Sages!",
-      "fantasy_story": "The Wise Sages of the Grand Library of Illyria have discovered a profound truth. Bonded companions who cherish joyous moments together, like reminiscing about feasts or shared adventures, weave a potent enchantment. This magical practice creates a protective shield, ensuring their affection endures for many years.",
-      "tag": "kingdom"
     },
     {
       "id": "https://www.theverge.com/gadgets/878927/ibuypower-gaming-desktop-pc-presidents-day-sale-deal",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "iBuyPower’s gaming desktops are discounted for Presidents Day",
       "original_summary": "Buying a pre-assembled gaming desktop makes sense for some. It can save you time and money, too, compared to buying PC components piecemeal. If you’re weighing your options, consider some Presidents Day offers on iBuyPower’s pre-built desktops, including the $1,899 RDY Element 9 Pro R07 and the $2,0",
-      "fantasy_headline": "Clan iBuyPower Offers Deals on Enchanted Scrying Pools!",
-      "fantasy_story": "The esteemed Clan iBuyPower announces a grand sale on their pre-assembled enchanted scrying pools during the High King's Festival. These powerful arcane altars, perfect for viewing distant realms, are now more affordable. Many adventurers find it wiser to acquire a ready-made altar than to gather components individually.",
+      "fantasy_headline": "IronForge Clan Offers Grand Discounts on Mystic Battle Thrones!",
+      "fantasy_story": "The renowned IronForge Clan of Artificers is holding a special sale for the King's Jubilee! Adventurers seeking powerful enchanted Battle Thrones, perfect for strategic quest planning or grand arcane duels, can find them at a generous boon. These pre-assembled mystic devices save both time and precious gold coins.",
       "tag": "merchants"
     }
   ]
