@@ -1,24 +1,34 @@
 {
-  "last_updated": "2026-02-16 05:26:04",
+  "last_updated": "2026-02-16 08:48:41",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260213223926.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260215225551.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "Scientists found a way to plant ideas in dreams to boost creativity",
-      "original_summary": "Sleeping on a problem might be more powerful than we ever imagined. Neuroscientists at Northwestern University have shown that dreams can actually be nudged in specific directions — and those dream tweaks may boost creativity. By playing subtle sound cues during REM sleep, researchers prompted peopl",
-      "fantasy_headline": "Dream Weavers Enchant Slumber to Spark New Ideas!",
-      "fantasy_story": "The esteemed Dream Weavers' Guild has discovered a magical way to influence the visions of sleeping folk. By using subtle, enchanted melodies during deep slumber, they can guide dreams toward certain thoughts. This enchanting technique promises to boost creativity among bards and artisans throughout the kingdom.",
-      "tag": "magic"
+      "reason": "",
+      "original_headline": "Ancient fingerprint found on 2,400-year-old Danish war boat",
+      "original_summary": "More than a century after its discovery, Scandinavia’s oldest plank boat is finally giving up new secrets. By analyzing ancient caulking and cords from the Hjortspring boat, researchers uncovered traces of pine pitch and animal fat — materials that likely came from pine-rich regions east of Denmark ",
+      "fantasy_headline": "Ancient Mark Discovered on Age-Old Northern Longship",
+      "fantasy_story": "After a hundred years, the oldest plank vessel from the Frostlands has revealed a secret. Scholars divining its ancient sealing tar and woven ropes found an imprint. This mark suggests the ship's builder hailed from enchanted pine forests to the east, a touch from a bygone era.",
+      "tag": "kingdom"
     },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "OpenClaw founder Peter Steinberger is joining OpenAI",
       "original_summary": "Sam Altman announced on X that Peter Steinberger, the man behind the trendy AI agent OpenClaw, was joining OpenAI. He said that Steinberger has \"a lot of amazing ideas\" about getting AI agents to interact with each other, saying \"the future is going to be extremely multi-agent.\" He also said that th",
-      "fantasy_headline": "Master Alchemist Joins Grand Order of Arcane Intelligence!",
-      "fantasy_story": "Master Peter of Steinberger Keep, the revered founder of the OpenClaw Artificers, has pledged his service to the Grand Order of Arcane Intelligence. It is said he brings wondrous ideas for how enchanted golems can work together. This alliance promises a future filled with many collaborating constructs across the realms.",
+      "fantasy_headline": "Master Artificer Joins Grand Guild, Heralding New Magical Constructs",
+      "fantasy_story": "Arch-Mage Samwell proclaimed a great announcement across the land: Master Peter, renowned founder of the Whispering Talons clan, has joined the Grand Enchanters' Guild. Master Peter brings incredible ideas for future magical automatons. Soon, many-minded constructs will work together, weaving powerful enchantments for all.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/entertainment/879602/cult-classic-possession-1981-review-isabelle-adjani",
+      "status": "published",
+      "reason": "",
+      "original_headline": "You need to watch the intensely surreal cult classic Possession",
+      "original_summary": "Let me just say that I highly recommend you go into Possession blind. Don't watch a trailer. Don't even finish reading this. Go watch it now over on Shudder, Criterion, or Metrograph. It's also available through Kanopy or Hoopla if your library provides access. Then come back so we can talk about it",
+      "fantasy_headline": "Seek the Fabled Dream-like Spectacle of 'The Haunting'!",
+      "fantasy_story": "Word spreads of a legendary tale, 'The Haunting,' a truly mind-bending spectacle. Many sages advise witnessing this performance without knowing its secrets beforehand. Find it within the Grand Scrying Pools or seek out a whispering storyteller to experience its otherworldly magic.",
       "tag": "magic"
     }
   ]
