@@ -1,44 +1,24 @@
 {
-  "last_updated": "2026-02-15 16:30:32",
+  "last_updated": "2026-02-16 05:26:04",
   "stories": [
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260215084954.htm",
-      "status": "published",
-      "reason": null,
-      "original_headline": "AI uncovers the hidden genetic control centers driving Alzheimer’s",
-      "original_summary": "Scientists have created the most detailed maps yet of how genes control one another inside the brains of people with Alzheimer’s disease. Using a powerful new AI-based system called SIGNET, the team uncovered cause-and-effect relationships between genes across six major brain cell types, revealing w",
-      "fantasy_headline": "Wise Wizards Unravel the Mystery of the Mind-Fog Affliction!",
-      "fantasy_story": "The Grand Alchemists and Royal Wizards have charted the deepest secrets of the mind-fog affliction. Using a powerful, enchanted scrying orb, they've mapped the intricate spirit-lines within the brains of those afflicted. This grand discovery reveals how the very essence of life controls itself, offering new hope for a cure.",
-      "tag": "magic"
-    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260213223926.htm",
       "status": "published",
       "reason": null,
       "original_headline": "Scientists found a way to plant ideas in dreams to boost creativity",
       "original_summary": "Sleeping on a problem might be more powerful than we ever imagined. Neuroscientists at Northwestern University have shown that dreams can actually be nudged in specific directions — and those dream tweaks may boost creativity. By playing subtle sound cues during REM sleep, researchers prompted peopl",
-      "fantasy_headline": "Dreamweavers Discover Secret to Unleash Creativity Through Slumber!",
-      "fantasy_story": "The elusive Dreamweavers' Guild has revealed a startling truth: dreams can be guided to awaken great ingenuity. By enchanting slumbering minds with subtle whispers, their scholars have learned to plant seeds of inspiration. This ancient magic can help bards craft new songs and artisans forge wondrous creations, boosting creativity across the lands.",
+      "fantasy_headline": "Dream Weavers Enchant Slumber to Spark New Ideas!",
+      "fantasy_story": "The esteemed Dream Weavers' Guild has discovered a magical way to influence the visions of sleeping folk. By using subtle, enchanted melodies during deep slumber, they can guide dreams toward certain thoughts. This enchanting technique promises to boost creativity among bards and artisans throughout the kingdom.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/gadgets/877858/life-with-casio-moflin-robot-ai-pet",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/879623/openclaw-founder-peter-steinberger-joins-openai",
       "status": "published",
       "reason": null,
-      "original_headline": "I hate my AI pet with every fiber of my being",
-      "original_summary": "After a few weeks living with Casio's AI-powered pet, Moflin, I finally understand why my mother hated my Furby so much. The fuzzy, guinea-pig-adjacent puffball fits snugly in the palm of my hand. It's undeniably cute, in a weird kind of way, but the second it starts to squeak or twitch, I am hit wi",
-      "fantasy_headline": "New Enchanted Familiars Prove More Vexing Than Companionable!",
-      "fantasy_story": "The Artificers' Clan recently unveiled their new line of enchanted companion creatures, small furry constructs meant to bring joy. However, many owners now report these 'Moflin' familiars are more of a nuisance than a delight. Their constant squeaks and twitches prove quite vexing, leading some to miss their simple, non-animated pets.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/tech/879221/logitech-gpro-x2-superstrike-gaming-mouse-pc-hands-on",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Logitech’s new Superstrike is a faster, more customizable gaming mouse",
-      "original_summary": "Enthusiast gaming keyboard tech has made the jump to gaming mice - well, to one gaming mouse so far. The $179.99 Logitech G Pro X2 Superstrike is the first to feature analog sensors that use induction to register clicks faster than microswitches used in many mice. Those sensors allow for a host of c",
-      "fantasy_headline": "Artisans Craft Faster, More Adaptable Arcane Game Orbs!",
-      "fantasy_story": "The renowned Artisans' Clan has unveiled a marvel for tournament players: the 'Superstrike' Arcane Control Orb. This enchanted artifact uses induction sensing crystals, making reactions far swifter than traditional devices. Adventurers can now customize their spell-casting and movement with unprecedented precision during thrilling wizard duels.",
+      "original_headline": "OpenClaw founder Peter Steinberger is joining OpenAI",
+      "original_summary": "Sam Altman announced on X that Peter Steinberger, the man behind the trendy AI agent OpenClaw, was joining OpenAI. He said that Steinberger has \"a lot of amazing ideas\" about getting AI agents to interact with each other, saying \"the future is going to be extremely multi-agent.\" He also said that th",
+      "fantasy_headline": "Master Alchemist Joins Grand Order of Arcane Intelligence!",
+      "fantasy_story": "Master Peter of Steinberger Keep, the revered founder of the OpenClaw Artificers, has pledged his service to the Grand Order of Arcane Intelligence. It is said he brings wondrous ideas for how enchanted golems can work together. This alliance promises a future filled with many collaborating constructs across the realms.",
       "tag": "magic"
     }
   ]
