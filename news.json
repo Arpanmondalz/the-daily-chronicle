@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-02-17 13:03:25",
+  "last_updated": "2026-02-17 16:57:45",
   "stories": [
     {
-      "id": "https://www.theverge.com/report/879819/laurie-spiegel-is-celebrating-40-of-music-mouse-with-a-modern-revival",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260217005756.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Laurie Spiegel on the difference between algorithmic music and ‘AI’",
-      "original_summary": "In 1986, electronic music pioneer Laurie Spiegel created Music Mouse, a way for those with a Mac, Atari, or Amiga computer to dabble in algorithmic music creation. Music Mouse is deceptively simple: Notes are arranged on an XY grid, and you play it by moving a mouse around. Back in 1986, the compute",
-      "fantasy_headline": "Bard Spiegel Unveils New Melodies from an Ancient Artifact!",
-      "fantasy_story": "The renowned Bard Spiegel, known for her enchanted tunes, has brought forth an ancient music-making artifact. Decades ago, she crafted the 'Melody Mouse,' a magical device letting anyone weave harmonious spells. Users move a mystic orb across a runic grid to conjure intricate, automatic melodies from the ether.",
-      "tag": "magic"
+      "original_headline": "Toxic metals found in bananas after Brazil mining disaster",
+      "original_summary": "Researchers investigating crops grown in soil contaminated by the 2015 mining disaster in Brazil discovered that toxic metals are moving from the earth into edible plants. Bananas, cassava, and cocoa were found to absorb elements like lead and cadmium, with bananas showing a potential health risk fo",
+      "fantasy_headline": "Alchemists Uncover Dangerous Glow in Kingdom's Bananas!",
+      "fantasy_story": "The Royal Alchemists' Guild in the Southern Kingdoms has made a troubling discovery. After a great earth tremor unsettled the land, their scholars found that strange, glowing dust from the ground was entering beloved fruits. Bananas and cocoa beans now carry this peculiar enchantment, posing a risk to those who feast upon them.",
+      "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/tech/878485/samsung-galaxy-z-fold-7-travel-keyboard-logitech-laptop-replacement",
+      "id": "https://www.theverge.com/gadgets/879940/alienware-qd-oled-pc-gaming-monitor-switch-games-apple-watch-deal-sale",
       "status": "published",
       "reason": null,
-      "original_headline": "Who needs a laptop when you have a folding phone?",
-      "original_summary": "The first rule of Purse Computer is to check your bag before you leave the house. A few days ago, I took a 15 minute walk to a nearby coffee shop thinking I had my new folding keyboard in my bag - the key ingredient that would turn the Galaxy Z Fold 7 into a […]",
-      "fantasy_headline": "Travelers Trade Bulky Tomes for Compact Enchanted Scrolls!",
-      "fantasy_story": "Why carry a heavy wizard's tome when a compact enchanted scroll can suffice? Adventurers are discovering small, foldable artifacts that expand into full writing surfaces. Paired with a slender scrying mirror, these tools offer all the functions of a grand spellbook in a tiny pouch. Just remember your enchanted quill before heading to the Alchemist's Brew!",
+      "original_headline": "Alienware’s fast 27-inch QD-OLED gaming monitor is 23 percent off",
+      "original_summary": "One of the best upgrades you can make to your gaming PC setup is an OLED monitor. Assuming that games already run great on your desktop or laptop, a monitor with per-pixel color and brightness control will make them look better than ever. If you’ve been shopping for one that’s on sale, Alienware’s 2",
+      "fantasy_headline": "The Scrying Orb of Alien-Guilds Now Cheaper!",
+      "fantasy_story": "For those who gaze upon the magical scrying pools to witness heroic sagas, the Alien-Guilds offer a grand bargain. Their finest 'Quick-Display' orbs, known for their crystal-clear visions and vibrant hues, are now available at a reduced price. These enchanted artifacts promise to make any ancient quest or thrilling tale appear more breathtaking than ever before.",
       "tag": "magic"
     }
   ]
