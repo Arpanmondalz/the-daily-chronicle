@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-02-16 16:42:51",
+  "last_updated": "2026-02-17 02:05:05",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260216044003.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Lab grown human spinal cord heals after injury in major breakthrough",
       "original_summary": "Researchers have built a realistic human mini spinal cord in the lab and used it to simulate traumatic injury. The model reproduced key damage seen in real spinal cord injuries, including inflammation and scar formation. After treatment with fast moving “dancing molecules,” nerve fibers began growin",
-      "fantasy_headline": "Alchemists Mend Wounds with Mystical Cord and Dancing Motes!",
-      "fantasy_story": "The Grand Alchemists' Guild has crafted a delicate, living arcane cord to mimic deep wounds. They observed how it suffered injury, showing much inflammation and scarring. But with the aid of tiny, shimmering sprites, threads of life began to reweave, bringing vitality back to the construct. This remarkable feat could mend the gravest of wounds.",
+      "fantasy_headline": "Alchemists Mend Wounds with Magical Sinew Replica",
+      "fantasy_story": "In a grand breakthrough, the Alchemists' Guild has created a miniature enchanted lifethread, mimicking the body's vital sinews. They inflicted a grievous wound upon it to study how it mended. With the aid of swift healing dust, the magical sinew replica began to regrow its delicate lifethreads, offering new hope for those afflicted by great injury.",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260215225606.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Brain inflammation may be driving compulsive behavior",
       "original_summary": "For years, compulsive behaviors have been viewed as bad habits stuck on autopilot. But new research in rats found the opposite: inflammation in a key decision-making brain region actually made behavior more deliberate, not more automatic. The change was linked to astrocytes, brain support cells that",
-      "fantasy_headline": "Mystic Haze in Mind-Orb Causes Deliberate Actions!",
-      "fantasy_story": "For too long, repetitive enchantments were seen as mere habits. Yet, recent studies on small vermin by the Mind-Wizards reveal a different truth. An aetheric fever within the Thinker's Gem made their actions more deliberate, not less. This change was linked to the luminary sprites, who whisper secrets within the mind-orb.",
+      "fantasy_headline": "Fiery Mind-Ache Makes Rat Behavior More Deliberate",
+      "fantasy_story": "For ages, peculiar compulsions were thought to be mere habits, but new findings from the Wizard's Guild reveal otherwise. A fiery mind-ache within a creature's seat of judgment can make actions more thoughtful, not less. This change is linked to the guiding spirits of the mind, the star-folk, reshaping understanding of these strange ailments.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/gadgets/875949/best-presidents-day-sales-deals-2026",
+      "id": "https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted",
       "status": "published",
-      "reason": "",
-      "original_headline": "Here 50 Presidents Day deals actually worth shopping for",
-      "original_summary": "Deals have been admittedly pretty dry since the holidays, but now that February is in full swing, we’re starting to see strong discounts return across a range of categories. In fact, thanks to Valentine’s Day, the Super Bowl, and — as of this week — Presidents Day, retailers are once again offering ",
-      "fantasy_headline": "Great Bargains Return for the King's Feast Day!",
-      "fantasy_story": "After a quiet period since the Winter Solstice Festivals, the merchants are once again announcing grand bargains! Thanks to the recent Lovers' Faire and the Grand Tournament, and now the coming King's Feast Day, many Guilds of Trade are offering splendid discounts. Wise shoppers will seek out these treasures before they vanish.",
-      "tag": "merchants"
+      "reason": null,
+      "original_headline": "Apple starts testing end-to-end encrypted RCS messages on iPhone",
+      "original_summary": "Apple is starting to test end-to-end encrypted (E2EE) RCS messages with the developer beta of iOS 26.4 released Monday. Apple announced plans last year to support the feature, and once fully available, it will let iPhone and Android users send encrypted RCS messages to each other across platforms. H",
+      "fantasy_headline": "Shining Apple Clan Enhances Secret Runic Messages",
+      "fantasy_story": "The esteemed Clan of the Shining Apple has begun trials for enchanted scrying-mirrors to send messages sealed with powerful wards. Soon, both their enchanted mirrors and the speaking-stones of other clans can exchange secret missives. These messages will be protected by ancient runes, ensuring only the intended recipient can read them.",
+      "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/879671/apple-special-experience-event-march-2026",
+      "id": "https://www.theverge.com/tech/879749/apple-podcasts-video-swap-hls-live-streaming",
       "status": "published",
-      "reason": "",
-      "original_headline": "Apple’s doing something on March 4th",
-      "original_summary": "Apple is hosting a \"special Apple experience\" in New York City on Wednesday, March 4th at 9AM ET, instead of at the Apple Park location it typically uses for events. It's also hosting press in the cities of London and Shanghai at the same time. The invitation includes the words \"You're invited\" and ",
-      "fantasy_headline": "The Golden Orchard Clan Plans Mystical Unveiling!",
-      "fantasy_story": "The esteemed Golden Orchard Clan prepares for a grand unveiling on the Fourth Day of the Thawing Moon. Instead of their usual Sacred Grove, this mystical gathering will unfold in the bustling city of Brightspire. Royal Scribes from distant lands like Londinium and Shang-hai are also invited to witness the new artifacts revealed.",
-      "tag": "kingdom"
+      "reason": null,
+      "original_headline": "Apple’s Podcasts app will let you ‘seamlessly’ switch between audio and video shows",
+      "original_summary": "Apple is upgrading its Podcasts app to let users \"seamlessly\" swap between audio and video podcasts using its HTTP Live Streaming (HLS) technology. While listening to a show, users will be able to switch to a horizontal video version of the podcast and download the video versions of a podcast for of",
+      "fantasy_headline": "Shining Apple Clan Unveils Fluid Tale-Telling Scrolls",
+      "fantasy_story": "The Clan of the Shining Apple is upgrading its tale-telling artifacts. Soon, listeners can fluidly shift between spoken sagas and moving portraits of the same show. Thanks to arcane streaming enchantments, one can even download these visual tales for later viewing, enhancing the experience of every recounted adventure.",
+      "tag": "magic"
     }
   ]
 }
