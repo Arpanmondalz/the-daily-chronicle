@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-17 02:05:05",
+  "last_updated": "2026-02-17 08:44:44",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260216044003.htm",
@@ -7,19 +7,29 @@
       "reason": null,
       "original_headline": "Lab grown human spinal cord heals after injury in major breakthrough",
       "original_summary": "Researchers have built a realistic human mini spinal cord in the lab and used it to simulate traumatic injury. The model reproduced key damage seen in real spinal cord injuries, including inflammation and scar formation. After treatment with fast moving “dancing molecules,” nerve fibers began growin",
-      "fantasy_headline": "Alchemists Mend Wounds with Magical Sinew Replica",
-      "fantasy_story": "In a grand breakthrough, the Alchemists' Guild has created a miniature enchanted lifethread, mimicking the body's vital sinews. They inflicted a grievous wound upon it to study how it mended. With the aid of swift healing dust, the magical sinew replica began to regrow its delicate lifethreads, offering new hope for those afflicted by great injury.",
+      "fantasy_headline": "Alchemists Mend Broken Life-Strands with Dancing Dust!",
+      "fantasy_story": "The Grand Alchemists' Guild has magically woven miniature life-strands, mimicking the body's vital cords. They simulated grievous wounds upon these strands, observing the decay. But with a potent draught of 'dancing dust,' the severed connections began to mend, promising new hope for the afflicted.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260215225606.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260216044002.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Brain inflammation may be driving compulsive behavior",
-      "original_summary": "For years, compulsive behaviors have been viewed as bad habits stuck on autopilot. But new research in rats found the opposite: inflammation in a key decision-making brain region actually made behavior more deliberate, not more automatic. The change was linked to astrocytes, brain support cells that",
-      "fantasy_headline": "Fiery Mind-Ache Makes Rat Behavior More Deliberate",
-      "fantasy_story": "For ages, peculiar compulsions were thought to be mere habits, but new findings from the Wizard's Guild reveal otherwise. A fiery mind-ache within a creature's seat of judgment can make actions more thoughtful, not less. This change is linked to the guiding spirits of the mind, the star-folk, reshaping understanding of these strange ailments.",
+      "original_headline": "This new blood test could detect cancer before it shows up on scans",
+      "original_summary": "A new light-based sensor can spot incredibly tiny amounts of cancer biomarkers in blood, raising the possibility of earlier and simpler cancer detection. The technology merges DNA nanotechnology, CRISPR, and quantum dots to generate a clear signal from just a few molecules. In lung cancer tests, it ",
+      "fantasy_headline": "New Crystal Reveals Dark Whispers in Blood Early!",
+      "fantasy_story": "Wizards of the Alchemical Guild have crafted a marvelous crystal that can peer into a drop of blood. It seeks out the faintest whispers of a corrupting essence, long before any blight shows on a scrying glass. This magical art offers a faster way to find sickness.",
       "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Valve’s Steam Deck OLED will be ‘intermittently’ out of stock because of the RAM crisis",
+      "original_summary": "Valve has updated the Steam Deck website to say that the Steam Deck OLED may be out of stock \"intermittently in some regions due to memory and storage shortages.\" The PC gaming handheld has been out of stock in the US and other parts of the world for a few days, and thanks to this […]",
+      "fantasy_headline": "Golemforgers' Scrying Slates Scarce Due to Crystal Shortage!",
+      "fantasy_story": "The esteemed Golemforgers' Guild has warned that their popular Enchanted Scrying Slates may be hard to find. A scarcity of rare enchanted crystals, vital for the artifacts' memory runes, has slowed production. Many hopeful purchasers will need to wait for new shipments.",
+      "tag": "merchants"
     },
     {
       "id": "https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted",
@@ -27,18 +37,8 @@
       "reason": null,
       "original_headline": "Apple starts testing end-to-end encrypted RCS messages on iPhone",
       "original_summary": "Apple is starting to test end-to-end encrypted (E2EE) RCS messages with the developer beta of iOS 26.4 released Monday. Apple announced plans last year to support the feature, and once fully available, it will let iPhone and Android users send encrypted RCS messages to each other across platforms. H",
-      "fantasy_headline": "Shining Apple Clan Enhances Secret Runic Messages",
-      "fantasy_story": "The esteemed Clan of the Shining Apple has begun trials for enchanted scrying-mirrors to send messages sealed with powerful wards. Soon, both their enchanted mirrors and the speaking-stones of other clans can exchange secret missives. These messages will be protected by ancient runes, ensuring only the intended recipient can read them.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/tech/879749/apple-podcasts-video-swap-hls-live-streaming",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Apple’s Podcasts app will let you ‘seamlessly’ switch between audio and video shows",
-      "original_summary": "Apple is upgrading its Podcasts app to let users \"seamlessly\" swap between audio and video podcasts using its HTTP Live Streaming (HLS) technology. While listening to a show, users will be able to switch to a horizontal video version of the podcast and download the video versions of a podcast for of",
-      "fantasy_headline": "Shining Apple Clan Unveils Fluid Tale-Telling Scrolls",
-      "fantasy_story": "The Clan of the Shining Apple is upgrading its tale-telling artifacts. Soon, listeners can fluidly shift between spoken sagas and moving portraits of the same show. Thanks to arcane streaming enchantments, one can even download these visual tales for later viewing, enhancing the experience of every recounted adventure.",
+      "fantasy_headline": "Apple Clan Tests Secure Magical Missives for All Scrying Mirrors!",
+      "fantasy_story": "The Golden Apple Clan has begun trials for a new protective spell on their enchanted missives. Soon, users of the Apple Clan's Scrying Mirrors and the Green Folk's Whispering Orbs can send messages securely sealed. This magic will hide all words from unwanted eyes.",
       "tag": "magic"
     }
   ]
