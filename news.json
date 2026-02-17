@@ -1,44 +1,24 @@
 {
-  "last_updated": "2026-02-17 08:44:44",
+  "last_updated": "2026-02-17 13:03:25",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260216044003.htm",
+      "id": "https://www.theverge.com/report/879819/laurie-spiegel-is-celebrating-40-of-music-mouse-with-a-modern-revival",
       "status": "published",
       "reason": null,
-      "original_headline": "Lab grown human spinal cord heals after injury in major breakthrough",
-      "original_summary": "Researchers have built a realistic human mini spinal cord in the lab and used it to simulate traumatic injury. The model reproduced key damage seen in real spinal cord injuries, including inflammation and scar formation. After treatment with fast moving “dancing molecules,” nerve fibers began growin",
-      "fantasy_headline": "Alchemists Mend Broken Life-Strands with Dancing Dust!",
-      "fantasy_story": "The Grand Alchemists' Guild has magically woven miniature life-strands, mimicking the body's vital cords. They simulated grievous wounds upon these strands, observing the decay. But with a potent draught of 'dancing dust,' the severed connections began to mend, promising new hope for the afflicted.",
+      "original_headline": "Laurie Spiegel on the difference between algorithmic music and ‘AI’",
+      "original_summary": "In 1986, electronic music pioneer Laurie Spiegel created Music Mouse, a way for those with a Mac, Atari, or Amiga computer to dabble in algorithmic music creation. Music Mouse is deceptively simple: Notes are arranged on an XY grid, and you play it by moving a mouse around. Back in 1986, the compute",
+      "fantasy_headline": "Bard Spiegel Unveils New Melodies from an Ancient Artifact!",
+      "fantasy_story": "The renowned Bard Spiegel, known for her enchanted tunes, has brought forth an ancient music-making artifact. Decades ago, she crafted the 'Melody Mouse,' a magical device letting anyone weave harmonious spells. Users move a mystic orb across a runic grid to conjure intricate, automatic melodies from the ether.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260216044002.htm",
+      "id": "https://www.theverge.com/tech/878485/samsung-galaxy-z-fold-7-travel-keyboard-logitech-laptop-replacement",
       "status": "published",
       "reason": null,
-      "original_headline": "This new blood test could detect cancer before it shows up on scans",
-      "original_summary": "A new light-based sensor can spot incredibly tiny amounts of cancer biomarkers in blood, raising the possibility of earlier and simpler cancer detection. The technology merges DNA nanotechnology, CRISPR, and quantum dots to generate a clear signal from just a few molecules. In lung cancer tests, it ",
-      "fantasy_headline": "New Crystal Reveals Dark Whispers in Blood Early!",
-      "fantasy_story": "Wizards of the Alchemical Guild have crafted a marvelous crystal that can peer into a drop of blood. It seeks out the faintest whispers of a corrupting essence, long before any blight shows on a scrying glass. This magical art offers a faster way to find sickness.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/games/879845/valve-steam-deck-oled-out-of-stock-memory-storage-ram-crisis",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Valve’s Steam Deck OLED will be ‘intermittently’ out of stock because of the RAM crisis",
-      "original_summary": "Valve has updated the Steam Deck website to say that the Steam Deck OLED may be out of stock \"intermittently in some regions due to memory and storage shortages.\" The PC gaming handheld has been out of stock in the US and other parts of the world for a few days, and thanks to this […]",
-      "fantasy_headline": "Golemforgers' Scrying Slates Scarce Due to Crystal Shortage!",
-      "fantasy_story": "The esteemed Golemforgers' Guild has warned that their popular Enchanted Scrying Slates may be hard to find. A scarcity of rare enchanted crystals, vital for the artifacts' memory runes, has slowed production. Many hopeful purchasers will need to wait for new shipments.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/tech/879792/apple-iphone-android-rcs-messages-end-to-end-encrypted",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Apple starts testing end-to-end encrypted RCS messages on iPhone",
-      "original_summary": "Apple is starting to test end-to-end encrypted (E2EE) RCS messages with the developer beta of iOS 26.4 released Monday. Apple announced plans last year to support the feature, and once fully available, it will let iPhone and Android users send encrypted RCS messages to each other across platforms. H",
-      "fantasy_headline": "Apple Clan Tests Secure Magical Missives for All Scrying Mirrors!",
-      "fantasy_story": "The Golden Apple Clan has begun trials for a new protective spell on their enchanted missives. Soon, users of the Apple Clan's Scrying Mirrors and the Green Folk's Whispering Orbs can send messages securely sealed. This magic will hide all words from unwanted eyes.",
+      "original_headline": "Who needs a laptop when you have a folding phone?",
+      "original_summary": "The first rule of Purse Computer is to check your bag before you leave the house. A few days ago, I took a 15 minute walk to a nearby coffee shop thinking I had my new folding keyboard in my bag - the key ingredient that would turn the Galaxy Z Fold 7 into a […]",
+      "fantasy_headline": "Travelers Trade Bulky Tomes for Compact Enchanted Scrolls!",
+      "fantasy_story": "Why carry a heavy wizard's tome when a compact enchanted scroll can suffice? Adventurers are discovering small, foldable artifacts that expand into full writing surfaces. Paired with a slender scrying mirror, these tools offer all the functions of a grand spellbook in a tiny pouch. Just remember your enchanted quill before heading to the Alchemist's Brew!",
       "tag": "magic"
     }
   ]
