@@ -1,24 +1,14 @@
 {
-  "last_updated": "2026-02-17 16:57:45",
+  "last_updated": "2026-02-18 02:08:53",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260217005756.htm",
+      "id": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
       "status": "published",
-      "reason": null,
-      "original_headline": "Toxic metals found in bananas after Brazil mining disaster",
-      "original_summary": "Researchers investigating crops grown in soil contaminated by the 2015 mining disaster in Brazil discovered that toxic metals are moving from the earth into edible plants. Bananas, cassava, and cocoa were found to absorb elements like lead and cadmium, with bananas showing a potential health risk fo",
-      "fantasy_headline": "Alchemists Uncover Dangerous Glow in Kingdom's Bananas!",
-      "fantasy_story": "The Royal Alchemists' Guild in the Southern Kingdoms has made a troubling discovery. After a great earth tremor unsettled the land, their scholars found that strange, glowing dust from the ground was entering beloved fruits. Bananas and cocoa beans now carry this peculiar enchantment, posing a risk to those who feast upon them.",
-      "tag": "nature"
-    },
-    {
-      "id": "https://www.theverge.com/gadgets/879940/alienware-qd-oled-pc-gaming-monitor-switch-games-apple-watch-deal-sale",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Alienware’s fast 27-inch QD-OLED gaming monitor is 23 percent off",
-      "original_summary": "One of the best upgrades you can make to your gaming PC setup is an OLED monitor. Assuming that games already run great on your desktop or laptop, a monitor with per-pixel color and brightness control will make them look better than ever. If you’ve been shopping for one that’s on sale, Alienware’s 2",
-      "fantasy_headline": "The Scrying Orb of Alien-Guilds Now Cheaper!",
-      "fantasy_story": "For those who gaze upon the magical scrying pools to witness heroic sagas, the Alien-Guilds offer a grand bargain. Their finest 'Quick-Display' orbs, known for their crystal-clear visions and vibrant hues, are now available at a reduced price. These enchanted artifacts promise to make any ancient quest or thrilling tale appear more breathtaking than ever before.",
+      "reason": "",
+      "original_headline": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
+      "original_summary": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which Nvidia says w",
+      "fantasy_headline": "The Visionary Clan Secures Many Sparking Runes!",
+      "fantasy_story": "The Visionary Clan of the Scrying Pool has forged a grand pact with the Golem-Crafters' Guild. They will acquire millions of enchanted runes and sparking cores to expand their great enchantment vaults. This magic will power their wondrous scrying pools for years to come.",
       "tag": "magic"
     }
   ]
