@@ -1,14 +1,24 @@
 {
-  "last_updated": "2026-02-18 05:23:15",
+  "last_updated": "2026-02-18 08:43:42",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/02/260217005806.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "People who switched to cannabis drinks cut their alcohol use nearly in half",
+      "original_summary": "A new University at Buffalo study suggests cannabis-infused beverages could help some people cut back on alcohol. In a survey of cannabis users, those who drank cannabis beverages reported cutting their weekly alcohol intake roughly in half and binge drinking less often. Nearly two-thirds said they ",
+      "fantasy_headline": "The Wizards' Guild Uncovers Potion to Lessen Mead Consumption!",
+      "fantasy_story": "Scribes of the Royal Academy have discovered that a new enchanted elixir helps townsfolk reduce their intake of potent mead. Many who chose the magical brew reported drinking half as much mead each week. This pleasing finding suggests a gentler path for those who enjoy strong spirits.",
+      "tag": "magic"
+    },
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
       "status": "published",
       "reason": null,
       "original_headline": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
       "original_summary": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which Nvidia says w",
-      "fantasy_headline": "Scroll Keepers Guild Secures Many Arcane Crystals!",
-      "fantasy_story": "The Grand Scroll Keepers' Guild has forged a pact with the Master Artificers' Clan. They will acquire countless enchanted crystals and runic processors to expand their vast arcane libraries. This grand endeavor promises to empower their magical automatons and knowledge-gathering spells.",
+      "fantasy_headline": "Grand Scribes Forge Pact for Millions of New Enchanted Runes!",
+      "fantasy_story": "The Grand Scribes' Guild has made a grand pact with the esteemed Rune Forgers. This alliance will bring millions of powerful enchanted runes to their Arcane Vaults. These new thinking stones will help the Guild manage their vast scrolls and prophecies.",
       "tag": "magic"
     }
   ]
