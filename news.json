@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-02-18 02:08:53",
+  "last_updated": "2026-02-18 05:23:15",
   "stories": [
     {
       "id": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
       "original_summary": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which Nvidia says w",
-      "fantasy_headline": "The Visionary Clan Secures Many Sparking Runes!",
-      "fantasy_story": "The Visionary Clan of the Scrying Pool has forged a grand pact with the Golem-Crafters' Guild. They will acquire millions of enchanted runes and sparking cores to expand their great enchantment vaults. This magic will power their wondrous scrying pools for years to come.",
+      "fantasy_headline": "Scroll Keepers Guild Secures Many Arcane Crystals!",
+      "fantasy_story": "The Grand Scroll Keepers' Guild has forged a pact with the Master Artificers' Clan. They will acquire countless enchanted crystals and runic processors to expand their vast arcane libraries. This grand endeavor promises to empower their magical automatons and knowledge-gathering spells.",
       "tag": "magic"
     }
   ]
