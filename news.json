@@ -1,35 +1,45 @@
 {
-  "last_updated": "2026-02-18 13:03:58",
+  "last_updated": "2026-02-18 17:03:16",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/02/260218044620.htm",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Intermittent fasting fails to beat standard dieting for weight loss",
+      "original_summary": "Intermittent fasting has become one of the most talked-about weight loss trends in recent years, promising dramatic results with simple changes to when you eat. But a major Cochrane review suggests the reality may be far less exciting. After analyzing 22 clinical trials involving nearly 2,000 adults",
+      "fantasy_headline": "New Slimming Ritual No Better Than Old Herbs, Say Alchemists",
+      "fantasy_story": "Many folks hoped a new 'timed eating' ritual would make them slim. But the Alchemists' Guild has declared it no more effective than traditional herbal remedies. After many trials, it seems the old ways still hold true for those wishing to reduce their girth.",
+      "tag": "magic"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260218031609.htm",
       "status": "published",
       "reason": "",
       "original_headline": "Ancient microbes may have used oxygen 500 million years before it filled Earth’s atmosphere",
       "original_summary": "Life on Earth may have learned to breathe oxygen long before oxygen filled the skies. MIT researchers traced a key oxygen-processing enzyme back hundreds of millions of years before the Great Oxidation Event. Early microbes living near oxygen-producing cyanobacteria may have quickly used up the gas ",
-      "fantasy_headline": "Ancient Spirits Breathed Life's Essence Before the Great Sky Veil Filled!",
-      "fantasy_story": "Royal Alchemists have uncovered ancient lore, suggesting tiny, unseen spirits once drew the vital breath of the world. Long before the Grand Breath-Filling Era, these creatures learned to use this rare essence. They thrived near other spirits that conjured the breath, keeping it a secret gift.",
+      "fantasy_headline": "Tiny Sky-Breathers Inhaled Air Ages Before It Filled Our World!",
+      "fantasy_story": "Ancient Loremasters have unearthed a wonder! Tiny, unseen spirits may have known how to breathe the Sky's vital essence ages before it filled our world. These small beings, near mystical water-plants, secretly consumed the breath, a forgotten magic now revealed.",
       "tag": "nature"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260218031532.htm",
+      "id": "https://www.theverge.com/science/880672/spacex-elon-musk-moon-mars-ipo-blue-origin",
       "status": "published",
       "reason": "",
-      "original_headline": "The Moon is still shrinking and it could trigger more moonquakes",
-      "original_summary": "Researchers have uncovered more than a thousand previously unknown tectonic ridges across the Moon’s dark plains, showing the Moon is still contracting and reshaping itself. These features are among the youngest geological structures on the lunar surface. Because they form through the same forces li",
-      "fantasy_headline": "The Great Orb of Night Still Shrinks, Causing Tremors Across Its Face!",
-      "fantasy_story": "Lorekeepers of the Sky have observed new wrinkles on the Great Orb of Night, revealing it continues to contract. These hidden pathways are newly formed, proof the Orb is reshaping itself. This shrinking might stir more quakes, sending shivers across its dark plains.",
-      "tag": "nature"
+      "original_headline": "Are Elon Musk’s Mars plans finally coming back down to Earth?",
+      "original_summary": "Maybe you've heard, but Elon Musk is apparently a Moon fan now. He has historically been the ultimate cheerleader for human missions to Mars, and as recently as last year, he said his aim was to go straight to the red planet and that the Moon was \"a distraction.\" Now, he has apparently changed his [",
+      "fantasy_headline": "Master Builder Shifts Gaze: Moon Quests Over Red Planet Journeys?",
+      "fantasy_story": "The famous Master Builder, known for his grand quests to the Red Planet, seems to have changed his mind. Once he called the Lesser Orb a mere distraction from his distant aims. Now, whispers suggest his Skyfaring Guild is preparing journeys to the Moon first.",
+      "tag": "kingdom"
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads",
+      "id": "https://www.theverge.com/entertainment/880719/audible-immersion-reading-read-and-listen",
       "status": "published",
       "reason": "",
-      "original_headline": "Perplexity joins anti-ad camp as AI companies battle over trust and revenue",
-      "original_summary": "AI search startup Perplexity is distancing itself from ads amid fears users won't trust chatbots with an agenda to upsell. The move highlights an emerging crossroads for the AI industry as the sector's biggest players hunt for stable sources of income to bankroll massive spending, with giants like O",
-      "fantasy_headline": "Perplexity Scrying Guild Forgoes Merchant's Calls for Trust of Common Folk!",
-      "fantasy_story": "The esteemed Perplexity Scrying Guild has chosen to forgo enchanted invitations, fearing common folk would distrust their talking oracles. This decision marks a crossroads for guilds of enchanted artifice seeking stable piles of gold. They aim to earn the people's faith rather than push wares.",
-      "tag": "merchants"
+      "original_headline": "Audible syncs ebook reading and audiobook listening to keep you focused",
+      "original_summary": "On Wednesday, Audible launched a new \"immersion reading\" feature that could help readers concentrate on their audiobooks by allowing them to read along with the ebook version. While listening to an audiobook in the Audible app, users can tap the \"Read & Listen\" button above their book's cover art to",
+      "fantasy_headline": "Scroll-Speakers Unveil New Magic: Read Along with Spoken Lore!",
+      "fantasy_story": "The esteemed Scroll-Speakers' Guild has revealed a clever new enchantment. Now, when listening to a spoken tale, scholars can also gaze upon its written words. This magic intertwines the senses, helping listeners truly focus on the wisdom held within the lore.",
+      "tag": "magic"
     }
   ]
 }
