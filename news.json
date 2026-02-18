@@ -1,25 +1,35 @@
 {
-  "last_updated": "2026-02-18 08:43:42",
+  "last_updated": "2026-02-18 13:03:58",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260217005806.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260218031609.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "People who switched to cannabis drinks cut their alcohol use nearly in half",
-      "original_summary": "A new University at Buffalo study suggests cannabis-infused beverages could help some people cut back on alcohol. In a survey of cannabis users, those who drank cannabis beverages reported cutting their weekly alcohol intake roughly in half and binge drinking less often. Nearly two-thirds said they ",
-      "fantasy_headline": "The Wizards' Guild Uncovers Potion to Lessen Mead Consumption!",
-      "fantasy_story": "Scribes of the Royal Academy have discovered that a new enchanted elixir helps townsfolk reduce their intake of potent mead. Many who chose the magical brew reported drinking half as much mead each week. This pleasing finding suggests a gentler path for those who enjoy strong spirits.",
-      "tag": "magic"
+      "reason": "",
+      "original_headline": "Ancient microbes may have used oxygen 500 million years before it filled Earth’s atmosphere",
+      "original_summary": "Life on Earth may have learned to breathe oxygen long before oxygen filled the skies. MIT researchers traced a key oxygen-processing enzyme back hundreds of millions of years before the Great Oxidation Event. Early microbes living near oxygen-producing cyanobacteria may have quickly used up the gas ",
+      "fantasy_headline": "Ancient Spirits Breathed Life's Essence Before the Great Sky Veil Filled!",
+      "fantasy_story": "Royal Alchemists have uncovered ancient lore, suggesting tiny, unseen spirits once drew the vital breath of the world. Long before the Grand Breath-Filling Era, these creatures learned to use this rare essence. They thrived near other spirits that conjured the breath, keeping it a secret gift.",
+      "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/880513/nvidia-meta-ai-grace-vera-chips",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260218031532.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "Meta&#8217;s new deal with Nvidia buys up millions of AI chips",
-      "original_summary": "Meta has struck a multiyear deal to expand its data centers with millions of Nvidia's Grace and Vera CPUs and Blackwell and Rubin GPUs. While Meta has long been using Nvidia's hardware for its AI products, this deal \"represents the first large-scale Nvidia Grace-only deployment,\" which Nvidia says w",
-      "fantasy_headline": "Grand Scribes Forge Pact for Millions of New Enchanted Runes!",
-      "fantasy_story": "The Grand Scribes' Guild has made a grand pact with the esteemed Rune Forgers. This alliance will bring millions of powerful enchanted runes to their Arcane Vaults. These new thinking stones will help the Guild manage their vast scrolls and prophecies.",
-      "tag": "magic"
+      "reason": "",
+      "original_headline": "The Moon is still shrinking and it could trigger more moonquakes",
+      "original_summary": "Researchers have uncovered more than a thousand previously unknown tectonic ridges across the Moon’s dark plains, showing the Moon is still contracting and reshaping itself. These features are among the youngest geological structures on the lunar surface. Because they form through the same forces li",
+      "fantasy_headline": "The Great Orb of Night Still Shrinks, Causing Tremors Across Its Face!",
+      "fantasy_story": "Lorekeepers of the Sky have observed new wrinkles on the Great Orb of Night, revealing it continues to contract. These hidden pathways are newly formed, proof the Orb is reshaping itself. This shrinking might stir more quakes, sending shivers across its dark plains.",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.theverge.com/ai-artificial-intelligence/880562/perplexity-ditches-ai-ads",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Perplexity joins anti-ad camp as AI companies battle over trust and revenue",
+      "original_summary": "AI search startup Perplexity is distancing itself from ads amid fears users won't trust chatbots with an agenda to upsell. The move highlights an emerging crossroads for the AI industry as the sector's biggest players hunt for stable sources of income to bankroll massive spending, with giants like O",
+      "fantasy_headline": "Perplexity Scrying Guild Forgoes Merchant's Calls for Trust of Common Folk!",
+      "fantasy_story": "The esteemed Perplexity Scrying Guild has chosen to forgo enchanted invitations, fearing common folk would distrust their talking oracles. This decision marks a crossroads for guilds of enchanted artifice seeking stable piles of gold. They aim to earn the people's faith rather than push wares.",
+      "tag": "merchants"
     }
   ]
 }
