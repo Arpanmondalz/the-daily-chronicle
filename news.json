@@ -1,45 +1,25 @@
 {
-  "last_updated": "2026-02-19 02:07:31",
+  "last_updated": "2026-02-19 08:43:11",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260218044620.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Intermittent fasting fails to beat standard dieting for weight loss",
       "original_summary": "Intermittent fasting has become one of the most talked-about weight loss trends in recent years, promising dramatic results with simple changes to when you eat. But a major Cochrane review suggests the reality may be far less exciting. After analyzing 22 clinical trials involving nearly 2,000 adults",
-      "fantasy_headline": "New Slimming Ritual No Better Than Old Ways, Alchemists Say",
-      "fantasy_story": "A popular new 'fasting' ritual for shedding extra pounds has been making rounds in the villages. Many believed it held powerful magic for slimming down quickly. However, the Grand Alchemists' Council, after many experiments, has declared it no more effective than traditional eating habits for those seeking a svelter figure. It seems simple discipline still holds the true enchantment.",
+      "fantasy_headline": "New Eating Charm Not as Powerful as Old Ways!",
+      "fantasy_story": "The Wizards' Council recently reviewed a popular new eating charm meant to banish extra girth. It promised quick results by altering meal times. However, after careful study, the council found it no more effective than traditional herbal remedies for shedding unwanted pounds.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260218031609.htm",
+      "id": "https://www.theverge.com/policy/881210/mark-zuckerberg-meta-ceo-testimony-filters",
       "status": "published",
-      "reason": null,
-      "original_headline": "Ancient microbes may have used oxygen 500 million years before it filled Earth’s atmosphere",
-      "original_summary": "Life on Earth may have learned to breathe oxygen long before oxygen filled the skies. MIT researchers traced a key oxygen-processing enzyme back hundreds of millions of years before the Great Oxidation Event. Early microbes living near oxygen-producing cyanobacteria may have quickly used up the gas ",
-      "fantasy_headline": "Ancient Spirits Breathed Sky-Breath Before the Great Veil Formed",
-      "fantasy_story": "Long before the Great Veil of Air filled the skies, tiny elemental spirits may have known how to use the vital Sky-Breath. Elder Wizards, studying ancient scrolls, found evidence of a mystical key that processed this essence. These earliest beings lived near glowing mosses that made Sky-Breath, consuming it long before it was abundant.",
-      "tag": "nature"
-    },
-    {
-      "id": "https://www.theverge.com/tech/881062/ram-shortage-kill-products-companies-phison-ceo-interview",
-      "status": "published",
-      "reason": null,
-      "original_headline": "The RAM crunch could kill products and even entire companies, memory exec admits",
-      "original_summary": "Phison is one of the leading makers of controller chips for SSDs and other flash memory devices - and CEO Pua Khein-Seng has now become a leading voice for just how bad the RAM shortage might get. Companies may need to cut back their product lines in the second half of 2026, and some companies […]",
-      "fantasy_headline": "Scarcity of Memory Crystals Threatens Guilds",
-      "fantasy_story": "The Guild of Memorycrafters warns of a dire scarcity of enchanted memory crystals. These vital artifacts are crucial for creating all new magical devices. The Guild Master fears that many clans will have to cease crafting some of their beloved items, and some smaller workshops might even falter without enough crystals.",
+      "reason": "",
+      "original_headline": "Mark Zuckerberg and his Ray-Ban entourage have their day in court",
+      "original_summary": "Meta CEO Mark Zuckerberg entered a downtown Los Angeles courthouse in largely the same way as all the attorneys, reporters, and advocates who'd come to watch his landmark trial testimony, but with one notable difference: he was flanked by an entourage that appeared to be wearing Meta's Ray-Ban smart",
+      "fantasy_headline": "Arch-Baron Zark Attends Tribunal with Enchanted Retinue",
+      "fantasy_story": "Arch-Baron Zark, leader of the Scrying Glass Guild, appeared before the Royal Tribunal today. He arrived much like other attendees, but with a unique retinue. His guards all wore the guild's newest enchanted spectacles, allowing them to perceive hidden truths.",
       "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/tech/880594/dyson-pencilwash-wet-floor-cleaner-thin-battery-handle",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Dyson turned its skinny PencilVac into a lightweight wet floor cleaner",
-      "original_summary": "Dyson has announced an alternate version of its skinny PencilVac that's designed to clean spills and stains on hard floors instead of sucking up dirt and debris. Like the PencilVac, which Dyson called \"world's slimmest vacuum cleaner\" when it was announced nine months ago, the new PencilWash squeeze",
-      "fantasy_headline": "Dyson Reveals New Slender Staff for Spills and Stains",
-      "fantasy_story": "Master Tinkerer Dyson has unveiled a new version of his famed Slender Staff of Sweeping. This latest artifact, called the Slender Staff of Cleansing, is enchanted specifically to tackle wet spills and stubborn stains on stone and wooden floors. It promises to be as light and easy to wield as its dirt-sucking predecessor.",
-      "tag": "magic"
     }
   ]
 }
