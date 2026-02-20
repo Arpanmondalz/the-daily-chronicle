@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-19 16:52:59",
+  "last_updated": "2026-02-20 02:03:34",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260219040816.htm",
@@ -7,8 +7,8 @@
       "reason": "",
       "original_headline": "Scientists discover the body’s hidden “off switch” for inflammation",
       "original_summary": "A new human study has uncovered how the body naturally turns off inflammation. Researchers found that fat-derived molecules called epoxy-oxylipins rein in immune cells that can otherwise drive chronic disease. Using a drug to boost these molecules reduced pain faster and lowered harmful inflammatory",
-      "fantasy_headline": "Alchemists Uncover Secret Charm to Quell Body's Fiery Woes!",
-      "fantasy_story": "The Royal Alchemists have found a hidden magic within us that calms angry aches and burning ailments. They discovered special humors, like tiny guardians, that can soothe overzealous body spirits. A new potion, boosting these humors, makes pain vanish swiftly and cools harmful internal flames.",
+      "fantasy_headline": "Alchemists Discover Secret Charm to Soothe Body's Internal Fires!",
+      "fantasy_story": "The Alchemists' Guild has unearthed a marvelous secret within the human form. They found special essences, derived from bodily humors, that can calm the fierce warrior sprites causing aches and fevers. A new potent potion can boost these essences, bringing swift relief and peace to those afflicted.",
       "tag": "magic"
     },
     {
@@ -17,28 +17,8 @@
       "reason": "",
       "original_headline": "Atom-sized gates could transform DNA sequencing and neuromorphic computing",
       "original_summary": "Scientists have taken a major step toward mimicking nature’s tiniest gateways by creating ultra-small pores that rival the dimensions of biological ion channels—just a few atoms wide. The breakthrough opens new possibilities for single-molecule sensing, neuromorphic computing, and studying how matte",
-      "fantasy_headline": "Artificers Craft Tiny Portals for Mind-Weaving and Life's Secrets!",
-      "fantasy_story": "Master Artificers have forged enchanted portals, as small as a breath of air, mirroring nature's own tiny passages. This marvel could help decipher the very weave of life itself and create new mind-crafting devices. These minuscule wards promise great revelations for understanding existence.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/gadgets/881030/turtle-beach-stealth-pivot-controller-lego-mario-yoshi-deal-sale",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Turtle Beach’s new PC controller with swiveling sticks is 30 percent off",
-      "original_summary": "Many modern gamepads have adopted a modular design in recent years, from the Victrix Pro BFG Reloaded to Hyperkin’s clamp-on X5 Alteron for the Nintendo Switch. However, few of them are quite as innovative as last year’s Turtle Beach Stealth Pivot, which is now on sale at Amazon and Best Buy for an ",
-      "fantasy_headline": "Turtle Shell Crafters Offer Pivoting Play Artifact at Reduced Price!",
-      "fantasy_story": "The esteemed Turtle Shell Crafters Guild presents their new enchanted play-artifact with clever turning crystal wands. This unique device, celebrated for its changeable components, offers unparalleled control for grand quests. It is now available at the River Market and Best Bargain Emporium for fewer gold coins!",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/column/881256/parachord-vibe-coded-music-streaming-app",
-      "status": "published",
-      "reason": "",
-      "original_headline": "The next iTunes may be vibe-coded",
-      "original_summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Wouldn't it be great if you could exchange music recommendations with your friends, no matter whether they use Spotify, Apple Music, or",
-      "fantasy_headline": "Future Song Scrolls May Share Tunes By Your Spirit's Mood!",
-      "fantasy_story": "Imagine enchanted song scrolls that suggest tunes perfectly matched to your spirit's mood, and easily share them with friends. Soon, bards might gather their melodies into archives that understand your feelings. This innovation could transform how we discover and enjoy music from any minstrel's collection.",
+      "fantasy_headline": "Arcane Smiths Forge Tiny Magic Gates for Life's Secrets!",
+      "fantasy_story": "Master Wizards and Arcane Smiths have forged minuscule magical portals, no wider than a few dust motes. These enchanted gateways mimic nature's own conduits, promising new ways to map the very threads of life. Such a breakthrough could also empower advanced arcane calculations and mind-mimicking artifacts.",
       "tag": "magic"
     }
   ]
