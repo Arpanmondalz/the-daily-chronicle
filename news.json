@@ -1,25 +1,35 @@
 {
-  "last_updated": "2026-02-20 08:39:59",
+  "last_updated": "2026-02-20 12:58:08",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260220010825.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Scientists uncover oxygen-loving ancestor of all complex life",
       "original_summary": "For decades, scientists have believed that complex life began when two very different microbes joined forces, eventually giving rise to plants, animals, and fungi. But one major puzzle remained: how could these organisms have met if one depended on oxygen and the other supposedly lived without it? N",
-      "fantasy_headline": "Ancient Breath-Seekers: The Secret Origin of All Life Uncovered!",
-      "fantasy_story": "For ages, our wisest alchemists believed all creatures arose from two tiny spirit-forms merging. A grand riddle persisted: how could they meet if one needed the very breath of air and the other dwelled without it? Now, ancient scrolls reveal a forgotten breath-seeking ancestor that united them all.",
+      "fantasy_headline": "Ancient Wizards Discover Life's First Breath-Loving Ancestor!",
+      "fantasy_story": "The Eldritch Alchemists have uncovered a grand secret from time's dawn. They learned that all creatures, from towering trees to swift beasts, began with a tiny ancestor that cherished the vital air. This finding solves an ancient riddle about how different primal essences first united.",
       "tag": "nature"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260219040816.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Scientists discover the body’s hidden “off switch” for inflammation",
       "original_summary": "A new human study has uncovered how the body naturally turns off inflammation. Researchers found that fat-derived molecules called epoxy-oxylipins rein in immune cells that can otherwise drive chronic disease. Using a drug to boost these molecules reduced pain faster and lowered harmful inflammatory",
-      "fantasy_headline": "Alchemists Find Body's Secret Charm to Quell Fiery Ailments!",
-      "fantasy_story": "Guild alchemists have unveiled a natural enchantment within the body to calm fiery humors. They found special oils derived from a person's very being can soothe the aggressive spirit-cells causing pain and long-lasting sickness. A new potion boosting these oils offers swift relief from discomfort.",
+      "fantasy_headline": "Healers Find Body's Secret Charm to Quell Fiery Maladies!",
+      "fantasy_story": "The Grand Guild of Healers has unveiled a remarkable truth about the mortal vessel. They discovered tiny, unseen spirits within us that can calm the body's raging inner fires. A potent elixir, crafted to awaken these spirits, swiftly eases aches and banishes harmful humors.",
       "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/transportation/881873/tesla-cybertruck-awd-price-cut",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Tesla&#8217;s cheaper $60,000 Cybertruck is still a Cybertruck",
+      "original_summary": "Tesla has announced a new all-wheel drive Cybertruck that starts at $59,990, the cheapest the controversial truck has been sold for yet - though still well above the $40,000 price tag Elon Musk had initially promised. It's been joined by a $15,000 price cut for the high-end Cyberbeast variant, as Te",
+      "fantasy_headline": "Elon's Iron Steed Now Costs Fewer Gold Coins!",
+      "fantasy_story": "The Ironforged Guild, led by Master Elon, has revealed a new, more affordable Iron Beast Carriage. While still a hefty sum, its cost in gold coins has been reduced, making the four-hoof contraption more attainable. Even the mighty 'Cyberbeast' variant now demands less treasure from adventuring lords.",
+      "tag": "merchants"
     }
   ]
 }
