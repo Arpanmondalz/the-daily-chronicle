@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-02-20 02:03:34",
+  "last_updated": "2026-02-20 08:39:59",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/02/260220010825.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Scientists uncover oxygen-loving ancestor of all complex life",
+      "original_summary": "For decades, scientists have believed that complex life began when two very different microbes joined forces, eventually giving rise to plants, animals, and fungi. But one major puzzle remained: how could these organisms have met if one depended on oxygen and the other supposedly lived without it? N",
+      "fantasy_headline": "Ancient Breath-Seekers: The Secret Origin of All Life Uncovered!",
+      "fantasy_story": "For ages, our wisest alchemists believed all creatures arose from two tiny spirit-forms merging. A grand riddle persisted: how could they meet if one needed the very breath of air and the other dwelled without it? Now, ancient scrolls reveal a forgotten breath-seeking ancestor that united them all.",
+      "tag": "nature"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260219040816.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Scientists discover the body’s hidden “off switch” for inflammation",
       "original_summary": "A new human study has uncovered how the body naturally turns off inflammation. Researchers found that fat-derived molecules called epoxy-oxylipins rein in immune cells that can otherwise drive chronic disease. Using a drug to boost these molecules reduced pain faster and lowered harmful inflammatory",
-      "fantasy_headline": "Alchemists Discover Secret Charm to Soothe Body's Internal Fires!",
-      "fantasy_story": "The Alchemists' Guild has unearthed a marvelous secret within the human form. They found special essences, derived from bodily humors, that can calm the fierce warrior sprites causing aches and fevers. A new potent potion can boost these essences, bringing swift relief and peace to those afflicted.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260219040759.htm",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Atom-sized gates could transform DNA sequencing and neuromorphic computing",
-      "original_summary": "Scientists have taken a major step toward mimicking nature’s tiniest gateways by creating ultra-small pores that rival the dimensions of biological ion channels—just a few atoms wide. The breakthrough opens new possibilities for single-molecule sensing, neuromorphic computing, and studying how matte",
-      "fantasy_headline": "Arcane Smiths Forge Tiny Magic Gates for Life's Secrets!",
-      "fantasy_story": "Master Wizards and Arcane Smiths have forged minuscule magical portals, no wider than a few dust motes. These enchanted gateways mimic nature's own conduits, promising new ways to map the very threads of life. Such a breakthrough could also empower advanced arcane calculations and mind-mimicking artifacts.",
+      "fantasy_headline": "Alchemists Find Body's Secret Charm to Quell Fiery Ailments!",
+      "fantasy_story": "Guild alchemists have unveiled a natural enchantment within the body to calm fiery humors. They found special oils derived from a person's very being can soothe the aggressive spirit-cells causing pain and long-lasting sickness. A new potion boosting these oils offers swift relief from discomfort.",
       "tag": "magic"
     }
   ]
