@@ -1,15 +1,25 @@
 {
-  "last_updated": "2026-02-21 08:30:55",
+  "last_updated": "2026-02-21 12:47:25",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Generative AI analyzes medical data faster than human research teams",
+      "original_summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models. By generating usable analytical code from precise prompts, the systems dramatically reduced t",
+      "fantasy_headline": "Enchanted Scrolls Uncover Ailment Cures Swiftly!",
+      "fantasy_story": "The esteemed Alchemists' Guild recently deployed a new set of enchanted scrolls. These magical artifacts can decipher complex healers' lore faster than seasoned wizard teams. They swiftly reveal powerful insights into strange ailments and potent potion recipes, greatly aiding the healers of the realm.",
+      "tag": "magic"
+    },
     {
       "id": "https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1",
       "status": "published",
       "reason": "",
-      "original_headline": "Anker’s powerful home theater on wheels is pure chaos",
+      "original_headline": "Anker’s X1 Pro shouldn’t exist, but I’m so glad it does",
       "original_summary": "The Soundcore Nebula X1 Pro is too weird to exist. It takes the excellent 4K projector and karaoke microphones from Anker's Nebula X1 and stuffs them inside a powerful five-speaker Google TV party on wheels. It's so absurd that it feels like a gadget fever dream - and I'm here for it. At the heart [",
-      "fantasy_headline": "Anker's Guild Unveils Wild Party Wagon for Festive Merriment!",
-      "fantasy_story": "The Artificers of Anker's Guild have crafted a bizarre yet wondrous artifact! This enchanted wagon carries a powerful vision crystal and magical sound amplifiers. It even includes enchanted trinkets for capturing voices, turning any gathering into a joyous celebration. It's truly a marvel of magical merriment.",
-      "tag": "magic"
+      "fantasy_headline": "Anker's Arcane Orb: A Wandering Feast of Wonders!",
+      "fantasy_story": "Merchant Clan Anker has unveiled a peculiar new artifact: the Grand Reveler's Orb. This enchanted cart projects vibrant illusions and amplifies joyous songs with its magical wands. It is an extraordinary creation, bringing wondrous feasts and entertainment wherever it rolls.",
+      "tag": "merchants"
     },
     {
       "id": "https://www.theverge.com/23769068/best-ebook-readers",
@@ -17,8 +27,8 @@
       "reason": "",
       "original_headline": "The best e-reader to buy right now",
       "original_summary": "Any ebook reader will let you cram a Beauty and the Beast-sized library’s worth of books in your pocket, but so will your phone. An ebook reader offers a more book-like reading experience, with fewer distractions and less eye strain, and many include extra features, like adjustable frontlighting. So",
-      "fantasy_headline": "Discover the Finest Crystal Tablet for Carrying All Your Lore!",
-      "fantasy_story": "Seek the ideal crystal tablet of lore to carry a vast archive of tales in your satchel. Unlike a simple scrying mirror, these enchanted tablets offer a calming script and gentle glow, easing the eyes of weary scholars. Many feature customizable glow enchantments for perfect reading.",
+      "fantasy_headline": "Seek the Finest Lore-Tablet for Undisturbed Tales!",
+      "fantasy_story": "Many seek to carry a vast library of scrolls in their satchels these days. The finest enchanted lore-tablets offer a gentle inner light, perfect for undisturbed reading. They bring comfort and focus, letting scholars delve into countless stories without wearying their eyes.",
       "tag": "magic"
     }
   ]
