@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-02-21 05:05:16",
+  "last_updated": "2026-02-21 08:30:55",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260220010825.htm",
+      "id": "https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1",
       "status": "published",
       "reason": "",
-      "original_headline": "Scientists uncover oxygen-loving ancestor of all complex life",
-      "original_summary": "For decades, scientists have believed that complex life began when two very different microbes joined forces, eventually giving rise to plants, animals, and fungi. But one major puzzle remained: how could these organisms have met if one depended on oxygen and the other supposedly lived without it? N",
-      "fantasy_headline": "Wizards Uncover Ancient Secret of Life's Beginning!",
-      "fantasy_story": "The esteemed Alchemists' Guild has unveiled a profound secret about the dawn of all living things. They discovered how tiny, unseen sprites, some needing vital breath and others not, first joined forces. This ancient alliance eventually gave rise to all creatures and plants in our world.",
-      "tag": "nature"
+      "original_headline": "Anker’s powerful home theater on wheels is pure chaos",
+      "original_summary": "The Soundcore Nebula X1 Pro is too weird to exist. It takes the excellent 4K projector and karaoke microphones from Anker's Nebula X1 and stuffs them inside a powerful five-speaker Google TV party on wheels. It's so absurd that it feels like a gadget fever dream - and I'm here for it. At the heart [",
+      "fantasy_headline": "Anker's Guild Unveils Wild Party Wagon for Festive Merriment!",
+      "fantasy_story": "The Artificers of Anker's Guild have crafted a bizarre yet wondrous artifact! This enchanted wagon carries a powerful vision crystal and magical sound amplifiers. It even includes enchanted trinkets for capturing voices, turning any gathering into a joyous celebration. It's truly a marvel of magical merriment.",
+      "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/23769068/best-ebook-readers",
@@ -17,19 +17,9 @@
       "reason": "",
       "original_headline": "The best e-reader to buy right now",
       "original_summary": "Any ebook reader will let you cram a Beauty and the Beast-sized library’s worth of books in your pocket, but so will your phone. An ebook reader offers a more book-like reading experience, with fewer distractions and less eye strain, and many include extra features, like adjustable frontlighting. So",
-      "fantasy_headline": "Seek the Finest Enchanted Tome for Your Studies!",
-      "fantasy_story": "Travelers often carry a scrying mirror for tales, but a true scholar knows the worth of an enchanted tome. These magical books hold an entire grand archive within their covers, freeing your eyes from strain. Many even glow softly with runes, allowing reading in the deepest dungeon or darkest night.",
+      "fantasy_headline": "Discover the Finest Crystal Tablet for Carrying All Your Lore!",
+      "fantasy_story": "Seek the ideal crystal tablet of lore to carry a vast archive of tales in your satchel. Unlike a simple scrying mirror, these enchanted tablets offer a calming script and gentle glow, easing the eyes of weary scholars. Many feature customizable glow enchantments for perfect reading.",
       "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/games/882363/xbox-microsoft-phil-spencer-out",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Xbox shakeup: Phil Spencer and Sarah Bond are leaving Microsoft",
-      "original_summary": "After nearly 40 years at Microsoft, Xbox chief and Microsoft Gaming CEO Phil Spencer is leaving the company, along with Xbox president Sarah Bond. Spencer’s retirement was announced in a memo from Microsoft CEO Satya Nadella on February 20th, stating, “Last year, Phil Spencer made the decision to re",
-      "fantasy_headline": "Esteemed Leaders Depart the Grand Guild of Micrasoft's Scrollworks.",
-      "fantasy_story": "After many seasons of service, the revered Guild Masters, Philus Spencius and Serah Bond, are stepping down from their posts. They guided the Grand Guild of Micrasoft's Emerald Scrollworks to great success. The guild's leader announced their honorable departure from these vital roles.",
-      "tag": "merchants"
     }
   ]
 }
