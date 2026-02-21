@@ -1,34 +1,24 @@
 {
-  "last_updated": "2026-02-21 12:47:25",
+  "last_updated": "2026-02-21 20:25:06",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Scientists discover why high altitude protects against diabetes",
+      "original_summary": "Living at high altitude appears to protect against diabetes, and scientists have finally discovered the reason. When oxygen levels drop, red blood cells switch into a new metabolic mode and absorb large amounts of glucose from the blood. This helps the body cope with thin air while also reducing blo",
+      "fantasy_headline": "The Mountain Alchemists Uncover Secret to Thriving at High Peaks!",
+      "fantasy_story": "Alchemists from the Sky-Kingdoms have finally learned why folks dwelling on high mountain peaks often avoid a common ailing sickness. When the very air thins, the body's tiny life-force essences shift, drinking up excess sweet ambrosia from the blood. This ancient magic helps them endure thin air and keeps their vitality strong.",
+      "tag": "nature"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Generative AI analyzes medical data faster than human research teams",
       "original_summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models. By generating usable analytical code from precise prompts, the systems dramatically reduced t",
-      "fantasy_headline": "Enchanted Scrolls Uncover Ailment Cures Swiftly!",
-      "fantasy_story": "The esteemed Alchemists' Guild recently deployed a new set of enchanted scrolls. These magical artifacts can decipher complex healers' lore faster than seasoned wizard teams. They swiftly reveal powerful insights into strange ailments and potent potion recipes, greatly aiding the healers of the realm.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/tech/881788/soundcore-nebula-x1-pro-review-comparison-x1",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Anker’s X1 Pro shouldn’t exist, but I’m so glad it does",
-      "original_summary": "The Soundcore Nebula X1 Pro is too weird to exist. It takes the excellent 4K projector and karaoke microphones from Anker's Nebula X1 and stuffs them inside a powerful five-speaker Google TV party on wheels. It's so absurd that it feels like a gadget fever dream - and I'm here for it. At the heart [",
-      "fantasy_headline": "Anker's Arcane Orb: A Wandering Feast of Wonders!",
-      "fantasy_story": "Merchant Clan Anker has unveiled a peculiar new artifact: the Grand Reveler's Orb. This enchanted cart projects vibrant illusions and amplifies joyous songs with its magical wands. It is an extraordinary creation, bringing wondrous feasts and entertainment wherever it rolls.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/23769068/best-ebook-readers",
-      "status": "published",
-      "reason": "",
-      "original_headline": "The best e-reader to buy right now",
-      "original_summary": "Any ebook reader will let you cram a Beauty and the Beast-sized library’s worth of books in your pocket, but so will your phone. An ebook reader offers a more book-like reading experience, with fewer distractions and less eye strain, and many include extra features, like adjustable frontlighting. So",
-      "fantasy_headline": "Seek the Finest Lore-Tablet for Undisturbed Tales!",
-      "fantasy_story": "Many seek to carry a vast library of scrolls in their satchels these days. The finest enchanted lore-tablets offer a gentle inner light, perfect for undisturbed reading. They bring comfort and focus, letting scholars delve into countless stories without wearying their eyes.",
+      "fantasy_headline": "Enchanted Orbs Outpace Scribe-Wizards in Reading Healer's Scrolls!",
+      "fantasy_story": "The Arcane Guild has unveiled new enchanted orbs capable of deciphering vast collections of healer's scrolls faster than any scribe-wizard team. These magical artifacts matched or even surpassed sages who spent moons crafting prognostic charts. By conjuring spell-weaving scripts from mere whispers, the orbs greatly shortened the time to understand ailments.",
       "tag": "magic"
     }
   ]
