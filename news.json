@@ -1,25 +1,35 @@
 {
-  "last_updated": "2026-02-21 20:25:06",
+  "last_updated": "2026-02-22 02:07:32",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Scientists discover why high altitude protects against diabetes",
       "original_summary": "Living at high altitude appears to protect against diabetes, and scientists have finally discovered the reason. When oxygen levels drop, red blood cells switch into a new metabolic mode and absorb large amounts of glucose from the blood. This helps the body cope with thin air while also reducing blo",
-      "fantasy_headline": "The Mountain Alchemists Uncover Secret to Thriving at High Peaks!",
-      "fantasy_story": "Alchemists from the Sky-Kingdoms have finally learned why folks dwelling on high mountain peaks often avoid a common ailing sickness. When the very air thins, the body's tiny life-force essences shift, drinking up excess sweet ambrosia from the blood. This ancient magic helps them endure thin air and keeps their vitality strong.",
+      "fantasy_headline": "Mountain Air Magic Fights the Sweet Sickness!",
+      "fantasy_story": "The Grand Alchemists' Guild has unveiled a secret of the high mountain peaks! It seems the thin air up there helps guard against the common 'Sweet Sickness.' When the life-giving humors encounter less breath, they magically draw sweet essences from the blood, strengthening the body against illness.",
       "tag": "nature"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Generative AI analyzes medical data faster than human research teams",
       "original_summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models. By generating usable analytical code from precise prompts, the systems dramatically reduced t",
-      "fantasy_headline": "Enchanted Orbs Outpace Scribe-Wizards in Reading Healer's Scrolls!",
-      "fantasy_story": "The Arcane Guild has unveiled new enchanted orbs capable of deciphering vast collections of healer's scrolls faster than any scribe-wizard team. These magical artifacts matched or even surpassed sages who spent moons crafting prognostic charts. By conjuring spell-weaving scripts from mere whispers, the orbs greatly shortened the time to understand ailments.",
+      "fantasy_headline": "Enchanted Scrolls Outwit Sages in Healing Lore!",
+      "fantasy_story": "An ancient Oracle Engine, powered by arcane scripts, can now decipher complex healing lore faster than the wisest Sages! Tested against healer guilds, the enchanted scrolls matched or surpassed their long-held divinations. This new magic greatly speeds up understanding ailment patterns.",
       "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/tech/882852/arturia-fx-collection-6",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Arturia’s FX Collection 6 adds two new effects and a $99 intro version",
+      "original_summary": "Arturia launched a new version of its flagship effects suite, FX Collection, which includes two new plugins, EFX Ambient and Pitch Shifter-910. FX Collection 6 also marks the introduction of an Intro version with a selection of six effects covering the basics for $99. That pales in comparison to the",
+      "fantasy_headline": "Arturia's Guild Unveils New Enchantments for Aspiring Wizards!",
+      "fantasy_story": "Arturia's Guild has released a grand new collection of magical enchantments, including two powerful new spells: EFX Ambient and the Pitch Shifter-910. An 'Apprentice's Set' is now available for just 99 gold coins, offering basic enchantments for budding mages. This makes advanced spellcasting more accessible than ever!",
+      "tag": "merchants"
     }
   ]
 }
