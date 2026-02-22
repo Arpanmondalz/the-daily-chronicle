@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22 02:07:32",
+  "last_updated": "2026-02-22 08:32:08",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
@@ -7,9 +7,9 @@
       "reason": "",
       "original_headline": "Scientists discover why high altitude protects against diabetes",
       "original_summary": "Living at high altitude appears to protect against diabetes, and scientists have finally discovered the reason. When oxygen levels drop, red blood cells switch into a new metabolic mode and absorb large amounts of glucose from the blood. This helps the body cope with thin air while also reducing blo",
-      "fantasy_headline": "Mountain Air Magic Fights the Sweet Sickness!",
-      "fantasy_story": "The Grand Alchemists' Guild has unveiled a secret of the high mountain peaks! It seems the thin air up there helps guard against the common 'Sweet Sickness.' When the life-giving humors encounter less breath, they magically draw sweet essences from the blood, strengthening the body against illness.",
-      "tag": "nature"
+      "fantasy_headline": "Mountain Alchemists Uncover Secret to Thwarting Sweet Sickness",
+      "fantasy_story": "The Grand Alchemists' Guild has at last understood why dwellers of the highest peaks are spared the dreaded sweet sickness. When the very essence of breath thins, the vital humors within the body cleverly shift, drawing excess sweet vital essence from the bloodstream. This magic helps them thrive in thin air while also keeping the sickness at bay.",
+      "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
@@ -17,8 +17,8 @@
       "reason": "",
       "original_headline": "Generative AI analyzes medical data faster than human research teams",
       "original_summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models. By generating usable analytical code from precise prompts, the systems dramatically reduced t",
-      "fantasy_headline": "Enchanted Scrolls Outwit Sages in Healing Lore!",
-      "fantasy_story": "An ancient Oracle Engine, powered by arcane scripts, can now decipher complex healing lore faster than the wisest Sages! Tested against healer guilds, the enchanted scrolls matched or surpassed their long-held divinations. This new magic greatly speeds up understanding ailment patterns.",
+      "fantasy_headline": "Enchanted Oracle Outperforms Sages in Unraveling Ailment Mysteries",
+      "fantasy_story": "The Sages of the Grand Healer's Guild put their new Enchanted Oracle to the test, tasking it with deciphering complex ailment records. This wondrous mystic construct proved faster than entire teams of human experts who had spent moon cycles crafting ailment forecasts. By weaving precise magical formulae, the Oracle dramatically hastened the discovery of healing insights.",
       "tag": "magic"
     },
     {
@@ -27,8 +27,8 @@
       "reason": "",
       "original_headline": "Arturia’s FX Collection 6 adds two new effects and a $99 intro version",
       "original_summary": "Arturia launched a new version of its flagship effects suite, FX Collection, which includes two new plugins, EFX Ambient and Pitch Shifter-910. FX Collection 6 also marks the introduction of an Intro version with a selection of six effects covering the basics for $99. That pales in comparison to the",
-      "fantasy_headline": "Arturia's Guild Unveils New Enchantments for Aspiring Wizards!",
-      "fantasy_story": "Arturia's Guild has released a grand new collection of magical enchantments, including two powerful new spells: EFX Ambient and the Pitch Shifter-910. An 'Apprentice's Set' is now available for just 99 gold coins, offering basic enchantments for budding mages. This makes advanced spellcasting more accessible than ever!",
+      "fantasy_headline": "Arturian Guild Releases New Sonic Enchantments, Offers Apprentice Set",
+      "fantasy_story": "The renowned Arturian Guild has unveiled a grand new version of its prized Aura Collection, featuring two fresh sonic spells: the Ethereal Echo and the Voice Shifter. For novice enchanters, a special Apprentice's Set is now available, offering six essential enchantments for a mere ninety-nine gold coins. This makes learning the sonic arts more accessible than ever before.",
       "tag": "merchants"
     }
   ]
