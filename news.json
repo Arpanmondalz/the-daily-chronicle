@@ -1,45 +1,45 @@
 {
-  "last_updated": "2026-02-23 08:51:13",
+  "last_updated": "2026-02-23 13:04:14",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260222092251.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260222092329.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "A giant blade-crested spinosaurus, the “hell heron,” discovered in the Sahara",
-      "original_summary": "Deep in the heart of the Sahara, scientists have uncovered Spinosaurus mirabilis — a spectacular new predator crowned with a massive, scimitar-shaped crest that may once have blazed with color under the desert sun. Discovered in remote inland river deposits in Niger, the fossil rewrites what we thou",
-      "fantasy_headline": "Great Blade-Crested Beast Unearthed in the Blazing Sands!",
-      "fantasy_story": "Deep within the Great Desert, a fearsome blade-crested beast has been revealed by the Alchemists' Guild. Its mighty spine, shaped like a scimitar, once glowed with vibrant hues under the sun. These ancient bones speak of a forgotten predator, rewriting tales of the land's primal creatures.",
+      "original_headline": "Young Mars volcano hides a powerful magma engine beneath the surface",
+      "original_summary": "A Martian volcano once thought to be the result of a single eruption turns out to have a much more complex past. Orbital imaging and mineral data show it developed through multiple eruptive phases, all powered by the same evolving magma system underground. Shifts in mineral composition reveal the ma",
+      "fantasy_headline": "New Secrets of the Red Planet's Fiery Mountain Revealed!",
+      "fantasy_story": "Long ago, scholars believed a fiery peak on the Red Planet had a simple past. But now, with scrying crystals and geomancy, wizards have found it grew through many eruptions. A powerful, evolving fiery heart deep beneath the surface powered it all, shaping its changing nature.",
       "tag": "nature"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260222092255.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Scientists discover why high altitude protects against diabetes",
-      "original_summary": "Living at high altitude appears to protect against diabetes, and scientists have finally discovered the reason. When oxygen levels drop, red blood cells switch into a new metabolic mode and absorb large amounts of glucose from the blood. This helps the body cope with thin air while also reducing blo",
-      "fantasy_headline": "Mountain Air's Secret Against the Wasting Sickness Revealed!",
-      "fantasy_story": "The Healers' Guild has uncovered a great secret of the high mountain peaks. They found that the thin 'Breath of the Sky' causes a wondrous shift in one's life-gems. This magic helps the body absorb more sweet-essence, protecting folk from the dreaded Wasting Sickness and thriving in thin air.",
+      "original_headline": "Cleaner wrasse show self awareness in stunning mirror experiments",
+      "original_summary": "Cleaner wrasse have revealed a remarkable new side of fish intelligence. Marked with fake parasites, they used mirrors to inspect and remove the spots—far faster than seen in earlier tests. Even more striking, some fish dropped shrimp in front of the mirror to watch how its reflection moved, a form ",
+      "fantasy_headline": "Clever Fish Reveal Astonishing Self-Awareness with Enchanted Glass!",
+      "fantasy_story": "In a grand observation, clever scaled fish have shown surprising wisdom. Marked with pretend pests, they used enchanted looking-glasses to find and clean the spots. Even more wondrous, some fish dropped tiny creatures before the mirror, watching their reflections move. Truly, the ocean holds many secrets!",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.theverge.com/gadgets/882983/nothing-phone-4a-official-design-glyph-bar",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Nothing couldn’t wait to show off the Phone 4A",
+      "original_summary": "After teasing the upcoming launch of its midrange Phone 4A last week, Nothing has now revealed what the rear of the device looks like. An official render of the Phone 4A shared on X shows off the brand's familiar transparent-industrial stylings, alongside a new \"Glyph Bar\" lighting feature located t",
+      "fantasy_headline": "The 'Nothing' Clan Unveils a New Scrying Slate of Whispers!",
+      "fantasy_story": "The mysterious 'Nothing' Clan couldn't wait to reveal their latest wonder, the Scrying Slate of Whispers. This enchanted device boasts a crystalline casing, showing its intricate inner workings. A new 'Glyph Bar' glows with runes of light, promising powerful magic for its users.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai",
+      "id": "https://www.theverge.com/transportation/882364/uber-autonomous-solutions-training-data-partners",
       "status": "published",
       "reason": null,
-      "original_headline": "Samsung is adding Perplexity to Galaxy AI",
-      "original_summary": "In addition to summoning Bixby or Gemini, Galaxy S26 users will be able to call on Perplexity by saying \"hey, Plex.\" The integration of Perplexity into Galaxy AI is just one element of the company's embrace of a \"multi-agent ecosystem.\" Often, people will use different AI agents for different tasks,",
-      "fantasy_headline": "Glimmering Star Guild Summons New Oracle for Their Enchanted Orbs!",
-      "fantasy_story": "The Glimmering Star Guild has enchanted their scrying-orbs with a new Lesser Spirit called 'Plex.' Now, besides the familiar spirits of 'Bixby' and 'Gemini,' enchanters can summon Plex by simply speaking its name. This addition expands the council of bound oracles, allowing folk to call upon different spirits for varied tasks and inquiries.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/entertainment/882915/laurie-spiegel-the-expanding-universe-review-masterpiece-ambient-music",
-      "status": "published",
-      "reason": null,
-      "original_headline": "You need to listen to Laurie Spiegel’s masterpiece of early ambient music",
-      "original_summary": "I recently had the pleasure of interviewing Laurie Spiegel for the site. As preparation for the interview, I spent a lot of time over the last couple of weeks revisiting Spiegel's records, most notably The Expanding Universe, her 1980 masterpiece that blends synth experimentalism with early examples",
-      "fantasy_headline": "Hear the Master Minstrel's Legendary Dream-Weavings!",
-      "fantasy_story": "Folk must listen to the legendary compositions of Master Minstrel Laurie Spiegel! Her timeless sonic tapestry, 'The Song of Boundless Skies,' combines arcane sonic arts with ethereal melodies. These sound-gems from ages past create a wondrous background hum, perfect for contemplation or quiet moments.",
-      "tag": "kingdom"
+      "original_headline": "Uber launches robotaxi support project to aid AV partners",
+      "original_summary": "Uber is moving aggressively into robotaxis, striking deals with new partners and promising big investments to support future fleets - basically everything it can do except design and build the vehicles itself. (It tried that once, unsuccessfully.) Now, the ridehail giant is launching a new initiativ",
+      "fantasy_headline": "Guild of Swift Carriages Pledges Gold to Support New Transport Golems!",
+      "fantasy_story": "The powerful Guild of Swift Carriages is making grand moves into the realm of transport golems. They've struck deals with many allied workshops and pledged much gold to support future fleets. This new initiative aims to aid others in crafting these wondrous, self-moving carriages.",
+      "tag": "merchants"
     }
   ]
 }
