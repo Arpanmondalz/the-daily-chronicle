@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23 13:04:14",
+  "last_updated": "2026-02-23 16:57:10",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260222092329.htm",
@@ -7,39 +7,39 @@
       "reason": null,
       "original_headline": "Young Mars volcano hides a powerful magma engine beneath the surface",
       "original_summary": "A Martian volcano once thought to be the result of a single eruption turns out to have a much more complex past. Orbital imaging and mineral data show it developed through multiple eruptive phases, all powered by the same evolving magma system underground. Shifts in mineral composition reveal the ma",
-      "fantasy_headline": "New Secrets of the Red Planet's Fiery Mountain Revealed!",
-      "fantasy_story": "Long ago, scholars believed a fiery peak on the Red Planet had a simple past. But now, with scrying crystals and geomancy, wizards have found it grew through many eruptions. A powerful, evolving fiery heart deep beneath the surface powered it all, shaping its changing nature.",
+      "fantasy_headline": "Red Planet's Young Fire-Mountain Hides Mighty Magical Core",
+      "fantasy_story": "Ancient chronicles revealed that the young fire-mountain of the Red Planet, once thought to be a single outburst, has a much deeper history. Wizards studying celestial maps and mystic minerals found it grew through many fiery phases. All were powered by an evolving magical core deep within the planet's heart.",
       "tag": "nature"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260222092255.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260222092327.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Cleaner wrasse show self awareness in stunning mirror experiments",
-      "original_summary": "Cleaner wrasse have revealed a remarkable new side of fish intelligence. Marked with fake parasites, they used mirrors to inspect and remove the spots—far faster than seen in earlier tests. Even more striking, some fish dropped shrimp in front of the mirror to watch how its reflection moved, a form ",
-      "fantasy_headline": "Clever Fish Reveal Astonishing Self-Awareness with Enchanted Glass!",
-      "fantasy_story": "In a grand observation, clever scaled fish have shown surprising wisdom. Marked with pretend pests, they used enchanted looking-glasses to find and clean the spots. Even more wondrous, some fish dropped tiny creatures before the mirror, watching their reflections move. Truly, the ocean holds many secrets!",
+      "original_headline": "A hidden force beneath the Atlantic ripped open a 500 kilometer canyon",
+      "original_summary": "Far beneath the Atlantic Ocean, about 1,000 kilometers off Portugal’s coast, lies a colossal underwater canyon system that dwarfs even the Grand Canyon. Known as the King’s Trough Complex, this 500-kilometer stretch of trenches and deep basins formed not from rushing water, but from dramatic tectoni",
+      "fantasy_headline": "Secret Earth Magic Carved Vast Canyon Beneath Great Ocean",
+      "fantasy_story": "Deep below the Great Atlantic Ocean, far off the coast of the Kingdom of Portugale, lies a huge underwater chasm. This King's Trough Complex, stretching 500 leagues, was not carved by rushing tides. Instead, ancient earth magic and slumbering elemental forces tore open the sea floor.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/gadgets/882983/nothing-phone-4a-official-design-glyph-bar",
+      "id": "https://www.theverge.com/tech/878369/discord-persona-age-verification",
       "status": "published",
       "reason": null,
-      "original_headline": "Nothing couldn’t wait to show off the Phone 4A",
-      "original_summary": "After teasing the upcoming launch of its midrange Phone 4A last week, Nothing has now revealed what the rear of the device looks like. An official render of the Phone 4A shared on X shows off the brand's familiar transparent-industrial stylings, alongside a new \"Glyph Bar\" lighting feature located t",
-      "fantasy_headline": "The 'Nothing' Clan Unveils a New Scrying Slate of Whispers!",
-      "fantasy_story": "The mysterious 'Nothing' Clan couldn't wait to reveal their latest wonder, the Scrying Slate of Whispers. This enchanted device boasts a crystalline casing, showing its intricate inner workings. A new 'Glyph Bar' glows with runes of light, promising powerful magic for its users.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/transportation/882364/uber-autonomous-solutions-training-data-partners",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Uber launches robotaxi support project to aid AV partners",
-      "original_summary": "Uber is moving aggressively into robotaxis, striking deals with new partners and promising big investments to support future fleets - basically everything it can do except design and build the vehicles itself. (It tried that once, unsuccessfully.) Now, the ridehail giant is launching a new initiativ",
-      "fantasy_headline": "Guild of Swift Carriages Pledges Gold to Support New Transport Golems!",
-      "fantasy_story": "The powerful Guild of Swift Carriages is making grand moves into the realm of transport golems. They've struck deals with many allied workshops and pledged much gold to support future fleets. This new initiative aims to aid others in crafting these wondrous, self-moving carriages.",
+      "original_headline": "Discord distances itself from Persona age verification after user backlash",
+      "original_summary": "Discord is attempting to distance itself from the age verification provider Persona following a steady stream of user backlash. In an emailed statement to The Verge, Discord's head of product policy, Savannah Badalich, confirms the company \"ran a limited test of Persona in the UK where age assurance\"",
+      "fantasy_headline": "Whispers' Guild Halts Age-Scrying Spell After Villager Uproar",
+      "fantasy_story": "The Whispers' Guild, keepers of the magical communication networks, is stepping back from the Scrollkeepers' Guild's age-scrying enchantment. After many complaints from villagers, the Whispers' Guild confirmed they only tried a small test of the magic in the Kingdom of Britannia. They seek to ensure only the proper age groups access certain mystic circles.",
       "tag": "merchants"
+    },
+    {
+      "id": "https://www.theverge.com/tech/883006/kohler-anthem-evocycle-smart-shower-system-water-recirculate-filter-recycle",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Kohler&#8217;s new shower reuses dirty water to get you clean",
+      "original_summary": "Kohler claims its new Anthem EvoCycle smart shower system can deliver \"up to 80% water savings\" without the use of showerheads that limit flow or pressure. The system instead relies on a reservoir in the shower's base that collects used water and passes it through a filtration system before sending ",
+      "fantasy_headline": "Water-Works Guild Unveils Enchanted Bath for Pure Water Recycling",
+      "fantasy_story": "The esteemed Water-Works Guild declares its new Anthem EvoCycle cleansing contraption can save up to 80% of precious water. This magical device does not limit the flow, but rather has a hidden basin at its base. It collects used water, then purifies it with special enchantments before sending it forth fresh again.",
+      "tag": "magic"
     }
   ]
 }
