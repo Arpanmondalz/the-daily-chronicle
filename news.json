@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-02-23 02:08:23",
+  "last_updated": "2026-02-23 05:25:18",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/02/260222092251.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "A giant blade-crested spinosaurus, the “hell heron,” discovered in the Sahara",
+      "original_summary": "Deep in the heart of the Sahara, scientists have uncovered Spinosaurus mirabilis — a spectacular new predator crowned with a massive, scimitar-shaped crest that may once have blazed with color under the desert sun. Discovered in remote inland river deposits in Niger, the fossil rewrites what we thou",
+      "fantasy_headline": "Ancient Blade-Crested Beast Unearthed in the Great Sand Sea!",
+      "fantasy_story": "Brave alchemists exploring the Great Sand Sea have unearthed the bones of a magnificent creature. This giant beast, with a scimitar-shaped crest, once roamed the arid lands. Its discovery reveals new tales of ancient, wondrous life.",
+      "tag": "nature"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
       "status": "published",
       "reason": null,
       "original_headline": "Scientists discover why high altitude protects against diabetes",
       "original_summary": "Living at high altitude appears to protect against diabetes, and scientists have finally discovered the reason. When oxygen levels drop, red blood cells switch into a new metabolic mode and absorb large amounts of glucose from the blood. This helps the body cope with thin air while also reducing blo",
-      "fantasy_headline": "Mountain Air's Secret: Alchemists Unravel Sweet Sickness Cure!",
-      "fantasy_story": "The Grand Order of Alchemists has unveiled why living upon the highest peaks wards off the dreaded sugar sickness. When the air thins, the body's vital humors shift, drawing in the sweet vital essence more efficiently. This magical adaptation helps folk thrive in the sky realms while keeping them hale and hearty.",
-      "tag": "nature"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260221060942.htm",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Generative AI analyzes medical data faster than human research teams",
-      "original_summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models. By generating usable analytical code from precise prompts, the systems dramatically reduced t",
-      "fantasy_headline": "Oracle Engines Outpace Scribes in Unraveling Healing Lore!",
-      "fantasy_story": "The esteemed Guild of Healers experimented with new Oracle Engines for discerning ailments. These mystic constructs, powered by ancient enchantments, proved faster than even seasoned scribes in analyzing patients' woes. By instantly weaving arcane formulas from specific queries, the engines dramatically sped up diagnostic spells.",
+      "fantasy_headline": "Mountain Dwellers' Secret Against the Ailing Sickness Revealed!",
+      "fantasy_story": "Wise alchemists have uncovered why folk living on high mountain peaks are spared the Blood Sugar Sickness. It seems their inner life essence changes in the thin air, drawing excess sweetness from their veins. This magic helps them thrive and keeps the sickness at bay.",
       "tag": "magic"
     },
     {
@@ -27,8 +27,8 @@
       "reason": null,
       "original_headline": "Samsung is adding Perplexity to Galaxy AI",
       "original_summary": "In addition to summoning Bixby or Gemini, Galaxy S26 users will be able to call on Perplexity by saying \"hey, Plex.\" The integration of Perplexity into Galaxy AI is just one element of the company's embrace of a \"multi-agent ecosystem.\" Often, people will use different AI agents for different tasks,",
-      "fantasy_headline": "Starry Forge's New Artifacts: Bearers Summon More Wise Familiars!",
-      "fantasy_story": "The Grand Guild of Artificers at the Starry Forge announced an upgrade to their Celestial Insight Artifacts. Bearers of these wondrous Star-Crystal Oracles can now summon the inquisitive spirit of Plex, alongside Bixby and Gemini. This means a wider chorus of helpful spirits is available for different tasks, aiding travelers and scholars alike.",
+      "fantasy_headline": "Grand Artificers Infuse New Spirit into Star-Gazer's Oracle!",
+      "fantasy_story": "The Grand Artificers' Guild is weaving new magic into their Star-Gazer's Oracle, adding the curious spirit of Perplexity. Soon, those who wield these enchanted artifacts may choose from a chorus of bound spirits. Each spirit offers unique wisdom, tailored for different tasks.",
       "tag": "magic"
     },
     {
@@ -37,9 +37,9 @@
       "reason": null,
       "original_headline": "You need to listen to Laurie Spiegel’s masterpiece of early ambient music",
       "original_summary": "I recently had the pleasure of interviewing Laurie Spiegel for the site. As preparation for the interview, I spent a lot of time over the last couple of weeks revisiting Spiegel's records, most notably The Expanding Universe, her 1980 masterpiece that blends synth experimentalism with early examples",
-      "fantasy_headline": "Heed the Whispers: A Master Minstrel's Cosmic Melodies Revealed!",
-      "fantasy_story": "Listen closely, for the timeless works of Laurie Spiegel, a master minstrel, are being revisited! Her grand opus, \"The Ever-Growing Cosmos,\" captured within enchanted crystal spheres, blends intricate harmonic magic with soothing aural tapestries. It is a masterpiece that offers tranquil melodies for all who seek moments of peace and wonder.",
-      "tag": "kingdom"
+      "fantasy_headline": "Heed the Ancient Chimes of Spiegel's Ethereal Masterwork!",
+      "fantasy_story": "A revered bard, Laurie Spiegel, crafted a timeless masterpiece known as 'The Expanding Universe.' This ancient work blends magical instrumentals with soothing, ethereal melodies. Many find its enchanting sounds perfect for contemplation and inner peace.",
+      "tag": "magic"
     }
   ]
 }
