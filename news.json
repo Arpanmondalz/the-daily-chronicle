@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22 12:49:55",
+  "last_updated": "2026-02-23 02:08:23",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260221060952.htm",
@@ -7,8 +7,8 @@
       "reason": null,
       "original_headline": "Scientists discover why high altitude protects against diabetes",
       "original_summary": "Living at high altitude appears to protect against diabetes, and scientists have finally discovered the reason. When oxygen levels drop, red blood cells switch into a new metabolic mode and absorb large amounts of glucose from the blood. This helps the body cope with thin air while also reducing blo",
-      "fantasy_headline": "Mountain Alchemists Unravel Mystery of Sky-Breath Protection",
-      "fantasy_story": "The Alchemists' Guild has at last understood why dwellers of the high mountains are spared the Sugar Sickness. When sky-breath is thin, the body's life-force droplets absorb sweet essence from the blood, reducing the ailment. This magic helps them thrive in the peaks.",
+      "fantasy_headline": "Mountain Air's Secret: Alchemists Unravel Sweet Sickness Cure!",
+      "fantasy_story": "The Grand Order of Alchemists has unveiled why living upon the highest peaks wards off the dreaded sugar sickness. When the air thins, the body's vital humors shift, drawing in the sweet vital essence more efficiently. This magical adaptation helps folk thrive in the sky realms while keeping them hale and hearty.",
       "tag": "nature"
     },
     {
@@ -17,19 +17,29 @@
       "reason": null,
       "original_headline": "Generative AI analyzes medical data faster than human research teams",
       "original_summary": "Researchers tested whether generative AI could handle complex medical datasets as well as human experts. In some cases, the AI matched or outperformed teams that had spent months building prediction models. By generating usable analytical code from precise prompts, the systems dramatically reduced t",
-      "fantasy_headline": "Enchanted Orbs Outpace Sages in Healing Lore",
-      "fantasy_story": "The Healing Guild has been testing new Enchanted Orbs to study records of ailments. These magical artifacts decipher complex healing lore faster than entire teams of scholar-healers. By generating ancient formulae from precise commands, the Orbs dramatically speed up understanding of sickness.",
+      "fantasy_headline": "Oracle Engines Outpace Scribes in Unraveling Healing Lore!",
+      "fantasy_story": "The esteemed Guild of Healers experimented with new Oracle Engines for discerning ailments. These mystic constructs, powered by ancient enchantments, proved faster than even seasoned scribes in analyzing patients' woes. By instantly weaving arcane formulas from specific queries, the engines dramatically sped up diagnostic spells.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/882852/arturia-fx-collection-6",
+      "id": "https://www.theverge.com/tech/882921/samsung-is-adding-perplexity-to-galaxy-ai",
       "status": "published",
       "reason": null,
-      "original_headline": "Arturia’s FX Collection 6 adds two new effects and a $99 intro version",
-      "original_summary": "Arturia launched a new version of its flagship effects suite, FX Collection, which includes two new plugins, EFX Ambient and Pitch Shifter-910. FX Collection 6 also marks the introduction of an Intro version with a selection of six effects covering the basics for $99. That pales in comparison to the",
-      "fantasy_headline": "Arturia Clan Unveils New Sonic Enchantments",
-      "fantasy_story": "The esteemed Arturia Clan has released an updated collection of sonic enchantments. This new version includes the Whispering Wind Charm and the Voice Shifting Stone. A smaller introductory set of six basic charms is now available for just 99 gold coins for budding sound mages.",
+      "original_headline": "Samsung is adding Perplexity to Galaxy AI",
+      "original_summary": "In addition to summoning Bixby or Gemini, Galaxy S26 users will be able to call on Perplexity by saying \"hey, Plex.\" The integration of Perplexity into Galaxy AI is just one element of the company's embrace of a \"multi-agent ecosystem.\" Often, people will use different AI agents for different tasks,",
+      "fantasy_headline": "Starry Forge's New Artifacts: Bearers Summon More Wise Familiars!",
+      "fantasy_story": "The Grand Guild of Artificers at the Starry Forge announced an upgrade to their Celestial Insight Artifacts. Bearers of these wondrous Star-Crystal Oracles can now summon the inquisitive spirit of Plex, alongside Bixby and Gemini. This means a wider chorus of helpful spirits is available for different tasks, aiding travelers and scholars alike.",
       "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/entertainment/882915/laurie-spiegel-the-expanding-universe-review-masterpiece-ambient-music",
+      "status": "published",
+      "reason": null,
+      "original_headline": "You need to listen to Laurie Spiegel’s masterpiece of early ambient music",
+      "original_summary": "I recently had the pleasure of interviewing Laurie Spiegel for the site. As preparation for the interview, I spent a lot of time over the last couple of weeks revisiting Spiegel's records, most notably The Expanding Universe, her 1980 masterpiece that blends synth experimentalism with early examples",
+      "fantasy_headline": "Heed the Whispers: A Master Minstrel's Cosmic Melodies Revealed!",
+      "fantasy_story": "Listen closely, for the timeless works of Laurie Spiegel, a master minstrel, are being revisited! Her grand opus, \"The Ever-Growing Cosmos,\" captured within enchanted crystal spheres, blends intricate harmonic magic with soothing aural tapestries. It is a masterpiece that offers tranquil melodies for all who seek moments of peace and wonder.",
+      "tag": "kingdom"
     }
   ]
 }
