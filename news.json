@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24 13:05:25",
+  "last_updated": "2026-02-24 17:05:53",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260224023218.htm",
@@ -7,19 +7,29 @@
       "reason": null,
       "original_headline": "190-million-year-old “Sword Dragon” fossil rewrites ichthyosaur history",
       "original_summary": "A newly identified ichthyosaur from the UK’s Jurassic Coast is rewriting part of the prehistoric playbook. Nicknamed the “Sword Dragon of Dorset,” the three-meter-long marine reptile lived during a poorly understood window of evolution when major ichthyosaur groups were disappearing and new ones eme",
-      "fantasy_headline": "Ancient Sword Dragon Bones Uncovered on Dorset Shore!",
-      "fantasy_story": "Deep on the Dorset Shore, seekers have unearthed the ancient remains of a creature known as the 'Sword Dragon.' This three-meter-long beast, a type of sea serpent, changes what we thought we knew about the deep-sea creatures of old. Its discovery reveals forgotten lore about the great beasts that swam the waters long ago.",
+      "fantasy_headline": "Ancient Sea Dragon Bones Unearth Lost Lore!",
+      "fantasy_story": "Along the ancient shores of the Western Isles, Royal Scholars unearthed the colossal bones of a creature nicknamed the 'Sword Dragon.' This three-meter-long beast once swam the deep seas eons ago. Its discovery rewrites the scrolls of ancient marine beasts, revealing secrets of a forgotten era when old species vanished and new ones emerged.",
       "tag": "nature"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260224023101.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260224023209.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Scientists engineer bacteria to eat cancer tumors from the inside out",
-      "original_summary": "Researchers are engineering bacteria to invade tumors and consume them from the inside. Because tumor cores lack oxygen, they’re the perfect breeding ground for these microbes. The team added a genetic tweak that helps the bacteria survive longer near oxygen-exposed edges — but only once enough of t",
-      "fantasy_headline": "Alchemists Enchant Tiny Spirits to Devour Dark Growths!",
-      "fantasy_story": "The Alchemists' Guild has unveiled a new, potent enchantment. They've crafted tiny, living spirits capable of invading and devouring the blight of dark growths from within. These magical microbes thrive where the blight is thickest, offering a new hope against cursed flesh.",
+      "original_headline": "Can solar storms trigger earthquakes? Scientists propose surprising link",
+      "original_summary": "Scientists have proposed a surprising connection between solar flares and earthquakes. When solar activity disturbs the ionosphere, it may generate electric fields that penetrate fragile fracture zones in Earth’s crust. If a fault is already critically stressed, this extra electrostatic pressure cou",
+      "fantasy_headline": "Sky-Gazers Link Sun's Temper to Earth's Tremors!",
+      "fantasy_story": "Grand Wizards and Sky-Gazers propose a startling connection between the sun's fiery temper and the earth's shudders. When celestial disturbances stir the sky's veil, arcane energies might penetrate deep earth veins. This extra pressure could trigger great ground shifts where the earth is already strained, leading to unexpected tremors.",
       "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/streaming/883316/youtube-premium-lite-background-play-offline-downloads",
+      "status": "published",
+      "reason": null,
+      "original_headline": "YouTube&#8217;s cheaper subscription is getting background play and downloads",
+      "original_summary": "YouTube is adding background playback and offline downloads to YouTube Premium Lite, its $7.99-per-month subscription. With the change, you'll be able to keep YouTube videos going while you use another app on your phone or save videos to watch when you're offline. YouTube Premium Lite came to the US",
+      "fantasy_headline": "Scrying Pool Guild Offers New Portable Viewing Charms!",
+      "fantasy_story": "The Scrying Pool Guild now offers new enchantments for its patrons of the 'Lite' tier, requiring only eight silver coins per moon cycle. Now, tales can whisper from your personal scrying orb even as you focus on other tasks. You can also store entire chronicles within your enchanted locket, ready to be viewed even far from the Guild's Grand Crystal.",
+      "tag": "merchants"
     }
   ]
 }
