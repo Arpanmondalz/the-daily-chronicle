@@ -1,35 +1,35 @@
 {
-  "last_updated": "2026-02-24 02:05:09",
+  "last_updated": "2026-02-24 08:49:26",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/02/260224023101.htm",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Scientists engineer bacteria to eat cancer tumors from the inside out",
+      "original_summary": "Researchers are engineering bacteria to invade tumors and consume them from the inside. Because tumor cores lack oxygen, they’re the perfect breeding ground for these microbes. The team added a genetic tweak that helps the bacteria survive longer near oxygen-exposed edges — but only once enough of t",
+      "fantasy_headline": "Alchemists Brew Potions to Banish Dark Growths!",
+      "fantasy_story": "The Alchemists' Guild has enchanted tiny sprites to seek out and consume the dreaded dark growths within the body. These brave little spirits thrive in the blighted flesh, and special runes ensure they linger to cleanse the edges. Soon, this malady might be banished forever.",
+      "tag": "magic"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260222092329.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Young Mars volcano hides a powerful magma engine beneath the surface",
       "original_summary": "A Martian volcano once thought to be the result of a single eruption turns out to have a much more complex past. Orbital imaging and mineral data show it developed through multiple eruptive phases, all powered by the same evolving magma system underground. Shifts in mineral composition reveal the ma",
-      "fantasy_headline": "Ancient Red Peak Hides a Fiery Heart",
-      "fantasy_story": "Alchemists studying the distant Red Peak have uncovered a wondrous secret. What was thought to be a single burst of elemental fury is actually many, powered by a magical furnace deep beneath the earth. Its shifting mineral hues tell tales of a powerful, evolving heart.",
-      "tag": "nature"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260222092327.htm",
-      "status": "published",
-      "reason": null,
-      "original_headline": "A hidden force beneath the Atlantic ripped open a 500 kilometer canyon",
-      "original_summary": "Far beneath the Atlantic Ocean, about 1,000 kilometers off Portugal’s coast, lies a colossal underwater canyon system that dwarfs even the Grand Canyon. Known as the King’s Trough Complex, this 500-kilometer stretch of trenches and deep basins formed not from rushing water, but from dramatic tectoni",
-      "fantasy_headline": "Great Western Sea Reveals Colossal Deep Scar",
-      "fantasy_story": "Far beneath the Great Western Sea, a vast system of trenches, dwarfing any known chasm on land, has been discovered. This colossal King's Deep Scar, stretching for hundreds of leagues, was not carved by water. Instead, ancient, slumbering earth spirits are believed to have torn the seabed open with immense power.",
+      "fantasy_headline": "Star-Seers Uncover Fiery Mountain's Secret on the Red Orb!",
+      "fantasy_story": "Our learned Star-Seers, using powerful divination spells, have gazed upon the Crimson Planet. They discovered a fiery mountain, once thought to be a single roar, has a complex history. Beneath its peak lies a powerful, evolving heart of fire, responsible for many magnificent breaths of flame.",
       "tag": "nature"
     },
     {
       "id": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Billions of dollars later and still nobody knows what an Xbox is",
       "original_summary": "The last few years of Xbox have been expensive. Under Phil Spencer's leadership, Microsoft has spent billions of dollars in an attempt to build an ambitious future for gaming that looks a lot like Netflix. And while its subscription service Game Pass started out as a good deal for gamers (although n",
-      "fantasy_headline": "Guild Spends Fortune, Enigmatic Arcane Box Persists",
-      "fantasy_story": "The Grand Guild of Mystical Craftsmen, led by Master Enchanter Spencer, has poured vast sums of gold into their enigmatic Arcane Viewing Box. They dream of a future where all can access endless enchanted scrolls, like a shared scrying pool. Yet, despite the immense cost, many still ponder its true purpose.",
-      "tag": "magic"
+      "fantasy_headline": "Grand Guild Spends Mountains of Gold on Enchanted Amusements!",
+      "fantasy_story": "The mighty Guild of Enchanted Amusements, led by Master Philander, has poured mountains of gold coins into wondrous pastimes. They envision a future where all can enjoy endless magical tales and games, much like a grand scroll library. Yet, many still ponder the true nature of their enchanted devices.",
+      "tag": "merchants"
     }
   ]
 }
