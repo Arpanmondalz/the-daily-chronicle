@@ -1,35 +1,25 @@
 {
-  "last_updated": "2026-02-24 08:49:26",
+  "last_updated": "2026-02-24 13:05:25",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260224023101.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260224023218.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Scientists engineer bacteria to eat cancer tumors from the inside out",
-      "original_summary": "Researchers are engineering bacteria to invade tumors and consume them from the inside. Because tumor cores lack oxygen, they’re the perfect breeding ground for these microbes. The team added a genetic tweak that helps the bacteria survive longer near oxygen-exposed edges — but only once enough of t",
-      "fantasy_headline": "Alchemists Brew Potions to Banish Dark Growths!",
-      "fantasy_story": "The Alchemists' Guild has enchanted tiny sprites to seek out and consume the dreaded dark growths within the body. These brave little spirits thrive in the blighted flesh, and special runes ensure they linger to cleanse the edges. Soon, this malady might be banished forever.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260222092329.htm",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Young Mars volcano hides a powerful magma engine beneath the surface",
-      "original_summary": "A Martian volcano once thought to be the result of a single eruption turns out to have a much more complex past. Orbital imaging and mineral data show it developed through multiple eruptive phases, all powered by the same evolving magma system underground. Shifts in mineral composition reveal the ma",
-      "fantasy_headline": "Star-Seers Uncover Fiery Mountain's Secret on the Red Orb!",
-      "fantasy_story": "Our learned Star-Seers, using powerful divination spells, have gazed upon the Crimson Planet. They discovered a fiery mountain, once thought to be a single roar, has a complex history. Beneath its peak lies a powerful, evolving heart of fire, responsible for many magnificent breaths of flame.",
+      "reason": null,
+      "original_headline": "190-million-year-old “Sword Dragon” fossil rewrites ichthyosaur history",
+      "original_summary": "A newly identified ichthyosaur from the UK’s Jurassic Coast is rewriting part of the prehistoric playbook. Nicknamed the “Sword Dragon of Dorset,” the three-meter-long marine reptile lived during a poorly understood window of evolution when major ichthyosaur groups were disappearing and new ones eme",
+      "fantasy_headline": "Ancient Sword Dragon Bones Uncovered on Dorset Shore!",
+      "fantasy_story": "Deep on the Dorset Shore, seekers have unearthed the ancient remains of a creature known as the 'Sword Dragon.' This three-meter-long beast, a type of sea serpent, changes what we thought we knew about the deep-sea creatures of old. Its discovery reveals forgotten lore about the great beasts that swam the waters long ago.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260224023101.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Billions of dollars later and still nobody knows what an Xbox is",
-      "original_summary": "The last few years of Xbox have been expensive. Under Phil Spencer's leadership, Microsoft has spent billions of dollars in an attempt to build an ambitious future for gaming that looks a lot like Netflix. And while its subscription service Game Pass started out as a good deal for gamers (although n",
-      "fantasy_headline": "Grand Guild Spends Mountains of Gold on Enchanted Amusements!",
-      "fantasy_story": "The mighty Guild of Enchanted Amusements, led by Master Philander, has poured mountains of gold coins into wondrous pastimes. They envision a future where all can enjoy endless magical tales and games, much like a grand scroll library. Yet, many still ponder the true nature of their enchanted devices.",
-      "tag": "merchants"
+      "reason": null,
+      "original_headline": "Scientists engineer bacteria to eat cancer tumors from the inside out",
+      "original_summary": "Researchers are engineering bacteria to invade tumors and consume them from the inside. Because tumor cores lack oxygen, they’re the perfect breeding ground for these microbes. The team added a genetic tweak that helps the bacteria survive longer near oxygen-exposed edges — but only once enough of t",
+      "fantasy_headline": "Alchemists Enchant Tiny Spirits to Devour Dark Growths!",
+      "fantasy_story": "The Alchemists' Guild has unveiled a new, potent enchantment. They've crafted tiny, living spirits capable of invading and devouring the blight of dark growths from within. These magical microbes thrive where the blight is thickest, offering a new hope against cursed flesh.",
+      "tag": "magic"
     }
   ]
 }
