@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-23 16:57:10",
+  "last_updated": "2026-02-24 02:05:09",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260222092329.htm",
@@ -7,8 +7,8 @@
       "reason": null,
       "original_headline": "Young Mars volcano hides a powerful magma engine beneath the surface",
       "original_summary": "A Martian volcano once thought to be the result of a single eruption turns out to have a much more complex past. Orbital imaging and mineral data show it developed through multiple eruptive phases, all powered by the same evolving magma system underground. Shifts in mineral composition reveal the ma",
-      "fantasy_headline": "Red Planet's Young Fire-Mountain Hides Mighty Magical Core",
-      "fantasy_story": "Ancient chronicles revealed that the young fire-mountain of the Red Planet, once thought to be a single outburst, has a much deeper history. Wizards studying celestial maps and mystic minerals found it grew through many fiery phases. All were powered by an evolving magical core deep within the planet's heart.",
+      "fantasy_headline": "Ancient Red Peak Hides a Fiery Heart",
+      "fantasy_story": "Alchemists studying the distant Red Peak have uncovered a wondrous secret. What was thought to be a single burst of elemental fury is actually many, powered by a magical furnace deep beneath the earth. Its shifting mineral hues tell tales of a powerful, evolving heart.",
       "tag": "nature"
     },
     {
@@ -17,28 +17,18 @@
       "reason": null,
       "original_headline": "A hidden force beneath the Atlantic ripped open a 500 kilometer canyon",
       "original_summary": "Far beneath the Atlantic Ocean, about 1,000 kilometers off Portugal’s coast, lies a colossal underwater canyon system that dwarfs even the Grand Canyon. Known as the King’s Trough Complex, this 500-kilometer stretch of trenches and deep basins formed not from rushing water, but from dramatic tectoni",
-      "fantasy_headline": "Secret Earth Magic Carved Vast Canyon Beneath Great Ocean",
-      "fantasy_story": "Deep below the Great Atlantic Ocean, far off the coast of the Kingdom of Portugale, lies a huge underwater chasm. This King's Trough Complex, stretching 500 leagues, was not carved by rushing tides. Instead, ancient earth magic and slumbering elemental forces tore open the sea floor.",
+      "fantasy_headline": "Great Western Sea Reveals Colossal Deep Scar",
+      "fantasy_story": "Far beneath the Great Western Sea, a vast system of trenches, dwarfing any known chasm on land, has been discovered. This colossal King's Deep Scar, stretching for hundreds of leagues, was not carved by water. Instead, ancient, slumbering earth spirits are believed to have torn the seabed open with immense power.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/tech/878369/discord-persona-age-verification",
+      "id": "https://www.theverge.com/games/883159/phil-spencer-xbox-game-pass",
       "status": "published",
       "reason": null,
-      "original_headline": "Discord distances itself from Persona age verification after user backlash",
-      "original_summary": "Discord is attempting to distance itself from the age verification provider Persona following a steady stream of user backlash. In an emailed statement to The Verge, Discord's head of product policy, Savannah Badalich, confirms the company \"ran a limited test of Persona in the UK where age assurance\"",
-      "fantasy_headline": "Whispers' Guild Halts Age-Scrying Spell After Villager Uproar",
-      "fantasy_story": "The Whispers' Guild, keepers of the magical communication networks, is stepping back from the Scrollkeepers' Guild's age-scrying enchantment. After many complaints from villagers, the Whispers' Guild confirmed they only tried a small test of the magic in the Kingdom of Britannia. They seek to ensure only the proper age groups access certain mystic circles.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/tech/883006/kohler-anthem-evocycle-smart-shower-system-water-recirculate-filter-recycle",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Kohler&#8217;s new shower reuses dirty water to get you clean",
-      "original_summary": "Kohler claims its new Anthem EvoCycle smart shower system can deliver \"up to 80% water savings\" without the use of showerheads that limit flow or pressure. The system instead relies on a reservoir in the shower's base that collects used water and passes it through a filtration system before sending ",
-      "fantasy_headline": "Water-Works Guild Unveils Enchanted Bath for Pure Water Recycling",
-      "fantasy_story": "The esteemed Water-Works Guild declares its new Anthem EvoCycle cleansing contraption can save up to 80% of precious water. This magical device does not limit the flow, but rather has a hidden basin at its base. It collects used water, then purifies it with special enchantments before sending it forth fresh again.",
+      "original_headline": "Billions of dollars later and still nobody knows what an Xbox is",
+      "original_summary": "The last few years of Xbox have been expensive. Under Phil Spencer's leadership, Microsoft has spent billions of dollars in an attempt to build an ambitious future for gaming that looks a lot like Netflix. And while its subscription service Game Pass started out as a good deal for gamers (although n",
+      "fantasy_headline": "Guild Spends Fortune, Enigmatic Arcane Box Persists",
+      "fantasy_story": "The Grand Guild of Mystical Craftsmen, led by Master Enchanter Spencer, has poured vast sums of gold into their enigmatic Arcane Viewing Box. They dream of a future where all can access endless enchanted scrolls, like a shared scrying pool. Yet, despite the immense cost, many still ponder its true purpose.",
       "tag": "magic"
     }
   ]
