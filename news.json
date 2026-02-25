@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-02-25 08:50:28",
+  "last_updated": "2026-02-25 13:04:34",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260224023218.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "190-million-year-old “Sword Dragon” fossil rewrites ichthyosaur history",
       "original_summary": "A newly identified ichthyosaur from the UK’s Jurassic Coast is rewriting part of the prehistoric playbook. Nicknamed the “Sword Dragon of Dorset,” the three-meter-long marine reptile lived during a poorly understood window of evolution when major ichthyosaur groups were disappearing and new ones eme",
-      "fantasy_headline": "Ancient Sword Dragon Bones Rewrite Sea Beast Lore!",
-      "fantasy_story": "Along the shores of the Dragon Coast, a grand discovery has been unearthed. The bones of a three-meter-long 'Sword Dragon' have revealed secrets of old sea beasts. This ancient creature's finding is changing what our Elder Wizards knew about the deep ocean's past.",
+      "fantasy_headline": "Ancient Sea Dragon Bones Unearthed, Rewriting Old Tales!",
+      "fantasy_story": "Along the ancient shores of Dorset, diligent chroniclers have unearthed the fossilized remains of a magnificent creature, a 'Sword Dragon' of the deep! This three-meter-long sea serpent lived eons ago, and its discovery is changing what we know about the great beasts that once ruled the forgotten oceans. It's truly a marvel to behold!",
       "tag": "nature"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260224023209.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Can solar storms trigger earthquakes? Scientists propose surprising link",
       "original_summary": "Scientists have proposed a surprising connection between solar flares and earthquakes. When solar activity disturbs the ionosphere, it may generate electric fields that penetrate fragile fracture zones in Earth’s crust. If a fault is already critically stressed, this extra electrostatic pressure cou",
-      "fantasy_headline": "Sun's Fury May Stir Earth's Tremors, Wizards Propose!",
-      "fantasy_story": "Our wisest Alchemists and Sky-Gazers propose a startling connection between the sun's fiery temper and the ground's shudders. They believe that great bursts of celestial magic from the sun can disturb the sky's aether. These mystic energies might then seep into the kingdom's very foundations, stirring slumbering cracks and causing the earth to tremble.",
+      "fantasy_headline": "Wizards Ponder: Can Sun's Fury Stir the Earth's Deep Sleep?",
+      "fantasy_story": "Astrologers and geomancy wizards are proposing a curious link between the Sun's celestial tempests and the tremors that shake our lands. They believe that when sky fire disturbs the upper heavens, arcane currents might seep into the deep stone, pressing upon ancient cracks in the earth's skin. This magical pressure could awaken the slumbering earth!",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/884136/apple-age-verification-assurance-underage-app-downloads",
+      "id": "https://www.theverge.com/tech/883816/honor-magicpad-4-android-16-tablet-oled-ultra-thin",
       "status": "published",
-      "reason": "",
-      "original_headline": "Apple&#8217;s new age verification tools block underage app downloads where required by law",
-      "original_summary": "Apple, like many others, has had to launch age verification features in response to new requirements for age checks in many regions, and on Tuesday, the company announced new details about its tools that developers can use to \"meet their age assurance obligations under upcoming U.S. and regional law",
-      "fantasy_headline": "Applewood Clan Casts Guardian Spells on Young Enchantment Seekers!",
-      "fantasy_story": "The esteemed Applewood Clan of Enchantments has revealed new guardian spells. These magical wards will ensure that only those of proper age can acquire certain powerful artifacts or scrolls, as dictated by royal decrees. Scribes and Artificers can now use these tools to meet their duties across various kingdoms.",
+      "reason": null,
+      "original_headline": "Honor’s new MagicPad 4 is the world’s thinnest Android tablet",
+      "original_summary": "Honor has announced a new version of its already slim MagicPad tablet that's now even thinner. Last year's MagicPad 3 was just 5.8mm thick, but the new MagicPad 4 squeezes that down to 4.8mm. That's thinner than the 6.1mm thick iPad Air and 5.1mm iPad Pro, or the 5.1mm thick Samsung Galaxy Tab S11, ",
+      "fantasy_headline": "Honor Clan Unveils the Thinnest Scrying Tablet Ever Forged!",
+      "fantasy_story": "The skilled artificers of the Honor Clan have presented their latest marvel: the Magic Slate IV! This enchanted scrying tablet is remarkably slender, even more so than its celebrated predecessors. It is said to be the thinnest viewing artifact crafted by any guild, perfect for carrying hidden scrolls and visions with ease.",
       "tag": "magic"
     }
   ]
