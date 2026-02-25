@@ -1,35 +1,45 @@
 {
-  "last_updated": "2026-02-25 13:04:34",
+  "last_updated": "2026-02-25 17:07:35",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260224023218.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260225081217.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "190-million-year-old “Sword Dragon” fossil rewrites ichthyosaur history",
-      "original_summary": "A newly identified ichthyosaur from the UK’s Jurassic Coast is rewriting part of the prehistoric playbook. Nicknamed the “Sword Dragon of Dorset,” the three-meter-long marine reptile lived during a poorly understood window of evolution when major ichthyosaur groups were disappearing and new ones eme",
-      "fantasy_headline": "Ancient Sea Dragon Bones Unearthed, Rewriting Old Tales!",
-      "fantasy_story": "Along the ancient shores of Dorset, diligent chroniclers have unearthed the fossilized remains of a magnificent creature, a 'Sword Dragon' of the deep! This three-meter-long sea serpent lived eons ago, and its discovery is changing what we know about the great beasts that once ruled the forgotten oceans. It's truly a marvel to behold!",
+      "reason": "",
+      "original_headline": "Just two days of oatmeal cut bad cholesterol by 10%",
+      "original_summary": "Eating nothing but oatmeal for just two days might sound extreme, but it delivered a striking payoff in a new clinical trial. People with metabolic syndrome who followed a short, calorie-reduced oat-based plan saw their harmful LDL cholesterol drop by 10%, along with modest weight loss and lower blo",
+      "fantasy_headline": "Oat Porridge Diet Banishes Bad Humors!",
+      "fantasy_story": "The esteemed Healers' Guild has conducted a grand experiment. They found that partaking only of humble oat porridge for two days can reduce the unwanted humors within the blood by a tenth. Many subjects also enjoyed a slimmer physique and healthier blood flow.",
       "tag": "nature"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260224023209.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260225081147.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "Can solar storms trigger earthquakes? Scientists propose surprising link",
-      "original_summary": "Scientists have proposed a surprising connection between solar flares and earthquakes. When solar activity disturbs the ionosphere, it may generate electric fields that penetrate fragile fracture zones in Earth’s crust. If a fault is already critically stressed, this extra electrostatic pressure cou",
-      "fantasy_headline": "Wizards Ponder: Can Sun's Fury Stir the Earth's Deep Sleep?",
-      "fantasy_story": "Astrologers and geomancy wizards are proposing a curious link between the Sun's celestial tempests and the tremors that shake our lands. They believe that when sky fire disturbs the upper heavens, arcane currents might seep into the deep stone, pressing upon ancient cracks in the earth's skin. This magical pressure could awaken the slumbering earth!",
+      "reason": "",
+      "original_headline": "NASA study finds ancient life could survive 50 million years in Martian ice",
+      "original_summary": "Mars’ frozen ice caps may be time capsules for ancient life. Lab experiments show that key building blocks of proteins can survive tens of millions of years in pure ice, even under relentless cosmic radiation. Ice mixed with Martian-like soil, however, destroys organic material far more quickly. The",
+      "fantasy_headline": "Ancient Life May Endure in Crimson Star's Ice!",
+      "fantasy_story": "The Grand Astrologers' Guild has unveiled a wondrous finding concerning the ice caps of the Crimson Star. Through arcane tests, they found that the fundamental essences of life can persist for eons within pure ice, even against the harsh celestial energies. However, mixed with the Star's soil, these essences perish quickly.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/883816/honor-magicpad-4-android-16-tablet-oled-ultra-thin",
+      "id": "https://www.theverge.com/tech/881355/live-blog-samsung-galaxy-unpacked-2026",
       "status": "published",
-      "reason": null,
-      "original_headline": "Honor’s new MagicPad 4 is the world’s thinnest Android tablet",
-      "original_summary": "Honor has announced a new version of its already slim MagicPad tablet that's now even thinner. Last year's MagicPad 3 was just 5.8mm thick, but the new MagicPad 4 squeezes that down to 4.8mm. That's thinner than the 6.1mm thick iPad Air and 5.1mm iPad Pro, or the 5.1mm thick Samsung Galaxy Tab S11, ",
-      "fantasy_headline": "Honor Clan Unveils the Thinnest Scrying Tablet Ever Forged!",
-      "fantasy_story": "The skilled artificers of the Honor Clan have presented their latest marvel: the Magic Slate IV! This enchanted scrying tablet is remarkably slender, even more so than its celebrated predecessors. It is said to be the thinnest viewing artifact crafted by any guild, perfect for carrying hidden scrolls and visions with ease.",
-      "tag": "magic"
+      "reason": "",
+      "original_headline": "Live: Samsung unveils new Galaxy phones",
+      "original_summary": "We're here in San Francisco, where Samsung is set to unveil its new Galaxy S26 series phones and probably some accessories to go with them starting at 1PM ET. Keep in mind this isn't Samsung's foldy phone event, which usually occurs in the summer. One of the things we're most curious about is whethe",
+      "fantasy_headline": "Starfall Clan Reveals New Scrying Gems!",
+      "fantasy_story": "In the grand hall of the Western Reaches, the renowned Starfall Clan has gathered. They are set to reveal their latest series of wondrous Scrying Gems, known as the 'Galaxy' line, along with enchanted adornments. Many eagerly await what new magics these artifacts hold.",
+      "tag": "merchants"
+    },
+    {
+      "id": "https://www.theverge.com/tech/883932/samsung-unpacked-2026-live-updates-from-the-galaxy-s26-announcement-event",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Samsung Unpacked 2026: live updates from the Galaxy S26 announcement event",
+      "original_summary": "On Wednesday, February 25th, Samsung will hold an event in San Francisco where it’s expected to reveal the Galaxy S26, S26 Plus, and S26 Ultra phones, among other things. Based on leaks and Samsung’s own ads, we’re expecting at least one of the phones to come with a display that can black out sensit",
+      "fantasy_headline": "Starfall Clan Presents New Scrying Gems with Cloaking Spells!",
+      "fantasy_story": "The Starfall Clan held a grand event to unveil their newest line of 'Galaxy' Scrying Gems, including the S26, S26 Plus, and the powerful S26 Ultra. Rumors whisper that at least one of these magical artifacts possesses a screen capable of cloaking private visions, protecting secrets from prying eyes.",
+      "tag": "merchants"
     }
   ]
 }
