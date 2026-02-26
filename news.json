@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26 16:58:26",
+  "last_updated": "2026-02-26 20:37:34",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260226042451.htm",
@@ -7,28 +7,18 @@
       "reason": null,
       "original_headline": "Ireland’s Old Irish Goat has survived 3,000 years",
       "original_summary": "The Old Irish Goat isn’t just part of folklore — it’s genetically linked to goats that lived in Ireland 3,000 years ago. Scientists analyzed ancient remains and discovered that today’s rare breed shares its strongest DNA ties with Late Bronze Age animals. The finding suggests an unbroken Irish linea",
-      "fantasy_headline": "Ancient Bloodline: Ireland's Mystical Goats Link to Olden Times",
-      "fantasy_story": "Sages have uncovered a magical truth about Ireland's Old Irish Goats. These creatures, long thought mere folklore, carry the very blood of goats from three millennia past. Their ancient lineage reveals an unbroken connection to the creatures of the Late Bronze Age, a truly wondrous discovery.",
+      "fantasy_headline": "Ancient Mountain Horns of Emerald Isle Trace Lineage to Age of Bronze",
+      "fantasy_story": "Wizards on the Emerald Isle have uncovered a fascinating truth about the rare Mountain Horn goats. By studying ancient remains, they found these beasts share an unbroken magical lineage with their kin from the Age of Bronze, three millennia past. This discovery proves the Mountain Horns are truly creatures of old.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/column/885244/smart-tv-web-crawler-ai",
+      "id": "https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all",
       "status": "published",
       "reason": null,
-      "original_headline": "Your smart TV may be crawling the web for AI",
-      "original_summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. These days, if you sign up for a new streaming service, you generally have two options: Either pay a massive premium for an ad-free exp",
-      "fantasy_headline": "Beware! Your Scrying Mirror May Seek Aether Secrets!",
-      "fantasy_story": "Whispers travel through the land that your enchanted viewing orb, a common household artifact, might be secretly gathering information from the Aether itself. Some believe these devices seek out knowledge for grand Golem intelligences. Be mindful of which Seer's Scrolls you subscribe to, as they may reveal more than just entertainment.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/gadgets/885192/8bitdo-pro-3-controller-switch-2-pc-galaxy-buds-4-pro-deal-sale",
-      "status": "published",
-      "reason": null,
-      "original_headline": "8BitDo’s customizable Pro 3 controller is $30 off for the first time",
-      "original_summary": "Woot is offering steep discounts on many video games and accessories, some of which are fairly recent releases. No matter what you choose from its sale catalog, you can get up to $30 off your order with the code LEVEL20 used at checkout through the end of the day on February 27th (the sale lasts […]",
-      "fantasy_headline": "Grand Bazaar Bargain! Enchanted Gauntlet Price Slashed!",
-      "fantasy_story": "The esteemed Merchant's Guild of Woot's Bazaar announces a grand opportunity for adventurers! For the first time ever, the customizable Arcane Gauntlet of Play, a sought-after relic for magical contests, is available with a substantial discount. Purchase now and save thirty shining gold coins on your enchanted questing gear.",
+      "original_headline": "Qualcomm won&#8217;t be announcing Windows gaming handhelds at GDC after all",
+      "original_summary": "In January, Qualcomm hinted to The Verge that it might finally bring its powerful Arm-based Snapdragon processors to Windows gaming handhelds at the 2026 Game Developers Conference in San Francisco - just in time to challenge Nvidia's own first Arm gaming CPU and Intel's first dedicated handheld gam",
+      "fantasy_headline": "Clan Qualcomm Delays Unveiling of Enchanted Gaming Talismans at Grand Fair",
+      "fantasy_story": "The esteemed Clan Qualcomm has announced a delay in presenting their powerful new enchanted gaming talismans. Originally, they planned to unveil these artifacts, powered by formidable dragon-fire cores, at the upcoming Grand Enchantment Fair. This decision means rival Guilds, Nvidia and Intel, will face less immediate competition in the market for such amusement.",
       "tag": "merchants"
     }
   ]
