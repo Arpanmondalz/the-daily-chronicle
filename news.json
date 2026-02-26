@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-25 17:07:35",
+  "last_updated": "2026-02-26 02:02:43",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260225081217.htm",
@@ -7,8 +7,8 @@
       "reason": "",
       "original_headline": "Just two days of oatmeal cut bad cholesterol by 10%",
       "original_summary": "Eating nothing but oatmeal for just two days might sound extreme, but it delivered a striking payoff in a new clinical trial. People with metabolic syndrome who followed a short, calorie-reduced oat-based plan saw their harmful LDL cholesterol drop by 10%, along with modest weight loss and lower blo",
-      "fantasy_headline": "Oat Porridge Diet Banishes Bad Humors!",
-      "fantasy_story": "The esteemed Healers' Guild has conducted a grand experiment. They found that partaking only of humble oat porridge for two days can reduce the unwanted humors within the blood by a tenth. Many subjects also enjoyed a slimmer physique and healthier blood flow.",
+      "fantasy_headline": "Alchemists Discover Oat Porridge Cleanses the Blood!",
+      "fantasy_story": "The Grand Alchemists' Guild recently conducted an experiment with a simple oat porridge. Villagers suffering from a common ailment saw their unwanted elements in the blood reduce by a tenth after just two days. This simple, hearty meal also helped with a touch of weight loss.",
       "tag": "nature"
     },
     {
@@ -17,28 +17,18 @@
       "reason": "",
       "original_headline": "NASA study finds ancient life could survive 50 million years in Martian ice",
       "original_summary": "Mars’ frozen ice caps may be time capsules for ancient life. Lab experiments show that key building blocks of proteins can survive tens of millions of years in pure ice, even under relentless cosmic radiation. Ice mixed with Martian-like soil, however, destroys organic material far more quickly. The",
-      "fantasy_headline": "Ancient Life May Endure in Crimson Star's Ice!",
-      "fantasy_story": "The Grand Astrologers' Guild has unveiled a wondrous finding concerning the ice caps of the Crimson Star. Through arcane tests, they found that the fundamental essences of life can persist for eons within pure ice, even against the harsh celestial energies. However, mixed with the Star's soil, these essences perish quickly.",
+      "fantasy_headline": "Wizards Find Life's Spark Lingers in Red Planet Ice!",
+      "fantasy_story": "Wizards peering through enchanted scopes at the distant Red Planet have made a curious discovery. Their alchemical tests show that the very essence of life can slumber for ages in the purest ice from that realm. However, if mixed with the Red Planet's dusty soil, this ancient magic quickly fades.",
       "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/tech/881355/live-blog-samsung-galaxy-unpacked-2026",
+      "id": "https://www.theverge.com/gadgets/883733/samsung-galaxy-s26-vs-plus-ultra-specs-features-hardware-comparison",
       "status": "published",
       "reason": "",
-      "original_headline": "Live: Samsung unveils new Galaxy phones",
-      "original_summary": "We're here in San Francisco, where Samsung is set to unveil its new Galaxy S26 series phones and probably some accessories to go with them starting at 1PM ET. Keep in mind this isn't Samsung's foldy phone event, which usually occurs in the summer. One of the things we're most curious about is whethe",
-      "fantasy_headline": "Starfall Clan Reveals New Scrying Gems!",
-      "fantasy_story": "In the grand hall of the Western Reaches, the renowned Starfall Clan has gathered. They are set to reveal their latest series of wondrous Scrying Gems, known as the 'Galaxy' line, along with enchanted adornments. Many eagerly await what new magics these artifacts hold.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/tech/883932/samsung-unpacked-2026-live-updates-from-the-galaxy-s26-announcement-event",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Samsung Unpacked 2026: live updates from the Galaxy S26 announcement event",
-      "original_summary": "On Wednesday, February 25th, Samsung will hold an event in San Francisco where it’s expected to reveal the Galaxy S26, S26 Plus, and S26 Ultra phones, among other things. Based on leaks and Samsung’s own ads, we’re expecting at least one of the phones to come with a display that can black out sensit",
-      "fantasy_headline": "Starfall Clan Presents New Scrying Gems with Cloaking Spells!",
-      "fantasy_story": "The Starfall Clan held a grand event to unveil their newest line of 'Galaxy' Scrying Gems, including the S26, S26 Plus, and the powerful S26 Ultra. Rumors whisper that at least one of these magical artifacts possesses a screen capable of cloaking private visions, protecting secrets from prying eyes.",
+      "original_headline": "How the new Galaxy S26 phones stack up against each other on paper",
+      "original_summary": "Samsung has just announced its new Galaxy S26 lineup, which includes the S26, S26 Plus, and S26 Ultra. While they aren't radical departures from last year's models, they bring a handful of notable upgrades. All three run on Qualcomm's Galaxy-centric Snapdragon 8 Elite Gen 5, which delivers improved ",
+      "fantasy_headline": "Grandcrafters Unveil New Scrying Orbs!",
+      "fantasy_story": "The Master Artificers' Guild has revealed its latest collection of Crystal Scrying Orbs. While similar to last year's models, these new artifacts boast stronger enchantments and improved clarity. Each orb is now powered by the latest elemental spirit, offering superior communication and magical prowess.",
       "tag": "merchants"
     }
   ]
