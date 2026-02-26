@@ -1,45 +1,35 @@
 {
-  "last_updated": "2026-02-26 13:05:47",
+  "last_updated": "2026-02-26 16:58:26",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260225081217.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260226042451.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Just two days of oatmeal cut bad cholesterol by 10%",
-      "original_summary": "Eating nothing but oatmeal for just two days might sound extreme, but it delivered a striking payoff in a new clinical trial. People with metabolic syndrome who followed a short, calorie-reduced oat-based plan saw their harmful LDL cholesterol drop by 10%, along with modest weight loss and lower blo",
-      "fantasy_headline": "Mystical Oats Ward Off Shadowy Blood Maladies!",
-      "fantasy_story": "Healers and alchemists conducted a grand experiment with enchanted oats. They found that two days of consuming only this magical porridge significantly reduced the 'shadows' in the blood for many townsfolk. This ancient grain also brought a modest lightening of frame and calmer vital spirits, proving its potent healing properties.",
+      "original_headline": "Ireland’s Old Irish Goat has survived 3,000 years",
+      "original_summary": "The Old Irish Goat isn’t just part of folklore — it’s genetically linked to goats that lived in Ireland 3,000 years ago. Scientists analyzed ancient remains and discovered that today’s rare breed shares its strongest DNA ties with Late Bronze Age animals. The finding suggests an unbroken Irish linea",
+      "fantasy_headline": "Ancient Bloodline: Ireland's Mystical Goats Link to Olden Times",
+      "fantasy_story": "Sages have uncovered a magical truth about Ireland's Old Irish Goats. These creatures, long thought mere folklore, carry the very blood of goats from three millennia past. Their ancient lineage reveals an unbroken connection to the creatures of the Late Bronze Age, a truly wondrous discovery.",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.theverge.com/column/885244/smart-tv-web-crawler-ai",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Your smart TV may be crawling the web for AI",
+      "original_summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. These days, if you sign up for a new streaming service, you generally have two options: Either pay a massive premium for an ad-free exp",
+      "fantasy_headline": "Beware! Your Scrying Mirror May Seek Aether Secrets!",
+      "fantasy_story": "Whispers travel through the land that your enchanted viewing orb, a common household artifact, might be secretly gathering information from the Aether itself. Some believe these devices seek out knowledge for grand Golem intelligences. Be mindful of which Seer's Scrolls you subscribe to, as they may reveal more than just entertainment.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260225081147.htm",
+      "id": "https://www.theverge.com/gadgets/885192/8bitdo-pro-3-controller-switch-2-pc-galaxy-buds-4-pro-deal-sale",
       "status": "published",
       "reason": null,
-      "original_headline": "NASA study finds ancient life could survive 50 million years in Martian ice",
-      "original_summary": "Mars’ frozen ice caps may be time capsules for ancient life. Lab experiments show that key building blocks of proteins can survive tens of millions of years in pure ice, even under relentless cosmic radiation. Ice mixed with Martian-like soil, however, destroys organic material far more quickly. The",
-      "fantasy_headline": "Crimson Planet's Ice Holds Secrets of Ancient Life!",
-      "fantasy_story": "The Grand Wizards of the Celestial Observatory have gazed upon the Crimson Planet. Their mystical investigations suggest that its frozen caps could hide primordial essences of life for ages. While celestial energies are harsh, pure ice offers a remarkable sanctuary, preserving these vital building blocks for millions of years.",
-      "tag": "magic"
-    },
-    {
-      "id": "https://www.theverge.com/ai-artificial-intelligence/884911/burger-king-ai-assistant-patty",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Burger King will use AI to check if employees say ‘please’ and ‘thank you’",
-      "original_summary": "Burger King is launching an AI chatbot that will live in the headsets used by employees. The voice-enabled chatbot, called \"Patty,\" is part of an overarching BK Assistant platform that will not only assist employees with meal preparation but also evaluate their interactions with customers for \"frien",
-      "fantasy_headline": "Feast-Makers Guild Deploys Courtesy Sprites!",
-      "fantasy_story": "The King's Feast Hall Guild is introducing new Courtesy Sprites. These tiny, enchanted familiars will dwell within the ear-charms of kitchen apprentices. Beyond aiding in meal preparation, the sprites will listen closely, ensuring every guest receives proper courtesies and kind words from the staff.",
+      "original_headline": "8BitDo’s customizable Pro 3 controller is $30 off for the first time",
+      "original_summary": "Woot is offering steep discounts on many video games and accessories, some of which are fairly recent releases. No matter what you choose from its sale catalog, you can get up to $30 off your order with the code LEVEL20 used at checkout through the end of the day on February 27th (the sale lasts […]",
+      "fantasy_headline": "Grand Bazaar Bargain! Enchanted Gauntlet Price Slashed!",
+      "fantasy_story": "The esteemed Merchant's Guild of Woot's Bazaar announces a grand opportunity for adventurers! For the first time ever, the customizable Arcane Gauntlet of Play, a sought-after relic for magical contests, is available with a substantial discount. Purchase now and save thirty shining gold coins on your enchanted questing gear.",
       "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/tech/885002/aliro-smart-lock-standard-launches-apple-google-samsung-promise-support",
-      "status": "published",
-      "reason": null,
-      "original_headline": "The smart lock standard that could replace your keys is finally here",
-      "original_summary": "Aliro has officially arrived. The smart lock standard, first announced in 2023, finally has a 1.0 spec, meaning companies can now get hardware certified and roll out support. Aliro is an open standard designed to let any smart lock be unlocked by any smartphone, regardless of manufacturer. It stores",
-      "fantasy_headline": "Universal Enchantment Replaces All Keys!",
-      "fantasy_story": "The Grand Artificers' Guild has unveiled Aliro, a universal enchantment for magical bolts. This new binding accord means any enchanted ward can now be opened with a simple touch from one's pocket scrying glass. No longer will townsfolk need a jumble of cumbersome physical keys for their strongboxes and manor doors.",
-      "tag": "magic"
     }
   ]
 }
