@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-02-26 05:19:40",
+  "last_updated": "2026-02-26 08:49:19",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260225081217.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Just two days of oatmeal cut bad cholesterol by 10%",
       "original_summary": "Eating nothing but oatmeal for just two days might sound extreme, but it delivered a striking payoff in a new clinical trial. People with metabolic syndrome who followed a short, calorie-reduced oat-based plan saw their harmful LDL cholesterol drop by 10%, along with modest weight loss and lower blo",
-      "fantasy_headline": "Ancient Oat Gruel Purifies Blood of Dark Essences",
-      "fantasy_story": "The Guild of Healers discovered that two days of simple oat gruel significantly purifies the blood of those with heavy humors. This ancient remedy reduces unwanted dark essences by a tenth and helps lighten one's frame. It's a striking payoff for a short, humble diet.",
-      "tag": "nature"
+      "fantasy_headline": "Oat Porridge Charm Reduces Unhealthy Humors!",
+      "fantasy_story": "The Healing Guild has found a simple, powerful remedy! Eating only hearty oat porridge for two sunrises and sunsets can lessen the unhealthy humors within a body by a tenth. Many townsfolk suffering from common ailments have also found themselves with slighter frames and more vigor after this easy regimen.",
+      "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260225081147.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "NASA study finds ancient life could survive 50 million years in Martian ice",
       "original_summary": "Mars’ frozen ice caps may be time capsules for ancient life. Lab experiments show that key building blocks of proteins can survive tens of millions of years in pure ice, even under relentless cosmic radiation. Ice mixed with Martian-like soil, however, destroys organic material far more quickly. The",
-      "fantasy_headline": "Sky-Gazers Uncover Ancient Life's Resilience in Red Orb's Ice",
-      "fantasy_story": "The Sky-Gazers' Conclave has revealed that vital sparks of ancient life could endure eons within the frozen crowns of the distant Red Orb. Arcane investigations show the building blocks of vitality survive millions of years in pure ice, even under potent celestial energies. However, the red dust of that orb quickly destroys such precious essences.",
+      "fantasy_headline": "Ancient Life's Secrets Hidden in Faraway Ice!",
+      "fantasy_story": "The Grand Order of Stargazers has made an astounding discovery from their observations of the Red Wanderer! They believe that pure, ancient ice from distant realms could preserve the vital essences of old life for eons, even against the ethereal rays of the cosmos. However, when mixed with soil, these essences vanish far more swiftly.",
       "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/gadgets/883733/samsung-galaxy-s26-vs-plus-ultra-specs-features-hardware-comparison",
       "status": "published",
-      "reason": null,
-      "original_headline": "How the new Galaxy S26 phones stack up against each other on paper",
+      "reason": "",
+      "original_headline": "How the new Galaxy S26 phones compare",
       "original_summary": "Samsung has just announced its new Galaxy S26 lineup, which includes the S26, S26 Plus, and S26 Ultra. While they aren't radical departures from last year's models, they bring a handful of notable upgrades. All three run on Qualcomm's Galaxy-centric Snapdragon 8 Elite Gen 5, which delivers improved ",
-      "fantasy_headline": "Sam-Sung Artificers Unveil New Enchanted Scrying Mirrors!",
-      "fantasy_story": "The esteemed Sam-Sung Artificers have proudly revealed their newest collection of enchanted scrying mirrors. These artifacts boast powerful new workings and house refined Snapdragon enchantments within their crystal cores. While not vastly different from last year's models, they offer notable improvements for communication across the lands.",
+      "fantasy_headline": "Stellar Smiths Unveil New Whispering Orbs!",
+      "fantasy_story": "The esteemed Stellar Smiths Guild has revealed their latest array of Crystal Scrying Orbs: the 'Astral,' the 'Cosmic,' and the 'Celestial' models. While not vastly different from last year's designs, these new artifacts possess improved enchantments. Each orb is powered by a potent elemental spirit, granting them swifter visions and clearer distant communication.",
       "tag": "magic"
     }
   ]
