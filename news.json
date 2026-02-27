@@ -1,25 +1,35 @@
 {
-  "last_updated": "2026-02-27 08:40:19",
+  "last_updated": "2026-02-27 12:58:46",
   "stories": [
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/02/260226042502.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Scientists compared dinosaurs to mammals for decades but missed this key difference",
+      "original_summary": "Baby dinosaurs weren’t coddled like lion cubs or elephant calves—they were more like prehistoric latchkey kids. New research suggests that young dinosaurs quickly struck out on their own, forming kid-only groups and surviving without much parental help, while their massive parents lived entirely dif",
+      "fantasy_headline": "Young Thunder-Lizards Roamed Freely, Unlike Most Young Beasts",
+      "fantasy_story": "Scholars studying ancient records of giant thunder-lizards have found a surprising truth. Unlike most young beasts who stay with their parents, young thunder-lizards quickly formed their own companies. These bold younglings sought adventure and food without much guidance from their massive elders.",
+      "tag": "nature"
+    },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260226042451.htm",
       "status": "published",
       "reason": null,
       "original_headline": "Ireland’s Old Irish Goat has survived 3,000 years",
       "original_summary": "The Old Irish Goat isn’t just part of folklore — it’s genetically linked to goats that lived in Ireland 3,000 years ago. Scientists analyzed ancient remains and discovered that today’s rare breed shares its strongest DNA ties with Late Bronze Age animals. The finding suggests an unbroken Irish linea",
-      "fantasy_headline": "Ancient Bloodline! Emerald Isle Goats Share Ancestry with Bronze Age Beasts",
-      "fantasy_story": "The venerable Scribes of Lore on the Emerald Isle have uncovered a fascinating truth about the Old Irish Goats. Through study of ancient remains, they found these sturdy creatures share a powerful bloodline with goats from the Age of Bronze, three millennia past. This rare breed carries an unbroken lineage from a time of old magic.",
+      "fantasy_headline": "The Emerald Isles' Ancient Goat Clan Endures Through Ages",
+      "fantasy_story": "Loremasters on the Emerald Isles have confirmed a marvelous tale. The venerable Old Irish Goat, long thought only a creature of legend, shares an unbroken bloodline with beasts from the Age of Bronze. This remarkable lineage proves the resilience of these wise old goats.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/streaming/885753/netflix-exit-warner-bros-discovery-deal-paramount",
+      "id": "https://www.theverge.com/tech/885866/ultrahuman-ring-pro-jade-ai-launch-price-availability",
       "status": "published",
       "reason": null,
-      "original_headline": "Netflix walks away from its deal to buy Warner Bros. after Paramount came back with a better offer",
-      "original_summary": "Netflix has dropped its $83 billion deal to acquire the Warner Bros. studio, HBO, and its streaming service HBO Max. In an announcement on Thursday, co-CEOs Ted Sarandos and Greg Peters say the streamer is \"declining to match\" the new bid made by Paramount: The transaction we negotiated would have c",
-      "fantasy_headline": "Scroll-Weavers' Collective Ends Pact for Grand Archive; Sky-Watchers Offer More!",
-      "fantasy_story": "The Scroll-Weavers' Collective has abandoned its grand pact to acquire the Whispering Woods Grand Archive and its Crystal-Orb Visions. Despite months of negotiation, the Sky-Watchers' Clan offered a staggering eighty-three billion gold coins, a sum the Collective chose not to match. The Grand Archive remains in contention.",
-      "tag": "merchants"
+      "original_headline": "Ultrahuman’s new flagship smart ring has a 15-day battery",
+      "original_summary": "Ultrahuman is expanding its health monitoring ecosystem with the launch of a new flagship smart ring and a \"biointelligence AI\" platform upgrade. The Ring Pro is Ultrahuman's third-generation smart ring, and promises up to 15 days of battery life before needing to recharge, alongside 250 days of on-",
+      "fantasy_headline": "Clan Ultrahuman Unveils Ring of Sustained Magic!",
+      "fantasy_story": "The inventive Clan Ultrahuman has forged a wondrous new artifact: the Ring Pro. This enchanted band can watch over one's vitality for fifteen sunrises and sunsets before needing its mana restored. It also connects to a new \"Golem of Wellness\" for deeper insights into health.",
+      "tag": "magic"
     }
   ]
 }
