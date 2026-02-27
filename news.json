@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27 12:58:46",
+  "last_updated": "2026-02-27 16:40:38",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260226042502.htm",
@@ -7,8 +7,8 @@
       "reason": null,
       "original_headline": "Scientists compared dinosaurs to mammals for decades but missed this key difference",
       "original_summary": "Baby dinosaurs weren’t coddled like lion cubs or elephant calves—they were more like prehistoric latchkey kids. New research suggests that young dinosaurs quickly struck out on their own, forming kid-only groups and surviving without much parental help, while their massive parents lived entirely dif",
-      "fantasy_headline": "Young Thunder-Lizards Roamed Freely, Unlike Most Young Beasts",
-      "fantasy_story": "Scholars studying ancient records of giant thunder-lizards have found a surprising truth. Unlike most young beasts who stay with their parents, young thunder-lizards quickly formed their own companies. These bold younglings sought adventure and food without much guidance from their massive elders.",
+      "fantasy_headline": "Young Thunder-Lizards Left Parents Early, Formed Their Own Packs!",
+      "fantasy_story": "Wizards have uncovered a surprising truth about ancient thunder-lizards. Unlike many creatures today, young thunder-lizards weren't doted on by their massive parents. Instead, they quickly banded together in their own groups, learning to survive without much help. Their parents lived entirely different lives.",
       "tag": "nature"
     },
     {
@@ -17,19 +17,9 @@
       "reason": null,
       "original_headline": "Ireland’s Old Irish Goat has survived 3,000 years",
       "original_summary": "The Old Irish Goat isn’t just part of folklore — it’s genetically linked to goats that lived in Ireland 3,000 years ago. Scientists analyzed ancient remains and discovered that today’s rare breed shares its strongest DNA ties with Late Bronze Age animals. The finding suggests an unbroken Irish linea",
-      "fantasy_headline": "The Emerald Isles' Ancient Goat Clan Endures Through Ages",
-      "fantasy_story": "Loremasters on the Emerald Isles have confirmed a marvelous tale. The venerable Old Irish Goat, long thought only a creature of legend, shares an unbroken bloodline with beasts from the Age of Bronze. This remarkable lineage proves the resilience of these wise old goats.",
+      "fantasy_headline": "Ancient Goats of the Emerald Isles Endure Through Three Millennia!",
+      "fantasy_story": "Lorekeepers of the Emerald Isles have confirmed a marvel! The Old Irish Goat, long a creature of legend, is truly kin to beasts from three thousand years past. Scholars studying ancient remains found a direct bloodline to Late Bronze Age animals. This rare breed holds an unbroken lineage, a testament to ancient magic.",
       "tag": "nature"
-    },
-    {
-      "id": "https://www.theverge.com/tech/885866/ultrahuman-ring-pro-jade-ai-launch-price-availability",
-      "status": "published",
-      "reason": null,
-      "original_headline": "Ultrahuman’s new flagship smart ring has a 15-day battery",
-      "original_summary": "Ultrahuman is expanding its health monitoring ecosystem with the launch of a new flagship smart ring and a \"biointelligence AI\" platform upgrade. The Ring Pro is Ultrahuman's third-generation smart ring, and promises up to 15 days of battery life before needing to recharge, alongside 250 days of on-",
-      "fantasy_headline": "Clan Ultrahuman Unveils Ring of Sustained Magic!",
-      "fantasy_story": "The inventive Clan Ultrahuman has forged a wondrous new artifact: the Ring Pro. This enchanted band can watch over one's vitality for fifteen sunrises and sunsets before needing its mana restored. It also connects to a new \"Golem of Wellness\" for deeper insights into health.",
-      "tag": "magic"
     }
   ]
 }
