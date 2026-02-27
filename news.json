@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-02-26 20:37:34",
+  "last_updated": "2026-02-27 02:01:52",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260226042451.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Ireland’s Old Irish Goat has survived 3,000 years",
       "original_summary": "The Old Irish Goat isn’t just part of folklore — it’s genetically linked to goats that lived in Ireland 3,000 years ago. Scientists analyzed ancient remains and discovered that today’s rare breed shares its strongest DNA ties with Late Bronze Age animals. The finding suggests an unbroken Irish linea",
-      "fantasy_headline": "Ancient Mountain Horns of Emerald Isle Trace Lineage to Age of Bronze",
-      "fantasy_story": "Wizards on the Emerald Isle have uncovered a fascinating truth about the rare Mountain Horn goats. By studying ancient remains, they found these beasts share an unbroken magical lineage with their kin from the Age of Bronze, three millennia past. This discovery proves the Mountain Horns are truly creatures of old.",
+      "fantasy_headline": "Ancient Irish Goats: A Lineage of 30 Centuries!",
+      "fantasy_story": "Whispers always spoke of the Old Irish Goats, but now the Royal Scribes have confirmed their ancient lineage. By studying old remains, they found these rare beasts share blood with goats from the Bronze Age. Truly, a testament to enduring magic and a long-standing line.",
       "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/games/885314/qualcomm-wont-be-announcing-windows-gaming-handhelds-at-gdc-after-all",
+      "id": "https://www.theverge.com/streaming/885753/netflix-exit-warner-bros-discovery-deal-paramount",
       "status": "published",
-      "reason": null,
-      "original_headline": "Qualcomm won&#8217;t be announcing Windows gaming handhelds at GDC after all",
-      "original_summary": "In January, Qualcomm hinted to The Verge that it might finally bring its powerful Arm-based Snapdragon processors to Windows gaming handhelds at the 2026 Game Developers Conference in San Francisco - just in time to challenge Nvidia's own first Arm gaming CPU and Intel's first dedicated handheld gam",
-      "fantasy_headline": "Clan Qualcomm Delays Unveiling of Enchanted Gaming Talismans at Grand Fair",
-      "fantasy_story": "The esteemed Clan Qualcomm has announced a delay in presenting their powerful new enchanted gaming talismans. Originally, they planned to unveil these artifacts, powered by formidable dragon-fire cores, at the upcoming Grand Enchantment Fair. This decision means rival Guilds, Nvidia and Intel, will face less immediate competition in the market for such amusement.",
+      "reason": "",
+      "original_headline": "Netflix walks away from its deal to buy Warner Bros. after Paramount came back with a better offer",
+      "original_summary": "Netflix has dropped its $83 billion deal to acquire the Warner Bros. studio, HBO, and its streaming service HBO Max. In an announcement on Thursday, co-CEOs Ted Sarandos and Greg Peters say the streamer is \"declining to match\" the new bid made by Paramount: The transaction we negotiated would have c",
+      "fantasy_headline": "Streaming Guild Spurns Grand Deal for Fancier Offer!",
+      "fantasy_story": "The Netflix Guild, known for its scrying pools, has withdrawn its massive offer for the Warner Bros. Enchanters' Collective. After days of fierce haggling, the Paramount Clan emerged with a grander treasury bid. Netflix's masters decided not to match, seeking better magical alliances elsewhere.",
       "tag": "merchants"
     }
   ]
