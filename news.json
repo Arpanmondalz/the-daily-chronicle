@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-02-27 02:01:52",
+  "last_updated": "2026-02-27 08:40:19",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260226042451.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Ireland’s Old Irish Goat has survived 3,000 years",
       "original_summary": "The Old Irish Goat isn’t just part of folklore — it’s genetically linked to goats that lived in Ireland 3,000 years ago. Scientists analyzed ancient remains and discovered that today’s rare breed shares its strongest DNA ties with Late Bronze Age animals. The finding suggests an unbroken Irish linea",
-      "fantasy_headline": "Ancient Irish Goats: A Lineage of 30 Centuries!",
-      "fantasy_story": "Whispers always spoke of the Old Irish Goats, but now the Royal Scribes have confirmed their ancient lineage. By studying old remains, they found these rare beasts share blood with goats from the Bronze Age. Truly, a testament to enduring magic and a long-standing line.",
+      "fantasy_headline": "Ancient Bloodline! Emerald Isle Goats Share Ancestry with Bronze Age Beasts",
+      "fantasy_story": "The venerable Scribes of Lore on the Emerald Isle have uncovered a fascinating truth about the Old Irish Goats. Through study of ancient remains, they found these sturdy creatures share a powerful bloodline with goats from the Age of Bronze, three millennia past. This rare breed carries an unbroken lineage from a time of old magic.",
       "tag": "nature"
     },
     {
       "id": "https://www.theverge.com/streaming/885753/netflix-exit-warner-bros-discovery-deal-paramount",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Netflix walks away from its deal to buy Warner Bros. after Paramount came back with a better offer",
       "original_summary": "Netflix has dropped its $83 billion deal to acquire the Warner Bros. studio, HBO, and its streaming service HBO Max. In an announcement on Thursday, co-CEOs Ted Sarandos and Greg Peters say the streamer is \"declining to match\" the new bid made by Paramount: The transaction we negotiated would have c",
-      "fantasy_headline": "Streaming Guild Spurns Grand Deal for Fancier Offer!",
-      "fantasy_story": "The Netflix Guild, known for its scrying pools, has withdrawn its massive offer for the Warner Bros. Enchanters' Collective. After days of fierce haggling, the Paramount Clan emerged with a grander treasury bid. Netflix's masters decided not to match, seeking better magical alliances elsewhere.",
+      "fantasy_headline": "Scroll-Weavers' Collective Ends Pact for Grand Archive; Sky-Watchers Offer More!",
+      "fantasy_story": "The Scroll-Weavers' Collective has abandoned its grand pact to acquire the Whispering Woods Grand Archive and its Crystal-Orb Visions. Despite months of negotiation, the Sky-Watchers' Clan offered a staggering eighty-three billion gold coins, a sum the Collective chose not to match. The Grand Archive remains in contention.",
       "tag": "merchants"
     }
   ]
