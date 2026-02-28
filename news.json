@@ -1,25 +1,35 @@
 {
-  "last_updated": "2026-02-27 16:40:38",
+  "last_updated": "2026-02-28 04:55:34",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260226042502.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260227071945.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Scientists compared dinosaurs to mammals for decades but missed this key difference",
-      "original_summary": "Baby dinosaurs weren’t coddled like lion cubs or elephant calves—they were more like prehistoric latchkey kids. New research suggests that young dinosaurs quickly struck out on their own, forming kid-only groups and surviving without much parental help, while their massive parents lived entirely dif",
-      "fantasy_headline": "Young Thunder-Lizards Left Parents Early, Formed Their Own Packs!",
-      "fantasy_story": "Wizards have uncovered a surprising truth about ancient thunder-lizards. Unlike many creatures today, young thunder-lizards weren't doted on by their massive parents. Instead, they quickly banded together in their own groups, learning to survive without much help. Their parents lived entirely different lives.",
-      "tag": "nature"
+      "original_headline": "A lost moon may have created Titan and Saturn’s rings",
+      "original_summary": "Saturn’s largest moon, Titan, may have been born in a colossal cosmic crash. New research suggests Titan formed when two older moons slammed together hundreds of millions of years ago—an event so violent it reshaped Saturn’s entire moon system and may have indirectly sparked the formation of its ico",
+      "fantasy_headline": "Ancient Celestial Crash Formed Titan and Saturn's Rings!",
+      "fantasy_story": "Elderly Wizards of the Stargazer's Tower have deciphered an ancient celestial mystery. They believe the great moon Titan was born from a tremendous clash of two smaller sky-orbs. This violent event reshaped the very heavens around the great planet Saturn, even creating its famous shimmering rings.",
+      "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260226042451.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260227071931.htm",
       "status": "published",
       "reason": null,
-      "original_headline": "Ireland’s Old Irish Goat has survived 3,000 years",
-      "original_summary": "The Old Irish Goat isn’t just part of folklore — it’s genetically linked to goats that lived in Ireland 3,000 years ago. Scientists analyzed ancient remains and discovered that today’s rare breed shares its strongest DNA ties with Late Bronze Age animals. The finding suggests an unbroken Irish linea",
-      "fantasy_headline": "Ancient Goats of the Emerald Isles Endure Through Three Millennia!",
-      "fantasy_story": "Lorekeepers of the Emerald Isles have confirmed a marvel! The Old Irish Goat, long a creature of legend, is truly kin to beasts from three thousand years past. Scholars studying ancient remains found a direct bloodline to Late Bronze Age animals. This rare breed holds an unbroken lineage, a testament to ancient magic.",
-      "tag": "nature"
+      "original_headline": "James Webb reveals a barred spiral galaxy shockingly early in the Universe",
+      "original_summary": "Astronomers have spotted what may be one of the universe’s earliest barred spiral galaxies — a striking cosmic structure forming just 2 billion years after the Big Bang. The galaxy, COSMOS-74706, dates back about 11.5 billion years and contains a stellar bar, a bright, linear band of stars and gas s",
+      "fantasy_headline": "Great Eye Reveals Ancient Spiral Realm in the Distant Cosmos!",
+      "fantasy_story": "The Celestial Sages, gazing through the Great Eye of the Arcane Observatory, have witnessed a wondrous sight. An ancient spiral realm, called COSMOS-74706, has been found far back in the dawn of the Cosmos. It spun into being just after the Great Creation, bearing a luminous bar of countless stars and stardust.",
+      "tag": "magic"
+    },
+    {
+      "id": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
+      "status": "published",
+      "reason": null,
+      "original_headline": "The best instant cameras you can buy right now",
+      "original_summary": "Even with the ability to take excellent photos with our phones and instantly share them across the world, there’s something magical about the old-school instant camera. With just a click of a button, you can capture a moment in a photo that you can see and touch almost immediately. Images captured b",
+      "fantasy_headline": "Discover the Finest Moment-Capture Devices from Artisan Guilds!",
+      "fantasy_story": "Even with wondrous scrying mirrors that share images instantly, folks still cherish the ancient moment-capture devices. With a mere click, these enchanted lenses forge a memory-print right before your eyes. The Artisans' Guilds offer various excellent devices, creating tangible scrolls of captured time.",
+      "tag": "magic"
     }
   ]
 }
