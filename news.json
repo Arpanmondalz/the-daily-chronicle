@@ -1,35 +1,45 @@
 {
-  "last_updated": "2026-02-28 12:44:31",
+  "last_updated": "2026-02-28 16:26:46",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260227071945.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260228082723.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "A lost moon may have created Titan and Saturn’s rings",
-      "original_summary": "Saturn’s largest moon, Titan, may have been born in a colossal cosmic crash. New research suggests Titan formed when two older moons slammed together hundreds of millions of years ago—an event so violent it reshaped Saturn’s entire moon system and may have indirectly sparked the formation of its ico",
-      "fantasy_headline": "Ancient lore reveals Titan's birth from a celestial collision!",
-      "fantasy_story": "Long ago, wise stargazers believed the great moon Titan was born from a colossal celestial collision. Two ancient moons, now lost to time, once slammed together, reshaping the very dance of the night sky and perhaps even forming the famed rings around the giant planet.",
+      "reason": "",
+      "original_headline": "Scientists discover a bacterial kill switch and it could change the fight against superbugs",
+      "original_summary": "Drug-resistant bacteria are becoming harder to treat, pushing scientists to look for new antibiotic targets. Researchers have now discovered that several unrelated viruses disable a key bacterial protein called MurJ, which is essential for building the bacterial cell wall. High-resolution imaging sh",
+      "fantasy_headline": "Alchemists Uncover Way to Halt Pesky Blights!",
+      "fantasy_story": "The Grand Alchemists have found a secret method to stop the most resilient blights that plague the folk. They discovered tiny spirits can disable a vital essence, which is key to these blights' protective shells. This new knowledge could change how we fight against spreading sicknesses.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260227071931.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260228082717.htm",
       "status": "published",
-      "reason": null,
-      "original_headline": "James Webb reveals a barred spiral galaxy shockingly early in the Universe",
-      "original_summary": "Astronomers have spotted what may be one of the universe’s earliest barred spiral galaxies — a striking cosmic structure forming just 2 billion years after the Big Bang. The galaxy, COSMOS-74706, dates back about 11.5 billion years and contains a stellar bar, a bright, linear band of stars and gas s",
-      "fantasy_headline": "Great Scrying Orb unveils early spiral of stars from Creation's dawn.",
-      "fantasy_story": "The Star-gazers' Guild, using the powerful Great Scrying Orb, has glimpsed an astonishing spiral of stars. This celestial tapestry, named Cosmos-74706, appeared shockingly early after the Grand Creation, revealing a bright, linear band of stars and gas in its ancient heart.",
-      "tag": "magic"
+      "reason": "",
+      "original_headline": "How the body really ages: 7 million cells mapped across 21 organs",
+      "original_summary": "Scientists have built a massive cellular atlas showing how aging reshapes the body across 21 organs. Studying nearly 7 million cells, they found that aging starts earlier than expected and unfolds in a coordinated way throughout the body. About a quarter of cell types change in number over time, and",
+      "fantasy_headline": "Sages Chart How Time Reshapes Our Mortal Form.",
+      "fantasy_story": "Royal Sages have unveiled a grand scroll mapping how the slow dance of time reshapes our mortal forms across twenty-one vital chambers. Studying nearly seven million tiny life motes, they learned aging begins sooner than expected, unfolding across the body. This map reveals the intricate changes as folk grow older.",
+      "tag": "nature"
     },
     {
-      "id": "https://www.theverge.com/reviews/885040/tenways-cgo-compact-review-sharable-adaptable",
+      "id": "https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale",
       "status": "published",
-      "reason": null,
-      "original_headline": "Tenways nearly perfects the shareable city e-bike",
-      "original_summary": "Good electric bikes are expensive. So why not buy one and share it? That's the idea behind the Tenways CGO Compact e-bike I've been sharing with my wife and teenage daughter for the last two weeks. It adapts in seconds without any tools to comfortably fit riders of varying heights thanks to its low-",
-      "fantasy_headline": "Tenways Guild unveils the perfect shareable enchanted steed!",
-      "fantasy_story": "The esteemed Tenways Guild has crafted a wondrous new enchanted steed for the townsfolk. While such magical chariots usually cost many gold coins, this clever design allows entire families to share one. It magically adjusts its form to fit riders of all heights, needing no tools at all.",
+      "reason": "",
+      "original_headline": "You can still grab great deals on Bose headphones and Astro Bot this weekend",
+      "original_summary": "Welcome to the weekend, friends! While the rest of our team was checking out Samsung’s forthcoming Galaxy S26 lineup and prepping for Apple’s “special experience” next week, we’ve been sifting through Woot’s “Video Games for All” sale and a truly weird slate of deals that, frankly, don’t have a thro",
+      "fantasy_headline": "Merchants Offer Bargains on Enchanted Ear-Shells and Golem Training!",
+      "fantasy_story": "This weekend, traveling merchants are offering splendid bargains on enchanted ear-shells, perfect for peaceful travels. You can also find rare scrolls for training your Golems in phantom adventures. Keep an eye out for grand unveilings from the Clan of the Shimmering Apple.",
       "tag": "merchants"
+    },
+    {
+      "id": "https://www.theverge.com/tech/884567/xiaomi-tag-tracker-apple-find-my-google-hub-bluetooth",
+      "status": "published",
+      "reason": "",
+      "original_headline": "Xiaomi’s tracker doesn’t need a case to clip to your keys",
+      "original_summary": "Xiaomi has announced its first Bluetooth tracker, and while the Xiaomi Tag has a more elongated design than the Apple AirTag, that lets you use it in more places right out of the box. On one end of the tracker you'll find an integrated metal loop that can be attached to a keyring or clipped […]",
+      "fantasy_headline": "Clan Xiao Unveils New Wayfinding Charm for Lost Items!",
+      "fantasy_story": "Clan Xiao has revealed its first wayfinding charm, a wondrous trinket to help folk find lost items. Unlike the Shimmering Apple's lesser charm, this elongated artifact has a durable loop of enchanted metal. It can be easily attached to a keyring or clipped to your satchel, ready for immediate use.",
+      "tag": "magic"
     }
   ]
 }
