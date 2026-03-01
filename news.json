@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-03-01 02:21:13",
+  "last_updated": "2026-03-01 05:17:08",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260228082723.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "Scientists discover a bacterial kill switch and it could change the fight against superbugs",
       "original_summary": "Drug-resistant bacteria are becoming harder to treat, pushing scientists to look for new antibiotic targets. Researchers have now discovered that several unrelated viruses disable a key bacterial protein called MurJ, which is essential for building the bacterial cell wall. High-resolution imaging sh",
-      "fantasy_headline": "Alchemists Uncover Secret Spell to Vanquish Resilient Blights",
-      "fantasy_story": "The healers of the Alchemists' Guild have found a potent new method to combat the most stubborn blights. They discovered that tiny, unseen sprites can disable a vital protection within these dark humors. This magical secret could change how we fight diseases.",
+      "fantasy_headline": "Alchemists Uncover Weakness in Resilient Blight!",
+      "fantasy_story": "The Alchemists' Guild has found a secret to defeat the stubborn Blight of Murj, which has long plagued the realms. Tiny, ancient spirits were observed disabling a crucial protective weaving within the blight. This discovery could change how we fight widespread magical ailments and protect our villages.",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260228082717.htm",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "How the body really ages: 7 million cells mapped across 21 organs",
       "original_summary": "Scientists have built a massive cellular atlas showing how aging reshapes the body across 21 organs. Studying nearly 7 million cells, they found that aging starts earlier than expected and unfolds in a coordinated way throughout the body. About a quarter of cell types change in number over time, and",
-      "fantasy_headline": "Wise Ones Chart the Slow Wear of Time Across All Inner Chambers",
-      "fantasy_story": "The Sages of the Grand College have created a vast scroll detailing how the body changes with age. By studying countless tiny motes of life, they learned that the fading of vigor begins sooner than thought. It's a coordinated dance across all twenty-one inner chambers, showing how life's magic shifts.",
-      "tag": "magic"
+      "fantasy_headline": "Wizards Unveil Grand Scroll of Life's Slow Withering!",
+      "fantasy_story": "The Circle of Elder Wizards has charted the body's delicate life-sparkles across many vital chambers. Their vast Grand Scroll of Life reveals that the wear of time begins sooner than thought, affecting all parts of a creature in a grand, coordinated dance. This new wisdom offers deep insight into the natural cycle of life.",
+      "tag": "nature"
     },
     {
       "id": "https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts",
       "status": "published",
-      "reason": "",
+      "reason": null,
       "original_headline": "The Rubin Observatory’s alert system sent 800,000 pings on its first night",
       "original_summary": "The Vera C. Rubin Observatory's automated alert system is online and already bombarding astronomers with things to look at in the night sky. The system went live publicly on Tuesday, February 24th, and on the first night dropped some 800,000 alerts about asteroids, supernovas, and feasting black hol",
-      "fantasy_headline": "Grand Spire's Scrying Network Whispers Myriad Cosmic Secrets",
-      "fantasy_story": "The Grand Celestial Spire has unveiled its magical scrying network, and it's already showering Astromancers with news from the heavens. On its first eve, the system whispered over eight hundred thousand runes. These told of wandering stones, exploding star-hearts, and the hungry void-maw, revealing many cosmic wonders.",
+      "fantasy_headline": "Sky-Seer's Tower Chimes with Myriad Star-Warnings!",
+      "fantasy_story": "The Grand Sky-Seer's Tower has unleashed its wondrous enchanted chimes, showering the Star-Gazers with countless warnings from above. On its very first eve, the chimes sent out a staggering eight hundred thousand pings. These whispers spoke of wandering stones, bursting star-lights, and hungry void-gulpers in the heavens.",
       "tag": "magic"
     }
   ]
