@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-28 16:26:46",
+  "last_updated": "2026-03-01 02:21:13",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260228082723.htm",
@@ -7,8 +7,8 @@
       "reason": "",
       "original_headline": "Scientists discover a bacterial kill switch and it could change the fight against superbugs",
       "original_summary": "Drug-resistant bacteria are becoming harder to treat, pushing scientists to look for new antibiotic targets. Researchers have now discovered that several unrelated viruses disable a key bacterial protein called MurJ, which is essential for building the bacterial cell wall. High-resolution imaging sh",
-      "fantasy_headline": "Alchemists Uncover Way to Halt Pesky Blights!",
-      "fantasy_story": "The Grand Alchemists have found a secret method to stop the most resilient blights that plague the folk. They discovered tiny spirits can disable a vital essence, which is key to these blights' protective shells. This new knowledge could change how we fight against spreading sicknesses.",
+      "fantasy_headline": "Alchemists Uncover Secret Spell to Vanquish Resilient Blights",
+      "fantasy_story": "The healers of the Alchemists' Guild have found a potent new method to combat the most stubborn blights. They discovered that tiny, unseen sprites can disable a vital protection within these dark humors. This magical secret could change how we fight diseases.",
       "tag": "magic"
     },
     {
@@ -17,28 +17,18 @@
       "reason": "",
       "original_headline": "How the body really ages: 7 million cells mapped across 21 organs",
       "original_summary": "Scientists have built a massive cellular atlas showing how aging reshapes the body across 21 organs. Studying nearly 7 million cells, they found that aging starts earlier than expected and unfolds in a coordinated way throughout the body. About a quarter of cell types change in number over time, and",
-      "fantasy_headline": "Sages Chart How Time Reshapes Our Mortal Form.",
-      "fantasy_story": "Royal Sages have unveiled a grand scroll mapping how the slow dance of time reshapes our mortal forms across twenty-one vital chambers. Studying nearly seven million tiny life motes, they learned aging begins sooner than expected, unfolding across the body. This map reveals the intricate changes as folk grow older.",
-      "tag": "nature"
+      "fantasy_headline": "Wise Ones Chart the Slow Wear of Time Across All Inner Chambers",
+      "fantasy_story": "The Sages of the Grand College have created a vast scroll detailing how the body changes with age. By studying countless tiny motes of life, they learned that the fading of vigor begins sooner than thought. It's a coordinated dance across all twenty-one inner chambers, showing how life's magic shifts.",
+      "tag": "magic"
     },
     {
-      "id": "https://www.theverge.com/gadgets/886520/bose-quietcomfort-headphones-samsung-galaxy-s26-ultra-deal-sale",
+      "id": "https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts",
       "status": "published",
       "reason": "",
-      "original_headline": "You can still grab great deals on Bose headphones and Astro Bot this weekend",
-      "original_summary": "Welcome to the weekend, friends! While the rest of our team was checking out Samsung’s forthcoming Galaxy S26 lineup and prepping for Apple’s “special experience” next week, we’ve been sifting through Woot’s “Video Games for All” sale and a truly weird slate of deals that, frankly, don’t have a thro",
-      "fantasy_headline": "Merchants Offer Bargains on Enchanted Ear-Shells and Golem Training!",
-      "fantasy_story": "This weekend, traveling merchants are offering splendid bargains on enchanted ear-shells, perfect for peaceful travels. You can also find rare scrolls for training your Golems in phantom adventures. Keep an eye out for grand unveilings from the Clan of the Shimmering Apple.",
-      "tag": "merchants"
-    },
-    {
-      "id": "https://www.theverge.com/tech/884567/xiaomi-tag-tracker-apple-find-my-google-hub-bluetooth",
-      "status": "published",
-      "reason": "",
-      "original_headline": "Xiaomi’s tracker doesn’t need a case to clip to your keys",
-      "original_summary": "Xiaomi has announced its first Bluetooth tracker, and while the Xiaomi Tag has a more elongated design than the Apple AirTag, that lets you use it in more places right out of the box. On one end of the tracker you'll find an integrated metal loop that can be attached to a keyring or clipped […]",
-      "fantasy_headline": "Clan Xiao Unveils New Wayfinding Charm for Lost Items!",
-      "fantasy_story": "Clan Xiao has revealed its first wayfinding charm, a wondrous trinket to help folk find lost items. Unlike the Shimmering Apple's lesser charm, this elongated artifact has a durable loop of enchanted metal. It can be easily attached to a keyring or clipped to your satchel, ready for immediate use.",
+      "original_headline": "The Rubin Observatory’s alert system sent 800,000 pings on its first night",
+      "original_summary": "The Vera C. Rubin Observatory's automated alert system is online and already bombarding astronomers with things to look at in the night sky. The system went live publicly on Tuesday, February 24th, and on the first night dropped some 800,000 alerts about asteroids, supernovas, and feasting black hol",
+      "fantasy_headline": "Grand Spire's Scrying Network Whispers Myriad Cosmic Secrets",
+      "fantasy_story": "The Grand Celestial Spire has unveiled its magical scrying network, and it's already showering Astromancers with news from the heavens. On its first eve, the system whispered over eight hundred thousand runes. These told of wandering stones, exploding star-hearts, and the hungry void-maw, revealing many cosmic wonders.",
       "tag": "magic"
     }
   ]
