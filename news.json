@@ -1,34 +1,34 @@
 {
-  "last_updated": "2026-03-01 08:31:00",
+  "last_updated": "2026-03-01 12:48:35",
   "stories": [
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260228082723.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "Scientists discover a bacterial kill switch and it could change the fight against superbugs",
       "original_summary": "Drug-resistant bacteria are becoming harder to treat, pushing scientists to look for new antibiotic targets. Researchers have now discovered that several unrelated viruses disable a key bacterial protein called MurJ, which is essential for building the bacterial cell wall. High-resolution imaging sh",
-      "fantasy_headline": "Alchemists Uncover Secret Weakness of Stubborn Blights!",
-      "fantasy_story": "The Alchemists' Guild has found a magical way to defeat stubborn blights that resist common potions. They discovered tiny, unseen spirits that can disable a vital part of the blights' protective walls. This new knowledge could change how we fight widespread illnesses forever.",
+      "fantasy_headline": "Alchemists Uncover Blight's Weakness, A New Hope for Healing",
+      "fantasy_story": "The Alchemists' Guild has found a secret to defeating stubborn maladies! They discovered tiny, unseen spirits that can disable a vital essence within the blight's protective shell. This magical revelation could bring powerful new remedies to the kingdom. It promises a brighter future for the sick.",
       "tag": "magic"
     },
     {
       "id": "https://www.sciencedaily.com/releases/2026/02/260228082717.htm",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "How the body really ages: 7 million cells mapped across 21 organs",
       "original_summary": "Scientists have built a massive cellular atlas showing how aging reshapes the body across 21 organs. Studying nearly 7 million cells, they found that aging starts earlier than expected and unfolds in a coordinated way throughout the body. About a quarter of cell types change in number over time, and",
-      "fantasy_headline": "Sages Chart the Slow Dance of Time on Life-Spark Particles!",
-      "fantasy_story": "The Grand Sages of the Healers' Guild have created a vast map of how the body's tiny life-spark particles change with age across many vital chambers. They learned that the dance of time begins earlier than thought and affects the whole being. This new wisdom reveals much about the journey of life.",
-      "tag": "nature"
+      "fantasy_headline": "Royal Sages Chart Life's Fading, Revealing Secrets of Age",
+      "fantasy_story": "The Royal Sages have created a magnificent 'Grand Scroll of Life,' mapping nearly seven million tiny life sparks across 21 vital chambers of the body. They discovered that the slow dance of time begins earlier than thought, changing how our vigor fades. This grand chart helps understand the mysteries of aging.",
+      "tag": "magic"
     },
     {
       "id": "https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts",
       "status": "published",
-      "reason": null,
+      "reason": "",
       "original_headline": "The Rubin Observatory’s alert system sent 800,000 pings on its first night",
       "original_summary": "The Vera C. Rubin Observatory's automated alert system is online and already bombarding astronomers with things to look at in the night sky. The system went live publicly on Tuesday, February 24th, and on the first night dropped some 800,000 alerts about asteroids, supernovas, and feasting black hol",
-      "fantasy_headline": "Grand Stargazer's Crystal Orb Unleashes Countless Sky Warnings!",
-      "fantasy_story": "The Grand Stargazer's Tower has activated its enchanted crystal orb, sending a flood of warnings to all celestial wizards. On its first night, the orb sent out over 800,000 pings, revealing new wandering rocks, exploding stars, and shadowy voids in the night sky. The heavens hold many new mysteries.",
+      "fantasy_headline": "Grand Stargazer's Tower Unleashes 800,000 Sky Secrets!",
+      "fantasy_story": "The Whispering Astrolabe in the Grand Stargazer's Tower has sprung to life, sending forth an astonishing 800,000 magical pings to the Celestial Scribes! On its very first night, this enchanted device revealed countless wandering stones, exploding stars, and mysterious Voidmouths in the night sky. The kingdom's stargazers are now overwhelmed with new cosmic wonders.",
       "tag": "magic"
     }
   ]
