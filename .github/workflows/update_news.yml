@@ -1,13 +1,24 @@
-name: Update Fantasy News
+# Workflow: Update Fantasy News
+# Status: DISABLED (no triggers)
+#
+# To re-enable:
+# 1) Uncomment the `on:` section below to restore schedule & manual run:
+#
+# on:
+#   schedule:
+#     # Run every 4 hours (at minute 0 of hour 0, 4, 8, 12, 16, 20)
+#     - cron: '0 */4 * * *'
+#   workflow_dispatch: # Allows running it manually
+#
+# 2) Commit your changes.
+# 
+# Alternatively, you can re-enable only manual runs by uncommenting just `workflow_dispatch`.
 
-on:
-  schedule:
-    # Run every 4 hours (at minute 0 of hour 0, 4, 8, 12, 16, 20)
-    - cron: '0 */4 * * *'
-  workflow_dispatch: # Allows running it manually
+# Note: With no `on:` section, this workflow will not trigger at all.
 
 jobs:
   update-news:
+    if: ${{ false }} # Safety: Even if someone re-adds events incorrectly, this keeps jobs off. Remove to run.
     runs-on: ubuntu-latest
     
     permissions:
