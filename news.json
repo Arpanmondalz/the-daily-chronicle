@@ -1,34 +1,44 @@
 {
-  "last_updated": "2026-03-01 12:48:35",
+  "last_updated": "2026-03-02 05:15:05",
   "stories": [
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260228082723.htm",
+      "id": "https://www.sciencedaily.com/releases/2026/02/260228093512.htm",
       "status": "published",
-      "reason": "",
-      "original_headline": "Scientists discover a bacterial kill switch and it could change the fight against superbugs",
-      "original_summary": "Drug-resistant bacteria are becoming harder to treat, pushing scientists to look for new antibiotic targets. Researchers have now discovered that several unrelated viruses disable a key bacterial protein called MurJ, which is essential for building the bacterial cell wall. High-resolution imaging sh",
-      "fantasy_headline": "Alchemists Uncover Blight's Weakness, A New Hope for Healing",
-      "fantasy_story": "The Alchemists' Guild has found a secret to defeating stubborn maladies! They discovered tiny, unseen spirits that can disable a vital essence within the blight's protective shell. This magical revelation could bring powerful new remedies to the kingdom. It promises a brighter future for the sick.",
+      "reason": null,
+      "original_headline": "Massive asteroid impact 6.3 million years ago left giant glass field in Brazil",
+      "original_summary": "For the first time ever, scientists have uncovered a vast field of tektites in Brazil — mysterious glassy fragments forged when a powerful extraterrestrial object slammed into Earth about 6.3 million years ago. Named “geraisites” after Minas Gerais, where they were first found, these dark, aerodynam",
+      "fantasy_headline": "Ancient Sky-Rock Crash Leaves Strange Glass Shards in Southern Lands!",
+      "fantasy_story": "Wizards from the Northern Enclave have found a vast field of curious glassy fragments in the distant southern lands. These mysterious shards, named 'Geraisites,' were forged millions of years ago when a powerful celestial object slammed into the earth, leaving behind this wondrous sight.",
+      "tag": "nature"
+    },
+    {
+      "id": "https://www.sciencedaily.com/releases/2026/02/260228093508.htm",
+      "status": "published",
+      "reason": null,
+      "original_headline": "Scientists just created chocolate honey packed with surprising health perks",
+      "original_summary": "Scientists in Brazil have transformed cocoa waste into a functional chocolate-infused honey packed with antioxidants and natural stimulants. Using ultrasound waves, they enhanced honey’s ability to pull beneficial compounds from cocoa shells—no synthetic solvents required. The process is considered ",
+      "fantasy_headline": "Alchemists Brew New Honey with Cocoa's Magical Vigor!",
+      "fantasy_story": "Alchemists from a Southern Kingdom have transformed leftover cocoa husks into a wondrous, chocolate-infused honey. Using sonic enchantments, they boosted the honey's power to draw out beneficial compounds. This special concoction is now packed with surprising health perks for all.",
       "tag": "magic"
     },
     {
-      "id": "https://www.sciencedaily.com/releases/2026/02/260228082717.htm",
+      "id": "https://www.theverge.com/tech/887249/motorola-razr-fold-specs-camera-silicon-carbon-battery",
       "status": "published",
-      "reason": "",
-      "original_headline": "How the body really ages: 7 million cells mapped across 21 organs",
-      "original_summary": "Scientists have built a massive cellular atlas showing how aging reshapes the body across 21 organs. Studying nearly 7 million cells, they found that aging starts earlier than expected and unfolds in a coordinated way throughout the body. About a quarter of cell types change in number over time, and",
-      "fantasy_headline": "Royal Sages Chart Life's Fading, Revealing Secrets of Age",
-      "fantasy_story": "The Royal Sages have created a magnificent 'Grand Scroll of Life,' mapping nearly seven million tiny life sparks across 21 vital chambers of the body. They discovered that the slow dance of time begins earlier than thought, changing how our vigor fades. This grand chart helps understand the mysteries of aging.",
-      "tag": "magic"
+      "reason": null,
+      "original_headline": "The Motorola Razr Fold is shaping up to be pure flagship",
+      "original_summary": "Motorola has revealed a little more about its upcoming folding phone, and all signs point toward a premium option - not the budget-friendlier alternative the category could use. For starters, the Razr Fold will cost €1,999 (about $2,350) bundled with the Moto Pen Ultra. It'll go on sale first in Eur",
+      "fantasy_headline": "Moto-Razr Guild Unveils Pricy New Folding Scrying Slate!",
+      "fantasy_story": "The esteemed Guild of Moto-Razr has revealed more about their new folding scrying slate. It promises to be a powerful, high-end magical artifact for only the wealthiest. Rumored to cost many thousands of gold coins, it comes bundled with a special enchanted stylus and will first appear in the Western Kingdoms.",
+      "tag": "merchants"
     },
     {
-      "id": "https://www.theverge.com/science/887037/vera-c-rubin-observatory-800000-alerts",
+      "id": "https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub",
       "status": "published",
-      "reason": "",
-      "original_headline": "The Rubin Observatory’s alert system sent 800,000 pings on its first night",
-      "original_summary": "The Vera C. Rubin Observatory's automated alert system is online and already bombarding astronomers with things to look at in the night sky. The system went live publicly on Tuesday, February 24th, and on the first night dropped some 800,000 alerts about asteroids, supernovas, and feasting black hol",
-      "fantasy_headline": "Grand Stargazer's Tower Unleashes 800,000 Sky Secrets!",
-      "fantasy_story": "The Whispering Astrolabe in the Grand Stargazer's Tower has sprung to life, sending forth an astonishing 800,000 magical pings to the Celestial Scribes! On its very first night, this enchanted device revealed countless wandering stones, exploding stars, and mysterious Voidmouths in the night sky. The kingdom's stargazers are now overwhelmed with new cosmic wonders.",
+      "reason": null,
+      "original_headline": "A robot arm with puppy dog eyes is just one of Lenovo&#8217;s new desktop AI concepts",
+      "original_summary": "Alongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based productivity companion concepts. Both are standalone desk devices designed to boost productivity while providing office workers with a bit of artificial dystopic companionshi",
+      "fantasy_headline": "Lenovo Clan Unveils Charming New Magical Desk Companions!",
+      "fantasy_story": "The Lenovo Clan has unveiled curious new magical desk companions, including a golem arm with an animated, friendly gaze. These intelligent constructs are designed to assist scribes and guild members with their tasks. They promise to boost efficiency and offer a touch of enchanted companionship.",
       "tag": "magic"
     }
   ]
